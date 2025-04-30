@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { Download, Calendar, Clock } from 'lucide-react';
@@ -145,7 +144,7 @@ const ShiurPage: React.FC = () => {
               Listen to the Shiur
             </h3>
             <AudioPlayer 
-              audioSrc={shiur.audio_recording_link} 
+              audioSrc={`https://midrash-aggadaH.s3.eu-north-1.amazonaws.com/${shiur.id}.mp3`} 
             />
           </div>
           

@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Search, X, Headphones, Book, Filter, ArrowDown, ArrowUp } from 'lucide-react';
@@ -267,72 +266,28 @@ const SearchPage: React.FC = () => {
               
               {searchResults.map(shiur => (
                 <div 
-                  key={shiur.id}
-                  className="p-4 bg-white/80 rounded-lg shadow-md hover:shadow-lg transition-shadow"
+                  key={shiur.id} 
+                  className="bg-white/90 rounded-lg shadow-sm p-4 flex items-center justify-between hover:shadow-md transition-shadow"
                 >
-                  <div className="flex justify-between items-start">
-                    <div>
-                      <Link 
-                        to={`/shiur/${shiur.id}`}
-                        className="text-lg font-medium text-biblical-navy hover:text-biblical-burgundy"
-                      >
+                  <div className="flex-1 mr-4">
+                    <Link to={`/shiur/${shiur.id}`} className="text-biblical-navy hover:underline">
+                      <h3 className="text-lg font-medium leading-tight mb-1">
                         {shiur.english_title}
-                      </Link>
-                      {shiur.hebrew_title && (
-                        <p className="font-hebrew text-biblical-brown mt-1">
-                          {shiur.hebrew_title}
-                        </p>
-                      )}
-                    </div>
-                    <div className="flex gap-2">
-                      <a 
-                        href={shiur.source_sheet_link} 
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="p-2 bg-parchment rounded-full hover:bg-parchment-dark transition-colors"
-                        aria-label="View source sheet"
-                      >
-                        <Book size={18} className="text-biblical-brown" />
-                      </a>
-                      <Link 
-                        to={`/shiur/${shiur.id}`}
-                        className="p-2 bg-parchment rounded-full hover:bg-parchment-dark transition-colors"
-                        aria-label="Listen to shiur"
-                      >
-                        <Headphones size={18} className="text-biblical-brown" />
-                      </Link>
-                    </div>
-                  </div>
-                  
-                  <div className="mt-2 flex flex-wrap gap-2 text-sm">
-                    <span className="px-2 py-1 bg-biblical-brown/10 rounded text-biblical-brown">
-                      {formatTitle(shiur.category)}
-                    </span>
-                    <span className="px-2 py-1 bg-biblical-brown/10 rounded text-biblical-brown">
-                      {formatTitle(shiur.sub_category)}
-                    </span>
-                    <span className="px-2 py-1 bg-biblical-brown/10 rounded text-biblical-brown">
-                      {formatTitle(shiur.english_sefer)}
-                    </span>
-                    {shiur.english_year && (
-                      <span className="px-2 py-1 bg-biblical-brown/10 rounded text-biblical-brown">
-                        {shiur.english_year}
-                      </span>
+                      </h3>
+                    </Link>
+                    {shiur.hebrew_title && (
+                      <p className="text-biblical-burgundy font-hebrew mb-2">
+                        {shiur.hebrew_title}
+                      </p>
                     )}
+                    <p className="text-sm text-biblical-brown mb-1">
+                      {formatTitle(shiur.category)} / {formatTitle(shiur.sub_category)} / {formatTitle(shiur.english_sefer)}
+                    </p>
+                    <p className="text-xs text-biblical-brown/60">
+                      Year: {shiur.english_year} ({shiur.hebrew_year})
+                    </p>
+                    
                   </div>
-                  
-                  {shiur.tags && shiur.tags.length > 0 && (
-                    <div className="mt-2 flex flex-wrap gap-1">
-                      {shiur.tags.map(tag => (
-                        <span 
-                          key={tag} 
-                          className="px-2 py-0.5 bg-biblical-navy/10 rounded-full text-xs text-biblical-navy"
-                        >
-                          {tag}
-                        </span>
-                      ))}
-                    </div>
-                  )}
                 </div>
               ))}
             </div>
