@@ -24,7 +24,7 @@ const SearchPage: React.FC = () => {
   const [searchResults, setSearchResults] = useState<Shiur[]>([]);
   const [sortField, setSortField] = useState<'title' | 'year'>('title');
   const [sortDirection, setSortDirection] = useState<'asc' | 'desc'>('asc');
-  const [showFilters, setShowFilters] = useState(false);
+  const [showFilters, setShowFilters] = useState(true);
 
   // Get unique filter options
   const categories = getUniqueCategories(shiurim);
@@ -119,7 +119,7 @@ const SearchPage: React.FC = () => {
         </h1>
         
         {/* Search form */}
-        <div className="max-w-3xl mx-auto mb-8">
+        <div className="max-w-5xl mx-auto mb-8">
           <form onSubmit={handleSearch} className="flex items-center gap-2 mb-4">
             <div className="relative flex-1">
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-biblical-brown/60" size={20} />
@@ -252,7 +252,7 @@ const SearchPage: React.FC = () => {
         </div>
         
         {/* Search results */}
-        <div className="max-w-3xl mx-auto">
+        <div className="max-w-5xl mx-auto">
           {searchResults.length === 0 ? (
             <div className="text-center py-8 bg-white/80 rounded-lg shadow-md">
               <p className="text-xl text-biblical-brown">No results found</p>
@@ -269,18 +269,18 @@ const SearchPage: React.FC = () => {
                   key={shiur.id} 
                   className="bg-white/90 rounded-lg shadow-sm p-4 flex items-center justify-between hover:shadow-md transition-shadow"
                 >
-                  <div className="flex-1 mr-4">
-                    <Link to={`/shiur/${shiur.id}`} className="text-biblical-navy hover:underline">
-                      <h3 className="text-lg font-medium leading-tight mb-1">
+                  <div className="flex-1 mr-4 flex flex-col gap-1">
+                    <Link to={`/shiur/${shiur.id}`} className="text-biblical-burgundy hover:underline">
+                      <h3 className="text-lg font-medium leading-tight">
                         {shiur.english_title}
                       </h3>
                     </Link>
                     {shiur.hebrew_title && (
-                      <p className="text-biblical-burgundy font-hebrew mb-2">
+                      <p className="text-biblical-burgundy font-hebrew">
                         {shiur.hebrew_title}
                       </p>
                     )}
-                    <p className="text-sm text-biblical-brown mb-1">
+                    <p className="text-sm text-biblical-brown">
                       {formatTitle(shiur.category)} / {formatTitle(shiur.sub_category)} / {formatTitle(shiur.english_sefer)}
                     </p>
                     <p className="text-xs text-biblical-brown/60">
