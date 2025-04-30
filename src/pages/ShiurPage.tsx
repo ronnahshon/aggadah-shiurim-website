@@ -4,7 +4,7 @@ import { Download, Calendar, Clock } from 'lucide-react';
 import shiurimData from '@/data/shiurim_data.json';
 import { Shiur } from '@/types/shiurim';
 import { formatTitle } from '@/utils/dataUtils';
-import { getPdfUrl } from '@/utils/s3Utils';
+import { getPdfUrl, getAudioUrl } from '@/utils/s3Utils';
 import AudioPlayer from '@/components/common/AudioPlayer';
 import DocumentViewer from '@/components/common/DocumentViewer';
 
@@ -144,7 +144,7 @@ const ShiurPage: React.FC = () => {
               Listen to the Shiur
             </h3>
             <AudioPlayer 
-              audioSrc={`https://midrash-aggadaH.s3.eu-north-1.amazonaws.com/${shiur.id}.mp3`} 
+              audioSrc={getAudioUrl(`${shiur.id}.mp3`)} 
             />
           </div>
           

@@ -1,4 +1,3 @@
-
 const S3_BUCKET = "midrash-aggadah";
 const S3_REGION = "eu-north-1";
 const S3_BASE_URL = `https://${S3_BUCKET}.s3.${S3_REGION}.amazonaws.com/`;
@@ -7,7 +6,7 @@ export const getAudioUrl = (audioPath: string): string => {
   if (audioPath.startsWith('http')) {
     return audioPath;
   }
-  return `${S3_BASE_URL}${audioPath}`;
+  return `${S3_BASE_URL}audio/${audioPath}`;
 };
 
 export const getDocumentUrl = (docPath: string): string => {
@@ -25,5 +24,5 @@ export const getPdfUrl = (docPath: string): string => {
     }
     return docPath;
   }
-  return `${S3_BASE_URL}${docPath.replace('.docx', '.pdf')}`;
+  return `${S3_BASE_URL}source_sheets/${docPath.replace('.docx', '.pdf')}`;
 };
