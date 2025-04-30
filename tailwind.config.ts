@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,7 +62,21 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+                // Biblical color palette
+                parchment: {
+                    light: '#F5F2E8', // Light parchment background
+                    DEFAULT: '#EBE6D9', // Default parchment color
+                    dark: '#D7CEBF', // Darker parchment for contrast
+                },
+                biblical: {
+                    brown: '#3E2723', // Deep brown for text
+                    burgundy: '#8D0E0E', // Biblical red/burgundy
+                    navy: '#1A365D', // Deep blue used in prayer shawls
+                    gold: '#C9B037', // Gold for accents
+                    olive: '#556B2F', // Olive green
+                    copper: '#B87333', // Bronze/copper accent
+                }
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
@@ -84,12 +99,32 @@ export default {
 					to: {
 						height: '0'
 					}
-				}
+				},
+                'fade-in': {
+                    '0%': {
+                        opacity: '0',
+                        transform: 'translateY(10px)'
+                    },
+                    '100%': {
+                        opacity: '1',
+                        transform: 'translateY(0)'
+                    }
+                }
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
-			}
+				'accordion-up': 'accordion-up 0.2s ease-out',
+                'fade-in': 'fade-in 0.5s ease-out'
+			},
+            fontFamily: {
+                'hebrew': ['David Libre', 'serif'],
+            },
+            boxShadow: {
+                'scroll': '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)',
+            },
+            backgroundImage: {
+                'parchment-texture': "url('/images/parchment-texture.png')"
+            }
 		}
 	},
 	plugins: [require("tailwindcss-animate")],

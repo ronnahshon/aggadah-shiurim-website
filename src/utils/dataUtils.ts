@@ -1,0 +1,141 @@
+
+import { Category, Sefer, Shiur, SubCategory } from "@/types/shiurim";
+
+export const formatTitle = (text: string): string => {
+  return text
+    .split('_')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+    .join(' ');
+};
+
+export const organizeShiurimByHierarchy = (shiurim: Shiur[]): Category[] => {
+  const categoriesMap = new Map<string, Category>();
+
+  shiurim.forEach(shiur => {
+    const categoryName = shiur.category;
+    const subCategoryName = shiur.sub_category;
+    const seferName = shiur.english_sefer;
+    const seferHebrewName = shiur.hebrew_sefer;
+
+    // Create or get category
+    if (!categoriesMap.has(categoryName)) {
+      categoriesMap.set(categoryName, {
+        name: formatTitle(categoryName),
+        subCategories: []
+      });
+    }
+    const category = categoriesMap.get(categoryName)!;
+    
+    // Find or create sub-category
+    let subCategory = category.subCategories.find(sc => sc.name === formatTitle(subCategoryName));
+    if (!subCategory) {
+      subCategory = {
+        name: formatTitle(subCategoryName),
+        sefarim: []
+      };
+      category.subCategories.push(subCategory);
+    }
+    
+    // Find or create sefer
+    let sefer = subCategory.sefarim.find(s => s.name === formatTitle(seferName));
+    if (!sefer) {
+      sefer = {
+        name: formatTitle(seferName),
+        hebrewName: seferHebrewName,
+        shiurim: []
+      };
+      subCategory.sefarim.push(sefer);
+    }
+    
+    // Add shiur to sefer
+    sefer.shiurim.push(shiur);
+  });
+
+  return Array.from(categoriesMap.values());
+};
+
+export const searchShiurim = (
+  shiurim: Shiur[], 
+  query: string,
+  filters: {
+    categories: string[];
+    subCategories: string[];
+    sefarim: string[];
+  }
+): Shiur[] => {
+  const lowerCaseQuery = query.toLowerCase();
+  
+  return shiurim.filter(shiur => {
+    // Apply filters first
+    if (
+      (filters.categories.length > 0 && !filters.categories.includes(formatTitle(shiur.category))) ||
+      (filters.subCategories.length > 0 && !filters.subCategories.includes(formatTitle(shiur.sub_category))) ||
+      (filters.sefarim.length > 0 && !filters.sefarim.includes(formatTitle(shiur.english_sefer)))
+    ) {
+      return false;
+    }
+    
+    // If no query, return all filtered results
+    if (!query) return true;
+    
+    // Search in various fields
+    return (
+      shiur.english_title.toLowerCase().includes(lowerCaseQuery) ||
+      shiur.hebrew_title.toLowerCase().includes(lowerCaseQuery) ||
+      shiur.category.toLowerCase().includes(lowerCaseQuery) ||
+      shiur.sub_category.toLowerCase().includes(lowerCaseQuery) ||
+      shiur.english_sefer.toLowerCase().includes(lowerCaseQuery) ||
+      shiur.hebrew_sefer.toLowerCase().includes(lowerCaseQuery) ||
+      (shiur.tags && shiur.tags.some(tag => tag.toLowerCase().includes(lowerCaseQuery)))
+    );
+  });
+};
+
+export const getUniqueCategories = (shiurim: Shiur[]): string[] => {
+  const categories = new Set<string>();
+  shiurim.forEach(shiur => categories.add(formatTitle(shiur.category)));
+  return Array.from(categories).sort();
+};
+
+export const getUniqueSubCategories = (shiurim: Shiur[], selectedCategories: string[] = []): string[] => {
+  const subCategories = new Set<string>();
+  
+  shiurim.forEach(shiur => {
+    const formattedCategory = formatTitle(shiur.category);
+    if (selectedCategories.length === 0 || selectedCategories.includes(formattedCategory)) {
+      subCategories.add(formatTitle(shiur.sub_category));
+    }
+  });
+  
+  return Array.from(subCategories).sort();
+};
+
+export const getUniqueSefarim = (
+  shiurim: Shiur[], 
+  selectedCategories: string[] = [], 
+  selectedSubCategories: string[] = []
+): string[] => {
+  const sefarim = new Set<string>();
+  
+  shiurim.forEach(shiur => {
+    const formattedCategory = formatTitle(shiur.category);
+    const formattedSubCategory = formatTitle(shiur.sub_category);
+    
+    if (
+      (selectedCategories.length === 0 || selectedCategories.includes(formattedCategory)) &&
+      (selectedSubCategories.length === 0 || selectedSubCategories.includes(formattedSubCategory))
+    ) {
+      sefarim.add(formatTitle(shiur.english_sefer));
+    }
+  });
+  
+  return Array.from(sefarim).sort();
+};
+
+export const countShiurimInFilter = (
+  shiurim: Shiur[],
+  filterType: 'category' | 'sub_category' | 'english_sefer', 
+  filterValue: string
+): number => {
+  return shiurim.filter(shiur => formatTitle(shiur[filterType]) === filterValue).length;
+};
