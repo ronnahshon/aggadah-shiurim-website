@@ -96,9 +96,11 @@ const CatalogPage: React.FC = () => {
                         <table className="catalog-table">
                           <thead>
                             <tr>
-                              <th className="w-16">#</th>
+                              <th className="w-12">#</th>
                               <th>English Title</th>
                               <th>Hebrew Title</th>
+                              <th className="w-20">Year</th>
+                              <th className="w-20">Length</th>
                               <th className="w-20">Source</th>
                               <th className="w-20">Audio</th>
                             </tr>
@@ -116,6 +118,8 @@ const CatalogPage: React.FC = () => {
                                   </Link>
                                 </td>
                                 <td className="font-hebrew">{shiur.hebrew_title}</td>
+                                <td className="text-center">{shiur.english_year}</td>
+                                <td className="text-center">45 min</td>
                                 <td className="text-center">
                                   <a 
                                     href={shiur.source_sheet_link} 

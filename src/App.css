@@ -1,4 +1,3 @@
-
 /* Reset application CSS */
 #root {
   max-width: 100%;
@@ -15,10 +14,10 @@
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #9F9EA1aa); /* Changed from blue to light brown */
+  filter: drop-shadow(0 0 2em #D7CEB2aa); /* Changed to light brown */
 }
 .logo.react:hover {
-  filter: drop-shadow(0 0 2em #C8C8C9aa); /* Changed from blue to light grey */
+  filter: drop-shadow(0 0 2em #C8C8C9aa); /* Kept light grey here as requested in previous change */
 }
 
 @keyframes logo-spin {

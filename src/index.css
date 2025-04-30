@@ -16,10 +16,10 @@
     --popover: 43 25% 94%;
     --popover-foreground: 20 35% 20%;
 
-    --primary: 0 0% 78%; /* Changed from burgundy to light grey */
+    --primary: 30 30% 85%; /* Changed from light grey to light brown */
     --primary-foreground: 43 25% 94%;
 
-    --secondary: 0 0% 62%; /* Changed from navy blue to lighter grey for some contrast */
+    --secondary: 30 25% 75%; /* Changed from light grey to lighter brown for some contrast */
     --secondary-foreground: 43 25% 94%;
 
     --muted: 43 15% 89%;
@@ -39,7 +39,7 @@
 
     --sidebar-background: 43 30% 93%;
     --sidebar-foreground: 20 35% 20%;
-    --sidebar-primary: 0 0% 78%; /* Changed from burgundy to light grey */
+    --sidebar-primary: 30 30% 85%; /* Changed from light grey to light brown */
     --sidebar-primary-foreground: 43 25% 94%;
     --sidebar-accent: 43 20% 88%;
     --sidebar-accent-foreground: 20 35% 20%;
@@ -57,10 +57,10 @@
     --popover: 20 30% 12%;
     --popover-foreground: 43 25% 94%;
 
-    --primary: 0 0% 70%; /* Changed from burgundy to light grey in dark mode */
+    --primary: 30 25% 70%; /* Changed from light grey to light brown in dark mode */
     --primary-foreground: 43 25% 94%;
 
-    --secondary: 0 0% 60%; /* Changed from navy blue to light grey in dark mode */
+    --secondary: 30 20% 60%; /* Changed from light grey to light brown in dark mode */
     --secondary-foreground: 43 25% 94%;
 
     --muted: 20 25% 25%;

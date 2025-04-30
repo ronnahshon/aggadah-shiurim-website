@@ -71,8 +71,8 @@ export default {
                 },
                 biblical: {
                     brown: '#3E2723', // Deep brown for text
-                    burgundy: '#C8C8C9', // Changed from burgundy to light grey
-                    navy: '#9F9EA1', // Changed from navy blue to light brown
+                    burgundy: '#C8C8C9', // Kept as light grey (from previous change)
+                    navy: '#D7CEB2', // Changed from light brown to a proper light brown
                     gold: '#C9B037', // Gold for accents
                     olive: '#556B2F', // Olive green
                     copper: '#B87333', // Bronze/copper accent
