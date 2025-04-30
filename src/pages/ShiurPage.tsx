@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { Download, Calendar, Clock } from 'lucide-react';
+import { Download, Calendar, Clock, FileText, ExternalLink } from 'lucide-react';
 import shiurimData from '@/data/shiurim_data.json';
 import { Shiur } from '@/types/shiurim';
-import { formatTitle } from '@/utils/dataUtils';
+import { formatTitle, getAudioDuration } from '@/utils/dataUtils';
 import { getPdfUrl, getAudioUrl } from '@/utils/s3Utils';
 import AudioPlayer from '@/components/common/AudioPlayer';
 import DocumentViewer from '@/components/common/DocumentViewer';
@@ -13,6 +13,7 @@ const ShiurPage: React.FC = () => {
   const [shiur, setShiur] = useState<Shiur | null>(null);
   const [notFound, setNotFound] = useState(false);
   const [audioDuration, setAudioDuration] = useState<string | null>(null);
+  const [loadingDuration, setLoadingDuration] = useState(false);
 
   useEffect(() => {
     if (shiurId) {
@@ -20,23 +21,33 @@ const ShiurPage: React.FC = () => {
       
       if (foundShiur) {
         setShiur(foundShiur);
-        // Attempt to get audio duration (this would be more accurate with actual audio files)
-        fetchAudioDuration(foundShiur.audio_recording_link);
+        
+        // First check if the shiur has a pre-loaded length in the data
+        if ('length' in foundShiur && foundShiur.length) {
+          setAudioDuration(foundShiur.length as string);
+        }
+        // If not, fetch it dynamically
+        else {
+          fetchAudioDuration(foundShiur.id);
+        }
       } else {
         setNotFound(true);
       }
     }
   }, [shiurId]);
 
-  // In a real application, this would correctly fetch the duration from the audio file
-  const fetchAudioDuration = (audioLink: string) => {
-    // Simulate getting audio duration (would actually load the audio and get its duration)
-    setTimeout(() => {
-      // Random duration between 30 and 90 minutes for demo purposes
-      const minutes = Math.floor(Math.random() * 60) + 30;
-      const seconds = Math.floor(Math.random() * 60);
-      setAudioDuration(`${minutes}:${seconds.toString().padStart(2, '0')}`);
-    }, 500);
+  // Fetch the actual audio duration from the file
+  const fetchAudioDuration = async (shiurId: string) => {
+    try {
+      setLoadingDuration(true);
+      const duration = await getAudioDuration(shiurId);
+      setAudioDuration(duration);
+    } catch (error) {
+      console.error('Error fetching audio duration:', error);
+      setAudioDuration("--:--");
+    } finally {
+      setLoadingDuration(false);
+    }
   };
 
   if (notFound) {
@@ -69,6 +80,9 @@ const ShiurPage: React.FC = () => {
       </div>
     );
   }
+
+  const isGoogleDoc = shiur.source_sheet_link && shiur.source_sheet_link.includes('docs.google.com');
+  const audioUrl = getAudioUrl(`${shiur.id}.mp3`);
 
   return (
     <div className="min-h-screen py-8">
@@ -105,12 +119,14 @@ const ShiurPage: React.FC = () => {
                 <span>{shiur.hebrew_year} / {shiur.english_year}</span>
               </div>
               
-              {audioDuration && (
-                <div className="flex items-center text-sm text-biblical-brown">
-                  <Clock size={16} className="mr-1" />
-                  <span>{audioDuration}</span>
-                </div>
-              )}
+              <div className="flex items-center text-sm text-biblical-brown">
+                <Clock size={16} className="mr-1" />
+                {loadingDuration ? (
+                  <span>Loading...</span>
+                ) : (
+                  <span>{audioDuration || '--:--'}</span>
+                )}
+              </div>
             </div>
             
             <div className="flex items-center justify-between flex-wrap gap-4">
@@ -125,39 +141,54 @@ const ShiurPage: React.FC = () => {
                   {formatTitle(shiur.english_sefer)}
                 </span>
               </div>
-              
-              <a 
-                href={getPdfUrl(shiur.source_sheet_link)}
-                target="_blank"
-                rel="noopener noreferrer" 
-                className="flex items-center text-biblical-navy hover:text-biblical-burgundy"
-              >
-                <Download size={18} className="mr-1" />
-                Download PDF
-              </a>
             </div>
           </div>
           
           {/* Audio player */}
           <div className="mb-8">
-            <h3 className="text-lg font-semibold mb-3 text-biblical-navy">
-              Listen to the Shiur
-            </h3>
+            <div className="flex justify-between items-center mb-3">
+              <h3 className="text-lg font-semibold text-biblical-navy flex items-center">
+                <FileText size={18} className="mr-2" />
+                Listen to the Shiur
+              </h3>
+              <a 
+                href={audioUrl}
+                download={`${shiur.english_title}.mp3`}
+                className="flex items-center text-biblical-navy hover:text-biblical-burgundy"
+              >
+                <Download size={18} className="mr-1" />
+                Download MP3
+              </a>
+            </div>
             <AudioPlayer 
-              audioSrc={getAudioUrl(`${shiur.id}.mp3`)} 
+              audioSrc={audioUrl} 
             />
           </div>
           
           {/* Source document */}
-          <div>
-            <h3 className="text-lg font-semibold mb-3 text-biblical-navy">
-              Source Sheet
-            </h3>
-            <DocumentViewer 
-              docUrl={shiur.source_sheet_link} 
-              isGoogleDoc={shiur.source_sheet_link.includes('docs.google.com')} 
-            />
-          </div>
+          {shiur.source_sheet_link && (
+            <div className="mb-8">
+              <h3 className="text-lg font-semibold mb-3 text-biblical-navy flex items-center">
+                <FileText size={18} className="mr-2" />
+                Source Sheet
+                {isGoogleDoc && (
+                  <a 
+                    href={shiur.source_sheet_link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="ml-2 text-sm text-biblical-navy hover:text-biblical-burgundy flex items-center"
+                  >
+                    <ExternalLink size={14} className="mr-1" />
+                    View in Google Docs
+                  </a>
+                )}
+              </h3>
+              <DocumentViewer 
+                docUrl={shiur.source_sheet_link} 
+                isGoogleDoc={isGoogleDoc} 
+              />
+            </div>
+          )}
           
           {/* Tags */}
           {shiur.tags && shiur.tags.length > 0 && (
