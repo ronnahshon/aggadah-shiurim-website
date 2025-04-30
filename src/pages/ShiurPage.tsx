@@ -50,6 +50,26 @@ const ShiurPage: React.FC = () => {
     }
   };
 
+  // Handle MP3 download by creating a temporary anchor and triggering a download
+  const handleDownloadMp3 = () => {
+    if (!shiur) return;
+    
+    const audioUrl = getAudioUrl(`${shiur.id}.mp3`);
+    const fileName = `${shiur.english_title.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.mp3`;
+    
+    // Create an anchor element and set the appropriate attributes
+    const link = document.createElement('a');
+    link.href = audioUrl;
+    link.download = fileName;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    
+    // Append to the document, click it, and remove it
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
   if (notFound) {
     return (
       <div className="min-h-screen py-12">
@@ -151,14 +171,13 @@ const ShiurPage: React.FC = () => {
                 <FileText size={18} className="mr-2" />
                 Listen to the Shiur
               </h3>
-              <a 
-                href={audioUrl}
-                download={`${shiur.english_title}.mp3`}
-                className="flex items-center text-biblical-navy hover:text-biblical-burgundy"
+              <button 
+                onClick={handleDownloadMp3}
+                className="flex items-center text-biblical-navy hover:text-biblical-burgundy cursor-pointer"
               >
                 <Download size={18} className="mr-1" />
                 Download MP3
-              </a>
+              </button>
             </div>
             <AudioPlayer 
               audioSrc={audioUrl} 
