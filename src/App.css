@@ -1,10 +1,13 @@
+
+/* Reset application CSS */
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
 }
 
+/* For animation purposes */
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -12,10 +15,10 @@
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 2em #9F9EA1aa); /* Changed from blue to light brown */
 }
 .logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+  filter: drop-shadow(0 0 2em #C8C8C9aa); /* Changed from blue to light grey */
 }
 
 @keyframes logo-spin {
