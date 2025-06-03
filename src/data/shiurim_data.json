@@ -1,7 +1,812 @@
 [
   {
-    "id": "ein-yaakov-seder_nezikin-bava_kamma-1",
+    "id": "ein-yaakov-seder_nashim-yevamot-1",
     "global_id": 1,
+    "shiur_num": 1,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 13a - Beit Hillel and Beit Shammai practiced love and friendship with one another",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות יג. - ללמדך שחיבה ורעות נוהגים זה בזה",
+    "source_sheet_link": "https://docs.google.com/document/d/1BAX-8wZ_3RVo47Qar8tL6mFDLK19uErR2TTDnwb5iQ4/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1141mjsvzcKUQXTR9tofN34QqDajqd6U3/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "13a",
+      "beit",
+      "hillel",
+      "shammai",
+      "practiced",
+      "love",
+      "friendship",
+      "one",
+      "another",
+      "יבמות",
+      "יג",
+      "ללמדך",
+      "שחיבה",
+      "ורעות",
+      "נוהגים",
+      "בזה"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "25:16"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-2",
+    "global_id": 2,
+    "shiur_num": 2,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 14a - Beit Shammai were of sharper intellect than Beit Hillel",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות יד. - הכא בית שמאי מחדדי טפי",
+    "source_sheet_link": "https://docs.google.com/document/d/1G-N0XdIKpfgBFjr6B9YOuuTB84jKx5IEnbn_FUh_JsM/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/12wsnvjy1sckQbTJOk0WUt90eSfV9sYag/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "14a",
+      "beit",
+      "shammai",
+      "sharper",
+      "intellect",
+      "hillel",
+      "יבמות",
+      "יד",
+      "הכא",
+      "בית",
+      "שמאי",
+      "מחדדי",
+      "טפי"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "26:17"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-3",
+    "global_id": 3,
+    "shiur_num": 3,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 16a - With heaven and earth as my witnesses, Hagai the prophet sat on this very mortar",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות טז. - מעיד אני עלי שמים וארץ שעל מדוכה זו ישב חגי הנביא",
+    "source_sheet_link": "https://docs.google.com/document/d/1dANuBVMQwiu7TKAHGi_cJCVpGR4OwSWKAYNwaVi02yU/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1YfvQEv4Ko7mYDStur-YILYyv4lt8wlD9/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "16a",
+      "heaven",
+      "earth",
+      "witnesses",
+      "hagai",
+      "prophet",
+      "sat",
+      "mortar",
+      "יבמות",
+      "טז",
+      "מעיד",
+      "עלי",
+      "שמים",
+      "וארץ",
+      "שעל",
+      "מדוכה",
+      "זו",
+      "ישב",
+      "חגי",
+      "הנביא"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "29:39"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-4",
+    "global_id": 4,
+    "shiur_num": 4,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 20a - Sanctify yourself through that which is permitted",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות כ. - קדש עצמך במותר לך",
+    "source_sheet_link": "https://docs.google.com/document/d/1bbk1xTV2kHYREIdnYwP47upu_Th__DYcKx7CB7CMCAQ/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1btuMB25AQ9a96EQkTimtDbt5k3J0Hohc/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "20a",
+      "sanctify",
+      "yourself",
+      "through",
+      "permitted",
+      "יבמות",
+      "כ",
+      "קדש",
+      "עצמך",
+      "במותר",
+      "לך"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "27:06"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-5",
+    "global_id": 5,
+    "shiur_num": 5,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 21a - This is comparable to an orchard watchman, if he watches from the outside the entire orchard is guarded",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות כא. - לאדם משמר פרדס משמרו מבחוץ כולו משתמר",
+    "source_sheet_link": "https://docs.google.com/document/d/1mLkTfOhW1lfoqItDB9C31p0JsSJ55BLuntkIK5LLWaw/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1H3QUhL3gHcVQg2-XGOu8T-IYD3Ncleww/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "21a",
+      "comparable",
+      "orchard",
+      "watchman",
+      "watches",
+      "outside",
+      "entire",
+      "guarded",
+      "יבמות",
+      "כא",
+      "לאדם",
+      "משמר",
+      "פרדס",
+      "משמרו",
+      "מבחוץ",
+      "כולו",
+      "משתמר"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "26:17"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-6",
+    "global_id": 6,
+    "shiur_num": 6,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 34b - Er died the same death as his brother Onan",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות לד: - אף הוא באותו מיתה מת",
+    "source_sheet_link": "https://docs.google.com/document/d/1U5YNbjfF6EGw9tVUIMj41WYycBdgwSXGgsBdfP1j9ms/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1qkY7qsDxGs22urRXCu8pNhgTOCV9cBLG/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "34b",
+      "er",
+      "died",
+      "same",
+      "death",
+      "brother",
+      "onan",
+      "יבמות",
+      "לד",
+      "אף",
+      "באותו",
+      "מיתה",
+      "מת"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "42:48"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-7",
+    "global_id": 7,
+    "shiur_num": 7,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 48a - The beautiful captive's mother and father are her idols",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות מח. - אביה ואמה זו עבודת כוכבים",
+    "source_sheet_link": "https://docs.google.com/document/d/140UjQzR3FQGcSyNuJ1fwAjCTviRSFKx6tBuKAMLsjcU/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1EBvS1qO4GgdfxnAwFbE8vmWmmWq-RaUT/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "48a",
+      "beautiful",
+      "captives",
+      "mother",
+      "father",
+      "idols",
+      "יבמות",
+      "מח",
+      "אביה",
+      "ואמה",
+      "זו",
+      "עבודת",
+      "כוכבים"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "34:36"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-8",
+    "global_id": 8,
+    "shiur_num": 8,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 49b - All the prophets saw G-d through a blurry looking glass",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות מט: - כל הנביאים נסתכלו באספקלריא שאינה מאירה",
+    "source_sheet_link": "https://docs.google.com/document/d/10nExmrQ7igARUVnQJGUJ6HTxFOabbkzzy4SqelyF0Bk/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1Ril7vY4POP6-8PBDl2WdUM1vk99G65NX/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "49b",
+      "prophets",
+      "saw",
+      "blurry",
+      "looking",
+      "glass",
+      "יבמות",
+      "מט",
+      "הנביאים",
+      "נסתכלו",
+      "באספקלריא",
+      "שאינה",
+      "מאירה"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "33:32"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-9",
+    "global_id": 9,
+    "shiur_num": 9,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 49b - Moshe acted of his own volition, and his will agreed with the Will of G-d",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות מט: - עשה משה מדעתו והסכימה דעתו לדעת המקום",
+    "source_sheet_link": "https://docs.google.com/document/d/1PVKl5zKjaZrelG7D60vw_EJAsmbM6Yk6uS7IizOCukg/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1yNiEofmJQqaat84iz-6uBPYYsRqQygz2/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "49b",
+      "moshe",
+      "acted",
+      "own",
+      "volition",
+      "will",
+      "agreed",
+      "יבמות",
+      "מט",
+      "עשה",
+      "משה",
+      "מדעתו",
+      "והסכימה",
+      "דעתו",
+      "לדעת",
+      "המקום"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "30:47"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-10",
+    "global_id": 10,
+    "shiur_num": 10,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 62b - Because they didnt treat each other with respect",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות סב: - מפני שלא נהגו כבוד זה לזה",
+    "source_sheet_link": "https://docs.google.com/document/d/14WAjTbzuVjv-oY_Nl6SEXPa4XxAvsVWJk78795PLdgk/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1EHkRC6gaoveg75mjqYOcqOkcjcat6G9L/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "62b",
+      "because",
+      "didnt",
+      "treat",
+      "other",
+      "respect",
+      "יבמות",
+      "סב",
+      "מפני",
+      "שלא",
+      "נהגו",
+      "כבוד",
+      "לזה"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "31:31"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-11",
+    "global_id": 11,
+    "shiur_num": 11,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 63a - 100 coins in business yield meat and wine, while 100 coins in farming yield salt and vegetables",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות סג. - מאה זוזי בעיסקא כל יומא בשרא וחמרא מאה זוזי בארעא מילחא וחפורה",
+    "source_sheet_link": "https://docs.google.com/document/d/1JyOR5EqiFoOzuxOxOmals555D9ghpUhlIkrL8BP1kW4/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1IgZN3x-xZ4A0JLzdpAZ2YzT57jAOdqkH/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "63a",
+      "100",
+      "coins",
+      "business",
+      "yield",
+      "meat",
+      "wine",
+      "farming",
+      "salt",
+      "vegetables",
+      "יבמות",
+      "סג",
+      "מאה",
+      "זוזי",
+      "בעיסקא",
+      "יומא",
+      "בשרא",
+      "וחמרא",
+      "בארעא",
+      "מילחא",
+      "וחפורה"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "40:26"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-12",
+    "global_id": 12,
+    "shiur_num": 12,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 63b - Is the bride a find or found",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות סג: - מצא או מוצא",
+    "source_sheet_link": "https://docs.google.com/document/d/1b6vzlgllOp47rxVi33z37kDywa7uj5LML9rhfmZCbgM/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1IRjTPiHsgrWKC3vAISzjU71YDrMCKvph/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "63b",
+      "bride",
+      "find",
+      "found",
+      "יבמות",
+      "סג",
+      "מצא",
+      "מוצא"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "31:35"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-13",
+    "global_id": 13,
+    "shiur_num": 13,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 64a - Why were our foreparents all barren",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות סד. - מפני מה היו אבותינו עקורים",
+    "source_sheet_link": "https://docs.google.com/document/d/1mLqkSK8yGR2XW22s2MifBV89KhdDwQfSyrxMMyK7BgQ/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1Q0-Srj1C82FW-948RJtvVurUak8zStMA/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "64a",
+      "foreparents",
+      "barren",
+      "יבמות",
+      "סד",
+      "מפני",
+      "מה",
+      "היו",
+      "אבותינו",
+      "עקורים"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "27:19"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-14",
+    "global_id": 14,
+    "shiur_num": 14,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 65b - It is permitted to lie for the sake of peace",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות סה: - מותר לו לאדם לשנות בדבר השלום",
+    "source_sheet_link": "https://docs.google.com/document/d/1fDXw_tYHTJpiaSGGcLsnYC1U68l743NfeH1XGKgtqCU/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1WSRMv_vi46sssCRq0A3MNpNSkvFwNP0o/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "65b",
+      "permitted",
+      "lie",
+      "sake",
+      "peace",
+      "יבמות",
+      "סה",
+      "מותר",
+      "לו",
+      "לאדם",
+      "לשנות",
+      "בדבר",
+      "השלום"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "34:09"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-15",
+    "global_id": 15,
+    "shiur_num": 15,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 71b - Because the Northern wind did not blow for them",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות עא: - משום דלא נשיב להו רוח צפונית",
+    "source_sheet_link": "https://docs.google.com/document/d/1d_iV8AIm6g8DSUql6s_4hRbVwhEohnESDPrYPH3nNs4/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1Fv41DH0NOKFCSIGoemA94muYrhCmKOkR/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "71b",
+      "because",
+      "northern",
+      "wind",
+      "blow",
+      "them",
+      "יבמות",
+      "עא",
+      "משום",
+      "דלא",
+      "נשיב",
+      "להו",
+      "רוח",
+      "צפונית"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "33:28"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-16",
+    "global_id": 16,
+    "shiur_num": 16,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 76b - A king breaches a way for himself and nobody is able to stop him",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות עו: - שהמלך פורץ לעשות דרך ואין ממחין בידו",
+    "source_sheet_link": "https://docs.google.com/document/d/1biBumYpPqmeQ4pyoSdq9mEur_ATbuoPPkJq5b-Vs1ng/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1T1kWwxCghElltCjfhhPHZO7GAQTn1Y95/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "76b",
+      "king",
+      "breaches",
+      "way",
+      "himself",
+      "nobody",
+      "able",
+      "stop",
+      "יבמות",
+      "עו",
+      "שהמלך",
+      "פורץ",
+      "לעשות",
+      "דרך",
+      "ואין",
+      "ממחין",
+      "בידו"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "45:01"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-17",
+    "global_id": 17,
+    "shiur_num": 17,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 77a - Rehavam used to sit in David HaMelech's lap",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות עז. - מלמד שהיה רחבעם יושב בחיקו של דוד",
+    "source_sheet_link": "https://docs.google.com/document/d/1oe4NHE9wc1ldbDQH0mklkl355CoUpL2osi--JPqxdFo/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1Ts6wTNTEKEndEIuSpXZtT2hQRP5msTU4/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "77a",
+      "rehavam",
+      "sit",
+      "david",
+      "hamelech",
+      "lap",
+      "יבמות",
+      "עז",
+      "מלמד",
+      "שהיה",
+      "רחבעם",
+      "יושב",
+      "בחיקו",
+      "דוד"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "37:29"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-18",
+    "global_id": 18,
+    "shiur_num": 18,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 79a - Jews are merciful, modest and doers of good deeds",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות עט. - הרחמנים והביישנין וגומלי חסדים",
+    "source_sheet_link": "https://docs.google.com/document/d/1SlD6nK4nsJesi9KfRTMhZnPauBaX0HpCu0p01iJ5G9I/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1WsLgC3xSOvpMX9R1Vlx46yhBbHDYLdSG/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "79a",
+      "jews",
+      "merciful",
+      "modest",
+      "doers",
+      "good",
+      "deeds",
+      "יבמות",
+      "עט",
+      "הרחמנים",
+      "והביישנין",
+      "וגומלי",
+      "חסדים"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "25:16"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-19",
+    "global_id": 19,
+    "shiur_num": 19,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 86a - Rabbi Akiva may have his shepherd's bag, but Rabbi Elazar lives on",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות פו. - עקיבא בתרמילו ואנא חיי",
+    "source_sheet_link": "https://docs.google.com/document/d/1fpfkEZo5cflsEmT3sdmsr1tw1yBCOhKCnWKClvhuj2Q/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1heUBy9ds-yeJ9fzWHHn0E0fyd9QHr-9h/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "86a",
+      "rabbi",
+      "akiva",
+      "shepherd",
+      "bag",
+      "elazar",
+      "lives",
+      "יבמות",
+      "פו",
+      "עקיבא",
+      "בתרמילו",
+      "ואנא",
+      "חיי"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "36:27"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-20",
+    "global_id": 20,
+    "shiur_num": 20,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 96b - Why don't you know how to appease my honor like Rabbi Yaakov Ben Idi",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "במות צו: - מפני מה אי אתם יודעין לפייס כבן אידי חברינו",
+    "source_sheet_link": "https://docs.google.com/document/d/1epcRGZhJQvINwCI5jA5rw8ZRXIdDkybqkTUENr-5qaA/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1ROn8l3Aa4TyFtTwSitwd4-_dbD0_oJ45/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "96b",
+      "dont",
+      "know",
+      "appease",
+      "honor",
+      "rabbi",
+      "yaakov",
+      "ben",
+      "idi",
+      "יבמות",
+      "צו",
+      "מפני",
+      "מה",
+      "אי",
+      "יודעין",
+      "לפייס",
+      "כבן",
+      "אידי",
+      "חברינו"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "27:31"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-21",
+    "global_id": 21,
+    "shiur_num": 21,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 98a - The Shechinah spoke with Yonah the prophet twice, but not a third time",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות צח. - שנית דברה עמו שכינה שלישית לא דברה עמו",
+    "source_sheet_link": "https://docs.google.com/document/d/1wQdwJPqgS63Mm6SWf4mGuokF4DwJTOVT_sE6Lp0_Mjo/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1UoJBtkoz-lKDYXoilpDVplIGHiuY_BRh/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "98a",
+      "shechinah",
+      "spoke",
+      "yonah",
+      "prophet",
+      "twice",
+      "third",
+      "time",
+      "יבמות",
+      "צח",
+      "שנית",
+      "דברה",
+      "עמו",
+      "שכינה",
+      "שלישית"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "27:03"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-22",
+    "global_id": 22,
+    "shiur_num": 22,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 103a - Sisera was with Yael seven times on that day",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות קג. - שבע בעילות בעל אותו רשע באותו היום",
+    "source_sheet_link": "https://docs.google.com/document/d/1L7BnxET82QW_BhEkWCjRl_4KJZwG7vCGwyTcfBmc-zE/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1LeaEA3mojUwGXrrsPUL3DzuJYAZHR1mX/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "103a",
+      "sisera",
+      "yael",
+      "seven",
+      "times",
+      "day",
+      "יבמות",
+      "קג",
+      "שבע",
+      "בעילות",
+      "אותו",
+      "רשע",
+      "היום"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "39:18"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-23",
+    "global_id": 23,
+    "shiur_num": 23,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 105b - Someone praying should look down, but direct his heart upwards to Heaven",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "יבמות קה: - המתפלל צריך שיתן עיניו למטה ולבו למעלה",
+    "source_sheet_link": "https://docs.google.com/document/d/1zIq4RLvHEf1x2TW87Fx75SoPQMHVyJrMFwVg6WZhKrU/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1wsDyW0EPLgcRi7H35j7JjqUn6IFADa3T/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "105b",
+      "someone",
+      "praying",
+      "should",
+      "look",
+      "down",
+      "direct",
+      "heart",
+      "upwards",
+      "heaven",
+      "יבמות",
+      "קה",
+      "המתפלל",
+      "צריך",
+      "שיתן",
+      "עיניו",
+      "למטה",
+      "ולבו",
+      "למעלה"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "31:23"
+  },
+  {
+    "id": "ein-yaakov-seder_nashim-yevamot-24",
+    "global_id": 24,
+    "shiur_num": 24,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nashim",
+    "english_sefer": "yevamot",
+    "english_title": "Yevamot 121a - If wicked men attack a man, he should lower his head",
+    "hebrew_sefer": "יבמות",
+    "hebrew_title": "במות קכא. - אם יבואו רשעים על אדם ינענע לו ראשו",
+    "source_sheet_link": "https://docs.google.com/document/d/1YlRH0v0iEq0Y4NGn9PLlJ4LpQ5DEOGjRbS7jXAfbRaA/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1QZ-ioLmKGD_k_WZGuCMBLkqIPgZRFGab/view?usp=drive_link",
+    "tags": [
+      "yevamot",
+      "wicked",
+      "men",
+      "attack",
+      "man",
+      "should",
+      "lower",
+      "head",
+      "יבמות",
+      "קכא",
+      "יבואו",
+      "רשעים",
+      "אדם",
+      "ינענע",
+      "לו",
+      "ראשו"
+    ],
+    "hebrew_year": "תשפ״א",
+    "english_year": 5781,
+    "length": "27:56"
+  },
+  {
+    "id": "ein-yaakov-seder_nezikin-bava_kamma-1",
+    "global_id": 25,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -34,11 +839,12 @@
       "מהוגנים"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "43:46"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-2",
-    "global_id": 2,
+    "global_id": 26,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -69,11 +875,12 @@
       "מהם"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "33:15"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-3",
-    "global_id": 3,
+    "global_id": 27,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -104,11 +911,12 @@
       "מנהיגו"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "30:26"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-4",
-    "global_id": 4,
+    "global_id": 28,
     "shiur_num": 4,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -142,11 +950,12 @@
       "דומין"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "48:55"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-5",
-    "global_id": 5,
+    "global_id": 29,
     "shiur_num": 5,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -176,11 +985,12 @@
       "ויצא"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "37:15"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-6",
-    "global_id": 6,
+    "global_id": 30,
     "shiur_num": 6,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -210,11 +1020,12 @@
       "רואה"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "46:05"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-7",
-    "global_id": 7,
+    "global_id": 31,
     "shiur_num": 7,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -241,11 +1052,12 @@
       "מטיבין"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "46:05"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-8",
-    "global_id": 8,
+    "global_id": 32,
     "shiur_num": 8,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -276,11 +1088,12 @@
       "תורה"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "35:17"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-9",
-    "global_id": 9,
+    "global_id": 33,
     "shiur_num": 9,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -314,11 +1127,12 @@
       "זמנה"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "43:29"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-10",
-    "global_id": 10,
+    "global_id": 34,
     "shiur_num": 10,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -350,11 +1164,12 @@
       "דשרכי"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "36:36"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-11",
-    "global_id": 11,
+    "global_id": 35,
     "shiur_num": 11,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -385,11 +1200,12 @@
       "עיניים"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "42:41"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-12",
-    "global_id": 12,
+    "global_id": 36,
     "shiur_num": 12,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -420,11 +1236,12 @@
       "דמים"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "42:44"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_kamma-13",
-    "global_id": 13,
+    "global_id": 37,
     "shiur_num": 13,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -454,11 +1271,12 @@
       "גזל"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "41:34"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-1",
-    "global_id": 14,
+    "global_id": 38,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -490,11 +1308,12 @@
       "במלייהו"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "44:06"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-2",
-    "global_id": 15,
+    "global_id": 39,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -530,11 +1349,12 @@
       "לאבדן"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "35:57"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-3",
-    "global_id": 16,
+    "global_id": 40,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -561,11 +1381,12 @@
       "לי"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "43:01"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-4",
-    "global_id": 17,
+    "global_id": 41,
     "shiur_num": 4,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -597,11 +1418,12 @@
       "בחתימת"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "44:00"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-5",
-    "global_id": 18,
+    "global_id": 42,
     "shiur_num": 5,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -632,11 +1454,12 @@
       "העין"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "46:33"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-6",
-    "global_id": 19,
+    "global_id": 43,
     "shiur_num": 6,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -667,11 +1490,12 @@
       "האש"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "32:55"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-7",
-    "global_id": 20,
+    "global_id": 44,
     "shiur_num": 7,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -699,11 +1523,12 @@
       "קול"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "40:49"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-8",
-    "global_id": 21,
+    "global_id": 45,
     "shiur_num": 8,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -737,11 +1562,12 @@
       "לחייו"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "40:36"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-9",
-    "global_id": 22,
+    "global_id": 46,
     "shiur_num": 9,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -768,11 +1594,12 @@
       "ללילה"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "44:11"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-10",
-    "global_id": 23,
+    "global_id": 47,
     "shiur_num": 10,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -801,11 +1628,12 @@
       "מאודניה"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "34:35"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-11",
-    "global_id": 24,
+    "global_id": 48,
     "shiur_num": 11,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -836,11 +1664,12 @@
       "נוצרת"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "50:18"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-12",
-    "global_id": 25,
+    "global_id": 49,
     "shiur_num": 12,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -870,11 +1699,12 @@
       "שלה"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "42:41"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-13",
-    "global_id": 26,
+    "global_id": 50,
     "shiur_num": 13,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -907,11 +1737,12 @@
       "ובניו"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "40:44"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-14",
-    "global_id": 27,
+    "global_id": 51,
     "shiur_num": 14,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -948,11 +1779,12 @@
       "בטהור"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "41:13"
   },
   {
     "id": "ein-yaakov-seder_nezikin-bava_metzia-15",
-    "global_id": 28,
+    "global_id": 52,
     "shiur_num": 15,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -983,11 +1815,190 @@
       "לחם"
     ],
     "hebrew_year": "תשפ״ה",
-    "english_year": 5785
+    "english_year": 5785,
+    "length": "38:53"
+  },
+  {
+    "id": "ein-yaakov-seder_nezikin-bava_metzia-16",
+    "global_id": 53,
+    "shiur_num": 16,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nezikin",
+    "english_sefer": "bava_metzia",
+    "english_title": "Bava Metzia 86b - Gavriel went in order to destroy Sodom",
+    "hebrew_sefer": "בבא מציעא",
+    "hebrew_title": "בבא מציעא פו: - גבריאל אזל למהפכיה לסדום",
+    "source_sheet_link": "https://docs.google.com/document/d/1zF4pojB2gHBngzeSyVCZLFHLoVWp8vO6HDcTrZJffIw/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1n4otvkze372pjjY6quEn9lLh8AVJ2uyM/view?usp=drive_link",
+    "tags": [
+      "bava",
+      "metzia",
+      "86b",
+      "gavriel",
+      "went",
+      "order",
+      "destroy",
+      "sodom",
+      "בבא",
+      "מציעא",
+      "פו",
+      "גבריאל",
+      "אזל",
+      "למהפכיה",
+      "לסדום"
+    ],
+    "hebrew_year": "תשפ״ה",
+    "english_year": 5785,
+    "length": "43:10"
+  },
+  {
+    "id": "ein-yaakov-seder_nezikin-bava_metzia-17",
+    "global_id": 54,
+    "shiur_num": 17,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nezikin",
+    "english_sefer": "bava_metzia",
+    "english_title": "Bava Metzia 87a - Why are there dots over the letters ayo in the word eilav",
+    "hebrew_sefer": "בבא מציעא",
+    "hebrew_title": "בבא מציעא פז. - למה נקוד על איו שבאליו",
+    "source_sheet_link": "https://docs.google.com/document/d/1Qdb3_Y5J0oV6p6ml7YimAVSuOHTk4IG5Nve03uP7PB8/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1XxBzgIGiAn7k70qowLN4tkSW_PSnzXUZ/view?usp=drive_link",
+    "tags": [
+      "bava",
+      "metzia",
+      "87a",
+      "dots",
+      "over",
+      "letters",
+      "ayo",
+      "word",
+      "eilav",
+      "בבא",
+      "מציעא",
+      "פז",
+      "למה",
+      "נקוד",
+      "על",
+      "איו",
+      "שבאליו"
+    ],
+    "hebrew_year": "תשפ״ה",
+    "english_year": 5785,
+    "length": "46:22"
+  },
+  {
+    "id": "ein-yaakov-seder_nezikin-bava_metzia-18",
+    "global_id": 55,
+    "shiur_num": 18,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nezikin",
+    "english_sefer": "bava_metzia",
+    "english_title": "Bava Metzia 87a - Until Avraham there was no aging in the world",
+    "hebrew_sefer": "בבא מציעא",
+    "hebrew_title": "בבא מציעא פז. - עד אברהם לא היתה זקנה",
+    "source_sheet_link": "https://docs.google.com/document/d/1sNtu6dAanvt0fv94hhCog3RkFnBycTXsKSm1AMJYoz8/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/1hAe40IPdGKD2Q3ZMksBkibVib9-nZm9N/view?usp=drive_link",
+    "tags": [
+      "bava",
+      "metzia",
+      "87a",
+      "until",
+      "avraham",
+      "aging",
+      "world",
+      "בבא",
+      "מציעא",
+      "פז",
+      "עד",
+      "אברהם",
+      "לא",
+      "היתה",
+      "זקנה"
+    ],
+    "hebrew_year": "תשפ״ה",
+    "english_year": 5785,
+    "length": "36:22"
+  },
+  {
+    "id": "ein-yaakov-seder_nezikin-bava_metzia-19",
+    "global_id": 56,
+    "shiur_num": 19,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nezikin",
+    "english_sefer": "bava_metzia",
+    "english_title": "Bava Metzia 107a - You should not find your wife a possible niddah when you return from a journey",
+    "hebrew_sefer": "בבא מציעא",
+    "hebrew_title": "בבא מציעא קז. - שלא תמצא אשתך ספק נדה בשעת ביאתך מן הדרך",
+    "source_sheet_link": "https://docs.google.com/document/d/1PT7lnNPALmG9rsRbDOY3BZ6EbNx6aMtzpAC1rBjlyAw/edit?usp=drive_link",
+    "audio_recording_link": "https://drive.google.com/file/d/16btLVnUV5w_XKa7HJIzug95JmH_9vGuV/view?usp=drive_link",
+    "tags": [
+      "bava",
+      "metzia",
+      "107a",
+      "should",
+      "find",
+      "wife",
+      "possible",
+      "niddah",
+      "return",
+      "journey",
+      "בבא",
+      "מציעא",
+      "קז",
+      "שלא",
+      "תמצא",
+      "אשתך",
+      "ספק",
+      "נדה",
+      "בשעת",
+      "ביאתך",
+      "מן",
+      "הדרך"
+    ],
+    "hebrew_year": "תשפ״ה",
+    "english_year": 5785,
+    "length": "40:42"
+  },
+  {
+    "id": "ein-yaakov-seder_nezikin-bava_metzia-20",
+    "global_id": 57,
+    "shiur_num": 20,
+    "category": "ein_yaakov",
+    "sub_category": "seder_nezikin",
+    "english_sefer": "bava_metzia",
+    "english_title": "Bava Metzia 114b - Is the master not a Kohen? Why is the master in a graveyard",
+    "hebrew_sefer": "בבא מציעא",
+    "hebrew_title": "בבא מציעא קיד: - לאו כהן הוא מר מאי טעמא קאי מר בבית הקברות",
+    "source_sheet_link": "https://docs.google.com/document/d/1ylkTFtp3dRJzqoLqFJNmBIe01Kjtm2NKU4SigKlST7Y/edit?usp=drive_link",
+    "audio_recording_link": "",
+    "tags": [
+      "bava",
+      "metzia",
+      "114b",
+      "master",
+      "kohen",
+      "why",
+      "graveyard",
+      "בבא",
+      "מציעא",
+      "קיד",
+      "לאו",
+      "כהן",
+      "הוא",
+      "מר",
+      "מאי",
+      "טעמא",
+      "קאי",
+      "בבית",
+      "הקברות"
+    ],
+    "hebrew_year": "תשפ״ה",
+    "english_year": 5785,
+    "length": ""
   },
   {
     "id": "ein-yaakov-seder_nezikin-makkot-1",
-    "global_id": 29,
+    "global_id": 58,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1014,11 +2025,12 @@
       "שלו"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "35:16"
   },
   {
     "id": "ein-yaakov-seder_nezikin-makkot-2",
-    "global_id": 30,
+    "global_id": 59,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1050,11 +2062,12 @@
       "זקן"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "35:52"
   },
   {
     "id": "ein-yaakov-seder_nezikin-makkot-3",
-    "global_id": 31,
+    "global_id": 60,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1082,11 +2095,12 @@
       "באה"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "37:08"
   },
   {
     "id": "ein-yaakov-seder_nezikin-makkot-4",
-    "global_id": 32,
+    "global_id": 61,
     "shiur_num": 4,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1114,11 +2128,12 @@
       "שעה"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "40:07"
   },
   {
     "id": "ein-yaakov-seder_nezikin-makkot-5",
-    "global_id": 33,
+    "global_id": 62,
     "shiur_num": 5,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1141,11 +2156,12 @@
       "אינשי"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "36:42"
   },
   {
     "id": "ein-yaakov-seder_nezikin-makkot-6",
-    "global_id": 34,
+    "global_id": 63,
     "shiur_num": 6,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1172,11 +2188,12 @@
       "הקודש"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "39:09"
   },
   {
     "id": "ein-yaakov-seder_nezikin-makkot-7",
-    "global_id": 35,
+    "global_id": 64,
     "shiur_num": 7,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1211,11 +2228,12 @@
       "וביטלה"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "44:37"
   },
   {
     "id": "ein-yaakov-seder_nezikin-makkot-8",
-    "global_id": 36,
+    "global_id": 65,
     "shiur_num": 8,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1242,11 +2260,12 @@
       "שני"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "47:47"
   },
   {
     "id": "ein-yaakov-seder_nezikin-shevuot-1",
-    "global_id": 37,
+    "global_id": 66,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1272,11 +2291,12 @@
       "הירח"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "41:52"
   },
   {
     "id": "ein-yaakov-seder_nezikin-shevuot-2",
-    "global_id": 38,
+    "global_id": 67,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1306,11 +2326,12 @@
       "שכינה"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "51:32"
   },
   {
     "id": "ein-yaakov-seder_nezikin-shevuot-3",
-    "global_id": 39,
+    "global_id": 68,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1335,11 +2356,12 @@
       "אותך"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "36:44"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-1",
-    "global_id": 40,
+    "global_id": 69,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1365,11 +2387,12 @@
       "ישראל"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "38:10"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-2",
-    "global_id": 41,
+    "global_id": 70,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1397,11 +2420,12 @@
       "ובוהו"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "28:30"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-3",
-    "global_id": 42,
+    "global_id": 71,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1425,11 +2449,12 @@
       "בלילה"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "45:33"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-4",
-    "global_id": 43,
+    "global_id": 72,
     "shiur_num": 4,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1457,11 +2482,12 @@
       "מיחו"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "37:36"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-5",
-    "global_id": 44,
+    "global_id": 73,
     "shiur_num": 5,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1490,11 +2516,12 @@
       "תשובה"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "31:43"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-6",
-    "global_id": 45,
+    "global_id": 74,
     "shiur_num": 6,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1518,11 +2545,12 @@
       "כמתים"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "34:45"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-7",
-    "global_id": 46,
+    "global_id": 75,
     "shiur_num": 7,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1546,11 +2574,12 @@
       "בידם"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "42:14"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-8",
-    "global_id": 47,
+    "global_id": 76,
     "shiur_num": 8,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1576,11 +2605,12 @@
       "הראשון"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "29:44"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-9",
-    "global_id": 48,
+    "global_id": 77,
     "shiur_num": 9,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1611,11 +2641,12 @@
       "לרבי"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "35:12"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-10",
-    "global_id": 49,
+    "global_id": 78,
     "shiur_num": 10,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1643,11 +2674,12 @@
       "ברומי"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "30:17"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-11",
-    "global_id": 50,
+    "global_id": 79,
     "shiur_num": 11,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1678,11 +2710,12 @@
       "אגרא"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "30:32"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-12",
-    "global_id": 51,
+    "global_id": 80,
     "shiur_num": 12,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1717,11 +2750,12 @@
       "הדין"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "33:20"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-13",
-    "global_id": 52,
+    "global_id": 81,
     "shiur_num": 13,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1749,11 +2783,12 @@
       "לעולם"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "26:15"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-14",
-    "global_id": 53,
+    "global_id": 82,
     "shiur_num": 14,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1777,11 +2812,12 @@
       "חיי"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "37:05"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-15",
-    "global_id": 54,
+    "global_id": 83,
     "shiur_num": 15,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1810,11 +2846,12 @@
       "שירה"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "33:56"
   },
   {
     "id": "ein-yaakov-seder_nezikin-avodah_zarah-16",
-    "global_id": 55,
+    "global_id": 84,
     "shiur_num": 16,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1847,11 +2884,12 @@
       "עמידתו"
     ],
     "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5781,
+    "length": "51:52"
   },
   {
     "id": "ein-yaakov-seder_nezikin-horayot-1",
-    "global_id": 56,
+    "global_id": 85,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1880,11 +2918,12 @@
       "בספינתא"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "46:20"
   },
   {
     "id": "ein-yaakov-seder_nezikin-horayot-2",
-    "global_id": 57,
+    "global_id": 86,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1917,11 +2956,12 @@
       "בזקנו"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "40:25"
   },
   {
     "id": "ein-yaakov-seder_nezikin-horayot-3",
-    "global_id": 58,
+    "global_id": 87,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1950,11 +2990,12 @@
       "מלכותן"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "31:18"
   },
   {
     "id": "ein-yaakov-seder_nezikin-horayot-4",
-    "global_id": 59,
+    "global_id": 88,
     "shiur_num": 4,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -1979,11 +3020,12 @@
       "קונו"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "35:03"
   },
   {
     "id": "ein-yaakov-seder_nezikin-horayot-5",
-    "global_id": 60,
+    "global_id": 89,
     "shiur_num": 5,
     "category": "ein_yaakov",
     "sub_category": "seder_nezikin",
@@ -2014,11 +3056,12 @@
       "הרים"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "37:01"
   },
   {
     "id": "ein-yaakov-seder_kodashim-zevahim-1",
-    "global_id": 61,
+    "global_id": 90,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2043,11 +3086,12 @@
       "יסוד"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "35:35"
   },
   {
     "id": "ein-yaakov-seder_kodashim-zevahim-2",
-    "global_id": 62,
+    "global_id": 91,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2074,11 +3118,12 @@
       "רושם"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "41:37"
   },
   {
     "id": "ein-yaakov-seder_kodashim-zevahim-3",
-    "global_id": 63,
+    "global_id": 92,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2104,11 +3149,12 @@
       "ישראל"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "32:06"
   },
   {
     "id": "ein-yaakov-seder_kodashim-zevahim-4",
-    "global_id": 64,
+    "global_id": 93,
     "shiur_num": 4,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2136,11 +3182,12 @@
       "שכר"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "25:35"
   },
   {
     "id": "ein-yaakov-seder_kodashim-zevahim-5",
-    "global_id": 65,
+    "global_id": 94,
     "shiur_num": 5,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2167,11 +3214,12 @@
       "מלכא"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "34:25"
   },
   {
     "id": "ein-yaakov-seder_kodashim-menahot-1",
-    "global_id": 66,
+    "global_id": 95,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2198,11 +3246,12 @@
       "המקום"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "30:26"
   },
   {
     "id": "ein-yaakov-seder_kodashim-menahot-2",
-    "global_id": 67,
+    "global_id": 96,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2229,11 +3278,12 @@
       "ראשים"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "35:22"
   },
   {
     "id": "ein-yaakov-seder_kodashim-menahot-3",
-    "global_id": 68,
+    "global_id": 97,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2260,11 +3310,12 @@
       "כולן"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "30:07"
   },
   {
     "id": "ein-yaakov-seder_kodashim-menahot-4",
-    "global_id": 69,
+    "global_id": 98,
     "shiur_num": 4,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2288,11 +3339,12 @@
       "בלשן"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "32:42"
   },
   {
     "id": "ein-yaakov-seder_kodashim-menahot-5",
-    "global_id": 70,
+    "global_id": 99,
     "shiur_num": 5,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2324,11 +3376,12 @@
       "צריך"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "44:09"
   },
   {
     "id": "ein-yaakov-seder_kodashim-menahot-6",
-    "global_id": 71,
+    "global_id": 100,
     "shiur_num": 6,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2351,11 +3404,12 @@
       "שברת"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "46:21"
   },
   {
     "id": "ein-yaakov-seder_kodashim-menahot-7",
-    "global_id": 72,
+    "global_id": 101,
     "shiur_num": 7,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2381,11 +3435,12 @@
       "הלילה"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "39:27"
   },
   {
     "id": "ein-yaakov-seder_kodashim-menahot-8",
-    "global_id": 73,
+    "global_id": 102,
     "shiur_num": 8,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2410,11 +3465,12 @@
       "אחד"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "36:47"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-1",
-    "global_id": 74,
+    "global_id": 103,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2439,11 +3495,12 @@
       "שאני"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "39:34"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-2",
-    "global_id": 75,
+    "global_id": 104,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2470,11 +3527,12 @@
       "בו"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "34:54"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-3",
-    "global_id": 76,
+    "global_id": 105,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2499,11 +3557,12 @@
       "מחייהם"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "38:10"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-4",
-    "global_id": 77,
+    "global_id": 106,
     "shiur_num": 4,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2527,11 +3586,12 @@
       "מטומאה"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "36:52"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-5",
-    "global_id": 78,
+    "global_id": 107,
     "shiur_num": 5,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2558,11 +3618,12 @@
       "ידם"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "34:44"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-6",
-    "global_id": 79,
+    "global_id": 108,
     "shiur_num": 6,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2591,11 +3652,12 @@
       "היה"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "36:44"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-7",
-    "global_id": 80,
+    "global_id": 109,
     "shiur_num": 7,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2620,11 +3682,12 @@
       "בעצמן"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "33:50"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-8",
-    "global_id": 81,
+    "global_id": 110,
     "shiur_num": 8,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2654,11 +3717,12 @@
       "קצרה"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "37:24"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-9",
-    "global_id": 82,
+    "global_id": 111,
     "shiur_num": 9,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2688,11 +3752,12 @@
       "ועפר"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "31:19"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-10",
-    "global_id": 83,
+    "global_id": 112,
     "shiur_num": 10,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2724,11 +3789,12 @@
       "מריבה"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "30:00"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-11",
-    "global_id": 84,
+    "global_id": 113,
     "shiur_num": 11,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2754,11 +3820,12 @@
       "השחיטה"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "34:59"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-12",
-    "global_id": 85,
+    "global_id": 114,
     "shiur_num": 12,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2790,11 +3857,12 @@
       "ארעא"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "32:27"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-13",
-    "global_id": 86,
+    "global_id": 115,
     "shiur_num": 13,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2823,11 +3891,12 @@
       "אצלו"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "41:01"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-14",
-    "global_id": 87,
+    "global_id": 116,
     "shiur_num": 14,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2855,11 +3924,12 @@
       "בצדה"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "33:48"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-15",
-    "global_id": 88,
+    "global_id": 117,
     "shiur_num": 15,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2888,11 +3958,12 @@
       "ביבשה"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "36:57"
   },
   {
     "id": "ein-yaakov-seder_kodashim-hullin-16",
-    "global_id": 89,
+    "global_id": 118,
     "shiur_num": 16,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2915,11 +3986,12 @@
       "מניין"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "35:30"
   },
   {
     "id": "ein-yaakov-seder_kodashim-bechorot-1",
-    "global_id": 90,
+    "global_id": 119,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2945,11 +4017,12 @@
       "קוביוסטוס"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "38:37"
   },
   {
     "id": "ein-yaakov-seder_kodashim-bechorot-2",
-    "global_id": 91,
+    "global_id": 120,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -2979,11 +4052,12 @@
       "משלשה"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "34:55"
   },
   {
     "id": "ein-yaakov-seder_kodashim-bechorot-3",
-    "global_id": 92,
+    "global_id": 121,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3017,11 +4091,12 @@
       "בקבר"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "35:01"
   },
   {
     "id": "ein-yaakov-seder_kodashim-bechorot-4",
-    "global_id": 93,
+    "global_id": 122,
     "shiur_num": 4,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3046,11 +4121,12 @@
       "הזה"
     ],
     "hebrew_year": "תשפ״ג",
-    "english_year": 5783
+    "english_year": 5783,
+    "length": "39:45"
   },
   {
     "id": "ein-yaakov-seder_kodashim-arachin-1",
-    "global_id": 94,
+    "global_id": 123,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3080,11 +4156,12 @@
       "מימיו"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "38:03"
   },
   {
     "id": "ein-yaakov-seder_kodashim-arachin-2",
-    "global_id": 95,
+    "global_id": 124,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3109,11 +4186,12 @@
       "אלא"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "33:38"
   },
   {
     "id": "ein-yaakov-seder_kodashim-arachin-3",
-    "global_id": 96,
+    "global_id": 125,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3139,11 +4217,12 @@
       "להקב״ה"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "47:03"
   },
   {
     "id": "ein-yaakov-seder_kodashim-arachin-4",
-    "global_id": 97,
+    "global_id": 126,
     "shiur_num": 4,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3171,11 +4250,12 @@
       "פלניא"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "37:51"
   },
   {
     "id": "ein-yaakov-seder_kodashim-arachin-5",
-    "global_id": 98,
+    "global_id": 127,
     "shiur_num": 5,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3203,11 +4283,12 @@
       "באים"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "30:04"
   },
   {
     "id": "ein-yaakov-seder_kodashim-arachin-6",
-    "global_id": 99,
+    "global_id": 128,
     "shiur_num": 6,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3233,11 +4314,12 @@
       "תוכחה"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "37:10"
   },
   {
     "id": "ein-yaakov-seder_kodashim-arachin-7",
-    "global_id": 100,
+    "global_id": 129,
     "shiur_num": 7,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3265,11 +4347,12 @@
       "וחד"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "39:55"
   },
   {
     "id": "ein-yaakov-seder_kodashim-arachin-8",
-    "global_id": 101,
+    "global_id": 130,
     "shiur_num": 8,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3296,11 +4379,12 @@
       "ירמיה"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "39:34"
   },
   {
     "id": "ein-yaakov-seder_kodashim-temurah-1",
-    "global_id": 102,
+    "global_id": 131,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3329,11 +4413,12 @@
       "מלך"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "36:27"
   },
   {
     "id": "ein-yaakov-seder_kodashim-temurah-2",
-    "global_id": 103,
+    "global_id": 132,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3360,11 +4445,12 @@
       "דבר"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "35:01"
   },
   {
     "id": "ein-yaakov-seder_kodashim-keritot-1",
-    "global_id": 104,
+    "global_id": 133,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3391,11 +4477,12 @@
       "אינה"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "40:47"
   },
   {
     "id": "ein-yaakov-seder_kodashim-meilah-1",
-    "global_id": 105,
+    "global_id": 134,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_kodashim",
@@ -3425,11 +4512,12 @@
       "בניסים"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "34:15"
   },
   {
     "id": "ein-yaakov-seder_toharot-niddah-1",
-    "global_id": 106,
+    "global_id": 135,
     "shiur_num": 1,
     "category": "ein_yaakov",
     "sub_category": "seder_toharot",
@@ -3456,11 +4544,12 @@
       "בנהרדעא"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "34:15"
   },
   {
     "id": "ein-yaakov-seder_toharot-niddah-2",
-    "global_id": 107,
+    "global_id": 136,
     "shiur_num": 2,
     "category": "ein_yaakov",
     "sub_category": "seder_toharot",
@@ -3488,11 +4577,12 @@
       "שמו"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "47:55"
   },
   {
     "id": "ein-yaakov-seder_toharot-niddah-3",
-    "global_id": 108,
+    "global_id": 137,
     "shiur_num": 3,
     "category": "ein_yaakov",
     "sub_category": "seder_toharot",
@@ -3520,11 +4610,12 @@
       "הייתי"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "35:03"
   },
   {
     "id": "ein-yaakov-seder_toharot-niddah-4",
-    "global_id": 109,
+    "global_id": 138,
     "shiur_num": 4,
     "category": "ein_yaakov",
     "sub_category": "seder_toharot",
@@ -3552,11 +4643,12 @@
       "זכר"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "34:09"
   },
   {
     "id": "ein-yaakov-seder_toharot-niddah-5",
-    "global_id": 110,
+    "global_id": 139,
     "shiur_num": 5,
     "category": "ein_yaakov",
     "sub_category": "seder_toharot",
@@ -3583,11 +4675,12 @@
       "לבעלה"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "37:50"
   },
   {
     "id": "ein-yaakov-seder_toharot-niddah-6",
-    "global_id": 111,
+    "global_id": 140,
     "shiur_num": 6,
     "category": "ein_yaakov",
     "sub_category": "seder_toharot",
@@ -3615,11 +4708,12 @@
       "הוו"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "34:05"
   },
   {
     "id": "ein-yaakov-seder_toharot-niddah-7",
-    "global_id": 112,
+    "global_id": 141,
     "shiur_num": 7,
     "category": "ein_yaakov",
     "sub_category": "seder_toharot",
@@ -3645,11 +4739,12 @@
       "המבול"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "50:29"
   },
   {
     "id": "ein-yaakov-seder_toharot-niddah-8",
-    "global_id": 113,
+    "global_id": 142,
     "shiur_num": 8,
     "category": "ein_yaakov",
     "sub_category": "seder_toharot",
@@ -3676,11 +4771,12 @@
       "אלכסנדריא"
     ],
     "hebrew_year": "תשפ״ד",
-    "english_year": 5784
+    "english_year": 5784,
+    "length": "31:13"
   },
   {
     "id": "tanach-torah-bereshit-1",
-    "global_id": 114,
+    "global_id": 143,
     "shiur_num": 1,
     "category": "tanach",
     "sub_category": "torah",
@@ -3699,11 +4795,12 @@
       "בראשית"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "29:59"
   },
   {
     "id": "tanach-torah-bereshit-2",
-    "global_id": 115,
+    "global_id": 144,
     "shiur_num": 2,
     "category": "tanach",
     "sub_category": "torah",
@@ -3723,11 +4820,12 @@
       "נח"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "28:57"
   },
   {
     "id": "tanach-torah-bereshit-3",
-    "global_id": 116,
+    "global_id": 145,
     "shiur_num": 3,
     "category": "tanach",
     "sub_category": "torah",
@@ -3748,11 +4846,12 @@
       "לך"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "32:27"
   },
   {
     "id": "tanach-torah-bereshit-4",
-    "global_id": 117,
+    "global_id": 146,
     "shiur_num": 4,
     "category": "tanach",
     "sub_category": "torah",
@@ -3773,11 +4872,12 @@
       "וירא"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "26:21"
   },
   {
     "id": "tanach-torah-bereshit-5",
-    "global_id": 118,
+    "global_id": 147,
     "shiur_num": 5,
     "category": "tanach",
     "sub_category": "torah",
@@ -3798,11 +4898,12 @@
       "שרה"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "29:53"
   },
   {
     "id": "tanach-torah-bereshit-6",
-    "global_id": 119,
+    "global_id": 148,
     "shiur_num": 6,
     "category": "tanach",
     "sub_category": "torah",
@@ -3824,11 +4925,12 @@
       "תולדות"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "21:56"
   },
   {
     "id": "tanach-torah-bereshit-7",
-    "global_id": 120,
+    "global_id": 149,
     "shiur_num": 7,
     "category": "tanach",
     "sub_category": "torah",
@@ -3847,11 +4949,12 @@
       "ויצא"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "27:07"
   },
   {
     "id": "tanach-torah-bereshit-8",
-    "global_id": 121,
+    "global_id": 150,
     "shiur_num": 8,
     "category": "tanach",
     "sub_category": "torah",
@@ -3870,11 +4973,12 @@
       "וישלח"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "32:34"
   },
   {
     "id": "tanach-torah-bereshit-9",
-    "global_id": 122,
+    "global_id": 151,
     "shiur_num": 9,
     "category": "tanach",
     "sub_category": "torah",
@@ -3894,11 +4998,12 @@
       "וישב"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "28:08"
   },
   {
     "id": "tanach-torah-bereshit-10",
-    "global_id": 123,
+    "global_id": 152,
     "shiur_num": 10,
     "category": "tanach",
     "sub_category": "torah",
@@ -3918,11 +5023,12 @@
       "מקץ"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "31:13"
   },
   {
     "id": "tanach-torah-bereshit-11",
-    "global_id": 124,
+    "global_id": 153,
     "shiur_num": 11,
     "category": "tanach",
     "sub_category": "torah",
@@ -3942,11 +5048,12 @@
       "ויגש"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "32:54"
   },
   {
     "id": "tanach-torah-bereshit-12",
-    "global_id": 125,
+    "global_id": 154,
     "shiur_num": 12,
     "category": "tanach",
     "sub_category": "torah",
@@ -3969,11 +5076,12 @@
       "ויחי"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "26:21"
   },
   {
     "id": "tanach-torah-shemot-1",
-    "global_id": 126,
+    "global_id": 155,
     "shiur_num": 1,
     "category": "tanach",
     "sub_category": "torah",
@@ -3994,11 +5102,12 @@
       "שמות"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "26:24"
   },
   {
     "id": "tanach-torah-shemot-2",
-    "global_id": 127,
+    "global_id": 156,
     "shiur_num": 2,
     "category": "tanach",
     "sub_category": "torah",
@@ -4017,11 +5126,12 @@
       "וארא"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "28:02"
   },
   {
     "id": "tanach-torah-shemot-3",
-    "global_id": 128,
+    "global_id": 157,
     "shiur_num": 3,
     "category": "tanach",
     "sub_category": "torah",
@@ -4042,11 +5152,12 @@
       "בא"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "32:32"
   },
   {
     "id": "tanach-torah-shemot-4",
-    "global_id": 129,
+    "global_id": 158,
     "shiur_num": 4,
     "category": "tanach",
     "sub_category": "torah",
@@ -4066,11 +5177,12 @@
       "בשלח"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "29:48"
   },
   {
     "id": "tanach-torah-shemot-5",
-    "global_id": 130,
+    "global_id": 159,
     "shiur_num": 5,
     "category": "tanach",
     "sub_category": "torah",
@@ -4090,11 +5202,12 @@
       "יתרו"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "30:08"
   },
   {
     "id": "tanach-torah-shemot-6",
-    "global_id": 131,
+    "global_id": 160,
     "shiur_num": 6,
     "category": "tanach",
     "sub_category": "torah",
@@ -4113,11 +5226,12 @@
       "משפטים"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "31:05"
   },
   {
     "id": "tanach-torah-shemot-7",
-    "global_id": 132,
+    "global_id": 161,
     "shiur_num": 7,
     "category": "tanach",
     "sub_category": "torah",
@@ -4137,11 +5251,12 @@
       "תרומה"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "28:28"
   },
   {
     "id": "tanach-torah-shemot-8",
-    "global_id": 133,
+    "global_id": 162,
     "shiur_num": 8,
     "category": "tanach",
     "sub_category": "torah",
@@ -4162,11 +5277,12 @@
       "תצווה"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "34:42"
   },
   {
     "id": "tanach-torah-shemot-9",
-    "global_id": 134,
+    "global_id": 163,
     "shiur_num": 9,
     "category": "tanach",
     "sub_category": "torah",
@@ -4189,11 +5305,12 @@
       "תשא"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "32:44"
   },
   {
     "id": "tanach-torah-shemot-10",
-    "global_id": 135,
+    "global_id": 164,
     "shiur_num": 10,
     "category": "tanach",
     "sub_category": "torah",
@@ -4212,11 +5329,12 @@
       "ויקהל"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "31:19"
   },
   {
     "id": "tanach-torah-shemot-11",
-    "global_id": 136,
+    "global_id": 165,
     "shiur_num": 11,
     "category": "tanach",
     "sub_category": "torah",
@@ -4235,11 +5353,12 @@
       "פקודי"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "31:28"
   },
   {
     "id": "tanach-torah-vayikra-1",
-    "global_id": 137,
+    "global_id": 166,
     "shiur_num": 1,
     "category": "tanach",
     "sub_category": "torah",
@@ -4260,11 +5379,12 @@
       "ויקרא"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "35:31"
   },
   {
     "id": "tanach-torah-vayikra-2",
-    "global_id": 138,
+    "global_id": 167,
     "shiur_num": 2,
     "category": "tanach",
     "sub_category": "torah",
@@ -4284,11 +5404,12 @@
       "צו"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "29:57"
   },
   {
     "id": "tanach-torah-vayikra-3",
-    "global_id": 139,
+    "global_id": 168,
     "shiur_num": 3,
     "category": "tanach",
     "sub_category": "torah",
@@ -4308,11 +5429,12 @@
       "שמיני"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "39:43"
   },
   {
     "id": "tanach-torah-vayikra-4",
-    "global_id": 140,
+    "global_id": 169,
     "shiur_num": 4,
     "category": "tanach",
     "sub_category": "torah",
@@ -4333,11 +5455,12 @@
       "תזריע"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "24:31"
   },
   {
     "id": "tanach-torah-vayikra-5",
-    "global_id": 141,
+    "global_id": 170,
     "shiur_num": 5,
     "category": "tanach",
     "sub_category": "torah",
@@ -4356,11 +5479,12 @@
       "מצורע"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "15:17"
   },
   {
     "id": "tanach-torah-vayikra-6",
-    "global_id": 142,
+    "global_id": 171,
     "shiur_num": 6,
     "category": "tanach",
     "sub_category": "torah",
@@ -4383,11 +5507,12 @@
       "מות"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "33:10"
   },
   {
     "id": "tanach-torah-vayikra-7",
-    "global_id": 143,
+    "global_id": 172,
     "shiur_num": 7,
     "category": "tanach",
     "sub_category": "torah",
@@ -4409,11 +5534,12 @@
       "קדושים"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "25:57"
   },
   {
     "id": "tanach-torah-vayikra-8",
-    "global_id": 144,
+    "global_id": 173,
     "shiur_num": 8,
     "category": "tanach",
     "sub_category": "torah",
@@ -4431,11 +5557,12 @@
       "אמור"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "38:33"
   },
   {
     "id": "tanach-torah-vayikra-9",
-    "global_id": 145,
+    "global_id": 174,
     "shiur_num": 9,
     "category": "tanach",
     "sub_category": "torah",
@@ -4456,11 +5583,12 @@
       "בהר"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "16:15"
   },
   {
     "id": "tanach-torah-vayikra-10",
-    "global_id": 146,
+    "global_id": 175,
     "shiur_num": 10,
     "category": "tanach",
     "sub_category": "torah",
@@ -4480,11 +5608,12 @@
       "בחוקותי"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "12:27"
   },
   {
     "id": "tanach-torah-bamidbar-1",
-    "global_id": 147,
+    "global_id": 176,
     "shiur_num": 1,
     "category": "tanach",
     "sub_category": "torah",
@@ -4504,11 +5633,12 @@
       "במדבר"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "31:21"
   },
   {
     "id": "tanach-torah-bamidbar-2",
-    "global_id": 148,
+    "global_id": 177,
     "shiur_num": 2,
     "category": "tanach",
     "sub_category": "torah",
@@ -4528,11 +5658,12 @@
       "נשא"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "43:41"
   },
   {
     "id": "tanach-torah-bamidbar-3",
-    "global_id": 149,
+    "global_id": 178,
     "shiur_num": 3,
     "category": "tanach",
     "sub_category": "torah",
@@ -4551,11 +5682,12 @@
       "בהעלותך"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "27:00"
   },
   {
     "id": "tanach-torah-bamidbar-4",
-    "global_id": 150,
+    "global_id": 179,
     "shiur_num": 4,
     "category": "tanach",
     "sub_category": "torah",
@@ -4576,11 +5708,12 @@
       "שלח"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "29:34"
   },
   {
     "id": "tanach-torah-bamidbar-5",
-    "global_id": 151,
+    "global_id": 180,
     "shiur_num": 5,
     "category": "tanach",
     "sub_category": "torah",
@@ -4599,11 +5732,12 @@
       "קרח"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "21:31"
   },
   {
     "id": "tanach-torah-bamidbar-6",
-    "global_id": 152,
+    "global_id": 181,
     "shiur_num": 6,
     "category": "tanach",
     "sub_category": "torah",
@@ -4622,11 +5756,12 @@
       "חקת"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "28:11"
   },
   {
     "id": "tanach-torah-bamidbar-7",
-    "global_id": 153,
+    "global_id": 182,
     "shiur_num": 7,
     "category": "tanach",
     "sub_category": "torah",
@@ -4646,11 +5781,12 @@
       "בלק"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "22:41"
   },
   {
     "id": "tanach-torah-bamidbar-8",
-    "global_id": 154,
+    "global_id": 183,
     "shiur_num": 8,
     "category": "tanach",
     "sub_category": "torah",
@@ -4669,11 +5805,12 @@
       "פנחס"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "34:15"
   },
   {
     "id": "tanach-torah-bamidbar-9",
-    "global_id": 155,
+    "global_id": 184,
     "shiur_num": 9,
     "category": "tanach",
     "sub_category": "torah",
@@ -4694,11 +5831,12 @@
       "מטות"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "22:04"
   },
   {
     "id": "tanach-torah-bamidbar-10",
-    "global_id": 156,
+    "global_id": 185,
     "shiur_num": 10,
     "category": "tanach",
     "sub_category": "torah",
@@ -4719,11 +5857,12 @@
       "מסעי"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "21:27"
   },
   {
     "id": "tanach-torah-devarim-1",
-    "global_id": 157,
+    "global_id": 186,
     "shiur_num": 1,
     "category": "tanach",
     "sub_category": "torah",
@@ -4743,11 +5882,12 @@
       "דברים"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "53:56"
   },
   {
     "id": "tanach-torah-devarim-2",
-    "global_id": 158,
+    "global_id": 187,
     "shiur_num": 2,
     "category": "tanach",
     "sub_category": "torah",
@@ -4769,11 +5909,12 @@
       "ואתחנן"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "35:47"
   },
   {
     "id": "tanach-torah-devarim-3",
-    "global_id": 159,
+    "global_id": 188,
     "shiur_num": 3,
     "category": "tanach",
     "sub_category": "torah",
@@ -4796,11 +5937,12 @@
       "עקב"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "49:44"
   },
   {
     "id": "tanach-torah-devarim-4",
-    "global_id": 160,
+    "global_id": 189,
     "shiur_num": 4,
     "category": "tanach",
     "sub_category": "torah",
@@ -4819,11 +5961,12 @@
       "ראה"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "31:21"
   },
   {
     "id": "tanach-torah-devarim-5",
-    "global_id": 161,
+    "global_id": 190,
     "shiur_num": 5,
     "category": "tanach",
     "sub_category": "torah",
@@ -4844,11 +5987,12 @@
       "שופטים"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "31:56"
   },
   {
     "id": "tanach-torah-devarim-6",
-    "global_id": 162,
+    "global_id": 191,
     "shiur_num": 6,
     "category": "tanach",
     "sub_category": "torah",
@@ -4870,11 +6014,12 @@
       "תצא"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "33:28"
   },
   {
     "id": "tanach-torah-devarim-7",
-    "global_id": 163,
+    "global_id": 192,
     "shiur_num": 7,
     "category": "tanach",
     "sub_category": "torah",
@@ -4895,11 +6040,12 @@
       "תבוא"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "15:17"
   },
   {
     "id": "tanach-torah-devarim-8",
-    "global_id": 164,
+    "global_id": 193,
     "shiur_num": 8,
     "category": "tanach",
     "sub_category": "torah",
@@ -4918,11 +6064,12 @@
       "נצבים"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "13:49"
   },
   {
     "id": "tanach-torah-devarim-9",
-    "global_id": 165,
+    "global_id": 194,
     "shiur_num": 9,
     "category": "tanach",
     "sub_category": "torah",
@@ -4942,11 +6089,12 @@
       "וילך"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "23:51"
   },
   {
     "id": "tanach-torah-devarim-10",
-    "global_id": 166,
+    "global_id": 195,
     "shiur_num": 10,
     "category": "tanach",
     "sub_category": "torah",
@@ -4965,11 +6113,12 @@
       "האזינו"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "16:41"
   },
   {
     "id": "tanach-torah-devarim-11",
-    "global_id": 167,
+    "global_id": 196,
     "shiur_num": 11,
     "category": "tanach",
     "sub_category": "torah",
@@ -4990,11 +6139,12 @@
       "הברכה"
     ],
     "hebrew_year": "תש״פ",
-    "english_year": 5780
+    "english_year": 5780,
+    "length": "11:34"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-1",
-    "global_id": 168,
+    "global_id": 197,
     "shiur_num": 1,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5009,11 +6159,12 @@
       "מבוא"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "30:02"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-2",
-    "global_id": 169,
+    "global_id": 198,
     "shiur_num": 2,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5029,11 +6180,12 @@
       "א"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "33:23"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-3",
-    "global_id": 170,
+    "global_id": 199,
     "shiur_num": 3,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5049,11 +6201,12 @@
       "ב"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "30:40"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-4",
-    "global_id": 171,
+    "global_id": 200,
     "shiur_num": 4,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5069,11 +6222,12 @@
       "ג"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "32:38"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-5",
-    "global_id": 172,
+    "global_id": 201,
     "shiur_num": 5,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5089,11 +6243,12 @@
       "ד"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "30:42"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-6",
-    "global_id": 173,
+    "global_id": 202,
     "shiur_num": 6,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5110,11 +6265,12 @@
       "ה"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "33:26"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-7",
-    "global_id": 174,
+    "global_id": 203,
     "shiur_num": 7,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5131,11 +6287,12 @@
       "ה"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "33:59"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-8",
-    "global_id": 175,
+    "global_id": 204,
     "shiur_num": 8,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5152,11 +6309,12 @@
       "ו"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "29:56"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-9",
-    "global_id": 176,
+    "global_id": 205,
     "shiur_num": 9,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5173,11 +6331,12 @@
       "ו"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "35:32"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-10",
-    "global_id": 177,
+    "global_id": 206,
     "shiur_num": 10,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5193,11 +6352,12 @@
       "ז"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "31:32"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-11",
-    "global_id": 178,
+    "global_id": 207,
     "shiur_num": 11,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5213,11 +6373,12 @@
       "ח"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "38:37"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-12",
-    "global_id": 179,
+    "global_id": 208,
     "shiur_num": 12,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5233,11 +6394,12 @@
       "ט"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "33:27"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-13",
-    "global_id": 180,
+    "global_id": 209,
     "shiur_num": 13,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5253,11 +6415,12 @@
       "י"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "28:00"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-14",
-    "global_id": 181,
+    "global_id": 210,
     "shiur_num": 14,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5273,11 +6436,12 @@
       "יא"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "31:27"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-15",
-    "global_id": 182,
+    "global_id": 211,
     "shiur_num": 15,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5293,11 +6457,12 @@
       "יב"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "25:34"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-16",
-    "global_id": 183,
+    "global_id": 212,
     "shiur_num": 16,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5313,11 +6478,12 @@
       "יג"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "27:54"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-17",
-    "global_id": 184,
+    "global_id": 213,
     "shiur_num": 17,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5333,11 +6499,12 @@
       "יד"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "32:50"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-18",
-    "global_id": 185,
+    "global_id": 214,
     "shiur_num": 18,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5353,11 +6520,12 @@
       "טו"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "27:18"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-19",
-    "global_id": 186,
+    "global_id": 215,
     "shiur_num": 19,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5373,11 +6541,12 @@
       "טז"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "28:53"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-20",
-    "global_id": 187,
+    "global_id": 216,
     "shiur_num": 20,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5393,11 +6562,12 @@
       "יז"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "27:30"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-21",
-    "global_id": 188,
+    "global_id": 217,
     "shiur_num": 21,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5414,11 +6584,12 @@
       "יח"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "28:24"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-22",
-    "global_id": 189,
+    "global_id": 218,
     "shiur_num": 22,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5435,11 +6606,12 @@
       "יח"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "32:03"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-23",
-    "global_id": 190,
+    "global_id": 219,
     "shiur_num": 23,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5456,11 +6628,12 @@
       "יח"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "36:00"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-24",
-    "global_id": 191,
+    "global_id": 220,
     "shiur_num": 24,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5477,11 +6650,12 @@
       "יח"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "33:26"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-25",
-    "global_id": 192,
+    "global_id": 221,
     "shiur_num": 25,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5498,11 +6672,12 @@
       "יח"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "34:32"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-26",
-    "global_id": 193,
+    "global_id": 222,
     "shiur_num": 26,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5518,11 +6693,12 @@
       "יט"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "29:10"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-27",
-    "global_id": 194,
+    "global_id": 223,
     "shiur_num": 27,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5537,11 +6713,12 @@
       "פרק"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "29:33"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-28",
-    "global_id": 195,
+    "global_id": 224,
     "shiur_num": 28,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5558,11 +6735,12 @@
       "כא"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "29:12"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-29",
-    "global_id": 196,
+    "global_id": 225,
     "shiur_num": 29,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5579,11 +6757,12 @@
       "כא"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "28:29"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-30",
-    "global_id": 197,
+    "global_id": 226,
     "shiur_num": 30,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5599,11 +6778,12 @@
       "כב"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "6:27"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-31",
-    "global_id": 198,
+    "global_id": 227,
     "shiur_num": 31,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5619,11 +6799,12 @@
       "כג"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "34:31"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-32",
-    "global_id": 199,
+    "global_id": 228,
     "shiur_num": 32,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5639,11 +6820,12 @@
       "כד"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "30:51"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-33",
-    "global_id": 200,
+    "global_id": 229,
     "shiur_num": 33,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5659,11 +6841,12 @@
       "כה"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "29:06"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-34",
-    "global_id": 201,
+    "global_id": 230,
     "shiur_num": 34,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5680,11 +6863,12 @@
       "כו"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "33:13"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-35",
-    "global_id": 202,
+    "global_id": 231,
     "shiur_num": 35,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5701,11 +6885,12 @@
       "כו"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "31:32"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-36",
-    "global_id": 203,
+    "global_id": 232,
     "shiur_num": 36,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5721,11 +6906,12 @@
       "כז"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "31:35"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-37",
-    "global_id": 204,
+    "global_id": 233,
     "shiur_num": 37,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5741,11 +6927,12 @@
       "כח"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "35:08"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-38",
-    "global_id": 205,
+    "global_id": 234,
     "shiur_num": 38,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5761,11 +6948,12 @@
       "כט"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "18:04"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-39",
-    "global_id": 206,
+    "global_id": 235,
     "shiur_num": 39,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5781,11 +6969,12 @@
       "ל"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "17:50"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-40",
-    "global_id": 207,
+    "global_id": 236,
     "shiur_num": 40,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5801,11 +6990,12 @@
       "פרק"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "60:28"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-41",
-    "global_id": 208,
+    "global_id": 237,
     "shiur_num": 41,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5821,11 +7011,12 @@
       "פרק"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
+    "english_year": 5782,
+    "length": "60:28"
   },
   {
     "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-42",
-    "global_id": 209,
+    "global_id": 238,
     "shiur_num": 42,
     "category": "midrash",
     "sub_category": "tanna_devei_eliyahu",
@@ -5841,787 +7032,7 @@
       "פרק"
     ],
     "hebrew_year": "תשפ״ב",
-    "english_year": 5782
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-1",
-    "global_id": 210,
-    "shiur_num": 1,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 13a - Beit Hillel and Beit Shammai practiced love and friendship with one another",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות יג. - ללמדך שחיבה ורעות נוהגים זה בזה",
-    "source_sheet_link": "https://docs.google.com/document/d/1BAX-8wZ_3RVo47Qar8tL6mFDLK19uErR2TTDnwb5iQ4/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1141mjsvzcKUQXTR9tofN34QqDajqd6U3/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "13a",
-      "beit",
-      "hillel",
-      "shammai",
-      "practiced",
-      "love",
-      "friendship",
-      "one",
-      "another",
-      "יבמות",
-      "יג",
-      "ללמדך",
-      "שחיבה",
-      "ורעות",
-      "נוהגים",
-      "בזה"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-2",
-    "global_id": 211,
-    "shiur_num": 2,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 14a - Beit Shammai were of sharper intellect than Beit Hillel",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות יד. - הכא בית שמאי מחדדי טפי",
-    "source_sheet_link": "https://docs.google.com/document/d/1G-N0XdIKpfgBFjr6B9YOuuTB84jKx5IEnbn_FUh_JsM/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/12wsnvjy1sckQbTJOk0WUt90eSfV9sYag/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "14a",
-      "beit",
-      "shammai",
-      "sharper",
-      "intellect",
-      "hillel",
-      "יבמות",
-      "יד",
-      "הכא",
-      "בית",
-      "שמאי",
-      "מחדדי",
-      "טפי"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-3",
-    "global_id": 212,
-    "shiur_num": 3,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 16a - With heaven and earth as my witnesses, Hagai the prophet sat on this very mortar",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות טז. - מעיד אני עלי שמים וארץ שעל מדוכה זו ישב חגי הנביא",
-    "source_sheet_link": "https://docs.google.com/document/d/1dANuBVMQwiu7TKAHGi_cJCVpGR4OwSWKAYNwaVi02yU/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1YfvQEv4Ko7mYDStur-YILYyv4lt8wlD9/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "16a",
-      "heaven",
-      "earth",
-      "witnesses",
-      "hagai",
-      "prophet",
-      "sat",
-      "mortar",
-      "יבמות",
-      "טז",
-      "מעיד",
-      "עלי",
-      "שמים",
-      "וארץ",
-      "שעל",
-      "מדוכה",
-      "זו",
-      "ישב",
-      "חגי",
-      "הנביא"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-4",
-    "global_id": 213,
-    "shiur_num": 4,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 20a - Sanctify yourself through that which is permitted",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות כ. - קדש עצמך במותר לך",
-    "source_sheet_link": "https://docs.google.com/document/d/1bbk1xTV2kHYREIdnYwP47upu_Th__DYcKx7CB7CMCAQ/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1btuMB25AQ9a96EQkTimtDbt5k3J0Hohc/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "20a",
-      "sanctify",
-      "yourself",
-      "through",
-      "permitted",
-      "יבמות",
-      "כ",
-      "קדש",
-      "עצמך",
-      "במותר",
-      "לך"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-5",
-    "global_id": 214,
-    "shiur_num": 5,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 21a - This is comparable to an orchard watchman, if he watches from the outside the entire orchard is guarded",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות כא. - לאדם משמר פרדס משמרו מבחוץ כולו משתמר",
-    "source_sheet_link": "https://docs.google.com/document/d/1mLkTfOhW1lfoqItDB9C31p0JsSJ55BLuntkIK5LLWaw/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1H3QUhL3gHcVQg2-XGOu8T-IYD3Ncleww/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "21a",
-      "comparable",
-      "orchard",
-      "watchman",
-      "watches",
-      "outside",
-      "entire",
-      "guarded",
-      "יבמות",
-      "כא",
-      "לאדם",
-      "משמר",
-      "פרדס",
-      "משמרו",
-      "מבחוץ",
-      "כולו",
-      "משתמר"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-6",
-    "global_id": 215,
-    "shiur_num": 6,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 34b - Er died the same death as his brother Onan",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות לד: - אף הוא באותו מיתה מת",
-    "source_sheet_link": "https://docs.google.com/document/d/1U5YNbjfF6EGw9tVUIMj41WYycBdgwSXGgsBdfP1j9ms/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1qkY7qsDxGs22urRXCu8pNhgTOCV9cBLG/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "34b",
-      "er",
-      "died",
-      "same",
-      "death",
-      "brother",
-      "onan",
-      "יבמות",
-      "לד",
-      "אף",
-      "באותו",
-      "מיתה",
-      "מת"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-7",
-    "global_id": 216,
-    "shiur_num": 7,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 48a - The beautiful captive's mother and father are her idols",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות מח. - אביה ואמה זו עבודת כוכבים",
-    "source_sheet_link": "https://docs.google.com/document/d/140UjQzR3FQGcSyNuJ1fwAjCTviRSFKx6tBuKAMLsjcU/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1EBvS1qO4GgdfxnAwFbE8vmWmmWq-RaUT/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "48a",
-      "beautiful",
-      "captives",
-      "mother",
-      "father",
-      "idols",
-      "יבמות",
-      "מח",
-      "אביה",
-      "ואמה",
-      "זו",
-      "עבודת",
-      "כוכבים"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-8",
-    "global_id": 217,
-    "shiur_num": 8,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 49b - All the prophets saw G-d through a blurry looking glass",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות מט: - כל הנביאים נסתכלו באספקלריא שאינה מאירה",
-    "source_sheet_link": "https://docs.google.com/document/d/10nExmrQ7igARUVnQJGUJ6HTxFOabbkzzy4SqelyF0Bk/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1Ril7vY4POP6-8PBDl2WdUM1vk99G65NX/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "49b",
-      "prophets",
-      "saw",
-      "blurry",
-      "looking",
-      "glass",
-      "יבמות",
-      "מט",
-      "הנביאים",
-      "נסתכלו",
-      "באספקלריא",
-      "שאינה",
-      "מאירה"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-9",
-    "global_id": 218,
-    "shiur_num": 9,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 49b - Moshe acted of his own volition, and his will agreed with the Will of G-d",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות מט: - עשה משה מדעתו והסכימה דעתו לדעת המקום",
-    "source_sheet_link": "https://docs.google.com/document/d/1PVKl5zKjaZrelG7D60vw_EJAsmbM6Yk6uS7IizOCukg/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1yNiEofmJQqaat84iz-6uBPYYsRqQygz2/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "49b",
-      "moshe",
-      "acted",
-      "own",
-      "volition",
-      "will",
-      "agreed",
-      "יבמות",
-      "מט",
-      "עשה",
-      "משה",
-      "מדעתו",
-      "והסכימה",
-      "דעתו",
-      "לדעת",
-      "המקום"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-10",
-    "global_id": 219,
-    "shiur_num": 10,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 62b - Because they didnt treat each other with respect",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות סב: - מפני שלא נהגו כבוד זה לזה",
-    "source_sheet_link": "https://docs.google.com/document/d/14WAjTbzuVjv-oY_Nl6SEXPa4XxAvsVWJk78795PLdgk/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1EHkRC6gaoveg75mjqYOcqOkcjcat6G9L/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "62b",
-      "because",
-      "didnt",
-      "treat",
-      "other",
-      "respect",
-      "יבמות",
-      "סב",
-      "מפני",
-      "שלא",
-      "נהגו",
-      "כבוד",
-      "לזה"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-11",
-    "global_id": 220,
-    "shiur_num": 11,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 63a - 100 coins in business yield meat and wine, while 100 coins in farming yield salt and vegetables",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות סג. - מאה זוזי בעיסקא כל יומא בשרא וחמרא מאה זוזי בארעא מילחא וחפורה",
-    "source_sheet_link": "https://docs.google.com/document/d/1JyOR5EqiFoOzuxOxOmals555D9ghpUhlIkrL8BP1kW4/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1IgZN3x-xZ4A0JLzdpAZ2YzT57jAOdqkH/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "63a",
-      "100",
-      "coins",
-      "business",
-      "yield",
-      "meat",
-      "wine",
-      "farming",
-      "salt",
-      "vegetables",
-      "יבמות",
-      "סג",
-      "מאה",
-      "זוזי",
-      "בעיסקא",
-      "יומא",
-      "בשרא",
-      "וחמרא",
-      "בארעא",
-      "מילחא",
-      "וחפורה"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-12",
-    "global_id": 221,
-    "shiur_num": 12,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 63b - Is the bride a find or found",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות סג: - מצא או מוצא",
-    "source_sheet_link": "https://docs.google.com/document/d/1b6vzlgllOp47rxVi33z37kDywa7uj5LML9rhfmZCbgM/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1IRjTPiHsgrWKC3vAISzjU71YDrMCKvph/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "63b",
-      "bride",
-      "find",
-      "found",
-      "יבמות",
-      "סג",
-      "מצא",
-      "מוצא"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-13",
-    "global_id": 222,
-    "shiur_num": 13,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 64a - Why were our foreparents all barren",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות סד. - מפני מה היו אבותינו עקורים",
-    "source_sheet_link": "https://docs.google.com/document/d/1mLqkSK8yGR2XW22s2MifBV89KhdDwQfSyrxMMyK7BgQ/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1Q0-Srj1C82FW-948RJtvVurUak8zStMA/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "64a",
-      "foreparents",
-      "barren",
-      "יבמות",
-      "סד",
-      "מפני",
-      "מה",
-      "היו",
-      "אבותינו",
-      "עקורים"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-14",
-    "global_id": 223,
-    "shiur_num": 14,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 65b - It is permitted to lie for the sake of peace",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות סה: - מותר לו לאדם לשנות בדבר השלום",
-    "source_sheet_link": "https://docs.google.com/document/d/1fDXw_tYHTJpiaSGGcLsnYC1U68l743NfeH1XGKgtqCU/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1WSRMv_vi46sssCRq0A3MNpNSkvFwNP0o/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "65b",
-      "permitted",
-      "lie",
-      "sake",
-      "peace",
-      "יבמות",
-      "סה",
-      "מותר",
-      "לו",
-      "לאדם",
-      "לשנות",
-      "בדבר",
-      "השלום"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-15",
-    "global_id": 224,
-    "shiur_num": 15,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 71b - Because the Northern wind did not blow for them",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות עא: - משום דלא נשיב להו רוח צפונית",
-    "source_sheet_link": "https://docs.google.com/document/d/1d_iV8AIm6g8DSUql6s_4hRbVwhEohnESDPrYPH3nNs4/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1Fv41DH0NOKFCSIGoemA94muYrhCmKOkR/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "71b",
-      "because",
-      "northern",
-      "wind",
-      "blow",
-      "them",
-      "יבמות",
-      "עא",
-      "משום",
-      "דלא",
-      "נשיב",
-      "להו",
-      "רוח",
-      "צפונית"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-16",
-    "global_id": 225,
-    "shiur_num": 16,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 76b - A king breaches a way for himself and nobody is able to stop him",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות עו: - שהמלך פורץ לעשות דרך ואין ממחין בידו",
-    "source_sheet_link": "https://docs.google.com/document/d/1biBumYpPqmeQ4pyoSdq9mEur_ATbuoPPkJq5b-Vs1ng/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1T1kWwxCghElltCjfhhPHZO7GAQTn1Y95/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "76b",
-      "king",
-      "breaches",
-      "way",
-      "himself",
-      "nobody",
-      "able",
-      "stop",
-      "יבמות",
-      "עו",
-      "שהמלך",
-      "פורץ",
-      "לעשות",
-      "דרך",
-      "ואין",
-      "ממחין",
-      "בידו"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-17",
-    "global_id": 226,
-    "shiur_num": 17,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 77a - Rehavam used to sit in David HaMelech's lap",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות עז. - מלמד שהיה רחבעם יושב בחיקו של דוד",
-    "source_sheet_link": "https://docs.google.com/document/d/1oe4NHE9wc1ldbDQH0mklkl355CoUpL2osi--JPqxdFo/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1Ts6wTNTEKEndEIuSpXZtT2hQRP5msTU4/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "77a",
-      "rehavam",
-      "sit",
-      "david",
-      "hamelech",
-      "lap",
-      "יבמות",
-      "עז",
-      "מלמד",
-      "שהיה",
-      "רחבעם",
-      "יושב",
-      "בחיקו",
-      "דוד"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-18",
-    "global_id": 227,
-    "shiur_num": 18,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 79a - Jews are merciful, modest and doers of good deeds",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות עט. - הרחמנים והביישנין וגומלי חסדים",
-    "source_sheet_link": "https://docs.google.com/document/d/1SlD6nK4nsJesi9KfRTMhZnPauBaX0HpCu0p01iJ5G9I/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1WsLgC3xSOvpMX9R1Vlx46yhBbHDYLdSG/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "79a",
-      "jews",
-      "merciful",
-      "modest",
-      "doers",
-      "good",
-      "deeds",
-      "יבמות",
-      "עט",
-      "הרחמנים",
-      "והביישנין",
-      "וגומלי",
-      "חסדים"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-19",
-    "global_id": 228,
-    "shiur_num": 19,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 86a - Rabbi Akiva may have his shepherd's bag, but Rabbi Elazar lives on",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות פו. - עקיבא בתרמילו ואנא חיי",
-    "source_sheet_link": "https://docs.google.com/document/d/1fpfkEZo5cflsEmT3sdmsr1tw1yBCOhKCnWKClvhuj2Q/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1heUBy9ds-yeJ9fzWHHn0E0fyd9QHr-9h/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "86a",
-      "rabbi",
-      "akiva",
-      "shepherd",
-      "bag",
-      "elazar",
-      "lives",
-      "יבמות",
-      "פו",
-      "עקיבא",
-      "בתרמילו",
-      "ואנא",
-      "חיי"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-20",
-    "global_id": 229,
-    "shiur_num": 20,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 96b - Why don't you know how to appease my honor like Rabbi Yaakov Ben Idi",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "במות צו: - מפני מה אי אתם יודעין לפייס כבן אידי חברינו",
-    "source_sheet_link": "https://docs.google.com/document/d/1epcRGZhJQvINwCI5jA5rw8ZRXIdDkybqkTUENr-5qaA/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1ROn8l3Aa4TyFtTwSitwd4-_dbD0_oJ45/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "96b",
-      "dont",
-      "know",
-      "appease",
-      "honor",
-      "rabbi",
-      "yaakov",
-      "ben",
-      "idi",
-      "יבמות",
-      "צו",
-      "מפני",
-      "מה",
-      "אי",
-      "יודעין",
-      "לפייס",
-      "כבן",
-      "אידי",
-      "חברינו"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-21",
-    "global_id": 230,
-    "shiur_num": 21,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 98a - The Shechinah spoke with Yonah the prophet twice, but not a third time",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות צח. - שנית דברה עמו שכינה שלישית לא דברה עמו",
-    "source_sheet_link": "https://docs.google.com/document/d/1wQdwJPqgS63Mm6SWf4mGuokF4DwJTOVT_sE6Lp0_Mjo/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1UoJBtkoz-lKDYXoilpDVplIGHiuY_BRh/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "98a",
-      "shechinah",
-      "spoke",
-      "yonah",
-      "prophet",
-      "twice",
-      "third",
-      "time",
-      "יבמות",
-      "צח",
-      "שנית",
-      "דברה",
-      "עמו",
-      "שכינה",
-      "שלישית"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-22",
-    "global_id": 231,
-    "shiur_num": 22,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 103a - Sisera was with Yael seven times on that day",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות קג. - שבע בעילות בעל אותו רשע באותו היום",
-    "source_sheet_link": "https://docs.google.com/document/d/1L7BnxET82QW_BhEkWCjRl_4KJZwG7vCGwyTcfBmc-zE/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1LeaEA3mojUwGXrrsPUL3DzuJYAZHR1mX/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "103a",
-      "sisera",
-      "yael",
-      "seven",
-      "times",
-      "day",
-      "יבמות",
-      "קג",
-      "שבע",
-      "בעילות",
-      "אותו",
-      "רשע",
-      "היום"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-23",
-    "global_id": 232,
-    "shiur_num": 23,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 105b - Someone praying should look down, but direct his heart upwards to Heaven",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "יבמות קה: - המתפלל צריך שיתן עיניו למטה ולבו למעלה",
-    "source_sheet_link": "https://docs.google.com/document/d/1zIq4RLvHEf1x2TW87Fx75SoPQMHVyJrMFwVg6WZhKrU/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1wsDyW0EPLgcRi7H35j7JjqUn6IFADa3T/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "105b",
-      "someone",
-      "praying",
-      "should",
-      "look",
-      "down",
-      "direct",
-      "heart",
-      "upwards",
-      "heaven",
-      "יבמות",
-      "קה",
-      "המתפלל",
-      "צריך",
-      "שיתן",
-      "עיניו",
-      "למטה",
-      "ולבו",
-      "למעלה"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
-  },
-  {
-    "id": "ein-yaakov-seder_nashim-yevamot-24",
-    "global_id": 233,
-    "shiur_num": 24,
-    "category": "ein_yaakov",
-    "sub_category": "seder_nashim",
-    "english_sefer": "yevamot",
-    "english_title": "Yevamot 121a - If wicked men attack a man, he should lower his head",
-    "hebrew_sefer": "יבמות",
-    "hebrew_title": "במות קכא. - אם יבואו רשעים על אדם ינענע לו ראשו",
-    "source_sheet_link": "https://docs.google.com/document/d/1YlRH0v0iEq0Y4NGn9PLlJ4LpQ5DEOGjRbS7jXAfbRaA/edit?usp=drive_link",
-    "audio_recording_link": "https://drive.google.com/file/d/1QZ-ioLmKGD_k_WZGuCMBLkqIPgZRFGab/view?usp=drive_link",
-    "tags": [
-      "yevamot",
-      "wicked",
-      "men",
-      "attack",
-      "man",
-      "should",
-      "lower",
-      "head",
-      "יבמות",
-      "קכא",
-      "יבואו",
-      "רשעים",
-      "אדם",
-      "ינענע",
-      "לו",
-      "ראשו"
-    ],
-    "hebrew_year": "תשפ״א",
-    "english_year": 5781
+    "english_year": 5782,
+    "length": "60:28"
   }
 ]
