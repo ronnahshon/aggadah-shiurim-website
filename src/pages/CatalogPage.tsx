@@ -1,22 +1,109 @@
-
-import React, { useEffect, useState, useRef } from 'react';
+import React, { useEffect, useState, useRef, useCallback } from 'react';
 import { Link } from 'react-router-dom';
-import { Headphones, Book, ArrowUp } from 'lucide-react';
+import { Headphones, Book, ArrowUp, Clock } from 'lucide-react';
 import BackToTopButton from '@/components/common/BackToTopButton';
 import { Category, Shiur } from '@/types/shiurim';
-import { organizeShiurimByHierarchy } from '@/utils/dataUtils';
+import { organizeShiurimByHierarchy, getAudioDuration } from '@/utils/dataUtils';
 import shiurimData from '@/data/shiurim_data.json';
+import { getAudioUrl } from '@/utils/s3Utils';
 
 const CatalogPage: React.FC = () => {
   const [categories, setCategories] = useState<Category[]>([]);
+  const [audioDurations, setAudioDurations] = useState<Record<string, string>>({});
+  const [loadingDurations, setLoadingDurations] = useState(false);
   const tocRefs = useRef<Record<string, HTMLHeadingElement | null>>({});
+  const audioRef = useRef<HTMLAudioElement>(null);
+
+  // Function to load duration for a single shiur if not available in data
+  const loadDuration = useCallback(async (shiurId: string) => {
+    try {
+      if (!audioRef.current) return;
+
+      return new Promise<void>((resolve) => {
+        const audioUrl = getAudioUrl(`${shiurId}.mp3`);
+        audioRef.current.src = audioUrl;
+        
+        const handleLoadedMetadata = () => {
+          if (!audioRef.current) return;
+          const minutes = Math.floor(audioRef.current.duration / 60);
+          const seconds = Math.floor(audioRef.current.duration % 60);
+          const formattedDuration = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+          
+          setAudioDurations(prev => ({
+            ...prev,
+            [shiurId]: formattedDuration
+          }));
+          
+          audioRef.current.removeEventListener('loadedmetadata', handleLoadedMetadata);
+          audioRef.current.removeEventListener('error', handleError);
+          resolve();
+        };
+        
+        const handleError = () => {
+          setAudioDurations(prev => ({
+            ...prev,
+            [shiurId]: '--:--'
+          }));
+          
+          if (audioRef.current) {
+            audioRef.current.removeEventListener('loadedmetadata', handleLoadedMetadata);
+            audioRef.current.removeEventListener('error', handleError);
+          }
+          resolve();
+        };
+        
+        audioRef.current.addEventListener('loadedmetadata', handleLoadedMetadata);
+        audioRef.current.addEventListener('error', handleError);
+      });
+    } catch (error) {
+      console.error(`Error loading duration for ${shiurId}:`, error);
+      setAudioDurations(prev => ({
+        ...prev,
+        [shiurId]: '--:--'
+      }));
+    }
+  }, []);
 
   useEffect(() => {
     // Convert the imported JSON to the required type
     const shiurim = shiurimData as unknown as Shiur[];
     const organizedData = organizeShiurimByHierarchy(shiurim);
     setCategories(organizedData);
-  }, []);
+    
+    // First, collect all pre-loaded lengths from the data
+    const preloadedDurations: Record<string, string> = {};
+    let shiurimNeedingDurations: string[] = [];
+    
+    shiurim.forEach(shiur => {
+      // Check if the shiur has a pre-loaded length
+      if ('length' in shiur && shiur.length) {
+        preloadedDurations[shiur.id] = shiur.length as string;
+      } else {
+        shiurimNeedingDurations.push(shiur.id);
+      }
+    });
+    
+    // Set all preloaded durations immediately
+    setAudioDurations(preloadedDurations);
+    
+    // If any shiurim need dynamic duration loading
+    if (shiurimNeedingDurations.length > 0) {
+      setLoadingDurations(true);
+      
+      // Load durations for shiurim without pre-loaded lengths
+      const loadMissingDurations = async () => {
+        // Process 3 shiurim at a time to be gentler on the browser
+        for (let i = 0; i < shiurimNeedingDurations.length; i += 3) {
+          const batch = shiurimNeedingDurations.slice(i, i + 3);
+          await Promise.all(batch.map(id => loadDuration(id)));
+        }
+        
+        setLoadingDurations(false);
+      };
+      
+      loadMissingDurations();
+    }
+  }, [loadDuration]);
 
   const scrollToSefer = (seferId: string) => {
     const element = tocRefs.current[seferId];
@@ -25,8 +112,27 @@ const CatalogPage: React.FC = () => {
     }
   };
 
+  // Helper to get duration from either preloaded data or dynamically loaded data
+  const getDuration = (shiur: Shiur): string => {
+    // First check in audioDurations state (dynamically loaded or from preload)
+    if (audioDurations[shiur.id]) {
+      return audioDurations[shiur.id];
+    }
+    
+    // Then check if it exists in the original data
+    if ('length' in shiur && shiur.length) {
+      return shiur.length as string;
+    }
+    
+    // Default if nothing is available
+    return '--:--';
+  };
+
   return (
     <div className="min-h-screen py-8">
+      {/* Hidden audio element for metadata loading */}
+      <audio ref={audioRef} preload="metadata" style={{ display: 'none' }} />
+      
       <div className="content-container">
         <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-burgundy">
           Shiurim Catalog
@@ -119,7 +225,18 @@ const CatalogPage: React.FC = () => {
                                 </td>
                                 <td className="font-hebrew">{shiur.hebrew_title}</td>
                                 <td className="text-center">{shiur.english_year}</td>
-                                <td className="text-center">45 min</td>
+                                <td className="text-center">
+                                  <div className="flex items-center justify-center">
+                                    {loadingDurations && !getDuration(shiur) ? (
+                                      <span className="text-biblical-brown/70">Loading...</span>
+                                    ) : (
+                                      <>
+                                        <Clock size={14} className="mr-1 text-biblical-brown/70" />
+                                        <span>{getDuration(shiur)}</span>
+                                      </>
+                                    )}
+                                  </div>
+                                </td>
                                 <td className="text-center">
                                   <a 
                                     href={shiur.source_sheet_link} 

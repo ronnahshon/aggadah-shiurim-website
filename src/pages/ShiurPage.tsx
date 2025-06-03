@@ -50,47 +50,6 @@ const ShiurPage: React.FC = () => {
     }
   };
 
-  // Handle MP3 download by fetching the data and creating a Blob URL
-  const handleDownloadMp3 = async () => {
-    if (!shiur) return;
-    
-    const audioUrl = getAudioUrl(`${shiur.id}.mp3`);
-    const fileName = `${shiur.english_title.replace(/[^a-z0-9\s]/gi, '_').toLowerCase().replace(/\s+/g, '_')}.mp3`;
-    
-    try {
-      // Fetch the audio data
-      const response = await fetch(audioUrl);
-      
-      if (!response.ok) {
-        throw new Error(`Failed to fetch audio: ${response.statusText}`);
-      }
-      
-      // Get the data as a Blob
-      const blob = await response.blob();
-      
-      // Create an Object URL for the Blob
-      const blobUrl = URL.createObjectURL(blob);
-      
-      // Create an anchor element and set the appropriate attributes
-      const link = document.createElement('a');
-      link.href = blobUrl;
-      link.download = fileName;
-      
-      // Append to the document, click it, and remove it
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
-      
-      // Revoke the Object URL to free up memory
-      URL.revokeObjectURL(blobUrl);
-      
-    } catch (error) {
-      console.error("Error downloading MP3:", error);
-      // Optionally show an error message to the user
-      alert("Failed to download the MP3 file. Please try again or check your connection.");
-    }
-  };
-
   if (notFound) {
     return (
       <div className="min-h-screen py-12">
@@ -192,13 +151,14 @@ const ShiurPage: React.FC = () => {
                 <FileText size={18} className="mr-2" />
                 Listen to the Shiur
               </h3>
-              <button 
-                onClick={handleDownloadMp3}
-                className="flex items-center text-biblical-navy hover:text-biblical-burgundy cursor-pointer"
+              <a 
+                href={audioUrl}
+                download={`${shiur.english_title}.mp3`}
+                className="flex items-center text-biblical-navy hover:text-biblical-burgundy"
               >
                 <Download size={18} className="mr-1" />
                 Download MP3
-              </button>
+              </a>
             </div>
             <AudioPlayer 
               audioSrc={audioUrl} 

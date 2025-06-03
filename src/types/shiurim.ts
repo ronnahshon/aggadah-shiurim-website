@@ -1,4 +1,3 @@
-
 export interface Shiur {
   id: string;
   global_id: string;
@@ -14,6 +13,7 @@ export interface Shiur {
   hebrew_year: string;
   english_year: string;
   tags: string[];
+  length?: string; // Audio duration in mm:ss format
 }
 
 export interface Category {

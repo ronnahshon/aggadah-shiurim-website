@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -124,8 +123,60 @@ export default {
             },
             backgroundImage: {
                 'parchment-texture': "url('/images/parchment-texture.png')"
+            },
+            typography: {
+                DEFAULT: {
+                    css: {
+                        color: '#3E2723',
+                        a: {
+                            color: '#C9B037',
+                            '&:hover': {
+                                color: '#B87333',
+                            },
+                        },
+                        h1: {
+                            color: '#3E2723',
+                        },
+                        h2: {
+                            color: '#3E2723',
+                        },
+                        h3: {
+                            color: '#3E2723',
+                        },
+                        h4: {
+                            color: '#3E2723',
+                        },
+                        blockquote: {
+                            color: '#556B2F',
+                            borderLeftColor: '#D7CEBF',
+                        },
+                        code: {
+                            color: '#3E2723',
+                        },
+                    },
+                },
+                'biblical': {
+                    css: {
+                        '--tw-prose-body': '#3E2723',
+                        '--tw-prose-headings': '#3E2723',
+                        '--tw-prose-lead': '#3E2723',
+                        '--tw-prose-links': '#C9B037',
+                        '--tw-prose-bold': '#3E2723',
+                        '--tw-prose-counters': '#D7CEB2',
+                        '--tw-prose-bullets': '#D7CEB2',
+                        '--tw-prose-hr': '#D7CEBF',
+                        '--tw-prose-quotes': '#556B2F',
+                        '--tw-prose-quote-borders': '#D7CEBF',
+                        '--tw-prose-captions': '#3E2723',
+                        '--tw-prose-code': '#3E2723',
+                        '--tw-prose-pre-code': '#F5F2E8',
+                        '--tw-prose-pre-bg': '#3E2723',
+                        '--tw-prose-th-borders': '#D7CEBF',
+                        '--tw-prose-td-borders': '#D7CEBF',
+                    },
+                },
             }
 		}
 	},
-	plugins: [require("tailwindcss-animate")],
+	plugins: [require("tailwindcss-animate"), require('@tailwindcss/typography')],
 } satisfies Config;

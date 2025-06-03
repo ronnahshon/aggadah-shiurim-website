@@ -1,5 +1,47 @@
-
 import { Category, Sefer, Shiur, SubCategory } from "@/types/shiurim";
+import { getAudioUrl } from "@/utils/s3Utils";
+
+// Cache for audio durations to avoid refetching
+const audioDurationCache: Record<string, string> = {};
+
+// Utility to get audio duration
+export const getAudioDuration = async (shiurId: string): Promise<string> => {
+  // If we have the duration in cache, return it
+  if (audioDurationCache[shiurId]) {
+    return audioDurationCache[shiurId];
+  }
+
+  // Create a new audio element to fetch the metadata
+  const audio = new Audio();
+  const audioUrl = getAudioUrl(`${shiurId}.mp3`);
+  
+  try {
+    // Return a promise that resolves when the audio metadata is loaded
+    const duration = await new Promise<string>((resolve, reject) => {
+      audio.src = audioUrl;
+      
+      // Set up event listeners
+      audio.addEventListener('loadedmetadata', () => {
+        const minutes = Math.floor(audio.duration / 60);
+        const seconds = Math.floor(audio.duration % 60);
+        const formattedDuration = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+        
+        // Store in cache
+        audioDurationCache[shiurId] = formattedDuration;
+        resolve(formattedDuration);
+      });
+      
+      audio.addEventListener('error', () => {
+        reject(new Error('Failed to load audio metadata'));
+      });
+    });
+    
+    return duration;
+  } catch (error) {
+    console.error('Error fetching audio duration:', error);
+    return '0:00'; // Default duration on error
+  }
+};
 
 export const formatTitle = (text: string): string => {
   return text
