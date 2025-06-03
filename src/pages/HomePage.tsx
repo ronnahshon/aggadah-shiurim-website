@@ -22,8 +22,7 @@ const HomePage: React.FC = () => {
                 📚 Explore Our Extensive Collection
               </p>
               <p className="text-biblical-brown">
-                <span className="font-semibold text-biblical-navy">Thousands of pages</span> of written source sheets, and 
-                <span className="font-semibold text-biblical-navy">hundreds of hours</span> of audio shiurim
+                <span className="font-semibold text-biblical-navy">Thousands of pages</span> of written source sheets, <span className="font-semibold text-biblical-navy">hundreds of hours</span> of audio shiurim
               </p>
             </div>
           </div>
