@@ -136,7 +136,26 @@ export const searchShiurim = (
 export const getUniqueCategories = (shiurim: Shiur[]): string[] => {
   const categories = new Set<string>();
   shiurim.forEach(shiur => categories.add(formatTitle(shiur.category)));
-  return Array.from(categories).sort();
+  
+  // Define the specific order for categories
+  const categoryOrder = ['Ein Yaakov', 'Tanach', 'Midrash'];
+  const uniqueCategories = Array.from(categories);
+  
+  // Sort according to the specified order, with any additional categories at the end
+  return uniqueCategories.sort((a, b) => {
+    const indexA = categoryOrder.indexOf(a);
+    const indexB = categoryOrder.indexOf(b);
+    
+    // If both are in the order array, sort by their position
+    if (indexA !== -1 && indexB !== -1) {
+      return indexA - indexB;
+    }
+    // If only one is in the order array, it comes first
+    if (indexA !== -1) return -1;
+    if (indexB !== -1) return 1;
+    // If neither is in the order array, sort alphabetically
+    return a.localeCompare(b);
+  });
 };
 
 export const getUniqueSubCategories = (shiurim: Shiur[], selectedCategories: string[] = []): string[] => {
@@ -149,7 +168,25 @@ export const getUniqueSubCategories = (shiurim: Shiur[], selectedCategories: str
     }
   });
   
-  return Array.from(subCategories).sort();
+  // Define the specific order for sub-categories
+  const subCategoryOrder = ['Seder Nashim', 'Seder Nezikin', 'Seder Kodashim', 'Seder Toharot', 'Torah', 'Tanna Devei Eliyahu'];
+  const uniqueSubCategories = Array.from(subCategories);
+  
+  // Sort according to the specified order, with any additional sub-categories at the end
+  return uniqueSubCategories.sort((a, b) => {
+    const indexA = subCategoryOrder.indexOf(a);
+    const indexB = subCategoryOrder.indexOf(b);
+    
+    // If both are in the order array, sort by their position
+    if (indexA !== -1 && indexB !== -1) {
+      return indexA - indexB;
+    }
+    // If only one is in the order array, it comes first
+    if (indexA !== -1) return -1;
+    if (indexB !== -1) return 1;
+    // If neither is in the order array, sort alphabetically
+    return a.localeCompare(b);
+  });
 };
 
 export const getUniqueSefarim = (
@@ -171,7 +208,31 @@ export const getUniqueSefarim = (
     }
   });
   
-  return Array.from(sefarim).sort();
+  // Define the order based on first appearance in shiurim_data.json
+  const seferOrder = [
+    'Yevamot', 'Bava Kamma', 'Bava Metzia', 'Makkot', 'Shevuot', 'Avodah Zarah', 
+    'Horayot', 'Zevahim', 'Menahot', 'Hullin', 'Bechorot', 'Arachin', 'Temurah', 
+    'Keritot', 'Meilah', 'Niddah', 'Bereshit', 'Shemot', 'Vayikra', 'Bamidbar', 
+    'Devarim', 'Tanna Devei Eliyahu Rabbah'
+  ];
+  
+  const uniqueSefarim = Array.from(sefarim);
+  
+  // Sort according to the order they first appear in shiurim_data.json
+  return uniqueSefarim.sort((a, b) => {
+    const indexA = seferOrder.indexOf(a);
+    const indexB = seferOrder.indexOf(b);
+    
+    // If both are in the order array, sort by their position
+    if (indexA !== -1 && indexB !== -1) {
+      return indexA - indexB;
+    }
+    // If only one is in the order array, it comes first
+    if (indexA !== -1) return -1;
+    if (indexB !== -1) return 1;
+    // If neither is in the order array, sort alphabetically
+    return a.localeCompare(b);
+  });
 };
 
 export const countShiurimInFilter = (
