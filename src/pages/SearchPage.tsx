@@ -127,7 +127,7 @@ const SearchPage: React.FC = () => {
                 type="text"
                 value={query}
                 onChange={e => setQuery(e.target.value)}
-                placeholder={`Search through ${shiurim.length} shiurim...`}
+                placeholder={`Search through ${shiurim.length} shiurim ...`}
                 className="w-full pl-10 pr-4 py-3 border border-parchment-dark rounded-md bg-white/90 placeholder-biblical-brown/60 focus:outline-none focus:ring-2 focus:ring-biblical-burgundy"
               />
             </div>
