@@ -82,7 +82,7 @@ const ShiurPage: React.FC = () => {
   }
 
   const isGoogleDoc = shiur.source_sheet_link && shiur.source_sheet_link.includes('docs.google.com');
-  const audioUrl = getAudioUrl(`${shiur.id}.mp3`);
+  const audioUrl = shiur.audio_recording_link || getAudioUrl(`${shiur.id}.mp3`);
 
   return (
     <div className="min-h-screen py-8">
