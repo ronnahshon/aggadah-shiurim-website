@@ -8,6 +8,15 @@ const HomePage: React.FC = () => {
       {/* Hero section */}
       <section className="py-16 bg-parchment-texture bg-cover bg-center">
         <div className="content-container text-center">
+          {/* Work in Progress Notice */}
+          <div className="max-w-2xl mx-auto mb-8 animate-fade-in">
+            <div className="bg-amber-50 border border-amber-200 rounded-lg p-4 shadow-sm">
+              <p className="text-amber-800 font-medium">
+                ⚠️ Please be aware: This website is still a work in progress
+              </p>
+            </div>
+          </div>
+          
           <h1 className="text-4xl md:text-5xl font-bold mb-6 text-biblical-burgundy animate-fade-in">
             Welcome to Midrash Aggadah
           </h1>
