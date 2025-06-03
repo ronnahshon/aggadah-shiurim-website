@@ -61,8 +61,11 @@ export const organizeShiurimByHierarchy = (shiurim: Shiur[]): Category[] => {
 
     // Create or get category
     if (!categoriesMap.has(categoryName)) {
+      const formattedCategoryName = formatTitle(categoryName);
+      const displayCategoryName = formattedCategoryName === 'Ein Yaakov' ? 'Ein Yaakov (Talmud)' : formattedCategoryName;
+      
       categoriesMap.set(categoryName, {
-        name: formatTitle(categoryName),
+        name: displayCategoryName,
         subCategories: []
       });
     }
@@ -108,9 +111,15 @@ export const searchShiurim = (
   const lowerCaseQuery = query.toLowerCase();
   
   return shiurim.filter(shiur => {
+    // Map display categories back to data categories for filtering
+    const categoryMatches = filters.categories.length === 0 || filters.categories.some(filterCategory => {
+      const dataCategory = filterCategory === 'Ein Yaakov (Talmud)' ? 'Ein Yaakov' : filterCategory;
+      return dataCategory === formatTitle(shiur.category);
+    });
+    
     // Apply filters first
     if (
-      (filters.categories.length > 0 && !filters.categories.includes(formatTitle(shiur.category))) ||
+      !categoryMatches ||
       (filters.subCategories.length > 0 && !filters.subCategories.includes(formatTitle(shiur.sub_category))) ||
       (filters.sefarim.length > 0 && !filters.sefarim.includes(formatTitle(shiur.english_sefer)))
     ) {
@@ -138,8 +147,11 @@ export const getUniqueCategories = (shiurim: Shiur[]): string[] => {
   shiurim.forEach(shiur => categories.add(formatTitle(shiur.category)));
   
   // Define the specific order for categories
-  const categoryOrder = ['Ein Yaakov', 'Tanach', 'Midrash'];
-  const uniqueCategories = Array.from(categories);
+  const categoryOrder = ['Ein Yaakov (Talmud)', 'Tanach', 'Midrash'];
+  const uniqueCategories = Array.from(categories).map(category => {
+    // Add "(Talmud)" to "Ein Yaakov"
+    return category === 'Ein Yaakov' ? 'Ein Yaakov (Talmud)' : category;
+  });
   
   // Sort according to the specified order, with any additional categories at the end
   return uniqueCategories.sort((a, b) => {
@@ -240,5 +252,10 @@ export const countShiurimInFilter = (
   filterType: 'category' | 'sub_category' | 'english_sefer', 
   filterValue: string
 ): number => {
+  // Map display categories back to data categories for counting
+  if (filterType === 'category' && filterValue === 'Ein Yaakov (Talmud)') {
+    return shiurim.filter(shiur => formatTitle(shiur.category) === 'Ein Yaakov').length;
+  }
+  
   return shiurim.filter(shiur => formatTitle(shiur[filterType]) === filterValue).length;
 };

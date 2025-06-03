@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { Search, X, Headphones, Book, Filter, ArrowDown, ArrowUp } from 'lucide-react';
+import { Search, X, Headphones, Book, Filter } from 'lucide-react';
 import BackToTopButton from '@/components/common/BackToTopButton';
 import shiurimData from '@/data/shiurim_data.json';
 import { Shiur, SearchFilters } from '@/types/shiurim';
@@ -22,8 +22,6 @@ const SearchPage: React.FC = () => {
     sefarim: []
   });
   const [searchResults, setSearchResults] = useState<Shiur[]>([]);
-  const [sortField, setSortField] = useState<'title' | 'year'>('title');
-  const [sortDirection, setSortDirection] = useState<'asc' | 'desc'>('asc');
   const [showFilters, setShowFilters] = useState(true);
 
   // Get unique filter options
@@ -45,24 +43,9 @@ const SearchPage: React.FC = () => {
 
   useEffect(() => {
     // Search and apply filters
-    let results = searchShiurim(shiurim, query, filters);
-    
-    // Apply sorting
-    results = [...results].sort((a, b) => {
-      if (sortField === 'title') {
-        return sortDirection === 'asc' 
-          ? a.english_title.localeCompare(b.english_title)
-          : b.english_title.localeCompare(a.english_title);
-      } else if (sortField === 'year') {
-        return sortDirection === 'asc' 
-          ? a.english_year.localeCompare(b.english_year)
-          : b.english_year.localeCompare(a.english_year);
-      }
-      return 0;
-    });
-    
+    const results = searchShiurim(shiurim, query, filters);
     setSearchResults(results);
-  }, [shiurim, query, filters, sortField, sortDirection]);
+  }, [shiurim, query, filters]);
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -96,15 +79,6 @@ const SearchPage: React.FC = () => {
       subCategories: [],
       sefarim: []
     });
-  };
-
-  const toggleSort = (field: 'title' | 'year') => {
-    if (sortField === field) {
-      setSortDirection(prev => prev === 'asc' ? 'desc' : 'asc');
-    } else {
-      setSortField(field);
-      setSortDirection('asc');
-    }
   };
 
   const toggleFilters = () => {
@@ -218,35 +192,6 @@ const SearchPage: React.FC = () => {
                   </div>
                 </div>
               </div>
-            </div>
-          )}
-
-          {/* Sort options */}
-          {searchResults.length > 0 && (
-            <div className="flex items-center gap-4 text-sm mb-4">
-              <span className="text-biblical-brown/70">Sort by:</span>
-              <button 
-                onClick={() => toggleSort('title')}
-                className={`flex items-center ${sortField === 'title' ? 'font-medium text-biblical-burgundy' : 'text-biblical-brown'}`}
-              >
-                Title
-                {sortField === 'title' && (
-                  sortDirection === 'asc' ? 
-                    <ArrowUp size={16} className="ml-1" /> : 
-                    <ArrowDown size={16} className="ml-1" />
-                )}
-              </button>
-              <button 
-                onClick={() => toggleSort('year')}
-                className={`flex items-center ${sortField === 'year' ? 'font-medium text-biblical-burgundy' : 'text-biblical-brown'}`}
-              >
-                Year
-                {sortField === 'year' && (
-                  sortDirection === 'asc' ? 
-                    <ArrowUp size={16} className="ml-1" /> : 
-                    <ArrowDown size={16} className="ml-1" />
-                )}
-              </button>
             </div>
           )}
         </div>
