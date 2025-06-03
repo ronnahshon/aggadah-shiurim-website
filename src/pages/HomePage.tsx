@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Book, BookOpen, Search, Info } from 'lucide-react';
@@ -15,6 +14,20 @@ const HomePage: React.FC = () => {
           <p className="text-lg md:text-xl max-w-3xl mx-auto mb-8 text-biblical-brown animate-fade-in">
             A website that brings ancient Jewish wisdom and storytelling to life through an accessible collection of lectures and source texts.
           </p>
+          
+          {/* Content Statistics */}
+          <div className="max-w-2xl mx-auto mb-8 animate-fade-in">
+            <div className="bg-white/80 backdrop-blur-sm rounded-lg p-6 shadow-lg border border-biblical-gold/20">
+              <p className="text-lg font-medium text-biblical-burgundy mb-2">
+                📚 Explore Our Extensive Collection
+              </p>
+              <p className="text-biblical-brown">
+                <span className="font-semibold text-biblical-navy">Over 135 hours</span> of audio shiurim and 
+                <span className="font-semibold text-biblical-navy"> hundreds of pages</span> of written source sheets
+              </p>
+            </div>
+          </div>
+          
           <div className="flex flex-wrap justify-center gap-4">
             <Link to="/catalog" className="px-6 py-3 bg-biblical-burgundy text-white rounded-md hover:bg-opacity-90 transition-colors shadow-md">
               Browse Catalog
