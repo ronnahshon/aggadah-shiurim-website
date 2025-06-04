@@ -1,5 +1,4 @@
-
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { useSidebar } from './SidebarProvider';
 import { cn } from '@/lib/utils';
@@ -8,11 +7,83 @@ import { Book, BookOpen, Search, Home, Info, Menu, X } from 'lucide-react';
 const Sidebar: React.FC = () => {
   const { isOpen, toggle } = useSidebar();
   const location = useLocation();
+  const [isMobile, setIsMobile] = useState(false);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+
+  useEffect(() => {
+    const checkIsMobile = () => {
+      setIsMobile(window.innerWidth < 768); // md breakpoint
+    };
+
+    checkIsMobile();
+    window.addEventListener('resize', checkIsMobile);
+    return () => window.removeEventListener('resize', checkIsMobile);
+  }, []);
 
   const isActive = (path: string) => {
     return location.pathname === path;
   };
 
+  const navigationLinks = [
+    { to: '/', icon: Home, label: 'Home' },
+    { to: '/catalog', icon: Book, label: 'Catalog' },
+    { to: '/search', icon: Search, label: 'Search' },
+    { to: '/sefarim', icon: BookOpen, label: 'Sefarim' },
+    { to: '/about', icon: Info, label: 'About' },
+  ];
+
+  // Mobile Navigation (Top Bar)
+  if (isMobile) {
+    return (
+      <>
+        {/* Mobile Top Navigation Bar - Sticky */}
+        <nav className="fixed top-0 left-0 right-0 bg-parchment border-b border-parchment-dark z-40">
+          <div className="flex items-center justify-between px-4 h-14">
+            {/* Mobile Menu Button - Left Side */}
+            <button 
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              className="p-2 rounded-md hover:bg-parchment-dark transition-colors"
+              aria-label={mobileMenuOpen ? "Close menu" : "Open menu"}
+            >
+              {mobileMenuOpen ? <X size={20} /> : <Menu size={20} />}
+            </button>
+            
+            {/* Logo/Title - Right Side */}
+            <Link to="/" className="text-biblical-burgundy font-semibold text-lg">
+              Midrash Aggadah
+            </Link>
+          </div>
+
+          {/* Mobile Menu Dropdown */}
+          {mobileMenuOpen && (
+            <div className="bg-parchment border-t border-parchment-dark">
+              <div className="px-4 py-2 space-y-1">
+                {navigationLinks.map(({ to, icon: Icon, label }) => (
+                  <Link
+                    key={to}
+                    to={to}
+                    onClick={() => setMobileMenuOpen(false)}
+                    className={cn(
+                      'flex items-center gap-3 px-3 py-3 rounded-md text-biblical-brown hover:bg-biblical-burgundy/10 hover:text-biblical-burgundy transition-all',
+                      isActive(to) && 'bg-biblical-burgundy/10 text-biblical-burgundy font-medium'
+                    )}
+                  >
+                    <Icon size={20} />
+                    <span>{label}</span>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+        </nav>
+
+        {/* Mobile Content Spacer */}
+        <div className="h-28"></div>
+      </>
+    );
+  }
+
+  // Desktop Sidebar (Original)
   return (
     <aside
       className={cn(
@@ -36,60 +107,19 @@ const Sidebar: React.FC = () => {
         {/* Navigation links */}
         <div className="flex-1 overflow-y-auto py-4">
           <nav className="space-y-1 px-2">
-            <Link 
-              to="/" 
-              className={cn(
-                'sidebar-link',
-                isActive('/') && 'active'
-              )}
-            >
-              <Home size={20} />
-              {isOpen && <span>Home</span>}
-            </Link>
-            
-            <Link 
-              to="/catalog" 
-              className={cn(
-                'sidebar-link',
-                isActive('/catalog') && 'active'
-              )}
-            >
-              <Book size={20} />
-              {isOpen && <span>Catalog</span>}
-            </Link>
-            
-            <Link 
-              to="/search" 
-              className={cn(
-                'sidebar-link',
-                isActive('/search') && 'active'
-              )}
-            >
-              <Search size={20} />
-              {isOpen && <span>Search</span>}
-            </Link>
-
-            <Link 
-              to="/sefarim" 
-              className={cn(
-                'sidebar-link',
-                isActive('/sefarim') && 'active'
-              )}
-            >
-              <BookOpen size={20} />
-              {isOpen && <span>Sefarim</span>}
-            </Link>
-            
-            <Link 
-              to="/about" 
-              className={cn(
-                'sidebar-link',
-                isActive('/about') && 'active'
-              )}
-            >
-              <Info size={20} />
-              {isOpen && <span>About</span>}
-            </Link>
+            {navigationLinks.map(({ to, icon: Icon, label }) => (
+              <Link
+                key={to}
+                to={to}
+                className={cn(
+                  'sidebar-link',
+                  isActive(to) && 'active'
+                )}
+              >
+                <Icon size={20} />
+                {isOpen && <span>{label}</span>}
+              </Link>
+            ))}
           </nav>
         </div>
         
