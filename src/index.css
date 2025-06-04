@@ -440,3 +440,189 @@
   left: 50%;
   transform: translateX(-50%);
 }
+
+/* Bibliography Section Styling */
+.bibliography-content {
+  text-align: right;
+}
+
+.bibliography-content h4 {
+  text-align: right;
+}
+
+.bibliography-content .grid > div {
+  text-align: right;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(201, 176, 55, 0.3);
+  transition: all 0.2s ease;
+  font-family: 'Noto Sans Hebrew', 'Arial Hebrew', 'David', serif;
+}
+
+.bibliography-content .grid > div:hover {
+  background-color: rgba(201, 176, 55, 0.1);
+  border-color: rgba(201, 176, 55, 0.5);
+  transform: translateY(-1px);
+}
+
+/* Footnotes Section Styling */
+.footnotes-content {
+  text-align: right;
+}
+
+.footnote-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(201, 176, 55, 0.3);
+  transition: all 0.2s ease;
+}
+
+.footnote-item:hover {
+  background-color: rgba(201, 176, 55, 0.1);
+  border-color: rgba(201, 176, 55, 0.5);
+  transform: translateY(-1px);
+}
+
+.footnote-number {
+  display: inline-block;
+  margin-left: 0.5rem;
+  font-family: 'Noto Sans Hebrew', 'Arial Hebrew', 'David', serif;
+}
+
+.footnote-text {
+  font-family: 'Noto Sans Hebrew', 'Arial Hebrew', 'David', serif;
+}
+
+/* Footnote Links and Tooltips */
+.footnote-link {
+  color: #3E2723;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  /* Improve touch target size on mobile */
+  padding: 2px 4px;
+  margin: -2px -4px;
+  border-radius: 3px;
+}
+
+.footnote-link:hover {
+  color: #C9B037;
+  background-color: rgba(201, 176, 55, 0.1);
+}
+
+/* Active state for mobile touch */
+.footnote-link:active {
+  background-color: rgba(201, 176, 55, 0.2);
+  transform: scale(1.05);
+}
+
+.footnote-tooltip {
+  position: absolute;
+  z-index: 50;
+  max-width: 24rem;
+  padding: 0.75rem;
+  background-color: white;
+  border: 1px solid #C9B037;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 0.5rem;
+  font-size: 0.875rem;
+  color: rgb(71 85 105);
+  font-family: 'Noto Sans Hebrew', serif;
+  direction: rtl;
+  text-align: right;
+  line-height: 1.5;
+}
+
+/* Mobile-specific tooltip improvements */
+@media (max-width: 768px) {
+  .footnote-tooltip {
+    max-width: calc(100vw - 20px);
+    font-size: 0.9rem;
+    padding: 1rem;
+    line-height: 1.6;
+    /* Add a subtle animation for mobile */
+    animation: fadeInScale 0.2s ease-out;
+  }
+  
+  .footnote-link {
+    /* Larger touch target on mobile */
+    padding: 4px 6px;
+    margin: -4px -6px;
+    min-height: 24px;
+    display: inline-flex;
+    align-items: center;
+  }
+}
+
+/* Fade in animation for mobile tooltips */
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.9) translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+/* Add a small indicator that footnotes are tappable on mobile */
+@media (max-width: 768px) {
+  .footnote-link::after {
+    content: '';
+    display: inline-block;
+    width: 2px;
+    height: 2px;
+    background-color: currentColor;
+    border-radius: 50%;
+    margin-left: 2px;
+    opacity: 0.6;
+  }
+}
+
+/* Section Separators */
+.section-separator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section-separator span {
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+/* Introduction Section */
+.introduction-section {
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+.introduction-section p {
+  line-height: 1.75;
+}
+
+/* Main content text justification */
+.midrash-content .prose {
+  text-align: justify;
+  text-align-last: right;
+}
+
+/* Text justification for all content */
+.text-justify {
+  text-align: justify;
+  text-align-last: right;
+}
+
+/* Responsive margins for desktop */
+@media (min-width: 1024px) {
+  .max-w-6xl {
+    max-width: 80rem;
+  }
+  
+  .lg\:max-w-7xl {
+    max-width: 90rem;
+  }
+}
+
+/* Ensure proper Hebrew text rendering */
+.font-hebrew {
+  font-family: 'Noto Sans Hebrew', 'Arial Hebrew', 'David', serif;
+  font-feature-settings: 'kern' 1;
+}

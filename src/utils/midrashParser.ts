@@ -23,6 +23,7 @@ export interface MidrashFootnotes {
 
 export interface MidrashContent {
   title: string;
+  introduction?: string[];
   chapters: MidrashChapter[];
   bibliography?: MidrashBibliography;
   footnotesSection?: MidrashFootnotes;
@@ -41,6 +42,18 @@ export function parseMidrashContent(markdownContent: string): MidrashContent {
   let inFootnotes = false;
   let bibliographyContent = '';
   let bibliographyTitle = '';
+  
+  // Extract introduction (lines 3-6: indices 2-5)
+  const introduction: string[] = [];
+  for (let i = 2; i <= 5; i++) {
+    if (lines[i] && lines[i].trim() && !lines[i].startsWith('**פרק')) {
+      // Remove markdown formatting and clean the line
+      const cleanedLine = lines[i].replace(/^\-\s*\*\*/, '').replace(/\*\*$/, '').trim();
+      if (cleanedLine) {
+        introduction.push(cleanedLine);
+      }
+    }
+  }
   
   // First pass: extract footnotes
   let footnoteRegex = /^\[(\^[^\]]+)\]:\s*(.+)$/;
@@ -193,6 +206,11 @@ export function parseMidrashContent(markdownContent: string): MidrashContent {
     chapters,
     allFootnotes
   };
+  
+  // Add introduction if found
+  if (introduction.length > 0) {
+    result.introduction = introduction;
+  }
   
   // Add bibliography if found
   if (bibliographyTitle && bibliographyContent.trim()) {
