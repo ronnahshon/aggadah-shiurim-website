@@ -207,8 +207,6 @@ const CatalogPage: React.FC = () => {
                               <th>Hebrew Title</th>
                               <th className="w-20">Year</th>
                               <th className="w-20">Length</th>
-                              <th className="w-20">Source</th>
-                              <th className="w-20">Audio</th>
                             </tr>
                           </thead>
                           <tbody>
@@ -236,24 +234,6 @@ const CatalogPage: React.FC = () => {
                                       </>
                                     )}
                                   </div>
-                                </td>
-                                <td className="text-center">
-                                  <a 
-                                    href={shiur.source_sheet_link} 
-                                    target="_blank" 
-                                    rel="noopener noreferrer"
-                                    aria-label={`View source sheet for ${shiur.english_title}`}
-                                  >
-                                    <Book className="mx-auto text-biblical-navy hover:text-biblical-burgundy" size={20} />
-                                  </a>
-                                </td>
-                                <td className="text-center">
-                                  <Link 
-                                    to={`/shiur/${shiur.id}`}
-                                    aria-label={`Listen to ${shiur.english_title}`}
-                                  >
-                                    <Headphones className="mx-auto text-biblical-navy hover:text-biblical-burgundy" size={20} />
-                                  </Link>
                                 </td>
                               </tr>
                             ))}

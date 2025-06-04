@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { Search, X, Headphones, Book, Filter } from 'lucide-react';
+import { Search, X, Headphones, Book, Filter, Clock } from 'lucide-react';
 import BackToTopButton from '@/components/common/BackToTopButton';
 import shiurimData from '@/data/shiurim_data.json';
 import { Shiur, SearchFilters } from '@/types/shiurim';
@@ -229,7 +229,7 @@ const SearchPage: React.FC = () => {
                       {formatTitle(shiur.category)} / {formatTitle(shiur.sub_category)} / {formatTitle(shiur.english_sefer)}
                     </p>
                     <p className="text-xs text-biblical-brown/60">
-                      Year: {shiur.english_year} ({shiur.hebrew_year}) / {(shiur as any).length || '--:--'}
+                      Year: {shiur.english_year} ({shiur.hebrew_year}) / <Clock size={14} className="inline mr-1 text-biblical-brown/70" />{(shiur as any).length || '--:--'}
                     </p>
                     
                   </div>
