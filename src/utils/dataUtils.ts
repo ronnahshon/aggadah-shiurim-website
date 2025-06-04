@@ -175,7 +175,14 @@ export const getUniqueSubCategories = (shiurim: Shiur[], selectedCategories: str
   
   shiurim.forEach(shiur => {
     const formattedCategory = formatTitle(shiur.category);
-    if (selectedCategories.length === 0 || selectedCategories.includes(formattedCategory)) {
+    
+    // Map display categories back to data categories for filtering
+    const categoryMatches = selectedCategories.length === 0 || selectedCategories.some(selectedCategory => {
+      const dataCategory = selectedCategory === 'Ein Yaakov (Talmud)' ? 'Ein Yaakov' : selectedCategory;
+      return dataCategory === formattedCategory;
+    });
+    
+    if (categoryMatches) {
       subCategories.add(formatTitle(shiur.sub_category));
     }
   });
@@ -212,10 +219,15 @@ export const getUniqueSefarim = (
     const formattedCategory = formatTitle(shiur.category);
     const formattedSubCategory = formatTitle(shiur.sub_category);
     
-    if (
-      (selectedCategories.length === 0 || selectedCategories.includes(formattedCategory)) &&
-      (selectedSubCategories.length === 0 || selectedSubCategories.includes(formattedSubCategory))
-    ) {
+    // Map display categories back to data categories for filtering
+    const categoryMatches = selectedCategories.length === 0 || selectedCategories.some(selectedCategory => {
+      const dataCategory = selectedCategory === 'Ein Yaakov (Talmud)' ? 'Ein Yaakov' : selectedCategory;
+      return dataCategory === formattedCategory;
+    });
+    
+    const subCategoryMatches = selectedSubCategories.length === 0 || selectedSubCategories.includes(formattedSubCategory);
+    
+    if (categoryMatches && subCategoryMatches) {
       sefarim.add(formatTitle(shiur.english_sefer));
     }
   });
