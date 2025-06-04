@@ -43,8 +43,8 @@ const Sidebar: React.FC = () => {
 
   const navigationLinks = [
     { to: '/', icon: Home, label: 'Home' },
-    { to: '/catalog', icon: Book, label: 'Catalog' },
     { to: '/search', icon: Search, label: 'Search' },
+    { to: '/catalog', icon: Book, label: 'Catalog' },
     { to: '/sefarim', icon: BookOpen, label: 'Sefarim' },
     { to: '/about', icon: Info, label: 'About' },
   ];
