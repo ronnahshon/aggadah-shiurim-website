@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from 'react';
+import { ArrowUp } from 'lucide-react';
 import { parseMidrashContent, renderContentWithFootnotes, cleanMarkdownEscapes, type MidrashContent } from '../utils/midrashParser';
 
 const MidrashHaaliyaPage: React.FC = () => {
   const [midrashContent, setMidrashContent] = useState<MidrashContent | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [showBackToTop, setShowBackToTop] = useState(false);
 
   useEffect(() => {
     const loadMidrash = async () => {
@@ -34,6 +36,23 @@ const MidrashHaaliyaPage: React.FC = () => {
 
     loadMidrash();
   }, []);
+
+  // Back to top functionality
+  useEffect(() => {
+    const handleScroll = () => {
+      setShowBackToTop(window.scrollY > 400);
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  };
 
   useEffect(() => {
     // Add tooltip functionality for footnotes
@@ -328,11 +347,8 @@ const MidrashHaaliyaPage: React.FC = () => {
         </div>
 
         {/* Section separator */}
-        <div className="section-separator my-16">
+        <div className="section-separator my-8">
           <div className="border-t-4 border-biblical-gold/40"></div>
-          <div className="text-center my-4">
-            <span className="text-blue-600 text-2xl">✡ ✡ ✡</span>
-          </div>
         </div>
 
         {/* Sefer Header */}
@@ -347,7 +363,7 @@ const MidrashHaaliyaPage: React.FC = () => {
           {midrashContent.chapters.map((chapter) => (
             <div key={chapter.id} id={`chapter-${chapter.id}`} className="mb-12">
               {/* Chapter Title */}
-              <h2 className="text-2xl font-bold text-biblical-burgundy mb-6 text-center border-b-2 border-biblical-gold pb-2">
+              <h2 className="text-2xl font-bold text-biblical-burgundy mb-6 text-center">
                 {chapter.title}
               </h2>
               
@@ -376,11 +392,8 @@ const MidrashHaaliyaPage: React.FC = () => {
         {midrashContent.bibliography && (
           <>
             {/* Decorative section separator */}
-            <div className="section-separator my-16">
+            <div className="section-separator my-8">
               <div className="border-t-4 border-biblical-gold/40"></div>
-              <div className="text-center my-4">
-                <span className="inline-block px-4 py-2 bg-parchment text-biblical-gold text-2xl">✡ ✡ ✡</span>
-              </div>
             </div>
             
             <div className="bibliography-section mb-16">
@@ -396,11 +409,8 @@ const MidrashHaaliyaPage: React.FC = () => {
         {midrashContent.footnotesSection && (
           <>
             {/* Decorative section separator */}
-            <div className="section-separator my-16">
+            <div className="section-separator my-8">
               <div className="border-t-4 border-biblical-gold/40"></div>
-              <div className="text-center my-4">
-                <span className="inline-block px-4 py-2 bg-parchment text-biblical-gold text-2xl">✡ ✡ ✡</span>
-              </div>
             </div>
             
             <div className="footnotes-section">
@@ -409,9 +419,25 @@ const MidrashHaaliyaPage: React.FC = () => {
               </h2>
               {renderFootnotes(midrashContent.footnotesSection.footnotes)}
             </div>
+
+            {/* Bottom divider line */}
+            <div className="mt-16 mb-8">
+              <div className="border-t-4 border-biblical-gold/40"></div>
+            </div>
           </>
         )}
       </div>
+
+      {/* Back to Top Button */}
+      {showBackToTop && (
+        <button
+          onClick={scrollToTop}
+          className="back-to-top-btn"
+          aria-label="חזור למעלה"
+        >
+          <ArrowUp width="24" height="24" />
+        </button>
+      )}
     </div>
   );
 };
