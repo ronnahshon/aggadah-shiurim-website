@@ -128,17 +128,17 @@ const Sidebar: React.FC = () => {
         <div className="flex-1 overflow-y-auto py-4">
           <nav className="space-y-1 px-2">
             {navigationLinks.map(({ to, icon: Icon, label }) => (
-              <Link
+            <Link 
                 key={to}
                 to={to}
-                className={cn(
-                  'sidebar-link',
+              className={cn(
+                'sidebar-link',
                   isActive(to) && 'active'
-                )}
-              >
+              )}
+            >
                 <Icon size={20} />
                 {isOpen && <span>{label}</span>}
-              </Link>
+            </Link>
             ))}
           </nav>
         </div>

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowUp } from 'lucide-react';
+import { ArrowUp, Download } from 'lucide-react';
 import { parseMidrashContent, renderContentWithFootnotes, cleanMarkdownEscapes, type MidrashContent } from '../utils/midrashParser';
 
 const MidrashHaaliyahPage: React.FC = () => {
@@ -52,6 +52,285 @@ const MidrashHaaliyahPage: React.FC = () => {
       top: 0,
       behavior: 'smooth'
     });
+  };
+
+  const downloadAsPDF = () => {
+    // Create a new window with the content for printing
+    const printWindow = window.open('', '_blank');
+    if (!printWindow) return;
+
+    if (!midrashContent) return;
+
+    // Get the main content
+    const mainContent = document.querySelector('.midrash-content-container');
+    if (!mainContent) return;
+
+    // Generate table of contents
+    const tocContent = midrashContent.chapters.map(chapter => 
+      `<div style="margin-bottom: 8px; font-size: 16px;">${chapter.title}</div>`
+    ).join('');
+
+    // Get introduction content
+    const introContent = midrashContent.introduction 
+      ? midrashContent.introduction.map(line => cleanMarkdownEscapes(line)).join(' ')
+      : '';
+
+    // Generate main content with specific page breaks
+    const generateMainContent = () => {
+      let contentHtml = mainContent.innerHTML;
+      
+      // Add specific page break classes to chapters
+      const chapters = midrashContent.chapters;
+      if (chapters.length > 1) {
+        // Add page break class to פרק ב (second chapter)
+        const chapter2Id = chapters[1].id;
+        contentHtml = contentHtml.replace(
+          `id="chapter-${chapter2Id}"`,
+          `id="chapter-${chapter2Id}" class="chapter-break-19"`
+        );
+      }
+      
+      if (chapters.length > 2) {
+        // Add page break class to פרק ג (third chapter)
+        const chapter3Id = chapters[2].id;
+        contentHtml = contentHtml.replace(
+          `id="chapter-${chapter3Id}"`,
+          `id="chapter-${chapter3Id}" class="chapter-break-35"`
+        );
+      }
+      
+      return contentHtml;
+    };
+
+    printWindow.document.write(`
+      <!DOCTYPE html>
+      <html dir="rtl" lang="he">
+      <head>
+        <meta charset="UTF-8">
+        <title>ספר מדרש העלייה</title>
+        <style>
+          @import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&display=swap');
+          
+          body { 
+            margin: 0; 
+            padding: 40px; 
+            font-family: 'David Libre', serif; 
+            direction: rtl;
+            line-height: 1.6;
+          }
+          
+          .cover-page {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            page-break-after: always;
+          }
+          
+          .cover-title {
+            font-size: 48px;
+            font-weight: bold;
+            color: #8B2635;
+            margin-bottom: 20px;
+          }
+          
+          .cover-author {
+            font-size: 24px;
+            color: #8B2635;
+            font-weight: normal;
+            margin-bottom: 40px;
+          }
+          
+          .toc-page {
+            page-break-before: always;
+            page-break-after: always;
+          }
+          
+          .toc-title {
+            font-size: 32px;
+            font-weight: bold;
+            color: #8B2635;
+            text-align: center;
+            margin-bottom: 40px;
+            border-bottom: 3px solid #C9B037;
+            padding-bottom: 10px;
+          }
+          
+          .toc-content {
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+          }
+          
+          .intro-page {
+            page-break-before: always;
+            page-break-after: always;
+          }
+          
+          .intro-title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #8B2635;
+            text-align: center;
+            margin-bottom: 30px;
+          }
+          
+          .intro-content {
+            text-align: justify;
+            font-size: 18px;
+            line-height: 1.8;
+            color: #374151;
+          }
+          
+          .main-content {
+            page-break-before: always;
+          }
+          
+          .chapter-title {
+            color: #8B2635;
+            font-weight: bold;
+            font-size: 24px;
+            text-align: center;
+            margin: 40px 0 20px 0;
+            page-break-before: always;
+          }
+          
+          .section-title {
+            color: #8B2635;
+            font-weight: 600;
+            font-size: 20px;
+            margin: 30px 0 15px 0;
+          }
+          
+          .section-content {
+            text-align: justify;
+            color: #374151;
+            margin-bottom: 20px;
+            line-height: 1.7;
+          }
+          
+          /* Justify all text content in the sefer */
+          .midrash-content, .midrash-content p, .midrash-content div {
+            text-align: justify !important;
+          }
+          
+          .bibliography-section, .footnotes-section {
+            page-break-before: always;
+          }
+          
+          .bibliography-content {
+            column-count: 3;
+            column-gap: 20px;
+            column-rule: 1px solid #C9B037;
+          }
+          
+          .bibliography-content .grid > div {
+            break-inside: avoid;
+            margin-bottom: 10px;
+          }
+          
+          /* Specific page breaks for chapters */
+          .chapter-break-19 {
+            page-break-before: always;
+          }
+          
+          .chapter-break-35 {
+            page-break-before: always;
+          }
+          
+          .section-header {
+            font-size: 28px;
+            font-weight: bold;
+            color: #8B2635;
+            text-align: center;
+            margin-bottom: 30px;
+          }
+          
+          .footnote-item {
+            margin-bottom: 15px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+          }
+          
+          @media print {
+            body { margin: 0; }
+            .page-break { page-break-before: always; }
+            
+            /* Hide browser headers and footers */
+            @page {
+              margin: 0.5in;
+              size: A4;
+              @top-left { content: ""; }
+              @top-center { content: ""; }
+              @top-right { content: ""; }
+              @bottom-left { content: ""; }
+              @bottom-center { content: ""; }
+              @bottom-right { 
+                content: counter(page);
+                font-family: 'David Libre', serif;
+                font-size: 12px;
+                color: #8B2635;
+              }
+            }
+            
+            /* Ensure no browser-generated content appears */
+            body {
+              -webkit-print-color-adjust: exact;
+              color-adjust: exact;
+            }
+          }
+        </style>
+      </head>
+      <body>
+        <!-- Cover Page -->
+        <div class="cover-page">
+          <div>
+            <div class="cover-title">ספר מדרש העלייה</div>
+            <div class="cover-author">ע״פ רון שמואל בן נדב צבי הכהן</div>
+          </div>
+        </div>
+        
+        <!-- Table of Contents Page -->
+        <div class="toc-page">
+          <div class="toc-title">תוכן העניינים</div>
+          <div class="toc-content">
+            <div style="margin-bottom: 20px; font-size: 18px; font-weight: 600;">ספר מדרש העלייה</div>
+            ${tocContent}
+            <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #C9B037;">
+              <div style="margin-bottom: 8px; font-size: 16px;">מפתח למדרש העלייה</div>
+              <div style="margin-bottom: 8px; font-size: 16px;">הערות</div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Introduction Page -->
+        ${introContent ? `
+        <div class="intro-page">
+          <div class="intro-title">מבוא</div>
+          <div class="intro-content">
+            ${introContent}
+          </div>
+        </div>
+        ` : ''}
+        
+        <!-- Main Content -->
+        <div class="main-content">
+          ${generateMainContent()}
+        </div>
+      </body>
+      </html>
+    `);
+    
+    printWindow.document.close();
+    printWindow.focus();
+    
+    // Wait for content to load then print
+    setTimeout(() => {
+      printWindow.print();
+      printWindow.close();
+    }, 1500);
   };
 
   useEffect(() => {
@@ -353,79 +632,91 @@ const MidrashHaaliyahPage: React.FC = () => {
 
         {/* Sefer Header */}
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-biblical-burgundy">
-            ספר מדרש העלייה
-          </h2>
+          <div className="flex items-center justify-center gap-4">
+            <h2 className="text-3xl font-bold text-biblical-burgundy">
+              ספר מדרש העלייה
+            </h2>
+            <button
+              onClick={downloadAsPDF}
+              className="no-print flex items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
+              title="הורד כ-PDF"
+            >
+              <Download size={20} />
+              <span className="font-hebrew">הורד PDF</span>
+            </button>
+          </div>
         </div>
 
         {/* Main Content */}
-        <div id="main-content" className="midrash-content font-hebrew text-lg leading-relaxed">
-          {midrashContent.chapters.map((chapter) => (
-            <div key={chapter.id} id={`chapter-${chapter.id}`} className="mb-12">
-              {/* Chapter Title */}
-              <h2 className="text-2xl font-bold text-biblical-burgundy mb-6 text-center">
-                {chapter.title}
-              </h2>
+        <div className="midrash-content-container">
+          <div id="main-content" className="midrash-content font-hebrew text-lg leading-relaxed">
+            {midrashContent.chapters.map((chapter) => (
+              <div key={chapter.id} id={`chapter-${chapter.id}`} className="mb-12">
+                {/* Chapter Title */}
+                <h2 className="text-2xl font-bold text-biblical-burgundy mb-6 text-center">
+                  {chapter.title}
+                </h2>
+                
+                {/* Chapter Sections */}
+                {chapter.sections.map((section) => (
+                  <div key={section.id} className="mb-8">
+                    {/* Section Title */}
+                    <h3 className="text-xl font-semibold text-biblical-burgundy mb-4">
+                      {section.title}
+                    </h3>
+                    
+                    {/* Section Content */}
+                    <div 
+                      className="prose prose-lg max-w-none text-slate-800 text-justify"
+                      dangerouslySetInnerHTML={{ 
+                        __html: renderContentWithFootnotes(section.content) 
+                      }}
+                    />
+                  </div>
+                ))}
+              </div>
+            ))}
+          </div>
+
+          {/* Bibliography Section */}
+          {midrashContent.bibliography && (
+            <>
+              {/* Decorative section separator */}
+              <div className="section-separator my-8">
+                <div className="border-t-4 border-biblical-gold/40"></div>
+              </div>
               
-              {/* Chapter Sections */}
-              {chapter.sections.map((section) => (
-                <div key={section.id} className="mb-8">
-                  {/* Section Title */}
-                  <h3 className="text-xl font-semibold text-biblical-burgundy mb-4">
-                    {section.title}
-                  </h3>
-                  
-                  {/* Section Content */}
-                  <div 
-                    className="prose prose-lg max-w-none text-slate-800 text-justify"
-                    dangerouslySetInnerHTML={{ 
-                      __html: renderContentWithFootnotes(section.content) 
-                    }}
-                  />
-                </div>
-              ))}
-            </div>
-          ))}
+              <div className="bibliography-section mb-16">
+                <h2 id="bibliography-section" className="text-3xl font-bold text-biblical-burgundy mb-8 text-center">
+                  {midrashContent.bibliography.title}
+                </h2>
+                {renderBibliographyContent(midrashContent.bibliography.content)}
+              </div>
+            </>
+          )}
+
+          {/* Footnotes Section */}
+          {midrashContent.footnotesSection && (
+            <>
+              {/* Decorative section separator */}
+              <div className="section-separator my-8">
+                <div className="border-t-4 border-biblical-gold/40"></div>
+              </div>
+              
+              <div className="footnotes-section">
+                <h2 id="footnotes-section" className="text-3xl font-bold text-biblical-burgundy mb-8 text-center">
+                  {midrashContent.footnotesSection.title}
+                </h2>
+                {renderFootnotes(midrashContent.footnotesSection.footnotes)}
+              </div>
+
+              {/* Bottom divider line */}
+              <div className="mt-16 mb-8">
+                <div className="border-t-4 border-biblical-gold/40"></div>
+              </div>
+            </>
+          )}
         </div>
-
-        {/* Bibliography Section */}
-        {midrashContent.bibliography && (
-          <>
-            {/* Decorative section separator */}
-            <div className="section-separator my-8">
-              <div className="border-t-4 border-biblical-gold/40"></div>
-            </div>
-            
-            <div className="bibliography-section mb-16">
-              <h2 id="bibliography-section" className="text-3xl font-bold text-biblical-burgundy mb-8 text-center">
-                {midrashContent.bibliography.title}
-              </h2>
-              {renderBibliographyContent(midrashContent.bibliography.content)}
-            </div>
-          </>
-        )}
-
-        {/* Footnotes Section */}
-        {midrashContent.footnotesSection && (
-          <>
-            {/* Decorative section separator */}
-            <div className="section-separator my-8">
-              <div className="border-t-4 border-biblical-gold/40"></div>
-            </div>
-            
-            <div className="footnotes-section">
-              <h2 id="footnotes-section" className="text-3xl font-bold text-biblical-burgundy mb-8 text-center">
-                {midrashContent.footnotesSection.title}
-              </h2>
-              {renderFootnotes(midrashContent.footnotesSection.footnotes)}
-            </div>
-
-            {/* Bottom divider line */}
-            <div className="mt-16 mb-8">
-              <div className="border-t-4 border-biblical-gold/40"></div>
-            </div>
-          </>
-        )}
       </div>
 
       {/* Back to Top Button */}

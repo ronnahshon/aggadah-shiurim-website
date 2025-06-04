@@ -171,7 +171,7 @@ const ShiurPage: React.FC = () => {
               <div className="flex flex-col sm:flex-row sm:items-center mb-3 gap-2">
                 <h3 className="text-base sm:text-lg font-semibold text-biblical-navy flex items-center">
                   <FileText size={16} className="mr-2" />
-                  Source Sheet
+                Source Sheet
                 </h3>
                 {isGoogleDoc && (
                   <a 
