@@ -1,4 +1,3 @@
-
 import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
@@ -14,6 +13,7 @@ import SearchPage from "./pages/SearchPage";
 import ShiurPage from "./pages/ShiurPage";
 import SefarimPage from "./pages/SefarimPage";
 import SeferPage from "./pages/SeferPage";
+import MidrashHaaliyaPage from "./pages/MidrashHaaliyaPage";
 import AboutPage from "./pages/AboutPage";
 import NotFound from "./pages/NotFound";
 
@@ -33,6 +33,7 @@ const App = () => (
             <Route path="/shiur/:shiurId" element={<Layout><ShiurPage /></Layout>} />
             <Route path="/sefarim" element={<Layout><SefarimPage /></Layout>} />
             <Route path="/sefer/:seferId" element={<Layout><SeferPage /></Layout>} />
+            <Route path="/sefer/midrash-haaliya" element={<Layout><MidrashHaaliyaPage /></Layout>} />
             <Route path="/about" element={<Layout><AboutPage /></Layout>} />
             <Route path="*" element={<NotFound />} />
           </Routes>

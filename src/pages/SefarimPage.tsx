@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen } from 'lucide-react';
+import { BookOpen, ExternalLink } from 'lucide-react';
 
 const SefarimPage: React.FC = () => {
   return (
@@ -21,6 +21,17 @@ const SefarimPage: React.FC = () => {
               <BookOpen size={64} className="text-biblical-navy" />
             </div>
             <div className="p-6">
+              {/* Hebrew version CTA */}
+              <div className="mb-4 p-3 bg-biblical-gold/10 rounded-lg border border-biblical-gold/20">
+                <Link 
+                  to="/sefer/midrash-haaliya" 
+                  className="flex items-center justify-center text-biblical-burgundy hover:text-biblical-copper transition-colors font-medium text-sm"
+                >
+                  <span className="mr-2">For the Hebrew version click here</span>
+                  <ExternalLink size={16} />
+                </Link>
+              </div>
+              
               <h2 className="text-xl font-semibold mb-2 text-biblical-burgundy">
                 Midrashim about Moshe Rabbeinu
               </h2>
