@@ -546,7 +546,7 @@ const MidrashHaaliyahPage: React.FC = () => {
 
         {/* Table of Contents */}
         <div className="table-of-contents mb-16">
-          <h2 className="text-3xl font-bold text-biblical-burgundy mb-8 text-center">
+          <h2 className="text-3xl font-bold text-gray-800 mb-8 text-center">
             תוכן העניינים
           </h2>
           
@@ -598,17 +598,29 @@ const MidrashHaaliyahPage: React.FC = () => {
 
         {/* Sefer Header */}
         <div className="relative text-center mb-12">
+          {/* Desktop Layout - Button to the left */}
           <button
             onClick={downloadAsPDF}
-            className="no-print absolute left-0 top-1/2 transform -translate-y-1/2 flex items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
+            className="no-print hidden md:flex absolute left-0 top-1/2 transform -translate-y-1/2 items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
             title="הורד כ-PDF"
           >
             <Download size={20} />
             <span className="font-hebrew">הורד PDF</span>
           </button>
-          <h2 className="text-3xl font-bold text-biblical-burgundy">
+          
+          <h2 className="text-3xl font-bold text-gray-800">
             ספר מדרש העלייה
           </h2>
+          
+          {/* Mobile Layout - Button below header */}
+          <button
+            onClick={downloadAsPDF}
+            className="no-print flex md:hidden items-center gap-2 px-4 py-2 mt-4 mx-auto bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
+            title="הורד כ-PDF"
+          >
+            <Download size={20} />
+            <span className="font-hebrew">הורד PDF</span>
+          </button>
         </div>
 
         {/* Main Content */}
@@ -617,7 +629,7 @@ const MidrashHaaliyahPage: React.FC = () => {
             {midrashContent.chapters.map((chapter) => (
               <div key={chapter.id} id={`chapter-${chapter.id}`} className="mb-12">
                 {/* Chapter Title */}
-                <h2 className="text-2xl font-bold text-biblical-burgundy mb-6 text-center">
+                <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">
                   {chapter.title}
                 </h2>
                 
@@ -625,7 +637,7 @@ const MidrashHaaliyahPage: React.FC = () => {
                 {chapter.sections.map((section) => (
                   <div key={section.id} className="mb-8">
                     {/* Section Title */}
-                    <h3 className="text-xl font-semibold text-biblical-burgundy mb-4 text-center">
+                    <h3 className="text-xl font-semibold text-gray-800 mb-4 text-center">
                       {section.title}
                     </h3>
                     
@@ -658,7 +670,7 @@ const MidrashHaaliyahPage: React.FC = () => {
               </div>
               
               <div className="bibliography-section mb-16">
-                <h2 id="bibliography-section" className="text-3xl font-bold text-biblical-burgundy mb-8 text-center">
+                <h2 id="bibliography-section" className="text-3xl font-bold text-gray-800 mb-8 text-center">
                   {midrashContent.bibliography.title}
                 </h2>
                 {renderBibliographyContent(midrashContent.bibliography.content)}
@@ -675,7 +687,7 @@ const MidrashHaaliyahPage: React.FC = () => {
               </div>
               
               <div className="footnotes-section">
-                <h2 id="footnotes-section" className="text-3xl font-bold text-biblical-burgundy mb-8 text-center">
+                <h2 id="footnotes-section" className="text-3xl font-bold text-gray-800 mb-8 text-center">
                   {midrashContent.footnotesSection.title}
                 </h2>
                 {renderFootnotes(midrashContent.footnotesSection.footnotes)}

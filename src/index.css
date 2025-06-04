@@ -390,8 +390,8 @@
 }
 
 .bibliography-content h4 {
-  @apply text-biblical-burgundy font-semibold;
-  border-bottom: 2px solid rgba(201, 176, 55, 0.3);
+  @apply text-gray-800 font-semibold;
+  text-align: center;
   padding-bottom: 0.5rem;
   margin-bottom: 1rem;
 }
@@ -438,7 +438,7 @@
 }
 
 .bibliography-content h4 {
-  text-align: right;
+  text-align: center;
 }
 
 .bibliography-content .grid > div {
