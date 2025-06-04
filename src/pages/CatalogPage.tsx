@@ -202,11 +202,11 @@ const CatalogPage: React.FC = () => {
                         <table className="catalog-table">
                           <thead>
                             <tr>
-                              <th className="w-12 text-center">#</th>
+                              <th className="w-8 sm:w-12 text-center">#</th>
                               <th className="text-center">English Title</th>
-                              <th className="text-center">Hebrew Title</th>
-                              <th className="w-32 text-center">Year</th>
-                              <th className="w-24 text-center">Length</th>
+                              <th className="text-center hidden sm:table-cell">Hebrew Title</th>
+                              <th className="w-16 sm:w-32 text-center">Year</th>
+                              <th className="w-16 sm:w-24 text-center">Length</th>
                             </tr>
                           </thead>
                           <tbody>
@@ -216,21 +216,24 @@ const CatalogPage: React.FC = () => {
                                 <td className="text-center">
                                   <Link 
                                     to={`/shiur/${shiur.id}`}
-                                    className="text-biblical-navy hover:text-biblical-burgundy hover:underline"
+                                    className="text-biblical-navy hover:text-biblical-burgundy hover:underline block"
                                   >
                                     {shiur.english_title}
                                   </Link>
                                 </td>
-                                <td className="font-hebrew text-center">{shiur.hebrew_title}</td>
-                                <td className="text-center text-sm">{shiur.english_year} ({shiur.hebrew_year})</td>
+                                <td className="font-hebrew text-center hidden sm:table-cell">{shiur.hebrew_title}</td>
+                                <td className="text-center text-xs sm:text-sm">
+                                  <div className="hidden sm:block">{shiur.english_year} ({shiur.hebrew_year})</div>
+                                  <div className="sm:hidden">{shiur.english_year}</div>
+                                </td>
                                 <td className="text-center">
                                   <div className="flex items-center justify-center">
                                     {loadingDurations && !getDuration(shiur) ? (
                                       <span className="text-biblical-brown/70">Loading...</span>
                                     ) : (
                                       <>
-                                        <Clock size={14} className="mr-1 text-biblical-brown/70" />
-                                        <span>{getDuration(shiur)}</span>
+                                        <Clock size={12} className="mr-1 text-biblical-brown/70 hidden sm:inline" />
+                                        <span className="text-xs sm:text-sm">{getDuration(shiur)}</span>
                                       </>
                                     )}
                                   </div>

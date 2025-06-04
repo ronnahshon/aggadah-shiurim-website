@@ -85,42 +85,42 @@ const ShiurPage: React.FC = () => {
   const audioUrl = getAudioUrl(`${shiur.id}.mp3`);
 
   return (
-    <div className="min-h-screen py-8">
+    <div className="min-h-screen py-4 sm:py-8">
       <div className="content-container">
         <div className="max-w-4xl mx-auto">
           {/* Breadcrumb navigation */}
-          <nav className="flex text-sm mb-6 text-biblical-brown/70">
+          <nav className="flex flex-wrap text-xs sm:text-sm mb-4 sm:mb-6 text-biblical-brown/70">
             <Link to="/catalog" className="hover:text-biblical-burgundy">
               Catalog
             </Link>
-            <span className="mx-2">/</span>
-            <span>{formatTitle(shiur.category)}</span>
-            <span className="mx-2">/</span>
-            <span>{formatTitle(shiur.sub_category)}</span>
-            <span className="mx-2">/</span>
-            <span>{formatTitle(shiur.english_sefer)}</span>
+            <span className="mx-1 sm:mx-2">/</span>
+            <span className="truncate">{formatTitle(shiur.category)}</span>
+            <span className="mx-1 sm:mx-2">/</span>
+            <span className="truncate">{formatTitle(shiur.sub_category)}</span>
+            <span className="mx-1 sm:mx-2">/</span>
+            <span className="truncate">{formatTitle(shiur.english_sefer)}</span>
           </nav>
           
           {/* Shiur header */}
-          <div className="bg-white/90 rounded-lg p-6 shadow-md mb-8">
-            <h1 className="text-2xl md:text-3xl font-bold text-biblical-burgundy mb-2">
+          <div className="bg-white/90 rounded-lg p-4 sm:p-6 shadow-md mb-6 sm:mb-8">
+            <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-biblical-burgundy mb-2 leading-tight">
               {shiur.english_title}
             </h1>
             
             {shiur.hebrew_title && (
-              <h2 className="text-xl font-hebrew text-biblical-navy mb-4">
+              <h2 className="text-lg sm:text-xl font-hebrew text-biblical-navy mb-4">
                 {shiur.hebrew_title}
               </h2>
             )}
             
-            <div className="flex flex-wrap gap-3 mb-6">
-              <div className="flex items-center text-sm text-biblical-brown">
-                <Calendar size={16} className="mr-1" />
+            <div className="flex flex-wrap gap-2 sm:gap-3 mb-4 sm:mb-6">
+              <div className="flex items-center text-xs sm:text-sm text-biblical-brown">
+                <Calendar size={14} className="mr-1" />
                 <span>{shiur.hebrew_year} / {shiur.english_year}</span>
               </div>
               
-              <div className="flex items-center text-sm text-biblical-brown">
-                <Clock size={16} className="mr-1" />
+              <div className="flex items-center text-xs sm:text-sm text-biblical-brown">
+                <Clock size={14} className="mr-1" />
                 {loadingDuration ? (
                   <span>Loading...</span>
                 ) : (
@@ -129,15 +129,15 @@ const ShiurPage: React.FC = () => {
               </div>
             </div>
             
-            <div className="flex items-center justify-between flex-wrap gap-4">
-              <div className="flex flex-wrap gap-2">
-                <span className="px-2 py-1 bg-biblical-brown/10 rounded text-biblical-brown text-sm">
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 sm:gap-4">
+              <div className="flex flex-wrap gap-1 sm:gap-2">
+                <span className="px-2 py-1 bg-biblical-brown/10 rounded text-biblical-brown text-xs sm:text-sm">
                   {formatTitle(shiur.category)}
                 </span>
-                <span className="px-2 py-1 bg-biblical-brown/10 rounded text-biblical-brown text-sm">
+                <span className="px-2 py-1 bg-biblical-brown/10 rounded text-biblical-brown text-xs sm:text-sm">
                   {formatTitle(shiur.sub_category)}
                 </span>
-                <span className="px-2 py-1 bg-biblical-brown/10 rounded text-biblical-brown text-sm">
+                <span className="px-2 py-1 bg-biblical-brown/10 rounded text-biblical-brown text-xs sm:text-sm">
                   {formatTitle(shiur.english_sefer)}
                 </span>
               </div>
@@ -145,18 +145,18 @@ const ShiurPage: React.FC = () => {
           </div>
           
           {/* Audio player */}
-          <div className="mb-8">
-            <div className="flex justify-between items-center mb-3">
-              <h3 className="text-lg font-semibold text-biblical-navy flex items-center">
-                <FileText size={18} className="mr-2" />
+          <div className="mb-6 sm:mb-8">
+            <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center mb-3 gap-2">
+              <h3 className="text-base sm:text-lg font-semibold text-biblical-navy flex items-center">
+                <FileText size={16} className="mr-2" />
                 Listen to the Shiur
               </h3>
               <a 
                 href={audioUrl}
                 download={`${shiur.english_title}.mp3`}
-                className="flex items-center text-biblical-navy hover:text-biblical-burgundy"
+                className="flex items-center text-biblical-navy hover:text-biblical-burgundy text-sm"
               >
-                <Download size={18} className="mr-1" />
+                <Download size={16} className="mr-1" />
                 Download MP3
               </a>
             </div>
@@ -167,22 +167,24 @@ const ShiurPage: React.FC = () => {
           
           {/* Source document */}
           {shiur.source_sheet_link && (
-            <div className="mb-8">
-              <h3 className="text-lg font-semibold mb-3 text-biblical-navy flex items-center">
-                <FileText size={18} className="mr-2" />
-                Source Sheet
+            <div className="mb-6 sm:mb-8">
+              <div className="flex flex-col sm:flex-row sm:items-center mb-3 gap-2">
+                <h3 className="text-base sm:text-lg font-semibold text-biblical-navy flex items-center">
+                  <FileText size={16} className="mr-2" />
+                  Source Sheet
+                </h3>
                 {isGoogleDoc && (
                   <a 
                     href={shiur.source_sheet_link}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="ml-2 text-sm text-biblical-navy hover:text-biblical-burgundy flex items-center"
+                    className="text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy flex items-center"
                   >
-                    <ExternalLink size={14} className="mr-1" />
+                    <ExternalLink size={12} className="mr-1" />
                     View in Google Docs
                   </a>
                 )}
-              </h3>
+              </div>
               <DocumentViewer 
                 docUrl={shiur.source_sheet_link} 
                 isGoogleDoc={isGoogleDoc} 
