@@ -67,7 +67,7 @@ const MidrashHaaliyahPage: React.FC = () => {
 
     // Generate table of contents
     const tocContent = midrashContent.chapters.map(chapter => 
-      `<div style="margin-bottom: 8px; font-size: 16px;">${chapter.title}</div>`
+      `<div style="margin-bottom: 12px; font-size: 18px; text-align: center; padding: 8px; border-bottom: 1px solid #C9B037;">${chapter.title}</div>`
     ).join('');
 
     // Get introduction content
@@ -142,6 +142,28 @@ const MidrashHaaliyahPage: React.FC = () => {
             margin-bottom: 40px;
           }
           
+          .toc-page {
+            page-break-before: always;
+            page-break-after: always;
+            padding: 40px 20px;
+          }
+          
+          .toc-title {
+            font-size: 36px;
+            font-weight: bold;
+            color: #8B2635;
+            text-align: center;
+            margin-bottom: 40px;
+            border-bottom: 3px solid #C9B037;
+            padding-bottom: 15px;
+          }
+          
+          .toc-content {
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+          }
+          
           .intro-page {
             page-break-before: always;
             page-break-after: always;
@@ -166,6 +188,11 @@ const MidrashHaaliyahPage: React.FC = () => {
             page-break-before: always;
           }
           
+          /* Center all headers and sub-headers */
+          .chapter-title, h2, h3, h4, h5, h6 {
+            text-align: center !important;
+          }
+          
           .chapter-title {
             color: #8B2635;
             font-weight: bold;
@@ -179,6 +206,7 @@ const MidrashHaaliyahPage: React.FC = () => {
             color: #8B2635;
             font-weight: 600;
             font-size: 20px;
+            text-align: center;
             margin: 30px 0 15px 0;
           }
           
@@ -192,6 +220,11 @@ const MidrashHaaliyahPage: React.FC = () => {
           /* Justify all text content in the sefer */
           .midrash-content, .midrash-content p, .midrash-content div {
             text-align: justify !important;
+          }
+          
+          /* Ensure headers stay centered */
+          .midrash-content h2, .midrash-content h3, .midrash-content h4 {
+            text-align: center !important;
           }
           
           .bibliography-section, .footnotes-section {
@@ -250,7 +283,7 @@ const MidrashHaaliyahPage: React.FC = () => {
                 content: counter(page);
                 font-family: 'David Libre', serif;
                 font-size: 12px;
-                color: #8B2635;
+                color: #666666;
               }
             }
             
@@ -268,6 +301,18 @@ const MidrashHaaliyahPage: React.FC = () => {
           <div>
             <div class="cover-title">ספר מדרש העלייה</div>
             <div class="cover-author">ע״פ רון שמואל בן נדב צבי הכהן</div>
+          </div>
+        </div>
+        
+        <!-- Table of Contents Page -->
+        <div class="toc-page">
+          <div class="toc-title">תוכן העניינים</div>
+          <div class="toc-content">
+            ${tocContent}
+            <div style="margin-top: 40px; padding-top: 20px; border-top: 2px solid #C9B037;">
+              <div style="margin-bottom: 12px; font-size: 18px; text-align: center; padding: 8px;">מפתח למדרש העלייה</div>
+              <div style="margin-bottom: 12px; font-size: 18px; text-align: center; padding: 8px;">הערות</div>
+            </div>
           </div>
         </div>
         
