@@ -205,8 +205,8 @@ const CatalogPage: React.FC = () => {
                               <th className="w-12">#</th>
                               <th>English Title</th>
                               <th>Hebrew Title</th>
-                              <th className="w-20">Year</th>
-                              <th className="w-20">Length</th>
+                              <th className="w-32">Year</th>
+                              <th className="w-24">Length</th>
                             </tr>
                           </thead>
                           <tbody>
@@ -222,7 +222,7 @@ const CatalogPage: React.FC = () => {
                                   </Link>
                                 </td>
                                 <td className="font-hebrew">{shiur.hebrew_title}</td>
-                                <td className="text-center">{shiur.english_year}</td>
+                                <td className="text-center text-sm">{shiur.english_year} ({shiur.hebrew_year})</td>
                                 <td className="text-center">
                                   <div className="flex items-center justify-center">
                                     {loadingDurations && !getDuration(shiur) ? (
