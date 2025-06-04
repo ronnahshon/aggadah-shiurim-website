@@ -24,7 +24,7 @@ const SefarimPage: React.FC = () => {
               {/* Hebrew version CTA */}
               <div className="mb-4 p-3 bg-biblical-gold/10 rounded-lg border border-biblical-gold/20">
                 <Link 
-                  to="/sefer/midrash-haaliya" 
+                  to="/sefer/midrash-haaliyah" 
                   className="flex items-center justify-center text-biblical-burgundy hover:text-biblical-copper transition-colors font-medium text-sm"
                 >
                   <span className="mr-2">For the Hebrew version click here</span>

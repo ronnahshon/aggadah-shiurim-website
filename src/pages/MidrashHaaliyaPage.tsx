@@ -9,7 +9,16 @@ const MidrashHaaliyaPage: React.FC = () => {
   useEffect(() => {
     const loadMidrash = async () => {
       try {
-        const response = await fetch('/midrash-haaliyah.md');
+        // Add cache-busting parameter to ensure latest version is loaded
+        const timestamp = new Date().getTime();
+        const response = await fetch(`/midrash-haaliyah.md?v=${timestamp}`, {
+          cache: 'no-cache',
+          headers: {
+            'Cache-Control': 'no-cache, no-store, must-revalidate',
+            'Pragma': 'no-cache',
+            'Expires': '0'
+          }
+        });
         if (!response.ok) {
           throw new Error('Failed to load midrash content');
         }
