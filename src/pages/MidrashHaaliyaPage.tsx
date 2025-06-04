@@ -184,7 +184,7 @@ const MidrashHaaliyaPage: React.FC = () => {
             <h4 className="text-lg font-semibold text-biblical-burgundy mb-3 border-b border-biblical-gold/30 pb-1">
               {section.title}
             </h4>
-            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-2">
+            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-8 gap-2">
               {section.entries.map((entry, entryIndex) => (
                 <div key={entryIndex} className="text-sm text-slate-700 p-2 bg-parchment/50 rounded">
                   {entry}
@@ -207,7 +207,7 @@ const MidrashHaaliyaPage: React.FC = () => {
 
     return (
       <div className="footnotes-content">
-        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-8 gap-4 items-start">
           {sortedFootnotes.map(([id, content]) => {
             const footnoteNumber = id.slice(1); // Remove the ^ symbol
             return (
@@ -264,7 +264,7 @@ const MidrashHaaliyaPage: React.FC = () => {
       <div className="max-w-6xl lg:max-w-7xl mx-auto px-4 py-8">
         {/* Title */}
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-biblical-burgundy font-hebrew mb-2">
+          <h1 className="text-5xl font-bold text-gray-800 font-hebrew mb-2">
             {midrashContent.title}
           </h1>
         </div>
@@ -272,12 +272,10 @@ const MidrashHaaliyaPage: React.FC = () => {
         {/* Introduction Section */}
         {midrashContent.introduction && (
           <div className="introduction-section mb-12 bg-white/70 rounded-lg p-6 border border-biblical-gold/20">
-            <div className="prose prose-lg max-w-none text-slate-800 font-hebrew text-justify">
-              {midrashContent.introduction.map((line, index) => (
-                <p key={index} className="mb-3 last:mb-0">
-                  {cleanMarkdownEscapes(line)}
-                </p>
-              ))}
+            <div className="max-w-none text-slate-800 font-hebrew text-lg leading-relaxed">
+              <p className="mb-0 text-justify">
+                {midrashContent.introduction.map(line => cleanMarkdownEscapes(line)).join(' ')}
+              </p>
             </div>
           </div>
         )}

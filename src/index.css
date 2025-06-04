@@ -414,7 +414,7 @@
 }
 
 .footnote-number {
-  @apply text-biblical-burgundy font-bold;
+  @apply text-blue-600 font-semibold;
   font-size: 1.1em;
   margin-left: 0.5rem;
 }
