@@ -1,0 +1,13 @@
+Hello! You are a website creator tasked with creating a website from scratch. This website will have the URL https://www.midrashaggadah.com and it will be about midrash aggadah, a branch of non-legal exegesis and exposition found in Rabbinic Judaism. The website should be user-friendly, and geared for English speakers with a basic background in the field.
+
+The website has a catalog of shiurim which already exists. Use the existing catalog. In can be found in the json file "shiurim_data.json". This file should be referenced as part of the website's search functionality and catalog, and it should contain a clear hierarchical structure along with links to source sheets and audio recordings of the shiurim.
+
+In addition, the website should dedicate a page to sefarim (i.e. books) about midrash aggadah, and describe the works in clear language to help the end user understand what they are about. The website should also have an "about" page.
+
+I am attaching for you a markdown file called "prd.md" which is a Product Requirements Document for the website. Please reference it and develop the website accordingly.
+
+All the code to generate this website should be written in Python with a Flask application. Please make sure to create separate Python files for each of the pages of the website along with generally adhering to object-oriented-programming best practices to ensure the code is easy to read, review and edit. Include comments and docstrings where relevant. 
+
+Create a requirements.txt file for all the relevant packages, and make sure to import everything in a way that ensures the website can be run locally upon completion of the task. Finally, keep in mind while generating the code that this website will be deployed to production using Heroku, and the code should be tailored to that end goal.
+ 
+Thank you, and good luck!

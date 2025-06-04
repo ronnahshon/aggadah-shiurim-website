@@ -1,0 +1,20 @@
+Hello! You are tasked with creating a website from scratch. This website will have the URL https://www.midrashaggadah.com and it will be about midrash aggadah, a branch of non-legal exegesis and exposition found in Rabbinic Judaism. The website should be user-friendly, and geared for English speakers with a basic background in the field.
+
+The website has a catalog of shiurim which already exists called shiurim_data.json. This .json contains the following fields: 
+
+* id - unique name
+* global_id
+* shiur_num - id of the specific english_sefer 
+* category -highest level in the hierarchy
+* sub_category - 2nd level in the hierarchy
+* english_sefer - 3rd level in the hierarchy
+* hebrew_sefer - same thing as above but in Hebrew
+* english_title - 4th level in the hierarchy
+* hebrew_title - same thing as above but in Hebrew
+* source_sheet_link - link to a Googledoc with the source text that should be embedded in the corresponding webage
+* audio_recording_link - link to an mp3 file that should be streamable in the corresponding webpage
+* hebrew_year 
+* english_year
+* tags
+
+The ids in this json have corresponding files stored in Amazon S3 that should be referenced as detailed in the below product requirements document (PRD), written in markdown (.md) format. Please execute everything in this document, and create a website where the code easily allows me to add a shiurim_data.json file in the above format that will update the webpages and search and catalog functionalities seamlessly. Thank you!
