@@ -47,13 +47,14 @@ const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = f
             href={getPdfUrl(docUrl)}
             target="_blank" 
             rel="noopener noreferrer"
-            className="flex items-center text-sm text-biblical-navy hover:text-biblical-burgundy"
+            className="flex items-center text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy"
           >
-            <Download size={16} className="mr-1" />
-            Download PDF
+            <Download size={14} className="mr-1" />
+            <span className="hidden sm:inline">Download PDF</span>
+            <span className="sm:hidden">PDF</span>
           </a>
         </div>
-        <div className="border border-parchment-dark rounded-lg overflow-hidden h-[600px]">
+        <div className="border border-parchment-dark rounded-lg overflow-hidden h-[400px] sm:h-[600px] w-full">
           <iframe 
             src={embeddedUrl} 
             title="Document Viewer"
@@ -76,13 +77,14 @@ const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = f
           <a 
             href={downloadUrl}
             download
-            className="flex items-center text-sm text-biblical-navy hover:text-biblical-burgundy"
+            className="flex items-center text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy"
           >
-            <Download size={16} className="mr-1" />
-            Download
+            <Download size={14} className="mr-1" />
+            <span className="hidden sm:inline">Download</span>
+            <span className="sm:hidden">DL</span>
           </a>
         </div>
-        <div className="border border-parchment-dark rounded-lg overflow-hidden h-[600px]">
+        <div className="border border-parchment-dark rounded-lg overflow-hidden h-[400px] sm:h-[600px] w-full">
           <iframe 
             src={viewerUrl} 
             title="Document Viewer"
@@ -97,10 +99,10 @@ const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = f
   const renderExtractedContent = () => {
     return (
       <div className="flex flex-col h-full">
-        <div className="flex justify-between items-center mb-2">
+        <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center mb-2 gap-2">
           <button
             onClick={() => setShowIframe(true)}
-            className="text-sm text-biblical-navy hover:text-biblical-burgundy"
+            className="text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy"
           >
             Switch to embedded view
           </button>
@@ -108,20 +110,21 @@ const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = f
             href={getPdfUrl(docUrl)}
             target="_blank" 
             rel="noopener noreferrer"
-            className="flex items-center text-sm text-biblical-navy hover:text-biblical-burgundy"
+            className="flex items-center text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy"
           >
-            <Download size={16} className="mr-1" />
-            Download PDF
+            <Download size={14} className="mr-1" />
+            <span className="hidden sm:inline">Download PDF</span>
+            <span className="sm:hidden">PDF</span>
           </a>
         </div>
-        <div className="border border-parchment-dark rounded-lg p-6 overflow-auto max-h-[800px] bg-white">
+        <div className="border border-parchment-dark rounded-lg p-4 sm:p-6 overflow-auto max-h-[600px] sm:max-h-[800px] bg-white w-full">
           {isLoading ? (
-            <div className="flex justify-center items-center h-[400px]">
-              <p>Loading document content...</p>
+            <div className="flex justify-center items-center h-[300px] sm:h-[400px]">
+              <p className="text-sm">Loading document content...</p>
             </div>
           ) : (
             <div 
-              className="source-content prose prose-biblical max-w-none" 
+              className="source-content prose prose-biblical max-w-none text-sm sm:text-base" 
               dangerouslySetInnerHTML={{ __html: extractedContent || '' }}
             />
           )}

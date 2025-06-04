@@ -87,18 +87,18 @@ const ShiurPage: React.FC = () => {
   return (
     <div className="min-h-screen py-4 sm:py-8">
       <div className="content-container">
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-full sm:max-w-4xl mx-auto">
           {/* Breadcrumb navigation */}
-          <nav className="flex flex-wrap text-xs sm:text-sm mb-4 sm:mb-6 text-biblical-brown/70">
-            <Link to="/catalog" className="hover:text-biblical-burgundy">
+          <nav className="flex flex-wrap text-xs sm:text-sm mb-4 sm:mb-6 text-biblical-brown/70 overflow-hidden">
+            <Link to="/catalog" className="hover:text-biblical-burgundy flex-shrink-0">
               Catalog
             </Link>
-            <span className="mx-1 sm:mx-2">/</span>
-            <span className="truncate">{formatTitle(shiur.category)}</span>
-            <span className="mx-1 sm:mx-2">/</span>
-            <span className="truncate">{formatTitle(shiur.sub_category)}</span>
-            <span className="mx-1 sm:mx-2">/</span>
-            <span className="truncate">{formatTitle(shiur.english_sefer)}</span>
+            <span className="mx-1 sm:mx-2 flex-shrink-0">/</span>
+            <span className="truncate flex-shrink min-w-0">{formatTitle(shiur.category)}</span>
+            <span className="mx-1 sm:mx-2 flex-shrink-0">/</span>
+            <span className="truncate flex-shrink min-w-0">{formatTitle(shiur.sub_category)}</span>
+            <span className="mx-1 sm:mx-2 flex-shrink-0">/</span>
+            <span className="truncate flex-shrink min-w-0">{formatTitle(shiur.english_sefer)}</span>
           </nav>
           
           {/* Shiur header */}

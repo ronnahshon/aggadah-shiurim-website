@@ -177,6 +177,29 @@
     .catalog-table td:nth-child(5) {
       @apply w-16;
     }
+    
+    /* Ensure no content exceeds viewport width on mobile */
+    * {
+      max-width: 100%;
+      box-sizing: border-box;
+    }
+    
+    /* Prevent horizontal overflow */
+    body, html {
+      overflow-x: hidden;
+    }
+    
+    /* Ensure iframes and embedded content respect container bounds */
+    iframe {
+      max-width: 100% !important;
+    }
+    
+    /* Responsive text wrapping */
+    h1, h2, h3, h4, h5, h6, p, span, div {
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      hyphens: auto;
+    }
   }
 
   .shiur-card {
