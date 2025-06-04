@@ -612,6 +612,29 @@
   }
 }
 
+/* Footnote scroll offset for mobile sticky header */
+@media (max-width: 767px) {
+  /* Add scroll offset for footnote anchors to account for mobile sticky header */
+  [id^="footnote-"] {
+    scroll-margin-top: 120px; /* Mobile header height + some buffer */
+  }
+  
+  [id^="footnote-ref-"] {
+    scroll-margin-top: 120px; /* Mobile header height + some buffer */
+  }
+}
+
+/* Desktop scroll offset (smaller since no sticky header) */
+@media (min-width: 768px) {
+  [id^="footnote-"] {
+    scroll-margin-top: 20px; /* Small buffer for better visibility */
+  }
+  
+  [id^="footnote-ref-"] {
+    scroll-margin-top: 20px; /* Small buffer for better visibility */
+  }
+}
+
 /* Ensure proper Hebrew text rendering */
 .font-hebrew {
   font-family: 'Noto Sans Hebrew', 'Arial Hebrew', 'David', serif;
