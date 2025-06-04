@@ -37,11 +37,11 @@ const HomePage: React.FC = () => {
           </div>
           
           <div className="flex flex-wrap justify-center gap-4">
-            <Link to="/catalog" className="px-6 py-3 bg-biblical-burgundy text-white rounded-md hover:bg-opacity-90 transition-colors shadow-md">
-              Browse Catalog
-            </Link>
             <Link to="/search" className="px-6 py-3 bg-biblical-navy text-white rounded-md hover:bg-opacity-90 transition-colors shadow-md">
               Search Shiurim
+            </Link>
+            <Link to="/catalog" className="px-6 py-3 bg-biblical-burgundy text-white rounded-md hover:bg-opacity-90 transition-colors shadow-md">
+              Browse Catalog
             </Link>
           </div>
         </div>
