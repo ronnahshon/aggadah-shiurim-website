@@ -88,7 +88,7 @@ const SearchPage: React.FC = () => {
   return (
     <div className="min-h-screen py-8">
       <div className="content-container">
-        <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-burgundy">
+        <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-burgundy hidden md:block">
           Search Shiurim
         </h1>
         

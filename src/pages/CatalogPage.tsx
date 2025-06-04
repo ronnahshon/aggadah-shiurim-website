@@ -134,7 +134,7 @@ const CatalogPage: React.FC = () => {
       <audio ref={audioRef} preload="metadata" style={{ display: 'none' }} />
       
       <div className="content-container">
-        <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-burgundy">
+        <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-burgundy hidden md:block">
           Shiurim Catalog
         </h1>
 

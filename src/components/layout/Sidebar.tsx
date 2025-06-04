@@ -24,6 +24,23 @@ const Sidebar: React.FC = () => {
     return location.pathname === path;
   };
 
+  const getPageTitle = () => {
+    switch (location.pathname) {
+      case '/catalog':
+        return 'Shiurim Catalog';
+      case '/search':
+        return 'Search Shiurim';
+      case '/sefarim':
+        return 'Sefarim Collection';
+      case '/about':
+        return 'About Midrash Aggadah';
+      case '/':
+        return 'Midrash Aggadah';
+      default:
+        return 'Midrash Aggadah';
+    }
+  };
+
   const navigationLinks = [
     { to: '/', icon: Home, label: 'Home' },
     { to: '/catalog', icon: Book, label: 'Catalog' },
@@ -42,16 +59,19 @@ const Sidebar: React.FC = () => {
             {/* Mobile Menu Button - Left Side */}
             <button 
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="p-2 rounded-md hover:bg-parchment-dark transition-colors"
+              className="p-2 rounded-md hover:bg-parchment-dark transition-colors flex-shrink-0"
               aria-label={mobileMenuOpen ? "Close menu" : "Open menu"}
             >
               {mobileMenuOpen ? <X size={20} /> : <Menu size={20} />}
             </button>
             
-            {/* Logo/Title - Right Side */}
-            <Link to="/" className="text-biblical-burgundy font-semibold text-lg">
-              Midrash Aggadah
-            </Link>
+            {/* Page Title - Center */}
+            <h1 className="text-biblical-burgundy font-semibold text-base sm:text-lg text-center flex-1 mx-4 truncate">
+              {getPageTitle()}
+            </h1>
+            
+            {/* Empty space for balance - Right Side */}
+            <div className="w-10 flex-shrink-0"></div>
           </div>
 
           {/* Mobile Menu Dropdown */}
