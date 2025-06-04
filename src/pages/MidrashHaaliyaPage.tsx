@@ -184,7 +184,7 @@ const MidrashHaaliyaPage: React.FC = () => {
             <h4 className="text-lg font-semibold text-biblical-burgundy mb-3 border-b border-biblical-gold/30 pb-1">
               {section.title}
             </h4>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
+            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-2">
               {section.entries.map((entry, entryIndex) => (
                 <div key={entryIndex} className="text-sm text-slate-700 p-2 bg-parchment/50 rounded">
                   {entry}
@@ -207,15 +207,29 @@ const MidrashHaaliyaPage: React.FC = () => {
 
     return (
       <div className="footnotes-content">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          {sortedFootnotes.map(([id, content]) => (
-            <div key={id} className="footnote-item p-3 bg-white/70 rounded-lg border border-biblical-gold/20">
-              <span className="footnote-number font-semibold text-biblical-burgundy">
-                {id.slice(1)}:
-              </span>
-              <span className="footnote-text mr-2 text-slate-800">{cleanMarkdownEscapes(content)}</span>
-            </div>
-          ))}
+        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-4">
+          {sortedFootnotes.map(([id, content]) => {
+            const footnoteNumber = id.slice(1); // Remove the ^ symbol
+            return (
+              <div key={id} id={`footnote-${footnoteNumber}`} className="footnote-item p-3 bg-white/70 rounded-lg border border-biblical-gold/20">
+                <a 
+                  href={`#footnote-ref-${footnoteNumber}`} 
+                  className="footnote-return text-blue-600 hover:text-blue-800 transition-colors duration-200 ml-1 font-bold"
+                  title="חזור לטקסט"
+                >
+                  ^
+                </a>
+                <a 
+                  href={`#footnote-ref-${footnoteNumber}`} 
+                  className="footnote-number font-semibold text-blue-600 ml-1"
+                  title="חזור לטקסט"
+                >
+                  {footnoteNumber}
+                </a>
+                <span className="footnote-text text-slate-800">{cleanMarkdownEscapes(content)}</span>
+              </div>
+            );
+          })}
         </div>
       </div>
     );

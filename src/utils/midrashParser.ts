@@ -239,7 +239,7 @@ export function renderContentWithFootnotes(content: string): string {
   return cleanedContent.replace(/\[(\^[^\]]+)\]/g, (match, footnoteId) => {
     // Extract just the number/letter after the ^
     const footnoteNumber = footnoteId.slice(1); // Remove the ^ symbol
-    return `<sup><a href="#footnote-${footnoteNumber}" class="footnote-link" data-footnote="${footnoteId}">${footnoteNumber}</a></sup>`;
+    return `<sup><a href="#footnote-${footnoteNumber}" id="footnote-ref-${footnoteNumber}" class="footnote-link" data-footnote="${footnoteId}">${footnoteNumber}</a></sup>`;
   });
 }
 
