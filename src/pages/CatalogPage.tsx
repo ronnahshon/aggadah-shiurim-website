@@ -202,18 +202,18 @@ const CatalogPage: React.FC = () => {
                         <table className="catalog-table">
                           <thead>
                             <tr>
-                              <th className="w-12">#</th>
-                              <th>English Title</th>
-                              <th>Hebrew Title</th>
-                              <th className="w-32">Year</th>
-                              <th className="w-24">Length</th>
+                              <th className="w-12 text-center">#</th>
+                              <th className="text-center">English Title</th>
+                              <th className="text-center">Hebrew Title</th>
+                              <th className="w-32 text-center">Year</th>
+                              <th className="w-24 text-center">Length</th>
                             </tr>
                           </thead>
                           <tbody>
                             {sefer.shiurim.map((shiur, index) => (
                               <tr key={shiur.id}>
-                                <td>{index + 1}</td>
-                                <td>
+                                <td className="text-center">{index + 1}</td>
+                                <td className="text-center">
                                   <Link 
                                     to={`/shiur/${shiur.id}`}
                                     className="text-biblical-navy hover:text-biblical-burgundy hover:underline"
@@ -221,7 +221,7 @@ const CatalogPage: React.FC = () => {
                                     {shiur.english_title}
                                   </Link>
                                 </td>
-                                <td className="font-hebrew">{shiur.hebrew_title}</td>
+                                <td className="font-hebrew text-center">{shiur.hebrew_title}</td>
                                 <td className="text-center text-sm">{shiur.english_year} ({shiur.hebrew_year})</td>
                                 <td className="text-center">
                                   <div className="flex items-center justify-center">
