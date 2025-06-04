@@ -432,15 +432,6 @@
   text-align: center;
 }
 
-.section-separator::after {
-  content: '✦';
-  @apply text-biblical-gold text-2xl bg-parchment px-4;
-  position: absolute;
-  top: -0.75rem;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
 /* Bibliography Section Styling */
 .bibliography-content {
   text-align: right;

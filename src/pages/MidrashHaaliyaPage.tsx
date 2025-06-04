@@ -280,10 +280,72 @@ const MidrashHaaliyaPage: React.FC = () => {
           </div>
         )}
 
+        {/* Table of Contents */}
+        <div className="table-of-contents mb-16">
+          <h2 className="text-3xl font-bold text-biblical-burgundy mb-8 text-center">
+            תוכן העניינים
+          </h2>
+          
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {/* Right Container - Sefer Midrash HaAliyah */}
+            <div className="bg-gradient-to-br from-white/90 to-parchment/70 rounded-lg p-6 border-2 border-biblical-gold/30 shadow-lg">
+              <h3 className="text-xl font-bold text-biblical-burgundy mb-4 text-center border-b border-biblical-gold/30 pb-2">
+                ספר מדרש העלייה
+              </h3>
+              <div className="text-sm font-hebrew text-center space-y-1">
+                {midrashContent.chapters.map((chapter, index) => (
+                  <a 
+                    key={chapter.id} 
+                    href={`#chapter-${chapter.id}`} 
+                    className="block text-slate-700 hover:text-blue-600 hover:bg-blue-50 rounded px-2 py-1 transition-all duration-200"
+                  >
+                    {chapter.title}
+                  </a>
+                ))}
+              </div>
+            </div>
+
+            {/* Middle Container - Bibliography */}
+            <a href="#bibliography-section" className="block bg-gradient-to-br from-white/90 to-parchment/70 rounded-lg p-6 border-2 border-biblical-gold/30 shadow-lg hover:shadow-xl hover:border-biblical-gold/50 transition-all duration-300">
+              <h3 className="text-xl font-bold text-biblical-burgundy mb-4 text-center border-b border-biblical-gold/30 pb-2">
+                מפתח למדרש העלייה
+              </h3>
+              <div className="text-sm text-slate-700 font-hebrew text-center">
+                ביבליוגרפיה לכל המקורות המצוטטים בספר, כולל מהתורה, תלמוד, מדרשים, ראשונים ועוד
+              </div>
+            </a>
+
+            {/* Left Container - Footnotes */}
+            <a href="#footnotes-section" className="block bg-gradient-to-br from-white/90 to-parchment/70 rounded-lg p-6 border-2 border-biblical-gold/30 shadow-lg hover:shadow-xl hover:border-biblical-gold/50 transition-all duration-300">
+              <h3 className="text-xl font-bold text-biblical-burgundy mb-4 text-center border-b border-biblical-gold/30 pb-2">
+                הערות
+              </h3>
+              <div className="text-sm text-slate-700 font-hebrew text-center">
+                הערות שוליים לכל המקורות המצוטטים בספר
+              </div>
+            </a>
+          </div>
+        </div>
+
+        {/* Section separator */}
+        <div className="section-separator my-16">
+          <div className="border-t-4 border-biblical-gold/40"></div>
+          <div className="text-center my-4">
+            <span className="text-blue-600 text-2xl">✡ ✡ ✡</span>
+          </div>
+        </div>
+
+        {/* Sefer Header */}
+        <div className="text-center mb-12">
+          <h2 className="text-3xl font-bold text-biblical-burgundy">
+            ספר מדרש העלייה
+          </h2>
+        </div>
+
         {/* Main Content */}
-        <div className="midrash-content font-hebrew text-lg leading-relaxed">
+        <div id="main-content" className="midrash-content font-hebrew text-lg leading-relaxed">
           {midrashContent.chapters.map((chapter) => (
-            <div key={chapter.id} className="mb-12">
+            <div key={chapter.id} id={`chapter-${chapter.id}`} className="mb-12">
               {/* Chapter Title */}
               <h2 className="text-2xl font-bold text-biblical-burgundy mb-6 text-center border-b-2 border-biblical-gold pb-2">
                 {chapter.title}
@@ -317,12 +379,12 @@ const MidrashHaaliyaPage: React.FC = () => {
             <div className="section-separator my-16">
               <div className="border-t-4 border-biblical-gold/40"></div>
               <div className="text-center my-4">
-                <span className="inline-block px-4 py-2 bg-parchment text-biblical-gold text-2xl">✦</span>
+                <span className="inline-block px-4 py-2 bg-parchment text-biblical-gold text-2xl">✡ ✡ ✡</span>
               </div>
             </div>
             
             <div className="bibliography-section mb-16">
-              <h2 className="text-2xl font-bold text-biblical-burgundy mb-8 text-center border-b-2 border-biblical-gold pb-2">
+              <h2 id="bibliography-section" className="text-3xl font-bold text-biblical-burgundy mb-8 text-center">
                 {midrashContent.bibliography.title}
               </h2>
               {renderBibliographyContent(midrashContent.bibliography.content)}
@@ -337,12 +399,12 @@ const MidrashHaaliyaPage: React.FC = () => {
             <div className="section-separator my-16">
               <div className="border-t-4 border-biblical-gold/40"></div>
               <div className="text-center my-4">
-                <span className="inline-block px-4 py-2 bg-parchment text-biblical-gold text-2xl">✦</span>
+                <span className="inline-block px-4 py-2 bg-parchment text-biblical-gold text-2xl">✡ ✡ ✡</span>
               </div>
             </div>
             
             <div className="footnotes-section">
-              <h2 className="text-2xl font-bold text-biblical-burgundy mb-8 text-center border-b-2 border-biblical-gold pb-2">
+              <h2 id="footnotes-section" className="text-3xl font-bold text-biblical-burgundy mb-8 text-center">
                 {midrashContent.footnotesSection.title}
               </h2>
               {renderFootnotes(midrashContent.footnotesSection.footnotes)}
