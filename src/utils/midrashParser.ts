@@ -214,12 +214,29 @@ export function parseMidrashContent(markdownContent: string): MidrashContent {
 }
 
 export function renderContentWithFootnotes(content: string): string {
+  // First clean markdown escapes
+  const cleanedContent = cleanMarkdownEscapes(content);
+  
   // Convert footnote references to clickable superscript links
-  return content.replace(/\[(\^[^\]]+)\]/g, (match, footnoteId) => {
+  return cleanedContent.replace(/\[(\^[^\]]+)\]/g, (match, footnoteId) => {
     // Extract just the number/letter after the ^
     const footnoteNumber = footnoteId.slice(1); // Remove the ^ symbol
     return `<sup><a href="#footnote-${footnoteNumber}" class="footnote-link" data-footnote="${footnoteId}">${footnoteNumber}</a></sup>`;
   });
+}
+
+export function cleanMarkdownEscapes(content: string): string {
+  // Remove backslashes before common punctuation marks that are often escaped in markdown
+  return content
+    .replace(/\\-/g, '-')  // Remove backslashes before dashes
+    .replace(/\\:/g, ':')  // Remove backslashes before colons
+    .replace(/\\,/g, ',')  // Remove backslashes before commas
+    .replace(/\\;/g, ';')  // Remove backslashes before semicolons
+    .replace(/\\'/g, "'")  // Remove backslashes before apostrophes
+    .replace(/\\"/g, '"')  // Remove backslashes before quotes
+    .replace(/\\\./g, '.')  // Remove backslashes before periods
+    .replace(/\\\!/g, '!')  // Remove backslashes before exclamation marks
+    .replace(/\\\?/g, '?'); // Remove backslashes before question marks
 }
 
 export function getHebrewNumerals(): Record<string, number> {

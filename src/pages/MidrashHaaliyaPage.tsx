@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { parseMidrashContent, renderContentWithFootnotes, type MidrashContent } from '../utils/midrashParser';
+import { parseMidrashContent, renderContentWithFootnotes, cleanMarkdownEscapes, type MidrashContent } from '../utils/midrashParser';
 
 const MidrashHaaliyaPage: React.FC = () => {
   const [midrashContent, setMidrashContent] = useState<MidrashContent | null>(null);
@@ -60,7 +60,7 @@ const MidrashHaaliyaPage: React.FC = () => {
     
     const tooltip = document.createElement('div');
     tooltip.className = 'footnote-tooltip';
-    tooltip.innerHTML = content;
+    tooltip.innerHTML = cleanMarkdownEscapes(content);
     document.body.appendChild(tooltip);
 
     const rect = element.getBoundingClientRect();
@@ -95,8 +95,11 @@ const MidrashHaaliyaPage: React.FC = () => {
   };
 
   const renderBibliographyContent = (content: string) => {
+    // Clean markdown escapes first
+    const cleanedContent = cleanMarkdownEscapes(content);
+    
     // Split content into sections and format nicely
-    const lines = content.split('\n').filter(line => line.trim());
+    const lines = cleanedContent.split('\n').filter(line => line.trim());
     let currentSection = '';
     const sections: { title: string; entries: string[] }[] = [];
     let currentEntries: string[] = [];
@@ -156,7 +159,7 @@ const MidrashHaaliyaPage: React.FC = () => {
               <span className="footnote-number font-semibold text-burgundy">
                 {id.slice(1)}:
               </span>
-              <span className="footnote-text mr-2 text-slate-800">{content}</span>
+              <span className="footnote-text mr-2 text-slate-800">{cleanMarkdownEscapes(content)}</span>
             </div>
           ))}
         </div>
