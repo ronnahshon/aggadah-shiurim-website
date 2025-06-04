@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { ArrowUp } from 'lucide-react';
 import { parseMidrashContent, renderContentWithFootnotes, cleanMarkdownEscapes, type MidrashContent } from '../utils/midrashParser';
 
-const MidrashHaaliyaPage: React.FC = () => {
+const MidrashHaaliyahPage: React.FC = () => {
   const [midrashContent, setMidrashContent] = useState<MidrashContent | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -442,4 +442,4 @@ const MidrashHaaliyaPage: React.FC = () => {
   );
 };
 
-export default MidrashHaaliyaPage; 
+export default MidrashHaaliyahPage; 
