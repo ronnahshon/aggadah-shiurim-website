@@ -11,9 +11,21 @@ export interface MidrashChapter {
   sections: MidrashSection[];
 }
 
+export interface MidrashBibliography {
+  title: string;
+  content: string;
+}
+
+export interface MidrashFootnotes {
+  title: string;
+  footnotes: Record<string, string>;
+}
+
 export interface MidrashContent {
   title: string;
   chapters: MidrashChapter[];
+  bibliography?: MidrashBibliography;
+  footnotesSection?: MidrashFootnotes;
   allFootnotes: Record<string, string>;
 }
 
@@ -25,7 +37,10 @@ export function parseMidrashContent(markdownContent: string): MidrashContent {
   let currentChapter: MidrashChapter | null = null;
   let currentSection: MidrashSection | null = null;
   let currentContent = '';
+  let inBibliography = false;
   let inFootnotes = false;
+  let bibliographyContent = '';
+  let bibliographyTitle = '';
   
   // First pass: extract footnotes
   let footnoteRegex = /^\[(\^[^\]]+)\]:\s*(.+)$/;
@@ -40,8 +55,58 @@ export function parseMidrashContent(markdownContent: string): MidrashContent {
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i].trim();
     
-    // Skip footnote definitions
+    // Skip footnote definitions during main parsing
     if (line.match(footnoteRegex)) {
+      inFootnotes = true;
+      continue;
+    }
+    
+    // Check for bibliography section
+    if (line === '**מפתח למדרש העלייה**') {
+      // Save current section if exists
+      if (currentSection && currentChapter) {
+        currentSection.content = currentContent.trim();
+        currentChapter.sections.push(currentSection);
+      }
+      
+      // Save current chapter if exists
+      if (currentChapter) {
+        chapters.push(currentChapter);
+      }
+      
+      inBibliography = true;
+      bibliographyTitle = line.replace(/\*\*/g, '');
+      bibliographyContent = '';
+      currentChapter = null;
+      currentSection = null;
+      currentContent = '';
+      continue;
+    }
+    
+    // Check for footnotes section header (optional - might be missing)
+    if (line === '**הערות**') {
+      inBibliography = false;
+      inFootnotes = true;
+      continue;
+    }
+    
+    // If we're in bibliography section and encounter a footnote line, end bibliography
+    if (inBibliography && line.match(footnoteRegex)) {
+      inBibliography = false;
+      inFootnotes = true;
+      continue;
+    }
+    
+    // If we're in bibliography section
+    if (inBibliography && !inFootnotes) {
+      if (line && !line.match(footnoteRegex)) {
+        bibliographyContent += line + '\n';
+      }
+      continue;
+    }
+    
+    // If we're in footnotes section, skip (already processed)
+    if (inFootnotes) {
       continue;
     }
     
@@ -123,11 +188,29 @@ export function parseMidrashContent(markdownContent: string): MidrashContent {
     chapters.push(currentChapter);
   }
   
-  return {
+  const result: MidrashContent = {
     title: 'מדרש העלייה',
     chapters,
     allFootnotes
   };
+  
+  // Add bibliography if found
+  if (bibliographyTitle && bibliographyContent.trim()) {
+    result.bibliography = {
+      title: bibliographyTitle,
+      content: bibliographyContent.trim()
+    };
+  }
+  
+  // Add footnotes section if we have footnotes
+  if (Object.keys(allFootnotes).length > 0) {
+    result.footnotesSection = {
+      title: 'הערות',
+      footnotes: allFootnotes
+    };
+  }
+  
+  return result;
 }
 
 export function renderContentWithFootnotes(content: string): string {

@@ -381,3 +381,62 @@
   @apply text-4xl text-biblical-copper absolute bottom-0 left-2;
   font-family: 'David Libre', serif;
 }
+
+/* Bibliography and Footnotes Section Styling */
+.bibliography-section {
+  @apply font-hebrew;
+  direction: rtl;
+  text-align: right;
+}
+
+.bibliography-content h4 {
+  @apply text-biblical-burgundy font-semibold;
+  border-bottom: 2px solid rgba(201, 176, 55, 0.3);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.bibliography-content .grid > div {
+  @apply bg-white/60 border border-parchment-dark/20 shadow-sm hover:shadow-md transition-shadow duration-200;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.footnotes-section {
+  @apply font-hebrew;
+  direction: rtl;
+  text-align: right;
+}
+
+.footnote-item {
+  @apply transition-all duration-200 hover:shadow-lg hover:bg-white/80;
+  border: 1px solid rgba(201, 176, 55, 0.2);
+}
+
+.footnote-number {
+  @apply text-biblical-burgundy font-bold;
+  font-size: 1.1em;
+  margin-left: 0.5rem;
+}
+
+.footnote-text {
+  @apply text-biblical-brown;
+  line-height: 1.7;
+  font-size: 0.95em;
+}
+
+/* Section separator styling */
+.section-separator {
+  @apply my-16 border-t-4 border-biblical-gold/40;
+  position: relative;
+  text-align: center;
+}
+
+.section-separator::after {
+  content: '✦';
+  @apply text-biblical-gold text-2xl bg-parchment px-4;
+  position: absolute;
+  top: -0.75rem;
+  left: 50%;
+  transform: translateX(-50%);
+}

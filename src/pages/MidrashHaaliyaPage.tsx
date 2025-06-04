@@ -94,6 +94,76 @@ const MidrashHaaliyaPage: React.FC = () => {
     }
   };
 
+  const renderBibliographyContent = (content: string) => {
+    // Split content into sections and format nicely
+    const lines = content.split('\n').filter(line => line.trim());
+    let currentSection = '';
+    const sections: { title: string; entries: string[] }[] = [];
+    let currentEntries: string[] = [];
+
+    for (const line of lines) {
+      if (line.startsWith('**') && line.endsWith('**')) {
+        // This is a section header
+        if (currentSection && currentEntries.length > 0) {
+          sections.push({ title: currentSection, entries: [...currentEntries] });
+        }
+        currentSection = line.replace(/\*\*/g, '');
+        currentEntries = [];
+      } else if (line.trim()) {
+        // This is an entry
+        currentEntries.push(line.trim());
+      }
+    }
+
+    // Add the last section
+    if (currentSection && currentEntries.length > 0) {
+      sections.push({ title: currentSection, entries: currentEntries });
+    }
+
+    return (
+      <div className="bibliography-content">
+        {sections.map((section, index) => (
+          <div key={index} className="mb-6">
+            <h4 className="text-lg font-semibold text-burgundy mb-3 border-b border-gold/30 pb-1">
+              {section.title}
+            </h4>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
+              {section.entries.map((entry, entryIndex) => (
+                <div key={entryIndex} className="text-sm text-slate-700 p-2 bg-parchment/50 rounded">
+                  {entry}
+                </div>
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    );
+  };
+
+  const renderFootnotes = (footnotes: Record<string, string>) => {
+    const sortedFootnotes = Object.entries(footnotes).sort((a, b) => {
+      // Extract the number from the footnote id (e.g., ^123 -> 123)
+      const numA = parseInt(a[0].slice(1)) || 0;
+      const numB = parseInt(b[0].slice(1)) || 0;
+      return numA - numB;
+    });
+
+    return (
+      <div className="footnotes-content">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {sortedFootnotes.map(([id, content]) => (
+            <div key={id} className="footnote-item p-3 bg-white/70 rounded-lg border border-gold/20">
+              <span className="footnote-number font-semibold text-burgundy">
+                {id.slice(1)}:
+              </span>
+              <span className="footnote-text mr-2 text-slate-800">{content}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    );
+  };
+
   if (loading) {
     return (
       <div className="min-h-screen bg-parchment flex items-center justify-center" dir="rtl">
@@ -128,7 +198,7 @@ const MidrashHaaliyaPage: React.FC = () => {
           </h1>
         </div>
 
-        {/* Content */}
+        {/* Main Content */}
         <div className="midrash-content font-hebrew text-lg leading-relaxed">
           {midrashContent.chapters.map((chapter) => (
             <div key={chapter.id} className="mb-12">
@@ -157,6 +227,36 @@ const MidrashHaaliyaPage: React.FC = () => {
             </div>
           ))}
         </div>
+
+        {/* Bibliography Section */}
+        {midrashContent.bibliography && (
+          <>
+            {/* Clear break before bibliography */}
+            <div className="my-16 border-t-4 border-gold/40"></div>
+            
+            <div className="bibliography-section mb-16">
+              <h2 className="text-2xl font-bold text-burgundy mb-8 text-center border-b-2 border-gold pb-2">
+                {midrashContent.bibliography.title}
+              </h2>
+              {renderBibliographyContent(midrashContent.bibliography.content)}
+            </div>
+          </>
+        )}
+
+        {/* Footnotes Section */}
+        {midrashContent.footnotesSection && (
+          <>
+            {/* Clear break before footnotes */}
+            <div className="my-16 border-t-4 border-gold/40"></div>
+            
+            <div className="footnotes-section">
+              <h2 className="text-2xl font-bold text-burgundy mb-8 text-center border-b-2 border-gold pb-2">
+                {midrashContent.footnotesSection.title}
+              </h2>
+              {renderFootnotes(midrashContent.footnotesSection.footnotes)}
+            </div>
+          </>
+        )}
       </div>
     </div>
   );
