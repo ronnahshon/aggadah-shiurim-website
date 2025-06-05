@@ -826,10 +826,30 @@ const MidrashHaaliyahPage: React.FC = () => {
     <div className="min-h-screen bg-parchment" dir="rtl">
       <div className="max-w-6xl lg:max-w-7xl mx-auto px-4 py-8">
         {/* Title */}
-        <div className="text-center mb-8">
+        <div className="relative text-center mb-8">
+          {/* Desktop Layout - Button to the left */}
+          <button
+            onClick={downloadAsPDF}
+            className="no-print hidden md:flex absolute left-0 top-1/2 transform -translate-y-1/2 items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
+            title="הורד כ-PDF"
+          >
+            <Download size={20} />
+            <span className="font-hebrew">הורד PDF</span>
+          </button>
+          
           <h1 className="text-5xl font-bold text-gray-800 font-hebrew mb-2">
             {midrashContent.title}
           </h1>
+          
+          {/* Mobile Layout - Button below header */}
+          <button
+            onClick={downloadAsPDF}
+            className="no-print flex md:hidden items-center gap-2 px-4 py-2 mt-4 mx-auto bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
+            title="הורד כ-PDF"
+          >
+            <Download size={20} />
+            <span className="font-hebrew">הורד PDF</span>
+          </button>
         </div>
 
         {/* Introduction Section */}
@@ -898,30 +918,10 @@ const MidrashHaaliyahPage: React.FC = () => {
         </div>
 
         {/* Sefer Header */}
-        <div className="relative text-center mb-12">
-          {/* Desktop Layout - Button to the left */}
-          <button
-            onClick={downloadAsPDF}
-            className="no-print hidden md:flex absolute left-0 top-1/2 transform -translate-y-1/2 items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
-            title="הורד כ-PDF"
-          >
-            <Download size={20} />
-            <span className="font-hebrew">הורד PDF</span>
-          </button>
-          
+        <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-gray-800">
             ספר מדרש העלייה
           </h2>
-          
-          {/* Mobile Layout - Button below header */}
-          <button
-            onClick={downloadAsPDF}
-            className="no-print flex md:hidden items-center gap-2 px-4 py-2 mt-4 mx-auto bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
-            title="הורד כ-PDF"
-          >
-            <Download size={20} />
-            <span className="font-hebrew">הורד PDF</span>
-          </button>
         </div>
 
         {/* Main Content */}
