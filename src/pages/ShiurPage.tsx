@@ -123,12 +123,11 @@ const ShiurPage: React.FC = () => {
           
           {/* Shiur header */}
           <div className="bg-white/90 rounded-lg p-4 sm:p-6 shadow-md mb-6 sm:mb-8 relative pb-16 sm:pb-16">
-            <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-biblical-burgundy mb-2 leading-tight">
+            <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-biblical-burgundy leading-none">
               {shiur.english_title}
             </h1>
-            
             {shiur.hebrew_title && (
-              <h2 className="text-lg sm:text-xl font-hebrew text-biblical-navy mb-4">
+              <h2 className="text-lg sm:text-xl font-hebrew text-biblical-navy mb-4 -mt-2">
                 {shiur.hebrew_title}
               </h2>
             )}
@@ -163,19 +162,33 @@ const ShiurPage: React.FC = () => {
               </div>
             </div>
 
-            {/* Download PDF Button - Bottom Right Corner */}
-            {shiur.source_sheet_link && (
+            {/* Download Buttons - Bottom Left Corner */}
+            <div className="absolute bottom-4 left-4 flex flex-row gap-2">
+              {/* Download PDF Button */}
+              {shiur.source_sheet_link && (
+                <a
+                  href={getPdfUrl(shiur.source_sheet_link)}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200 text-sm"
+                  title="Download as PDF"
+                >
+                  <Download size={16} />
+                  <span>PDF</span>
+                </a>
+              )}
+              
+              {/* Download Audio Button */}
               <a
-                href={getPdfUrl(shiur.source_sheet_link)}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="absolute bottom-4 right-4 flex items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200 text-sm"
-                title="Download as PDF"
+                href={googleDriveDownloadUrl}
+                download={`${shiur.english_title}.mp3`}
+                className="flex items-center gap-2 px-4 py-2 bg-biblical-navy text-white rounded-lg hover:bg-biblical-navy/90 transition-colors duration-200 text-sm"
+                title="Download Audio"
               >
                 <Download size={16} />
-                <span>Download as PDF</span>
+                <span>MP3</span>
               </a>
-            )}
+            </div>
           </div>
           
           {/* Audio player - moved up and titles removed */}

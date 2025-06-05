@@ -191,7 +191,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
                     aria-label="Volume level"
                   />
                 </div>
-                <span className="text-xs text-biblical-brown">Volume</span>
+                <span className="text-xs text-biblical-brown hidden sm:inline">Volume</span>
               </div>
             </div>
           )}
@@ -224,7 +224,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
                     aria-label="Playback speed"
                   />
                 </div>
-                <span className="text-xs text-biblical-brown">Speed</span>
+                <span className="text-xs text-biblical-brown hidden sm:inline">Speed</span>
               </div>
             </div>
           )}
@@ -234,10 +234,10 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
         <a 
           href={download}
           download={fileName || 'audio.mp3'}
-          className="flex items-center justify-center w-8 h-8 text-gray-600 hover:text-biblical-burgundy transition-colors flex-shrink-0"
+          className="flex items-center justify-center w-8 h-8 text-gray-800 hover:text-biblical-burgundy transition-colors flex-shrink-0"
           aria-label="Download audio"
         >
-          <ArrowDown size={16} className="sm:w-[18px] sm:h-[18px]" />
+          <ArrowDown size={18} className="sm:w-[20px] sm:h-[20px]" />
         </a>
       </div>
 
