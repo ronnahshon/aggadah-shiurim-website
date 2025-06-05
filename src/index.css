@@ -247,10 +247,16 @@
 
 /* Images - always make responsive but preserve other styling */
 .google-doc-content img {
-  max-width: 100%;
-  height: auto;
+  max-width: 100% !important;
+  height: auto !important;
   display: block;
   margin: 0.5rem auto;
+  border: none;
+}
+
+/* Fix for images that might have inline display styles */
+.google-doc-content img[style*="display"] {
+  display: block !important;
 }
 
 /* Tables - basic responsive behavior only */

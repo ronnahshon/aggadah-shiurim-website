@@ -41,63 +41,97 @@ function fixImageUrls(htmlContent: string, docUrl: string): string {
   const docIdMatch = docUrl.match(/\/d\/([a-zA-Z0-9-_]+)/);
   const docId = docIdMatch ? docIdMatch[1] : null;
   
+  console.log('Processing images for document:', docId);
+  
   return htmlContent.replace(/<img[^>]*>/gi, (imgTag) => {
+    console.log('Processing image tag:', imgTag);
+    
     // Extract the src attribute
     const srcMatch = imgTag.match(/src=["']([^"']+)["']/i);
-    if (!srcMatch) return imgTag;
-    
-    let src = srcMatch[1];
-    
-    // Handle different types of Google image URLs
-    if (src.startsWith('https://lh3.googleusercontent.com/') || 
-        src.startsWith('https://lh4.googleusercontent.com/') ||
-        src.startsWith('https://lh5.googleusercontent.com/') ||
-        src.startsWith('https://lh6.googleusercontent.com/') ||
-        src.startsWith('https://lh7.googleusercontent.com/')) {
-      // These are already public Google User Content URLs, but we might need to adjust them
-      // Remove any size restrictions to get full size images
-      src = src.replace(/=w\d+/, '').replace(/=h\d+/, '').replace(/=s\d+/, '');
-    } else if (src.includes('docs.google.com/drawings')) {
-      // Google Drawings - these should already be publicly accessible if the doc is public
-      // No modification needed
-    } else if (src.startsWith('https://docs.google.com/') && docId) {
-      // Internal Google Docs URLs - try to convert to public format
-      if (src.includes('/images/')) {
-        // Try to extract image ID and convert to public URL
-        const imageIdMatch = src.match(/images\/([^\/\?]+)/);
-        if (imageIdMatch) {
-          src = `https://docs.google.com/document/d/${docId}/export?format=png&id=${imageIdMatch[1]}`;
-        }
-      }
-    } else if (src.startsWith('/')) {
-      // Relative URLs - make them absolute with Google Docs domain
-      src = 'https://docs.google.com' + src;
+    if (!srcMatch) {
+      console.log('No src found in image tag');
+      return imgTag;
     }
     
-    // Add error handling and styling to images
-    const styledImgTag = imgTag
-      .replace(/src=["'][^"']*["']/i, `src="${src}"`)
-      .replace(/<img/, '<img loading="lazy" onerror="this.style.display=\'none\'"')
-      .replace(/style=["']([^"']*)["']/i, (match, styles) => {
-        // Ensure images are responsive and maintain aspect ratio
-        const hasMaxWidth = styles.includes('max-width');
-        const hasWidth = styles.includes('width') && !hasMaxWidth;
+    let src = srcMatch[1];
+    const originalSrc = src;
+    console.log('Original image src:', src);
+    
+    // Handle different types of Google image URLs
+    if (src.startsWith('https://lh') && src.includes('googleusercontent.com')) {
+      // Google User Content URLs (both traditional and new docsz format) - keep as-is
+      // These URLs should be publicly accessible if the document is public
+      console.log('Processing googleusercontent URL (keeping original with key if present)');
+      
+      // Only remove size restrictions for URLs that don't have a key parameter
+      if (!src.includes('?key=')) {
+        src = src.replace(/=w\d+(-h\d+)?(-no)?(-c)?(-k)?$/, '');
+        src = src.replace(/=h\d+(-no)?(-c)?(-k)?$/, '');
+        src = src.replace(/=s\d+(-no)?(-c)?(-k)?$/, '');
+        console.log('Removed size restrictions from googleusercontent URL:', src);
+      } else {
+        console.log('Keeping keyed googleusercontent URL as-is:', src);
+      }
+    } else if (src.includes('docs.google.com/drawings')) {
+      // Google Drawings - usually publicly accessible if doc is public
+      console.log('Google Drawings URL detected, keeping as-is');
+    } else if (src.startsWith('data:image/')) {
+      // Base64 encoded images - leave as is
+      console.log('Base64 image detected, keeping as-is');
+    } else if (src.startsWith('/') && docId) {
+      // Relative URLs - convert to absolute but keep original path
+      console.log('Processing relative URL');
+      src = 'https://docs.google.com' + src;
+      console.log('Converted to absolute URL:', src);
+    } else if (!src.startsWith('http') && docId) {
+      // Non-HTTP URLs that might be relative
+      console.log('Processing non-HTTP URL');
+      src = `https://docs.google.com/document/d/${docId}/${src}`;
+      console.log('Constructed URL:', src);
+    } else {
+      console.log('Keeping URL as-is:', src);
+    }
+    
+    console.log('Final processed src:', src);
+    
+    // Add responsive styling but don't hide images on error
+    let styledImgTag = imgTag.replace(/src=["'][^"']*["']/i, `src="${src}"`);
+    
+    // Add loading attribute
+    if (!styledImgTag.includes('loading=')) {
+      styledImgTag = styledImgTag.replace(/<img/, '<img loading="lazy"');
+    }
+    
+    // Add basic error handling without aggressive placeholder
+    if (!styledImgTag.includes('onerror=')) {
+      styledImgTag = styledImgTag.replace(/<img/, `<img onerror="console.log('Image failed to load:', this.src);"`);
+    }
+    
+    // Handle existing style attribute
+    if (styledImgTag.includes('style=')) {
+      styledImgTag = styledImgTag.replace(/style=["']([^"']*)["']/i, (match, styles) => {
         let newStyles = styles;
         
-        if (!hasMaxWidth && !hasWidth) {
+        // Only add responsive styling if not already present
+        if (!newStyles.includes('max-width') && !newStyles.includes('width')) {
           newStyles += '; max-width: 100%; height: auto;';
-        } else if (hasWidth && !hasMaxWidth) {
+        } else if (newStyles.includes('width') && !newStyles.includes('max-width')) {
           newStyles += '; max-width: 100%;';
         }
         
-        return `style="${newStyles}"`;
+        // Ensure height is auto for proper aspect ratio
+        if (!newStyles.includes('height: auto') && newStyles.includes('width')) {
+          newStyles += '; height: auto;';
+        }
+        
+        return `style="${newStyles.replace(/^;\s*/, '')}"`;
       });
-    
-    // If no style attribute exists, add responsive styling
-    if (!styledImgTag.includes('style=')) {
-      return styledImgTag.replace(/<img/, '<img style="max-width: 100%; height: auto;"');
+    } else {
+      // Add responsive styling if no style attribute exists
+      styledImgTag = styledImgTag.replace(/<img/, '<img style="max-width: 100%; height: auto;"');
     }
     
+    console.log('Final styled image tag:', styledImgTag);
     return styledImgTag;
   });
 }
