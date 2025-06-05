@@ -63,15 +63,15 @@ const MidrashHaaliyahPage: React.FC = () => {
 
     // Generate simple table of contents with specific entries
     const tocContent = `
-      <div class="simple-toc-entry">מבוא .......... pg. 4</div>
+      <div class="simple-toc-entry">מבוא ........................................................................ pg. 4</div>
       <br>
-      <div class="simple-toc-entry">פרק א - גבעת רפידים .......... pg. 5</div>
+      <div class="simple-toc-entry">פרק א - גבעת רפידים ....................................................... pg. 5</div>
       <br>
-      <div class="simple-toc-entry">פרק ב - הר סיני .......... pg. 27</div>
+      <div class="simple-toc-entry">פרק ב - הר סיני ............................................................ pg. 27</div>
       <br>
-      <div class="simple-toc-entry">פרק ג - הר ההר .......... pg. 51</div>
+      <div class="simple-toc-entry">פרק ג - הר ההר ............................................................ pg. 51</div>
       <br>
-      <div class="simple-toc-entry">מפתח למדרש העלייה .......... pg. 75</div>
+      <div class="simple-toc-entry">מפתח למדרש העלייה ..................................................... pg. 75</div>
     `;
 
     // Get introduction content
