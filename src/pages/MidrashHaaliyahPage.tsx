@@ -253,7 +253,6 @@ const MidrashHaaliyahPage: React.FC = () => {
           }
           
           .main-content {
-            page-break-before: always;
           }
           
           /* Center all headers and sub-headers */
