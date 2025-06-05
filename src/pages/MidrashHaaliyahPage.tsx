@@ -84,13 +84,19 @@ const MidrashHaaliyahPage: React.FC = () => {
       let pdfContent = '';
       
       midrashContent.chapters.forEach((chapter, chapterIndex) => {
-        // Add page break for chapters after the first one
-        const pageBreakClass = chapterIndex === 1 ? 'chapter-break-19' : 
-                              chapterIndex === 2 ? 'chapter-break-35' : 
-                              chapterIndex > 0 ? 'page-break-before' : '';
+        // Add chapter title page before each chapter
+        // For the first chapter, don't add page break since it should flow from introduction
+        const titlePageClass = chapterIndex === 0 ? 'chapter-title-page-first' : 'chapter-title-page';
         
         pdfContent += `
-          <div class="chapter-section ${pageBreakClass}">
+          <div class="${titlePageClass}">
+            <div class="chapter-title-page-text">${chapter.title}</div>
+          </div>
+        `;
+        
+        // Add chapter content
+        pdfContent += `
+          <div class="chapter-section">
             <h2 class="chapter-title">${chapter.title}</h2>
         `;
         
@@ -253,6 +259,33 @@ const MidrashHaaliyahPage: React.FC = () => {
           }
           
           .main-content {
+          }
+          
+          /* Chapter title page styling */
+          .chapter-title-page {
+            page-break-before: always;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 40px;
+          }
+          
+          .chapter-title-page-first {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 40px;
+          }
+          
+          .chapter-title-page-text {
+            font-size: 60px;
+            font-weight: bold;
+            color: #000000;
+            line-height: 1.2;
           }
           
           /* Center all headers and sub-headers */
