@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { Calendar, Clock } from 'lucide-react';
+import { Calendar, Clock, Download } from 'lucide-react';
 import shiurimData from '@/data/shiurim_data.json';
 import { Shiur } from '@/types/shiurim';
 import { formatTitle, getAudioDuration } from '@/utils/dataUtils';
-import { getAudioUrl, getGoogleDriveDownloadUrl } from '@/utils/s3Utils';
+import { getAudioUrl, getGoogleDriveDownloadUrl, getPdfUrl } from '@/utils/s3Utils';
 import AudioPlayer from '@/components/common/AudioPlayer';
 import SourceSheetRenderer from '@/components/common/SourceSheetRenderer';
 
@@ -122,7 +122,7 @@ const ShiurPage: React.FC = () => {
           </nav>
           
           {/* Shiur header */}
-          <div className="bg-white/90 rounded-lg p-4 sm:p-6 shadow-md mb-6 sm:mb-8">
+          <div className="bg-white/90 rounded-lg p-4 sm:p-6 shadow-md mb-6 sm:mb-8 relative pb-16 sm:pb-16">
             <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-biblical-burgundy mb-2 leading-tight">
               {shiur.english_title}
             </h1>
@@ -162,6 +162,20 @@ const ShiurPage: React.FC = () => {
                 </span>
               </div>
             </div>
+
+            {/* Download PDF Button - Bottom Right Corner */}
+            {shiur.source_sheet_link && (
+              <a
+                href={getPdfUrl(shiur.source_sheet_link)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="absolute bottom-4 right-4 flex items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200 text-sm"
+                title="Download as PDF"
+              >
+                <Download size={16} />
+                <span>Download as PDF</span>
+              </a>
+            )}
           </div>
           
           {/* Audio player - moved up and titles removed */}

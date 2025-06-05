@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Play, Pause, ChevronDown, Volume2, Gauge } from 'lucide-react';
+import { Play, Pause, ArrowDown, Volume2, Gauge } from 'lucide-react';
 import { getAudioUrl } from '@/utils/s3Utils';
 
 interface AudioPlayerProps {
@@ -165,73 +165,83 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
         </div>
 
         {/* Volume control */}
-        <button 
-          onClick={toggleVolumeSlider}
-          className="flex items-center justify-center w-8 h-8 text-biblical-navy hover:text-biblical-burgundy transition-colors flex-shrink-0"
-          aria-label="Volume control"
-        >
-          <Volume2 size={16} className="sm:w-[18px] sm:h-[18px]" />
-        </button>
+        <div className="relative flex-shrink-0">
+          <button 
+            onClick={toggleVolumeSlider}
+            className="flex items-center justify-center w-8 h-8 text-gray-600 hover:text-biblical-burgundy transition-colors"
+            aria-label="Volume control"
+          >
+            <Volume2 size={16} className="sm:w-[18px] sm:h-[18px]" />
+          </button>
+          
+          {/* Volume slider */}
+          {showVolumeSlider && (
+            <div className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 bg-white border border-parchment-dark rounded-lg p-3 shadow-lg z-10">
+              <div className="flex flex-col items-center gap-2">
+                <span className="text-xs text-biblical-brown">{Math.round(volume * 100)}%</span>
+                <div className="h-20 w-6 flex items-center justify-center">
+                  <input
+                    type="range"
+                    min="0"
+                    max="1"
+                    step="0.1"
+                    value={volume}
+                    onChange={handleVolumeChange}
+                    className="w-20 h-2 bg-parchment-dark rounded-md appearance-none cursor-pointer transform -rotate-90 [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:h-3 [&::-webkit-slider-thumb]:w-3 [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-biblical-burgundy"
+                    aria-label="Volume level"
+                  />
+                </div>
+                <span className="text-xs text-biblical-brown">Volume</span>
+              </div>
+            </div>
+          )}
+        </div>
 
         {/* Speed control */}
-        <button 
-          onClick={toggleSpeedSlider}
-          className="flex items-center justify-center w-8 h-8 text-biblical-navy hover:text-biblical-burgundy transition-colors flex-shrink-0"
-          aria-label="Playback speed"
-        >
-          <Gauge size={16} className="sm:w-[18px] sm:h-[18px]" />
-        </button>
+        <div className="relative flex-shrink-0">
+          <button 
+            onClick={toggleSpeedSlider}
+            className="flex items-center justify-center w-8 h-8 text-gray-600 hover:text-biblical-burgundy transition-colors"
+            aria-label="Playback speed"
+          >
+            <Gauge size={16} className="sm:w-[18px] sm:h-[18px]" />
+          </button>
+          
+          {/* Speed slider */}
+          {showSpeedSlider && (
+            <div className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 bg-white border border-parchment-dark rounded-lg p-3 shadow-lg z-10">
+              <div className="flex flex-col items-center gap-2">
+                <span className="text-xs text-biblical-brown">{playbackRate}x</span>
+                <div className="h-20 w-6 flex items-center justify-center">
+                  <input
+                    type="range"
+                    min="0.5"
+                    max="2"
+                    step="0.1"
+                    value={playbackRate}
+                    onChange={handleSpeedChange}
+                    className="w-20 h-2 bg-parchment-dark rounded-md appearance-none cursor-pointer transform -rotate-90 [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:h-3 [&::-webkit-slider-thumb]:w-3 [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-biblical-burgundy"
+                    aria-label="Playback speed"
+                  />
+                </div>
+                <span className="text-xs text-biblical-brown">Speed</span>
+              </div>
+            </div>
+          )}
+        </div>
 
         {/* Download button */}
         <a 
           href={download}
           download={fileName || 'audio.mp3'}
-          className="flex items-center justify-center w-8 h-8 text-biblical-navy hover:text-biblical-burgundy transition-colors flex-shrink-0"
+          className="flex items-center justify-center w-8 h-8 text-gray-600 hover:text-biblical-burgundy transition-colors flex-shrink-0"
           aria-label="Download audio"
         >
-          <ChevronDown size={16} className="sm:w-[18px] sm:h-[18px]" />
+          <ArrowDown size={16} className="sm:w-[18px] sm:h-[18px]" />
         </a>
       </div>
 
-      {/* Volume slider */}
-      {showVolumeSlider && (
-        <div className="absolute top-full left-1/2 transform -translate-x-1/2 mt-2 bg-white border border-parchment-dark rounded-lg p-3 shadow-lg z-10">
-          <div className="flex items-center gap-2">
-            <span className="text-xs text-biblical-brown">Volume:</span>
-            <input
-              type="range"
-              min="0"
-              max="1"
-              step="0.1"
-              value={volume}
-              onChange={handleVolumeChange}
-              className="w-20 h-2 bg-parchment-dark rounded-md appearance-none cursor-pointer [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:h-3 [&::-webkit-slider-thumb]:w-3 [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-biblical-burgundy"
-              aria-label="Volume level"
-            />
-            <span className="text-xs text-biblical-brown">{Math.round(volume * 100)}%</span>
-          </div>
-        </div>
-      )}
 
-      {/* Speed slider */}
-      {showSpeedSlider && (
-        <div className="absolute top-full left-1/2 transform -translate-x-1/2 mt-2 bg-white border border-parchment-dark rounded-lg p-3 shadow-lg z-10">
-          <div className="flex items-center gap-2">
-            <span className="text-xs text-biblical-brown">Speed:</span>
-            <input
-              type="range"
-              min="0.5"
-              max="2"
-              step="0.1"
-              value={playbackRate}
-              onChange={handleSpeedChange}
-              className="w-20 h-2 bg-parchment-dark rounded-md appearance-none cursor-pointer [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:h-3 [&::-webkit-slider-thumb]:w-3 [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-biblical-burgundy"
-              aria-label="Playback speed"
-            />
-            <span className="text-xs text-biblical-brown">{playbackRate}x</span>
-          </div>
-        </div>
-      )}
     </div>
   );
 };
