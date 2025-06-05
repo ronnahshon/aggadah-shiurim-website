@@ -16,39 +16,26 @@ const SefarimPage: React.FC = () => {
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {/* Midrashim about Moshe Rabbeinu */}
-          <div className="bg-white/80 rounded-lg shadow-md overflow-hidden">
+          <Link 
+            to="/sefer/midrash-haaliyah"
+            className="bg-white/80 rounded-lg shadow-md overflow-hidden block hover:shadow-lg hover:bg-white/90 transition-all duration-200 cursor-pointer"
+          >
             <div className="h-48 bg-biblical-navy/20 flex items-center justify-center">
-              <BookOpen size={64} className="text-biblical-navy" />
+              <img 
+                src="/images/moshe_aharon_hur_img.png" 
+                alt="משה אהרון וחור" 
+                className="h-full w-full object-cover"
+              />
             </div>
             <div className="p-6">
-              {/* Hebrew version CTA */}
-              <div className="mb-4 p-3 bg-biblical-gold/10 rounded-lg border border-biblical-gold/20">
-                <Link 
-                  to="/sefer/midrash-haaliyah" 
-                  className="flex items-center justify-center text-biblical-burgundy hover:text-biblical-copper transition-colors font-medium text-sm"
-                >
-                  <span className="mr-2">For the Hebrew version click here</span>
-                  <ExternalLink size={16} />
-                </Link>
-              </div>
-              
-              <h2 className="text-xl font-semibold mb-2 text-biblical-burgundy">
-                Midrashim about Moshe Rabbeinu
+              <h2 className="text-2xl font-bold mb-4 text-biblical-burgundy text-center font-hebrew">
+                מדרש העלייה
               </h2>
-              <h3 className="text-lg font-hebrew text-biblical-navy mb-3">
-                מדרשים על משה רבינו
-              </h3>
               <p className="text-biblical-brown mb-4">
-                A comprehensive collection of midrashic texts about Moses, our teacher. This sefer explores the life, character, and legacy of Moses through the lens of midrash aggadah.
+                A midrash written in Hebrew in the style of classic aggadic works, ספר העלייה explores the life, character, and legacy of Moshe Rabbeinu and his brother Aharon via their three ascents in the dessert. It weaves original חידושים together with a myriad of teachings found throughout ספרי חז״ל.
               </p>
-              <Link 
-                to="/sefer/midrashim-about-moshe-rabbeinu" 
-                className="inline-block px-4 py-2 bg-biblical-burgundy text-white rounded-md hover:bg-biblical-burgundy/90 transition-colors"
-              >
-                Read Sefer
-              </Link>
             </div>
-          </div>
+          </Link>
           
           {/* Future sefarim can be added here */}
           <div className="bg-white/80 rounded-lg shadow-md overflow-hidden border border-dashed border-parchment-dark">
