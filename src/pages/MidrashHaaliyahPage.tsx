@@ -613,7 +613,8 @@ const MidrashHaaliyahPage: React.FC = () => {
                 מפתח למדרש העלייה
               </h3>
               <div className="text-sm text-gray-800 font-hebrew text-center">
-                ביבליוגרפיה לכל המקורות המצוטטים בספר, כולל מהתורה, תלמוד, מדרשים, ראשונים ועוד
+                <div>ביבליוגרפיה לכל המקורות המצוטטים בספר</div>
+                <div>תורה, תלמוד, מדרשים, ראשונים ועוד</div>
               </div>
             </a>
 
@@ -623,7 +624,8 @@ const MidrashHaaliyahPage: React.FC = () => {
                 הערות
               </h3>
               <div className="text-sm text-gray-800 font-hebrew text-center">
-                הערות שוליים לכל המקורות המצוטטים בספר
+                <div>הערות שוליים לכל המקורות המצוטטים בספר</div>
+                <div>תורה, תלמוד, מדרשים, ראשונים ועוד</div>
               </div>
             </a>
           </div>
