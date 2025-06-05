@@ -61,17 +61,27 @@ const MidrashHaaliyahPage: React.FC = () => {
 
     if (!midrashContent) return;
 
-    // Generate table of contents
-    const tocContent = midrashContent.chapters.map(chapter => 
-      `<div style="margin-bottom: 12px; font-size: 18px; text-align: center; padding: 8px; border-bottom: 1px solid #C9B037;">${chapter.title}</div>`
-    ).join('');
+    // Generate table of contents with traditional dotted layout and page numbers
+    const tocContent = midrashContent.chapters.map((chapter, index) => {
+      // Estimate page numbers (you can adjust these based on actual content)
+      const estimatedPageNumbers = [3, 8, 15, 22, 28]; // Example page numbers
+      const pageNumber = estimatedPageNumbers[index] || (index * 6 + 3);
+      
+      return `
+        <div class="toc-entry">
+          <span class="toc-title">${chapter.title}</span>
+          <span class="toc-dots"></span>
+          <span class="toc-page">${pageNumber}</span>
+        </div>
+      `;
+    }).join('');
 
     // Get introduction content
     const introContent = midrashContent.introduction 
       ? midrashContent.introduction.map(line => cleanMarkdownEscapes(line)).join(' ')
       : '';
 
-    // Generate main content with footnotes at the bottom of each section
+    // Generate main content with footnotes positioned for page-bottom layout
     const generateMainContentWithFootnotes = () => {
       let pdfContent = '';
       
@@ -94,16 +104,12 @@ const MidrashHaaliyahPage: React.FC = () => {
             <div class="section">
               <h3 class="section-title">${section.title}</h3>
               <div class="section-content">${sectionContentWithFootnotes}</div>
+            </div>
           `;
           
-          // Add footnotes for this section at the bottom
+          // Collect footnotes for later page-bottom positioning
           const sectionFootnotes = Object.entries(section.footnotes);
           if (sectionFootnotes.length > 0) {
-            pdfContent += `
-              <div class="section-footnotes">
-                <hr class="footnotes-separator">
-            `;
-            
             // Sort footnotes numerically
             sectionFootnotes.sort((a, b) => {
               const numA = parseInt(a[0].slice(1)) || 0;
@@ -114,17 +120,13 @@ const MidrashHaaliyahPage: React.FC = () => {
             sectionFootnotes.forEach(([id, content]) => {
               const footnoteNumber = id.slice(1);
               pdfContent += `
-                <div class="pdf-footnote-item">
-                  <span class="pdf-footnote-number">${footnoteNumber}</span>
-                  <span class="pdf-footnote-text">${cleanMarkdownEscapes(content)}</span>
+                <div class="page-footnote" id="footnote-${footnoteNumber}">
+                  <span class="page-footnote-number">${footnoteNumber}</span>
+                  <span class="page-footnote-text">${cleanMarkdownEscapes(content)}</span>
                 </div>
               `;
             });
-            
-            pdfContent += `</div>`; // Close section-footnotes
           }
-          
-          pdfContent += `</div>`; // Close section
         });
         
         pdfContent += `</div>`; // Close chapter-section
@@ -153,24 +155,47 @@ const MidrashHaaliyahPage: React.FC = () => {
           .cover-page {
             height: 100vh;
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
             text-align: center;
             page-break-after: always;
+            padding: 60px 40px;
+            gap: 40px;
+          }
+          
+          .cover-text {
+            flex-shrink: 0;
           }
           
           .cover-title {
             font-size: 48px;
             font-weight: bold;
-            color: #8B2635;
+            color: #000000;
             margin-bottom: 20px;
           }
           
           .cover-author {
             font-size: 24px;
-            color: #8B2635;
+            color: #000000;
             font-weight: normal;
-            margin-bottom: 40px;
+            margin-bottom: 0;
+          }
+          
+          .cover-image {
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            max-width: 100%;
+          }
+          
+          .cover-image img {
+            max-width: 520px;
+            max-height: 650px;
+            width: auto;
+            height: auto;
+            object-fit: contain;
           }
           
           .toc-page {
@@ -182,7 +207,7 @@ const MidrashHaaliyahPage: React.FC = () => {
           .toc-title {
             font-size: 36px;
             font-weight: bold;
-            color: #8B2635;
+            color: #000000;
             text-align: center;
             margin-bottom: 40px;
             border-bottom: 3px solid #C9B037;
@@ -190,9 +215,41 @@ const MidrashHaaliyahPage: React.FC = () => {
           }
           
           .toc-content {
-            max-width: 600px;
+            max-width: 500px;
             margin: 0 auto;
-            text-align: center;
+            text-align: right;
+            direction: rtl;
+          }
+          
+          /* Traditional table of contents styling */
+          .toc-entry {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 12px;
+            font-size: 16px;
+            line-height: 1.5;
+          }
+          
+          .toc-title {
+            flex-shrink: 0;
+            padding-left: 8px;
+            font-weight: normal;
+          }
+          
+          .toc-dots {
+            flex-grow: 1;
+            border-bottom: 1px dotted #666666;
+            margin: 0 12px;
+            height: 1px;
+            position: relative;
+            top: -3px;
+          }
+          
+          .toc-page {
+            flex-shrink: 0;
+            padding-right: 8px;
+            font-weight: normal;
           }
           
           .intro-page {
@@ -203,7 +260,7 @@ const MidrashHaaliyahPage: React.FC = () => {
           .intro-title {
             font-size: 24px;
             font-weight: bold;
-            color: #8B2635;
+            color: #000000;
             text-align: center;
             margin-bottom: 30px;
           }
@@ -224,8 +281,13 @@ const MidrashHaaliyahPage: React.FC = () => {
             text-align: center !important;
           }
           
+          /* Remove underline from footnote links */
+          sup a.footnote-link {
+            text-decoration: none !important;
+          }
+          
           .chapter-title {
-            color: #8B2635;
+            color: #000000;
             font-weight: bold;
             font-size: 24px;
             text-align: center;
@@ -233,7 +295,7 @@ const MidrashHaaliyahPage: React.FC = () => {
           }
           
           .section-title {
-            color: #8B2635;
+            color: #000000;
             font-weight: 600;
             font-size: 20px;
             text-align: center;
@@ -288,41 +350,30 @@ const MidrashHaaliyahPage: React.FC = () => {
           .section-header {
             font-size: 28px;
             font-weight: bold;
-            color: #8B2635;
+            color: #000000;
             text-align: center;
             margin-bottom: 30px;
           }
           
-          /* Section footnotes styling for PDF */
-          .section-footnotes {
-            margin-top: 30px;
-            margin-bottom: 40px;
-            padding-top: 15px;
-          }
-          
-          .footnotes-separator {
-            border: none;
-            border-top: 1px solid #8B2635;
-            width: 100%;
-            margin: 0 0 15px 0;
-          }
-          
-          .pdf-footnote-item {
-            margin-bottom: 8px;
-            font-size: 14px;
-            line-height: 1.5;
+          /* Page footnotes styling for PDF - positioned at bottom of each page */
+          .page-footnote {
+            float: footnote;
+            font-size: 12px;
+            line-height: 1.4;
             color: #374151;
+            margin-bottom: 4px;
+            padding: 2px 0;
           }
           
-          .pdf-footnote-number {
+          .page-footnote-number {
             font-weight: bold;
-            color: #8B2635;
-            margin-left: 8px;
+            color: #2563eb;
+            margin-left: 6px;
             display: inline-block;
-            min-width: 20px;
+            min-width: 18px;
           }
           
-          .pdf-footnote-text {
+          .page-footnote-text {
             text-align: justify;
           }
           
@@ -330,10 +381,27 @@ const MidrashHaaliyahPage: React.FC = () => {
             body { margin: 0; }
             .page-break { page-break-before: always; }
             
+            /* Enhanced print layout with footnote area */
+            @page {
+              margin: 0.5in 0.5in 1.5in 0.5in; /* Extra bottom margin for footnotes */
+              size: A4;
+              @footnote {
+                border-top: 1px solid #000000;
+                padding-top: 8px;
+                margin-top: 8px;
+              }
+            }
+            
+            /* Position footnotes at page bottom */
+            .page-footnote {
+              float: footnote;
+              font-size: 11px;
+              line-height: 1.3;
+              text-align: justify;
+            }
+            
             /* Hide browser headers and footers */
             @page {
-              margin: 0.5in;
-              size: A4;
               @top-left { content: ""; }
               @top-center { content: ""; }
               @top-right { content: ""; }
@@ -358,9 +426,12 @@ const MidrashHaaliyahPage: React.FC = () => {
       <body>
         <!-- Cover Page -->
         <div class="cover-page">
-          <div>
+          <div class="cover-text">
             <div class="cover-title">ספר מדרש העלייה</div>
             <div class="cover-author">ע״פ רון שמואל בן נדב צבי הכהן</div>
+          </div>
+          <div class="cover-image">
+            <img src="/images/moshe_aharon_hur_img.png" alt="משה אהרון וחור" />
           </div>
         </div>
         
@@ -369,8 +440,12 @@ const MidrashHaaliyahPage: React.FC = () => {
           <div class="toc-title">תוכן העניינים</div>
           <div class="toc-content">
             ${tocContent}
-            <div style="margin-top: 40px; padding-top: 20px; border-top: 2px solid #C9B037;">
-              <div style="margin-bottom: 12px; font-size: 18px; text-align: center; padding: 8px;">מפתח למדרש העלייה</div>
+            <div style="margin-top: 30px; padding-top: 15px; border-top: 1px solid #C9B037;">
+              <div class="toc-entry">
+                <span class="toc-title">מפתח למדרש העלייה</span>
+                <span class="toc-dots"></span>
+                <span class="toc-page">35</span>
+              </div>
             </div>
           </div>
         </div>
