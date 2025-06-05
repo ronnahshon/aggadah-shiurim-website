@@ -69,9 +69,9 @@ const MidrashHaaliyahPage: React.FC = () => {
       <br>
       <div class="simple-toc-entry">פרק ב - הר סיני .......... pg. 29</div>
       <br>
-      <div class="simple-toc-entry">פרק ג - הר ההר .......... pg. 54</div>
+      <div class="simple-toc-entry">פרק ג - הר ההר .......... pg. 55</div>
       <br>
-      <div class="simple-toc-entry">מפתח למדרש העלייה .......... pg. 79</div>
+      <div class="simple-toc-entry">מפתח למדרש העלייה .......... pg. 81</div>
     `;
 
     // Get introduction content
@@ -176,7 +176,7 @@ const MidrashHaaliyahPage: React.FC = () => {
             font-size: 48px;
             font-weight: bold;
             color: #000000;
-            margin-bottom: 20px;
+            margin-bottom: 0;
           }
           
           .cover-author {
@@ -281,6 +281,16 @@ const MidrashHaaliyahPage: React.FC = () => {
             padding: 40px;
           }
           
+          .bibliography-title-page {
+            page-break-before: always;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 40px;
+          }
+          
           .chapter-title-page-text {
             font-size: 60px;
             font-weight: bold;
@@ -332,7 +342,6 @@ const MidrashHaaliyahPage: React.FC = () => {
           }
           
           .bibliography-section {
-            page-break-before: always;
           }
           
           .bibliography-content {
@@ -375,6 +384,7 @@ const MidrashHaaliyahPage: React.FC = () => {
             color: #374151;
             margin-bottom: 4px;
             padding: 2px 0;
+            display: block;
           }
           
           .page-footnote-number {
@@ -387,6 +397,7 @@ const MidrashHaaliyahPage: React.FC = () => {
           
           .page-footnote-text {
             text-align: justify;
+            display: inline;
           }
           
           @media print {
@@ -401,15 +412,34 @@ const MidrashHaaliyahPage: React.FC = () => {
                 border-top: 1px solid #000000;
                 padding-top: 8px;
                 margin-top: 8px;
+                font-size: 11px;
+                line-height: 1.3;
               }
             }
             
             /* Position footnotes at page bottom */
             .page-footnote {
-              float: footnote;
-              font-size: 11px;
-              line-height: 1.3;
-              text-align: justify;
+              float: footnote !important;
+              font-size: 11px !important;
+              line-height: 1.3 !important;
+              text-align: justify !important;
+              display: block !important;
+              break-inside: avoid;
+              margin-bottom: 3px !important;
+              padding: 1px 0 !important;
+            }
+            
+            .page-footnote-number {
+              font-weight: bold !important;
+              color: #2563eb !important;
+              margin-left: 6px !important;
+              display: inline-block !important;
+              min-width: 18px !important;
+            }
+            
+            .page-footnote-text {
+              text-align: justify !important;
+              display: inline !important;
             }
             
             /* Hide browser headers and footers */
@@ -440,7 +470,7 @@ const MidrashHaaliyahPage: React.FC = () => {
         <div class="cover-page">
           <div class="cover-text">
             <div class="cover-title">ספר מדרש העלייה</div>
-            <div class="cover-author">ע״פ רון שמואל בן נדב צבי הכהן</div>
+            <div class="cover-author">נכתב ע״י רון שמואל בן נדב צבי הכהן</div>
           </div>
           <div class="cover-image">
             <img src="/images/moshe_aharon_hur_img.png" alt="משה אהרון וחור" />
@@ -471,6 +501,11 @@ const MidrashHaaliyahPage: React.FC = () => {
         </div>
         
         ${midrashContent.bibliography ? `
+        <!-- Bibliography Title Page -->
+        <div class="bibliography-title-page">
+          <div class="chapter-title-page-text">${midrashContent.bibliography.title}</div>
+        </div>
+        
         <!-- Bibliography Section -->
         <div class="bibliography-section">
           <h2 class="section-header">${midrashContent.bibliography.title}</h2>
