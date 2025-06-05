@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom';
 import { Book, BookOpen, Search, Info, Clock } from 'lucide-react';
 import { Shiur } from '@/types/shiurim';
 import { formatTitle } from '@/utils/dataUtils';
+import { generateWebsiteStructuredData, generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
+import SEOHead from '@/components/seo/SEOHead';
 import shiurimData from '@/data/shiurim_data.json';
 
 const HomePage: React.FC = () => {
@@ -18,8 +20,18 @@ const HomePage: React.FC = () => {
     setFeaturedShiurim(shuffled.slice(0, 3));
   }, []);
 
+  const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
+  const structuredData = generateWebsiteStructuredData(baseUrl);
+
   return (
     <div className="min-h-screen">
+      <SEOHead
+        title="Midrash Aggadah"
+        description={generateMetaDescription('home')}
+        keywords={generateKeywords('home')}
+        structuredData={structuredData}
+        ogType="website"
+      />
       {/* Hero section */}
       <section className="py-16 bg-parchment-texture bg-cover bg-center">
         <div className="content-container text-center">

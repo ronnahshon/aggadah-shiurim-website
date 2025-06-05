@@ -4,7 +4,9 @@ import { Calendar, Clock, Download } from 'lucide-react';
 import shiurimData from '@/data/shiurim_data.json';
 import { Shiur } from '@/types/shiurim';
 import { formatTitle, getAudioDuration } from '@/utils/dataUtils';
+import { generateShiurStructuredData, generateBreadcrumbStructuredData, generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
 import { getAudioUrl, getGoogleDriveDownloadUrl, getPdfUrl } from '@/utils/s3Utils';
+import SEOHead from '@/components/seo/SEOHead';
 import AudioPlayer from '@/components/common/AudioPlayer';
 import SourceSheetRenderer from '@/components/common/SourceSheetRenderer';
 
@@ -85,6 +87,19 @@ const ShiurPage: React.FC = () => {
   const audioUrl = getAudioUrl(`${shiur.id}.mp3`);
   const googleDriveDownloadUrl = getGoogleDriveDownloadUrl(shiur.audio_recording_link);
 
+  // SEO data
+  const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
+  const structuredData = generateShiurStructuredData(shiur, baseUrl);
+  const breadcrumbs = [
+    { name: 'Home', url: '/' },
+    { name: 'Catalog', url: '/catalog' },
+    { name: formatTitle(shiur.category) },
+    { name: formatTitle(shiur.sub_category) },
+    { name: formatTitle(shiur.english_sefer) },
+    { name: shiur.english_title }
+  ];
+  const breadcrumbStructuredData = generateBreadcrumbStructuredData(breadcrumbs, baseUrl);
+
   // Create catalog anchor link for the sefer
   const createCatalogAnchor = () => {
     const categoryName = formatTitle(shiur.category);
@@ -101,6 +116,13 @@ const ShiurPage: React.FC = () => {
 
   return (
     <div className="min-h-screen py-4 sm:py-8">
+      <SEOHead
+        title={shiur.english_title}
+        description={generateMetaDescription('shiur', shiur)}
+        keywords={generateKeywords('shiur', shiur)}
+        structuredData={[structuredData, breadcrumbStructuredData]}
+        ogType="article"
+      />
       <div className="content-container">
         <div className="max-w-full sm:max-w-4xl mx-auto">
           {/* Breadcrumb navigation */}

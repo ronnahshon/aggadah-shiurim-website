@@ -145,7 +145,7 @@
   }
   
   .catalog-table tr:last-child {
-    @apply border-0;
+    @apply border-b border-parchment-dark;
   }
   
   .catalog-table td {
