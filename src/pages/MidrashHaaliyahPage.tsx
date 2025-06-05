@@ -61,20 +61,18 @@ const MidrashHaaliyahPage: React.FC = () => {
 
     if (!midrashContent) return;
 
-    // Generate table of contents with traditional dotted layout and page numbers
-    const tocContent = midrashContent.chapters.map((chapter, index) => {
-      // Estimate page numbers (you can adjust these based on actual content)
-      const estimatedPageNumbers = [3, 8, 15, 22, 28]; // Example page numbers
-      const pageNumber = estimatedPageNumbers[index] || (index * 6 + 3);
-      
-      return `
-        <div class="toc-entry">
-          <span class="toc-title">${chapter.title}</span>
-          <span class="toc-dots"></span>
-          <span class="toc-page">${pageNumber}</span>
-        </div>
-      `;
-    }).join('');
+    // Generate simple table of contents with specific entries
+    const tocContent = `
+      <div class="simple-toc-entry">מבוא .......... pg. 4</div>
+      <br>
+      <div class="simple-toc-entry">פרק א - גבעת רפידים .......... pg. 5</div>
+      <br>
+      <div class="simple-toc-entry">פרק ב - הר סיני .......... pg. 29</div>
+      <br>
+      <div class="simple-toc-entry">פרק ג - הר ההר .......... pg. 54</div>
+      <br>
+      <div class="simple-toc-entry">מפתח למדרש העלייה .......... pg. 79</div>
+    `;
 
     // Get introduction content
     const introContent = midrashContent.introduction 
@@ -210,7 +208,6 @@ const MidrashHaaliyahPage: React.FC = () => {
             color: #000000;
             text-align: center;
             margin-bottom: 40px;
-            border-bottom: 3px solid #C9B037;
             padding-bottom: 15px;
           }
           
@@ -221,40 +218,22 @@ const MidrashHaaliyahPage: React.FC = () => {
             direction: rtl;
           }
           
-          /* Traditional table of contents styling */
-          .toc-entry {
-            display: flex;
-            justify-content: space-between;
-            align-items: baseline;
-            margin-bottom: 12px;
+          /* Simple table of contents styling */
+          .simple-toc-entry {
             font-size: 16px;
             line-height: 1.5;
-          }
-          
-          .toc-title {
-            flex-shrink: 0;
-            padding-left: 8px;
             font-weight: normal;
-          }
-          
-          .toc-dots {
-            flex-grow: 1;
-            border-bottom: 1px dotted #666666;
-            margin: 0 12px;
-            height: 1px;
-            position: relative;
-            top: -3px;
-          }
-          
-          .toc-page {
-            flex-shrink: 0;
-            padding-right: 8px;
-            font-weight: normal;
+            color: #000000;
           }
           
           .intro-page {
             page-break-before: always;
-            page-break-after: always;
+            padding: 40px;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
           }
           
           .intro-title {
@@ -270,6 +249,7 @@ const MidrashHaaliyahPage: React.FC = () => {
             font-size: 18px;
             line-height: 1.8;
             color: #374151;
+            max-width: 600px;
           }
           
           .main-content {
@@ -405,14 +385,14 @@ const MidrashHaaliyahPage: React.FC = () => {
               @top-left { content: ""; }
               @top-center { content: ""; }
               @top-right { content: ""; }
-              @bottom-left { content: ""; }
-              @bottom-center { content: ""; }
-              @bottom-right { 
+              @bottom-left { 
                 content: counter(page);
                 font-family: 'David Libre', serif;
                 font-size: 12px;
                 color: #666666;
               }
+              @bottom-center { content: ""; }
+              @bottom-right { content: ""; }
             }
             
             /* Ensure no browser-generated content appears */
@@ -440,13 +420,6 @@ const MidrashHaaliyahPage: React.FC = () => {
           <div class="toc-title">תוכן העניינים</div>
           <div class="toc-content">
             ${tocContent}
-            <div style="margin-top: 30px; padding-top: 15px; border-top: 1px solid #C9B037;">
-              <div class="toc-entry">
-                <span class="toc-title">מפתח למדרש העלייה</span>
-                <span class="toc-dots"></span>
-                <span class="toc-page">35</span>
-              </div>
-            </div>
           </div>
         </div>
         
