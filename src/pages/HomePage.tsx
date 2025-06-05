@@ -1,8 +1,23 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { Book, BookOpen, Search, Info } from 'lucide-react';
+import { Book, BookOpen, Search, Info, Clock } from 'lucide-react';
+import { Shiur } from '@/types/shiurim';
+import { formatTitle } from '@/utils/dataUtils';
+import shiurimData from '@/data/shiurim_data.json';
 
 const HomePage: React.FC = () => {
+  const [featuredShiurim, setFeaturedShiurim] = useState<Shiur[]>([]);
+
+  useEffect(() => {
+    // Filter Ein Yaakov shiurim and randomly select 3
+    const allShiurim = shiurimData as unknown as Shiur[];
+    const einYaakovShiurim = allShiurim.filter(shiur => shiur.category === 'ein_yaakov');
+    
+    // Randomly select 3 shiurim
+    const shuffled = einYaakovShiurim.sort(() => 0.5 - Math.random());
+    setFeaturedShiurim(shuffled.slice(0, 3));
+  }, []);
+
   return (
     <div className="min-h-screen">
       {/* Hero section */}
@@ -98,41 +113,73 @@ const HomePage: React.FC = () => {
         </div>
       </section>
 
-      {/* Recent shiurim section */}
+      {/* Sample shiurim section */}
       <section className="py-12">
         <div className="content-container">
-          <h2 className="text-2xl md:text-3xl font-semibold mb-6 text-center text-biblical-burgundy">
-            Featured Shiurim
+          <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-center text-biblical-burgundy">
+            Sample Shiurim
           </h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-            {/* Add a few featured shiurim from the data */}
-            <div className="shiur-card">
-              <h3 className="text-xl font-semibold mb-2">The Birth of Moshe in Midrash</h3>
-              <p className="text-biblical-brown/80 mb-3">From Midrashim About Moshe Rabbeinu</p>
-              <Link to="/shiur/midrash_moshe_1" className="text-biblical-navy hover:text-biblical-burgundy font-medium">
-                Listen to Shiur &rarr;
-              </Link>
-            </div>
-            
-            <div className="shiur-card">
-              <h3 className="text-xl font-semibold mb-2">Moshe in Midian</h3>
-              <p className="text-biblical-brown/80 mb-3">From Midrashim About Moshe Rabbeinu</p>
-              <Link to="/shiur/midrash_moshe_2" className="text-biblical-navy hover:text-biblical-burgundy font-medium">
-                Listen to Shiur &rarr;
-              </Link>
-            </div>
-            
-            <div className="shiur-card">
-              <h3 className="text-xl font-semibold mb-2">Abraham's Discovery of God</h3>
-              <p className="text-biblical-brown/80 mb-3">From Midrashim About Avot</p>
-              <Link to="/shiur/midrash_avot_1" className="text-biblical-navy hover:text-biblical-burgundy font-medium">
-                Listen to Shiur &rarr;
-              </Link>
-            </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
+            {featuredShiurim.map(shiur => (
+              <div key={shiur.id} className="group bg-white/90 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 p-6 border border-biblical-gold/20 hover:border-biblical-gold/40">
+                <div className="flex flex-col h-full">
+                  {/* Main content area */}
+                  <div className="flex-grow mb-4">
+                    <Link 
+                      to={`/shiur/${shiur.id}`} 
+                      className="block text-biblical-burgundy hover:text-biblical-burgundy/80 transition-colors duration-200"
+                    >
+                      <h3 className="text-xl font-semibold leading-tight mb-3 group-hover:text-biblical-burgundy/90">
+                        {shiur.english_title}
+                      </h3>
+                    </Link>
+                    
+                    {shiur.hebrew_title && (
+                      <p className="text-biblical-burgundy/80 font-hebrew mb-3 text-lg leading-relaxed">
+                        {shiur.hebrew_title}
+                      </p>
+                    )}
+                    
+                    {/* Category breadcrumb */}
+                    <div className="mb-3 p-2 bg-parchment/30 rounded-lg">
+                      <p className="text-sm text-biblical-brown font-medium">
+                        {formatTitle(shiur.category)} → {formatTitle(shiur.sub_category)} → {formatTitle(shiur.english_sefer)}
+                      </p>
+                    </div>
+                    
+                    {/* Metadata */}
+                    <div className="flex items-center justify-between text-xs text-biblical-brown/70 mb-4">
+                      <span className="bg-biblical-navy/10 px-2 py-1 rounded-full">
+                        {shiur.english_year} ({shiur.hebrew_year})
+                      </span>
+                      <div className="flex items-center">
+                        <Clock size={12} className="mr-1" />
+                        <span>{(shiur as any).length || '--:--'}</span>
+                      </div>
+                    </div>
+                  </div>
+                  
+                  {/* Action button */}
+                  <div className="mt-auto">
+                    <Link 
+                      to={`/shiur/${shiur.id}`} 
+                      className="inline-flex items-center justify-center w-full px-4 py-3 bg-biblical-navy text-white rounded-lg hover:bg-biblical-navy/90 transition-colors duration-200 font-medium text-sm group-hover:shadow-md"
+                    >
+                      Listen to Shiur
+                      <span className="ml-2 transition-transform duration-200 group-hover:translate-x-1">→</span>
+                    </Link>
+                  </div>
+                </div>
+              </div>
+            ))}
           </div>
           
           <div className="text-center">
-            <Link to="/catalog" className="inline-block px-6 py-3 bg-biblical-gold/80 hover:bg-biblical-gold text-biblical-brown font-medium rounded-md transition-colors shadow-md">
+            <Link 
+              to="/catalog" 
+              className="inline-flex items-center px-8 py-4 bg-biblical-gold/80 hover:bg-biblical-gold text-biblical-brown font-semibold rounded-lg transition-all duration-200 shadow-md hover:shadow-lg"
+            >
+              <Book className="mr-2" size={20} />
               View All Shiurim
             </Link>
           </div>
