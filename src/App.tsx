@@ -7,6 +7,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { HelmetProvider } from "react-helmet-async";
 import { SidebarProvider } from "@/components/layout/SidebarProvider";
 import Layout from "@/components/layout/Layout";
+import { BreadcrumbSchema } from "@/components/BreadcrumbSchema";
+import { CanonicalUrl } from "@/components/CanonicalUrl";
 
 // Pages - using lazy loading for better performance
 import HomePage from "./pages/HomePage"; // Keep home page eager loading
@@ -28,6 +30,8 @@ const App = () => (
         <Toaster />
         <Sonner />
         <BrowserRouter>
+          <BreadcrumbSchema />
+          <CanonicalUrl />
           <SidebarProvider>
             <Suspense fallback={
               <div className="min-h-screen flex items-center justify-center">
