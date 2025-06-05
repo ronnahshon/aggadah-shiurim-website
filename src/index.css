@@ -409,8 +409,7 @@
 }
 
 .footnote-item {
-  @apply transition-all duration-200 hover:shadow-lg hover:bg-white/80;
-  border: 1px solid rgba(201, 176, 55, 0.2);
+  /* No margin needed */
 }
 
 .footnote-number {
@@ -461,15 +460,7 @@
 }
 
 .footnote-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(201, 176, 55, 0.3);
-  transition: all 0.2s ease;
-}
-
-.footnote-item:hover {
-  background-color: rgba(201, 176, 55, 0.1);
-  border-color: rgba(201, 176, 55, 0.5);
-  transform: translateY(-1px);
+  /* No margin needed */
 }
 
 .footnote-number {

@@ -381,6 +381,27 @@ const MidrashHaaliyahPage: React.FC = () => {
       }
     };
 
+    // Handle footnote link clicks on mobile
+    const handleFootnoteClick = (event: Event) => {
+      const target = event.target as HTMLElement;
+      if (target.classList.contains('footnote-link') && window.innerWidth <= 768) {
+        event.preventDefault();
+        const href = target.getAttribute('href');
+        if (href) {
+          const targetId = href.substring(1); // Remove the # from href
+          const targetElement = document.getElementById(targetId);
+          if (targetElement) {
+            // Scroll to the footnote with proper offset for mobile
+            const offsetTop = targetElement.offsetTop - 120; // Account for mobile header
+            window.scrollTo({
+              top: offsetTop,
+              behavior: 'smooth'
+            });
+          }
+        }
+      }
+    };
+
     // Hide tooltip when touching elsewhere
     const handleTouchOutside = (event: TouchEvent) => {
       const target = event.target as HTMLElement;
@@ -392,12 +413,14 @@ const MidrashHaaliyahPage: React.FC = () => {
     document.addEventListener('mouseover', handleFootnoteHover);
     document.addEventListener('mouseout', handleFootnoteLeave);
     document.addEventListener('touchstart', handleFootnoteTouch);
+    document.addEventListener('click', handleFootnoteClick);
     document.addEventListener('touchstart', handleTouchOutside);
 
     return () => {
       document.removeEventListener('mouseover', handleFootnoteHover);
       document.removeEventListener('mouseout', handleFootnoteLeave);
       document.removeEventListener('touchstart', handleFootnoteTouch);
+      document.removeEventListener('click', handleFootnoteClick);
       document.removeEventListener('touchstart', handleTouchOutside);
     };
   }, [midrashContent]);
@@ -516,18 +539,11 @@ const MidrashHaaliyahPage: React.FC = () => {
 
     return (
       <div className="footnotes-content">
-        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-8 gap-4 items-start">
+        <div>
           {sortedFootnotes.map(([id, content]) => {
             const footnoteNumber = id.slice(1); // Remove the ^ symbol
             return (
-              <div key={id} id={`footnote-${footnoteNumber}`} className="footnote-item p-3 bg-white/70 rounded-lg border border-biblical-gold/20">
-                <a 
-                  href={`#footnote-ref-${footnoteNumber}`} 
-                  className="footnote-return text-blue-600 hover:text-blue-800 transition-colors duration-200 ml-1 font-bold"
-                  title="חזור לטקסט"
-                >
-                  ^
-                </a>
+              <div key={id} id={`footnote-${footnoteNumber}`} className="footnote-item">
                 <a 
                   href={`#footnote-ref-${footnoteNumber}`} 
                   className="footnote-number font-semibold text-blue-600 ml-1"
