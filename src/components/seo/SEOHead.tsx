@@ -74,6 +74,9 @@ const SEOHead: React.FC<SEOHeadProps> = ({
       <meta name="theme-color" content="#8B4513" />
       
       {/* Hreflang for multilingual content */}
+      <link rel="alternate" hrefLang="en" href={canonical} />
+      <link rel="alternate" hrefLang="he" href={canonical} />
+      <link rel="alternate" hrefLang="x-default" href={canonical} />
       {hreflang && Object.entries(hreflang).map(([lang, url]) => (
         <link key={lang} rel="alternate" hrefLang={lang} href={url} />
       ))}
