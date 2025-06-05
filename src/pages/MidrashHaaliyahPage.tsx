@@ -61,10 +61,6 @@ const MidrashHaaliyahPage: React.FC = () => {
 
     if (!midrashContent) return;
 
-    // Get the main content
-    const mainContent = document.querySelector('.midrash-content-container');
-    if (!mainContent) return;
-
     // Generate table of contents
     const tocContent = midrashContent.chapters.map(chapter => 
       `<div style="margin-bottom: 12px; font-size: 18px; text-align: center; padding: 8px; border-bottom: 1px solid #C9B037;">${chapter.title}</div>`
@@ -75,31 +71,66 @@ const MidrashHaaliyahPage: React.FC = () => {
       ? midrashContent.introduction.map(line => cleanMarkdownEscapes(line)).join(' ')
       : '';
 
-    // Generate main content with specific page breaks
-    const generateMainContent = () => {
-      let contentHtml = mainContent.innerHTML;
+    // Generate main content with footnotes at the bottom of each section
+    const generateMainContentWithFootnotes = () => {
+      let pdfContent = '';
       
-      // Add specific page break classes to chapters
-      const chapters = midrashContent.chapters;
-      if (chapters.length > 1) {
-        // Add page break class to פרק ב (second chapter)
-        const chapter2Id = chapters[1].id;
-        contentHtml = contentHtml.replace(
-          `id="chapter-${chapter2Id}"`,
-          `id="chapter-${chapter2Id}" class="chapter-break-19"`
-        );
-      }
+      midrashContent.chapters.forEach((chapter, chapterIndex) => {
+        // Add page break for chapters after the first one
+        const pageBreakClass = chapterIndex === 1 ? 'chapter-break-19' : 
+                              chapterIndex === 2 ? 'chapter-break-35' : 
+                              chapterIndex > 0 ? 'page-break-before' : '';
+        
+        pdfContent += `
+          <div class="chapter-section ${pageBreakClass}">
+            <h2 class="chapter-title">${chapter.title}</h2>
+        `;
+        
+        chapter.sections.forEach((section) => {
+          // Render section content with footnote links
+          const sectionContentWithFootnotes = renderContentWithFootnotes(section.content);
+          
+          pdfContent += `
+            <div class="section">
+              <h3 class="section-title">${section.title}</h3>
+              <div class="section-content">${sectionContentWithFootnotes}</div>
+          `;
+          
+          // Add footnotes for this section at the bottom
+          const sectionFootnotes = Object.entries(section.footnotes);
+          if (sectionFootnotes.length > 0) {
+            pdfContent += `
+              <div class="section-footnotes">
+                <hr class="footnotes-separator">
+            `;
+            
+            // Sort footnotes numerically
+            sectionFootnotes.sort((a, b) => {
+              const numA = parseInt(a[0].slice(1)) || 0;
+              const numB = parseInt(b[0].slice(1)) || 0;
+              return numA - numB;
+            });
+            
+            sectionFootnotes.forEach(([id, content]) => {
+              const footnoteNumber = id.slice(1);
+              pdfContent += `
+                <div class="pdf-footnote-item">
+                  <span class="pdf-footnote-number">${footnoteNumber}</span>
+                  <span class="pdf-footnote-text">${cleanMarkdownEscapes(content)}</span>
+                </div>
+              `;
+            });
+            
+            pdfContent += `</div>`; // Close section-footnotes
+          }
+          
+          pdfContent += `</div>`; // Close section
+        });
+        
+        pdfContent += `</div>`; // Close chapter-section
+      });
       
-      if (chapters.length > 2) {
-        // Add page break class to פרק ג (third chapter)
-        const chapter3Id = chapters[2].id;
-        contentHtml = contentHtml.replace(
-          `id="chapter-${chapter3Id}"`,
-          `id="chapter-${chapter3Id}" class="chapter-break-35"`
-        );
-      }
-      
-      return contentHtml;
+      return pdfContent;
     };
 
     printWindow.document.write(`
@@ -199,7 +230,6 @@ const MidrashHaaliyahPage: React.FC = () => {
             font-size: 24px;
             text-align: center;
             margin: 40px 0 20px 0;
-            page-break-before: always;
           }
           
           .section-title {
@@ -227,7 +257,7 @@ const MidrashHaaliyahPage: React.FC = () => {
             text-align: center !important;
           }
           
-          .bibliography-section, .footnotes-section {
+          .bibliography-section {
             page-break-before: always;
           }
           
@@ -251,6 +281,10 @@ const MidrashHaaliyahPage: React.FC = () => {
             page-break-before: always;
           }
           
+          .page-break-before {
+            page-break-before: always;
+          }
+          
           .section-header {
             font-size: 28px;
             font-weight: bold;
@@ -259,11 +293,37 @@ const MidrashHaaliyahPage: React.FC = () => {
             margin-bottom: 30px;
           }
           
-          .footnote-item {
-            margin-bottom: 15px;
-            padding: 10px;
-            background-color: #f9f9f9;
-            border-radius: 5px;
+          /* Section footnotes styling for PDF */
+          .section-footnotes {
+            margin-top: 30px;
+            margin-bottom: 40px;
+            padding-top: 15px;
+          }
+          
+          .footnotes-separator {
+            border: none;
+            border-top: 1px solid #8B2635;
+            width: 100%;
+            margin: 0 0 15px 0;
+          }
+          
+          .pdf-footnote-item {
+            margin-bottom: 8px;
+            font-size: 14px;
+            line-height: 1.5;
+            color: #374151;
+          }
+          
+          .pdf-footnote-number {
+            font-weight: bold;
+            color: #8B2635;
+            margin-left: 8px;
+            display: inline-block;
+            min-width: 20px;
+          }
+          
+          .pdf-footnote-text {
+            text-align: justify;
           }
           
           @media print {
@@ -311,7 +371,6 @@ const MidrashHaaliyahPage: React.FC = () => {
             ${tocContent}
             <div style="margin-top: 40px; padding-top: 20px; border-top: 2px solid #C9B037;">
               <div style="margin-bottom: 12px; font-size: 18px; text-align: center; padding: 8px;">מפתח למדרש העלייה</div>
-              <div style="margin-bottom: 12px; font-size: 18px; text-align: center; padding: 8px;">הערות</div>
             </div>
           </div>
         </div>
@@ -326,10 +385,26 @@ const MidrashHaaliyahPage: React.FC = () => {
         </div>
         ` : ''}
         
-        <!-- Main Content -->
+        <!-- Main Content with Section Footnotes -->
         <div class="main-content">
-          ${generateMainContent()}
+          ${generateMainContentWithFootnotes()}
         </div>
+        
+        ${midrashContent.bibliography ? `
+        <!-- Bibliography Section -->
+        <div class="bibliography-section">
+          <h2 class="section-header">${midrashContent.bibliography.title}</h2>
+          <div class="bibliography-content">
+            ${midrashContent.bibliography.content.split('\n').filter(line => line.trim()).map(line => {
+              if (line.startsWith('**') && line.endsWith('**')) {
+                return `<h4>${line.replace(/\*\*/g, '')}</h4>`;
+              } else {
+                return `<div>${line}</div>`;
+              }
+            }).join('')}
+          </div>
+        </div>
+        ` : ''}
       </body>
       </html>
     `);
