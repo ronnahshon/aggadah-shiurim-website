@@ -3,7 +3,7 @@ import { Mail } from 'lucide-react';
 
 const AboutPage: React.FC = () => {
   return (
-    <div className="min-h-screen py-8">
+    <div className="min-h-screen py-8 pt-20 md:pt-8">
       <div className="content-container">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-burgundy hidden md:block">

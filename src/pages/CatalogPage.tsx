@@ -129,7 +129,7 @@ const CatalogPage: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen py-8">
+    <div className="min-h-screen py-8 pt-20 md:pt-8">
       {/* Hidden audio element for metadata loading */}
       <audio ref={audioRef} preload="metadata" style={{ display: 'none' }} />
       
