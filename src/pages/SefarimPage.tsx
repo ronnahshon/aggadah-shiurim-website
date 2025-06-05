@@ -15,8 +15,12 @@ const SefarimPage: React.FC = () => {
             <div className="h-48 bg-biblical-navy/20 flex items-center justify-center">
               <img 
                 src="/images/moshe_aharon_hur_img.png" 
-                alt="משה אהרון וחור" 
+                alt="Illustration of Moshe Rabbeinu with Aharon and Hur - representing the three ascents described in Midrash HaAliyah" 
                 className="h-full w-full object-cover"
+                loading="lazy"
+                decoding="async"
+                width="400"
+                height="300"
               />
             </div>
             <div className="p-6">

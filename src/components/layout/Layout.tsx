@@ -31,7 +31,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           isMobile ? 'ml-0' : (isOpen ? 'ml-64' : 'ml-16')
         )}
       >
-        <main className="min-h-screen">
+        <main className="min-h-screen parchment-bg">
           {children}
         </main>
       </div>

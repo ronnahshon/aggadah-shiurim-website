@@ -8,7 +8,7 @@ interface DocumentViewerProps {
   isGoogleDoc?: boolean;
 }
 
-const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = false }) => {
+const DocumentViewer: React.FC<DocumentViewerProps> = React.memo(({ docUrl, isGoogleDoc = false }) => {
   const [extractedContent, setExtractedContent] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [showIframe, setShowIframe] = useState<boolean>(true); // Default to embedded view
@@ -175,6 +175,6 @@ const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = f
   }
   
   return renderS3Document();
-};
+});
 
 export default DocumentViewer;

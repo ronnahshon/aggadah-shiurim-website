@@ -84,6 +84,9 @@
 
   body {
     @apply bg-parchment-light text-biblical-brown;
+  }
+  
+  .parchment-bg {
     background-image: url('/images/subtle-parchment.png');
     background-repeat: repeat;
   }

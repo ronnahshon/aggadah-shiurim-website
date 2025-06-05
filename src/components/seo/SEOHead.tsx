@@ -43,6 +43,11 @@ const SEOHead: React.FC<SEOHeadProps> = ({
       <meta name="author" content="Midrash Aggadah" />
       <meta name="robots" content="index, follow" />
       <meta name="language" content="en-US" />
+      <meta name="revisit-after" content="7 days" />
+      <meta name="category" content="Education" />
+      <meta name="coverage" content="Worldwide" />
+      <meta name="distribution" content="Global" />
+      <meta name="rating" content="General" />
       
       {/* Canonical URL */}
       <link rel="canonical" href={canonical} />

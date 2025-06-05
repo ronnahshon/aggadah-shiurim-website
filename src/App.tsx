@@ -1,3 +1,4 @@
+import React, { Suspense } from "react";
 import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
@@ -7,16 +8,16 @@ import { HelmetProvider } from "react-helmet-async";
 import { SidebarProvider } from "@/components/layout/SidebarProvider";
 import Layout from "@/components/layout/Layout";
 
-// Pages
-import HomePage from "./pages/HomePage";
-import CatalogPage from "./pages/CatalogPage";
-import SearchPage from "./pages/SearchPage";
-import ShiurPage from "./pages/ShiurPage";
-import SefarimPage from "./pages/SefarimPage";
-import SeferPage from "./pages/SeferPage";
-import MidrashHaaliyahPage from "./pages/MidrashHaaliyahPage";
-import AboutPage from "./pages/AboutPage";
-import NotFound from "./pages/NotFound";
+// Pages - using lazy loading for better performance
+import HomePage from "./pages/HomePage"; // Keep home page eager loading
+const CatalogPage = React.lazy(() => import("./pages/CatalogPage"));
+const SearchPage = React.lazy(() => import("./pages/SearchPage"));
+const ShiurPage = React.lazy(() => import("./pages/ShiurPage"));
+const SefarimPage = React.lazy(() => import("./pages/SefarimPage"));
+const SeferPage = React.lazy(() => import("./pages/SeferPage"));
+const MidrashHaaliyahPage = React.lazy(() => import("./pages/MidrashHaaliyahPage"));
+const AboutPage = React.lazy(() => import("./pages/AboutPage"));
+const NotFound = React.lazy(() => import("./pages/NotFound"));
 
 const queryClient = new QueryClient();
 
@@ -28,17 +29,23 @@ const App = () => (
         <Sonner />
         <BrowserRouter>
           <SidebarProvider>
-            <Routes>
-              <Route path="/" element={<Layout><HomePage /></Layout>} />
-              <Route path="/catalog" element={<Layout><CatalogPage /></Layout>} />
-              <Route path="/search" element={<Layout><SearchPage /></Layout>} />
-              <Route path="/shiur/:shiurId" element={<Layout><ShiurPage /></Layout>} />
-              <Route path="/sefarim" element={<Layout><SefarimPage /></Layout>} />
-              <Route path="/sefer/:seferId" element={<Layout><SeferPage /></Layout>} />
-              <Route path="/sefer/midrash-haaliyah" element={<Layout><MidrashHaaliyahPage /></Layout>} />
-              <Route path="/about" element={<Layout><AboutPage /></Layout>} />
-              <Route path="*" element={<NotFound />} />
-            </Routes>
+            <Suspense fallback={
+              <div className="min-h-screen flex items-center justify-center">
+                <div className="text-biblical-brown">Loading...</div>
+              </div>
+            }>
+              <Routes>
+                <Route path="/" element={<Layout><HomePage /></Layout>} />
+                <Route path="/catalog" element={<Layout><CatalogPage /></Layout>} />
+                <Route path="/search" element={<Layout><SearchPage /></Layout>} />
+                <Route path="/shiur/:shiurId" element={<Layout><ShiurPage /></Layout>} />
+                <Route path="/sefarim" element={<Layout><SefarimPage /></Layout>} />
+                <Route path="/sefer/:seferId" element={<Layout><SeferPage /></Layout>} />
+                <Route path="/sefer/midrash-haaliyah" element={<Layout><MidrashHaaliyahPage /></Layout>} />
+                <Route path="/about" element={<Layout><AboutPage /></Layout>} />
+                <Route path="*" element={<NotFound />} />
+              </Routes>
+            </Suspense>
           </SidebarProvider>
         </BrowserRouter>
       </TooltipProvider>
