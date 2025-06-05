@@ -67,11 +67,11 @@ const MidrashHaaliyahPage: React.FC = () => {
       <br>
       <div class="simple-toc-entry">פרק א - גבעת רפידים .......... pg. 5</div>
       <br>
-      <div class="simple-toc-entry">פרק ב - הר סיני .......... pg. 29</div>
+      <div class="simple-toc-entry">פרק ב - הר סיני .......... pg. 27</div>
       <br>
-      <div class="simple-toc-entry">פרק ג - הר ההר .......... pg. 55</div>
+      <div class="simple-toc-entry">פרק ג - הר ההר .......... pg. 51</div>
       <br>
-      <div class="simple-toc-entry">מפתח למדרש העלייה .......... pg. 81</div>
+      <div class="simple-toc-entry">מפתח למדרש העלייה .......... pg. 75</div>
     `;
 
     // Get introduction content
@@ -101,8 +101,8 @@ const MidrashHaaliyahPage: React.FC = () => {
         `;
         
         chapter.sections.forEach((section) => {
-          // Render section content with footnote links
-          const sectionContentWithFootnotes = renderContentWithFootnotes(section.content);
+          // Render section content with footnote links and inline footnotes
+          const sectionContentWithFootnotes = renderContentWithInlineFootnotes(section.content, midrashContent.allFootnotes);
           
           pdfContent += `
             <div class="section">
@@ -110,33 +110,29 @@ const MidrashHaaliyahPage: React.FC = () => {
               <div class="section-content">${sectionContentWithFootnotes}</div>
             </div>
           `;
-          
-          // Collect footnotes for later page-bottom positioning
-          const sectionFootnotes = Object.entries(section.footnotes);
-          if (sectionFootnotes.length > 0) {
-            // Sort footnotes numerically
-            sectionFootnotes.sort((a, b) => {
-              const numA = parseInt(a[0].slice(1)) || 0;
-              const numB = parseInt(b[0].slice(1)) || 0;
-              return numA - numB;
-            });
-            
-            sectionFootnotes.forEach(([id, content]) => {
-              const footnoteNumber = id.slice(1);
-              pdfContent += `
-                <div class="page-footnote" id="footnote-${footnoteNumber}">
-                  <span class="page-footnote-number">${footnoteNumber}</span>
-                  <span class="page-footnote-text">${cleanMarkdownEscapes(content)}</span>
-                </div>
-              `;
-            });
-          }
         });
         
         pdfContent += `</div>`; // Close chapter-section
       });
       
       return pdfContent;
+    };
+
+    // Function to render content with inline footnotes for proper page positioning
+    const renderContentWithInlineFootnotes = (content: string, allFootnotes: Record<string, string>): string => {
+      // First clean markdown escapes
+      const cleanedContent = cleanMarkdownEscapes(content);
+      
+      // Convert footnote references to just clickable superscript links
+      // The footnotes will be collected and positioned separately
+      return cleanedContent.replace(/\[(\^[^\]]+)\]/g, (match, footnoteId) => {
+        // Extract just the number/letter after the ^
+        const footnoteNumber = footnoteId.slice(1); // Remove the ^ symbol
+        const footnoteText = allFootnotes[footnoteId] || '';
+        
+        // Return just the footnote link - the footnote content will be handled by CSS
+        return `<sup><a href="#footnote-${footnoteNumber}" id="footnote-ref-${footnoteNumber}" class="footnote-link" data-footnote="${footnoteId}">${footnoteNumber}</a></sup><span class="footnote-content" data-footnote-id="${footnoteId}" style="display: none;">${cleanMarkdownEscapes(footnoteText)}</span>`;
+      });
     };
 
     printWindow.document.write(`
@@ -378,13 +374,13 @@ const MidrashHaaliyahPage: React.FC = () => {
           
           /* Page footnotes styling for PDF - positioned at bottom of each page */
           .page-footnote {
-            float: footnote;
             font-size: 12px;
             line-height: 1.4;
             color: #374151;
             margin-bottom: 4px;
             padding: 2px 0;
             display: block;
+            page-break-inside: avoid;
           }
           
           .page-footnote-number {
@@ -400,33 +396,50 @@ const MidrashHaaliyahPage: React.FC = () => {
             display: inline;
           }
           
+          /* Footnote area styling */
+          .footnote-area {
+            margin-top: auto;
+            padding-top: 12px;
+            border-top: 1px solid #000000;
+            min-height: 60px;
+          }
+          
           @media print {
             body { margin: 0; }
             .page-break { page-break-before: always; }
             
-            /* Enhanced print layout with footnote area */
+            /* Enhanced print layout */
             @page {
-              margin: 0.5in 0.5in 1.5in 0.5in; /* Extra bottom margin for footnotes */
+              margin: 0.5in 0.5in 0.5in 0.5in;
               size: A4;
-              @footnote {
-                border-top: 1px solid #000000;
-                padding-top: 8px;
-                margin-top: 8px;
-                font-size: 11px;
-                line-height: 1.3;
-              }
             }
             
-            /* Position footnotes at page bottom */
+            /* Page layout with footnotes at bottom */
+            .page-content {
+              min-height: calc(100vh - 100px);
+              display: flex;
+              flex-direction: column;
+            }
+            
+            .main-text {
+              flex-grow: 1;
+            }
+            
+            .footnote-area {
+              margin-top: auto;
+              border-top: 1px solid #000000;
+              padding-top: 8px;
+              font-size: 11px;
+              line-height: 1.3;
+            }
+            
             .page-footnote {
-              float: footnote !important;
               font-size: 11px !important;
               line-height: 1.3 !important;
               text-align: justify !important;
-              display: block !important;
-              break-inside: avoid;
               margin-bottom: 3px !important;
               padding: 1px 0 !important;
+              page-break-inside: avoid !important;
             }
             
             .page-footnote-number {
@@ -440,6 +453,37 @@ const MidrashHaaliyahPage: React.FC = () => {
             .page-footnote-text {
               text-align: justify !important;
               display: inline !important;
+            }
+            
+            /* Alternative footnote approach */
+            .footnote-content {
+              display: none !important;
+            }
+            
+            /* Create footnote areas at page bottom */
+            .page-footnote-area {
+              position: fixed;
+              bottom: 1in;
+              left: 0.5in;
+              right: 0.5in;
+              border-top: 1px solid #000000;
+              padding-top: 8px;
+              font-size: 11px;
+              line-height: 1.3;
+              background: white;
+            }
+            
+            .collected-footnote {
+              margin-bottom: 3px;
+              text-align: justify;
+            }
+            
+            .collected-footnote-number {
+              font-weight: bold;
+              color: #2563eb;
+              margin-left: 6px;
+              display: inline-block;
+              min-width: 18px;
             }
             
             /* Hide browser headers and footers */
@@ -464,6 +508,34 @@ const MidrashHaaliyahPage: React.FC = () => {
             }
           }
         </style>
+        <script>
+          // Simple approach - create footnote areas with dividing lines
+          document.addEventListener('DOMContentLoaded', function() {
+            // Convert hidden footnote content to visible footnotes in areas
+            const footnoteContents = document.querySelectorAll('.footnote-content');
+            footnoteContents.forEach(function(content) {
+              const footnoteId = content.getAttribute('data-footnote-id');
+              const footnoteText = content.textContent;
+              
+              // Create footnote element
+              const footnoteDiv = document.createElement('div');
+              footnoteDiv.className = 'page-footnote';
+              footnoteDiv.id = 'footnote-' + footnoteId;
+              footnoteDiv.innerHTML = '<span class="page-footnote-number">' + footnoteId + '</span><span class="page-footnote-text">' + footnoteText + '</span>';
+              
+              // Find or create footnote area for this page/section
+              let footnoteArea = content.closest('.section').querySelector('.footnote-area');
+              if (!footnoteArea) {
+                footnoteArea = document.createElement('div');
+                footnoteArea.className = 'footnote-area';
+                content.closest('.section').appendChild(footnoteArea);
+              }
+              
+              footnoteArea.appendChild(footnoteDiv);
+              content.remove();
+            });
+          });
+        </script>
       </head>
       <body>
         <!-- Cover Page -->
