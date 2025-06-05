@@ -23,6 +23,21 @@ function formatTitle(str) {
     .join(' ');
 }
 
+function generateEnclosure(shiur) {
+  // Estimate audio file size based on duration
+  // Assuming average MP3 bitrate of 128kbps (about 1MB per minute)
+  let estimatedSize = 1048576; // Default 1MB if no duration
+  
+  if (shiur.length) {
+    const [minutes, seconds] = shiur.length.split(':').map(Number);
+    const totalMinutes = minutes + (seconds / 60);
+    // Estimate: 1MB per minute for 128kbps MP3
+    estimatedSize = Math.round(totalMinutes * 1048576);
+  }
+  
+  return `<enclosure url="${shiur.audio_recording_link}" type="audio/mpeg" length="${estimatedSize}"/>`;
+}
+
 function generateRSSFeed() {
   // Get the latest 50 shiurim (or all if less than 50)
   const latestShiurim = shiurimData.slice(0, 50);
@@ -81,7 +96,7 @@ function generateRSSFeed() {
       <itunes:title><![CDATA[${shiur.english_title}]]></itunes:title>
       <itunes:summary><![CDATA[${description}]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      ${shiur.audio_recording_link ? `<enclosure url="${shiur.audio_recording_link}" type="audio/mpeg"/>` : ''}
+      ${shiur.audio_recording_link ? generateEnclosure(shiur) : ''}
       ${shiur.audio_recording_link ? `<itunes:duration>${shiur.length || '00:00'}</itunes:duration>` : ''}
     </item>`;
   });
