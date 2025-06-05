@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef, useCallback } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import { Headphones, Book, ArrowUp, Clock } from 'lucide-react';
 import BackToTopButton from '@/components/common/BackToTopButton';
 import { Category, Shiur } from '@/types/shiurim';
@@ -13,6 +13,17 @@ const CatalogPage: React.FC = () => {
   const [loadingDurations, setLoadingDurations] = useState(false);
   const tocRefs = useRef<Record<string, HTMLHeadingElement | null>>({});
   const audioRef = useRef<HTMLAudioElement>(null);
+  const location = useLocation();
+
+  // Create URL-safe anchor ID
+  const createAnchorId = (category: string, subCategory: string, sefer: string) => {
+    const categoryName = category === 'Ein Yaakov' ? 'Ein Yaakov (Talmud)' : category;
+    return `${categoryName}-${subCategory}-${sefer}`
+      .replace(/\s+/g, '-')
+      .replace(/[()]/g, '')
+      .replace(/[^a-zA-Z0-9\-]/g, '')
+      .toLowerCase();
+  };
 
   // Function to load duration for a single shiur if not available in data
   const loadDuration = useCallback(async (shiurId: string) => {
@@ -105,6 +116,24 @@ const CatalogPage: React.FC = () => {
     }
   }, [loadDuration]);
 
+  // Handle anchor scrolling when page loads or hash changes
+  useEffect(() => {
+    if (location.hash) {
+      const targetId = location.hash.slice(1); // Remove the # symbol
+      const targetElement = document.getElementById(targetId);
+      
+      if (targetElement) {
+        // Add a small delay to ensure the page has rendered
+        setTimeout(() => {
+          targetElement.scrollIntoView({ 
+            behavior: 'smooth', 
+            block: 'start' 
+          });
+        }, 100);
+      }
+    }
+  }, [location.hash, categories]); // Re-run when categories load
+
   const scrollToSefer = (seferId: string) => {
     const element = tocRefs.current[seferId];
     if (element) {
@@ -162,7 +191,13 @@ const CatalogPage: React.FC = () => {
                         {subCategory.sefarim.map(sefer => (
                           <li key={sefer.name}>
                             <button 
-                              onClick={() => scrollToSefer(`${category.name}-${subCategory.name}-${sefer.name}`)}
+                              onClick={() => {
+                                const anchorId = createAnchorId(category.name, subCategory.name, sefer.name);
+                                const element = document.getElementById(anchorId);
+                                if (element) {
+                                  element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                                }
+                              }}
                               className="text-biblical-brown hover:text-biblical-burgundy hover:underline"
                             >
                               {sefer.name}
@@ -187,7 +222,11 @@ const CatalogPage: React.FC = () => {
                   {subCategory.sefarim.map(sefer => (
                     <div key={sefer.name} className="mb-12">
                       <h3 
-                        ref={el => tocRefs.current[`${category.name}-${subCategory.name}-${sefer.name}`] = el}
+                        ref={el => {
+                          const anchorId = createAnchorId(category.name, subCategory.name, sefer.name);
+                          tocRefs.current[anchorId] = el;
+                        }}
+                        id={createAnchorId(category.name, subCategory.name, sefer.name)}
                         className="text-2xl font-semibold mb-4 text-center text-biblical-burgundy"
                       >
                         {sefer.name}

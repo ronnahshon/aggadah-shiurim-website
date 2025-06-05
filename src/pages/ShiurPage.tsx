@@ -85,6 +85,20 @@ const ShiurPage: React.FC = () => {
   const audioUrl = getAudioUrl(`${shiur.id}.mp3`);
   const googleDriveDownloadUrl = getGoogleDriveDownloadUrl(shiur.audio_recording_link);
 
+  // Create catalog anchor link for the sefer
+  const createCatalogAnchor = () => {
+    const categoryName = formatTitle(shiur.category);
+    const displayCategoryName = categoryName === 'Ein Yaakov' ? 'Ein Yaakov (Talmud)' : categoryName;
+    const subCategoryName = formatTitle(shiur.sub_category);
+    const seferName = formatTitle(shiur.english_sefer);
+    
+    return `${displayCategoryName}-${subCategoryName}-${seferName}`
+      .replace(/\s+/g, '-')
+      .replace(/[()]/g, '')
+      .replace(/[^a-zA-Z0-9\-]/g, '')
+      .toLowerCase();
+  };
+
   return (
     <div className="min-h-screen py-4 sm:py-8">
       <div className="content-container">
@@ -99,7 +113,12 @@ const ShiurPage: React.FC = () => {
             <span className="mx-1 sm:mx-2 flex-shrink-0">/</span>
             <span className="truncate flex-shrink min-w-0">{formatTitle(shiur.sub_category)}</span>
             <span className="mx-1 sm:mx-2 flex-shrink-0">/</span>
-            <span className="truncate flex-shrink min-w-0">{formatTitle(shiur.english_sefer)}</span>
+            <Link 
+              to={`/catalog#${createCatalogAnchor()}`}
+              className="truncate flex-shrink min-w-0 hover:text-biblical-burgundy"
+            >
+              {formatTitle(shiur.english_sefer)}
+            </Link>
           </nav>
           
           {/* Shiur header */}
