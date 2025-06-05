@@ -109,7 +109,7 @@ const SourceSheetRenderer: React.FC<SourceSheetRendererProps> = ({
       
       {content && (
         <div 
-          className="source-content prose prose-biblical max-w-none text-sm sm:text-base leading-relaxed"
+          className="google-doc-content max-w-none"
           dangerouslySetInnerHTML={{ __html: content }}
         />
       )}

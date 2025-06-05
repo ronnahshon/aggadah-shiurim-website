@@ -125,15 +125,15 @@ export function formatDocContent(htmlContent: string, docUrl: string): string {
       // Remove Google Docs specific imports and metadata
       .replace(/@import[^;]+;/gi, '') // Remove imports
       .replace(/@media[^{]*{[^{}]*(?:{[^{}]*}[^{}]*)*}/gi, '') // Remove media queries
-      // Remove specific Google Docs classes we don't want
+      // Remove only the most problematic Google Docs classes, keep formatting ones
       .replace(/\.kix-[^{]*{[^}]*}/gi, '') // Remove kix-specific classes
       .replace(/\.docs-[^{]*{[^}]*}/gi, '') // Remove docs-specific classes
-      .replace(/\.lst-[^{]*{[^}]*}/gi, '') // Remove list-specific classes
-      // Clean up fonts but allow custom font sizes and weights  
-      .replace(/font-family:\s*["'][^"']*["']/gi, 'font-family: inherit') // Use site fonts
-      // Remove page-specific styling
-      .replace(/margin:\s*[^;]+;?/gi, '') // Remove margins
-      .replace(/padding:\s*[^;]+;?/gi, '') // Remove padding from root elements
+      // Only remove font-family, preserve all colors, sizes, weights, etc.
+      .replace(/font-family:\s*["'][^"']*["']/gi, 'font-family: inherit')
+      // Remove page-level styling that interferes with layout
+      .replace(/body\s*{[^}]*margin[^}]*}/gi, '') // Remove body margins
+      .replace(/body\s*{[^}]*padding[^}]*}/gi, '') // Remove body padding
+      .replace(/@page[^{]*{[^}]*}/gi, '') // Remove page break styling
       // Clean up excessive whitespace
       .replace(/\s+/g, ' ') // Normalize whitespace
       .replace(/;\s*;/g, ';') // Remove duplicate semicolons
