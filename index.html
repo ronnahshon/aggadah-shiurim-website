@@ -30,6 +30,67 @@
     <!-- RSS and Atom feeds -->
     <link rel="alternate" type="application/rss+xml" title="Midrash Aggadah RSS Feed" href="/rss.xml">
     <link rel="alternate" type="application/atom+xml" title="Midrash Aggadah Atom Feed" href="/atom.xml">
+    
+    <!-- Core Structured Data for SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "EducationalOrganization",
+          "@id": "https://midrashaggadah.com/#organization",
+          "name": "Midrash Aggadah",
+          "url": "https://midrashaggadah.com",
+          "description": "A comprehensive resource for exploring midrash aggadah, featuring shiurim, source texts, and sefarim. Thousands of pages of written source sheets and hundreds of hours of audio shiurim.",
+          "sameAs": ["https://twitter.com/midrashaggadah"],
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "email": "midrashaggadah@gmail.com",
+            "contactType": "customer service"
+          },
+          "areaServed": "Worldwide",
+          "availableLanguage": ["en", "he"],
+          "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Shiurim Catalog",
+            "itemListElement": [
+              {
+                "@type": "Course",
+                "name": "Ein Yaakov Studies",
+                "description": "Comprehensive study of aggadic portions of the Talmud"
+              },
+              {
+                "@type": "Course",
+                "name": "Tanach Midrashim", 
+                "description": "Midrashic interpretations and expansions of biblical texts"
+              },
+              {
+                "@type": "Course",
+                "name": "Classical Midrash Collections",
+                "description": "Study of traditional midrashic literature and commentary"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://midrashaggadah.com/#website",
+          "url": "https://midrashaggadah.com",
+          "name": "Midrash Aggadah",
+          "description": "Explore thousands of pages of midrash aggadah source texts and hundreds of hours of audio shiurim",
+          "publisher": {"@id": "https://midrashaggadah.com/#organization"},
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://midrashaggadah.com/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ]
+    }
+    </script>
   </head>
 
   <body>
