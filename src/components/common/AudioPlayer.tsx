@@ -5,9 +5,10 @@ import { getAudioUrl } from '@/utils/s3Utils';
 interface AudioPlayerProps {
   audioSrc: string;
   downloadUrl?: string;
+  fileName?: string;
 }
 
-const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl }) => {
+const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileName }) => {
   const [isPlaying, setIsPlaying] = useState(false);
   const [duration, setDuration] = useState(0);
   const [currentTime, setCurrentTime] = useState(0);
@@ -60,6 +61,32 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl }) => {
     setCurrentTime(newTime);
   };
 
+  // Handle local download
+  const handleDownload = async (e: React.MouseEvent) => {
+    e.preventDefault();
+    
+    try {
+      const response = await fetch(download);
+      const blob = await response.blob();
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.style.display = 'none';
+      a.href = url;
+      a.download = fileName || 'audio.mp3';
+      document.body.appendChild(a);
+      a.click();
+      window.URL.revokeObjectURL(url);
+      document.body.removeChild(a);
+    } catch (error) {
+      console.error('Download failed:', error);
+      // Fallback to direct link if fetch fails
+      const a = document.createElement('a');
+      a.href = download;
+      a.download = fileName || 'audio.mp3';
+      a.click();
+    }
+  };
+
   // Format time in mm:ss
   const formatTime = (time: number) => {
     if (isNaN(time)) return "00:00";
@@ -90,16 +117,15 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl }) => {
           </div>
         </div>
         
-        <a 
-          href={download}
-          download
+        <button 
+          onClick={handleDownload}
           className="flex items-center text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy flex-shrink-0"
           aria-label="Download audio"
         >
           <Download size={14} className="mr-1 sm:w-4 sm:h-4" />
           <span className="hidden sm:inline">Download</span>
           <span className="sm:hidden">DL</span>
-        </a>
+        </button>
       </div>
 
       {/* Progress bar */}

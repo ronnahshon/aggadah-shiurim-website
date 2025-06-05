@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { Download, Calendar, Clock, FileText, ExternalLink } from 'lucide-react';
+import { Calendar, Clock } from 'lucide-react';
 import shiurimData from '@/data/shiurim_data.json';
 import { Shiur } from '@/types/shiurim';
 import { formatTitle, getAudioDuration } from '@/utils/dataUtils';
-import { getPdfUrl, getAudioUrl } from '@/utils/s3Utils';
+import { getAudioUrl } from '@/utils/s3Utils';
 import AudioPlayer from '@/components/common/AudioPlayer';
 import DocumentViewer from '@/components/common/DocumentViewer';
 
@@ -144,47 +144,17 @@ const ShiurPage: React.FC = () => {
             </div>
           </div>
           
-          {/* Audio player */}
+          {/* Audio player - moved up and titles removed */}
           <div className="mb-6 sm:mb-8">
-            <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center mb-3 gap-2">
-              <h3 className="text-base sm:text-lg font-semibold text-biblical-navy flex items-center">
-                <FileText size={16} className="mr-2" />
-                Listen to the Shiur
-              </h3>
-              <a 
-                href={audioUrl}
-                download={`${shiur.english_title}.mp3`}
-                className="flex items-center text-biblical-navy hover:text-biblical-burgundy text-sm"
-              >
-                <Download size={16} className="mr-1" />
-                Download MP3
-              </a>
-            </div>
             <AudioPlayer 
-              audioSrc={audioUrl} 
+              audioSrc={audioUrl}
+              fileName={`${shiur.english_title}.mp3`}
             />
           </div>
           
-          {/* Source document */}
+          {/* Source document - titles and external link removed */}
           {shiur.source_sheet_link && (
             <div className="mb-6 sm:mb-8">
-              <div className="flex flex-col sm:flex-row sm:items-center mb-3 gap-2">
-                <h3 className="text-base sm:text-lg font-semibold text-biblical-navy flex items-center">
-                  <FileText size={16} className="mr-2" />
-                Source Sheet
-                </h3>
-                {isGoogleDoc && (
-                  <a 
-                    href={shiur.source_sheet_link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy flex items-center"
-                  >
-                    <ExternalLink size={12} className="mr-1" />
-                    View in Google Docs
-                  </a>
-                )}
-              </div>
               <DocumentViewer 
                 docUrl={shiur.source_sheet_link} 
                 isGoogleDoc={isGoogleDoc} 

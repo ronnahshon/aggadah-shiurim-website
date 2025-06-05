@@ -11,9 +11,9 @@ interface DocumentViewerProps {
 const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = false }) => {
   const [extractedContent, setExtractedContent] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState<boolean>(false);
-  const [showIframe, setShowIframe] = useState<boolean>(true);
+  const [showIframe, setShowIframe] = useState<boolean>(true); // Default to embedded view
   
-  // For Google Docs, we try to extract the content
+  // For Google Docs, we try to extract the content but keep it as non-default option
   useEffect(() => {
     if (isGoogleDoc || docUrl.includes('docs.google.com')) {
       setIsLoading(true);
@@ -21,7 +21,7 @@ const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = f
       convertGoogleDocToContent(docUrl)
         .then(content => {
           setExtractedContent(content);
-          setShowIframe(false);
+          // Keep showIframe as true by default (embedded view)
         })
         .catch(error => {
           console.error("Failed to extract content:", error);
@@ -33,7 +33,7 @@ const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = f
     }
   }, [docUrl, isGoogleDoc]);
   
-  // For Google Docs, we use their embedded viewer as fallback
+  // For Google Docs, we use their embedded viewer as default
   const renderGoogleDocViewer = () => {
     // Convert edit URL to embedded URL
     const embeddedUrl = docUrl
@@ -50,7 +50,7 @@ const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = f
             className="flex items-center text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy"
           >
             <Download size={14} className="mr-1" />
-            <span className="hidden sm:inline">Download PDF</span>
+            <span className="hidden sm:inline">Download as PDF</span>
             <span className="sm:hidden">PDF</span>
           </a>
         </div>
@@ -95,7 +95,7 @@ const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = f
     );
   };
   
-  // For extracted Google Doc content
+  // For extracted Google Doc content (non-embedded view)
   const renderExtractedContent = () => {
     return (
       <div className="flex flex-col h-full">
@@ -113,7 +113,7 @@ const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = f
             className="flex items-center text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy"
           >
             <Download size={14} className="mr-1" />
-            <span className="hidden sm:inline">Download PDF</span>
+            <span className="hidden sm:inline">Download as PDF</span>
             <span className="sm:hidden">PDF</span>
           </a>
         </div>
@@ -133,10 +133,43 @@ const DocumentViewer: React.FC<DocumentViewerProps> = ({ docUrl, isGoogleDoc = f
     );
   };
   
-  // Main render logic
+  // Main render logic - default to embedded view for Google Docs
   if (isGoogleDoc || docUrl.includes('docs.google.com')) {
     if (extractedContent && !showIframe) {
       return renderExtractedContent();
+    }
+    // Add toggle button for switching to non-embedded view if content is available
+    if (showIframe && extractedContent) {
+      return (
+        <div className="flex flex-col h-full">
+          <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center mb-2 gap-2">
+            <button
+              onClick={() => setShowIframe(false)}
+              className="text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy"
+            >
+              Switch to non-embedded view
+            </button>
+            <a 
+              href={getPdfUrl(docUrl)}
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="flex items-center text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy"
+            >
+              <Download size={14} className="mr-1" />
+              <span className="hidden sm:inline">Download as PDF</span>
+              <span className="sm:hidden">PDF</span>
+            </a>
+          </div>
+          <div className="border border-parchment-dark rounded-lg overflow-hidden h-[400px] sm:h-[600px] w-full">
+            <iframe 
+              src={docUrl.replace('/edit?usp=drive_link', '/preview').replace('/edit?usp=sharing', '/preview')} 
+              title="Document Viewer"
+              className="w-full h-full"
+              allow="autoplay"
+            ></iframe>
+          </div>
+        </div>
+      );
     }
     return renderGoogleDocViewer();
   }
