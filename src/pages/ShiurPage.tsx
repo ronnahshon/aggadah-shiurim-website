@@ -4,7 +4,7 @@ import { Calendar, Clock } from 'lucide-react';
 import shiurimData from '@/data/shiurim_data.json';
 import { Shiur } from '@/types/shiurim';
 import { formatTitle, getAudioDuration } from '@/utils/dataUtils';
-import { getAudioUrl } from '@/utils/s3Utils';
+import { getAudioUrl, getGoogleDriveDownloadUrl } from '@/utils/s3Utils';
 import AudioPlayer from '@/components/common/AudioPlayer';
 import DocumentViewer from '@/components/common/DocumentViewer';
 
@@ -83,6 +83,7 @@ const ShiurPage: React.FC = () => {
 
   const isGoogleDoc = shiur.source_sheet_link && shiur.source_sheet_link.includes('docs.google.com');
   const audioUrl = getAudioUrl(`${shiur.id}.mp3`);
+  const googleDriveDownloadUrl = getGoogleDriveDownloadUrl(shiur.audio_recording_link);
 
   return (
     <div className="min-h-screen py-4 sm:py-8">
@@ -148,6 +149,7 @@ const ShiurPage: React.FC = () => {
           <div className="mb-6 sm:mb-8">
             <AudioPlayer 
               audioSrc={audioUrl}
+              downloadUrl={googleDriveDownloadUrl}
               fileName={`${shiur.english_title}.mp3`}
             />
           </div>

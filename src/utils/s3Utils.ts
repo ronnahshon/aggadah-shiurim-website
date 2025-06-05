@@ -9,6 +9,25 @@ export const getAudioUrl = (audioPath: string): string => {
   return `${S3_BASE_URL}audio/${audioPath}`;
 };
 
+export const getGoogleDriveDownloadUrl = (driveUrl: string): string => {
+  if (!driveUrl || !driveUrl.includes('drive.google.com')) {
+    return driveUrl;
+  }
+  
+  // Extract file ID from Google Drive URL
+  // URL format: https://drive.google.com/file/d/FILE_ID/view?usp=drive_link
+  const fileIdMatch = driveUrl.match(/\/file\/d\/([a-zA-Z0-9_-]+)/);
+  
+  if (!fileIdMatch) {
+    return driveUrl;
+  }
+  
+  const fileId = fileIdMatch[1];
+  
+  // Convert to download URL format
+  return `https://drive.google.com/uc?export=download&id=${fileId}`;
+};
+
 export const getDocumentUrl = (docPath: string): string => {
   if (docPath.startsWith('http')) {
     return docPath;

@@ -61,31 +61,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
     setCurrentTime(newTime);
   };
 
-  // Handle local download
-  const handleDownload = async (e: React.MouseEvent) => {
-    e.preventDefault();
-    
-    try {
-      const response = await fetch(download);
-      const blob = await response.blob();
-      const url = window.URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.style.display = 'none';
-      a.href = url;
-      a.download = fileName || 'audio.mp3';
-      document.body.appendChild(a);
-      a.click();
-      window.URL.revokeObjectURL(url);
-      document.body.removeChild(a);
-    } catch (error) {
-      console.error('Download failed:', error);
-      // Fallback to direct link if fetch fails
-      const a = document.createElement('a');
-      a.href = download;
-      a.download = fileName || 'audio.mp3';
-      a.click();
-    }
-  };
+
 
   // Format time in mm:ss
   const formatTime = (time: number) => {
@@ -117,15 +93,16 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
           </div>
         </div>
         
-        <button 
-          onClick={handleDownload}
+        <a 
+          href={download}
+          download={fileName || 'audio.mp3'}
           className="flex items-center text-xs sm:text-sm text-biblical-navy hover:text-biblical-burgundy flex-shrink-0"
           aria-label="Download audio"
         >
           <Download size={14} className="mr-1 sm:w-4 sm:h-4" />
           <span className="hidden sm:inline">Download</span>
           <span className="sm:hidden">DL</span>
-        </button>
+        </a>
       </div>
 
       {/* Progress bar */}
