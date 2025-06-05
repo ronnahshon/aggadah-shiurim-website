@@ -186,9 +186,6 @@ const ShiurPage: React.FC = () => {
           {/* Tags */}
           {shiur.tags && shiur.tags.length > 0 && (
             <div className="mt-8">
-              <h3 className="text-sm font-medium mb-2 text-biblical-brown/70">
-                Tags
-              </h3>
               <div className="flex flex-wrap gap-2">
                 {shiur.tags.map(tag => (
                   <span 
