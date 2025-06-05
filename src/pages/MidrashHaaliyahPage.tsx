@@ -131,7 +131,7 @@ const MidrashHaaliyahPage: React.FC = () => {
         const footnoteText = allFootnotes[footnoteId] || '';
         
         // Return just the footnote link - the footnote content will be handled by CSS
-        return `<sup><a href="#footnote-${footnoteNumber}" id="footnote-ref-${footnoteNumber}" class="footnote-link" data-footnote="${footnoteId}">${footnoteNumber}</a></sup><span class="footnote-content" data-footnote-id="${footnoteId}" style="display: none;">${cleanMarkdownEscapes(footnoteText)}</span>`;
+        return `<sup><a href="#footnote-${footnoteNumber}" id="footnote-ref-${footnoteNumber}" class="footnote-link" data-footnote="${footnoteId}">${footnoteNumber}</a></sup><span class="footnote-content" data-footnote-id="${footnoteNumber}" style="display: none;">${cleanMarkdownEscapes(footnoteText)}</span>`;
       });
     };
 
@@ -517,7 +517,7 @@ const MidrashHaaliyahPage: React.FC = () => {
               const footnoteId = content.getAttribute('data-footnote-id');
               const footnoteText = content.textContent;
               
-              // Create footnote element
+              // Create footnote element (footnoteId already has ^ removed from renderContentWithInlineFootnotes)
               const footnoteDiv = document.createElement('div');
               footnoteDiv.className = 'page-footnote';
               footnoteDiv.id = 'footnote-' + footnoteId;
@@ -580,7 +580,6 @@ const MidrashHaaliyahPage: React.FC = () => {
         
         <!-- Bibliography Section -->
         <div class="bibliography-section">
-          <h2 class="section-header">${midrashContent.bibliography.title}</h2>
           <div class="bibliography-content">
             ${midrashContent.bibliography.content.split('\n').filter(line => line.trim()).map(line => {
               if (line.startsWith('**') && line.endsWith('**')) {
