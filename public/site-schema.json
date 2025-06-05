@@ -1,0 +1,165 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://midrashaggadah.com/#organization",
+      "name": "Midrash Aggadah",
+      "url": "https://midrashaggadah.com",
+      "description": "A comprehensive resource for exploring midrash aggadah, featuring shiurim, source texts, and sefarim. Thousands of pages of written source sheets and hundreds of hours of audio shiurim.",
+      "sameAs": [
+        "https://twitter.com/midrashaggadah"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "midrashaggadah@gmail.com",
+        "contactType": "customer service"
+      },
+      "areaServed": "Worldwide",
+      "availableLanguage": ["en", "he"],
+      "educationalCredentialAwarded": "Certificate of Completion",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Shiurim Catalog",
+        "itemListElement": [
+          {
+            "@type": "Course",
+            "name": "Ein Yaakov Studies",
+            "description": "Comprehensive study of aggadic portions of the Talmud"
+          },
+          {
+            "@type": "Course", 
+            "name": "Tanach Midrashim",
+            "description": "Midrashic interpretations and expansions of biblical texts"
+          },
+          {
+            "@type": "Course",
+            "name": "Classical Midrash Collections",
+            "description": "Study of traditional midrashic literature and commentary"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://midrashaggadah.com/#website",
+      "url": "https://midrashaggadah.com",
+      "name": "Midrash Aggadah",
+      "description": "Explore thousands of pages of midrash aggadah source texts and hundreds of hours of audio shiurim",
+      "publisher": {
+        "@id": "https://midrashaggadah.com/#organization"
+      },
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://midrashaggadah.com/search?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      ],
+      "mainEntity": {
+        "@type": "ItemList",
+        "name": "Shiurim Collection",
+        "description": "Complete collection of midrash aggadah shiurim and source texts",
+        "numberOfItems": 238,
+        "itemListElement": [
+          {
+            "@type": "Course",
+            "position": 1,
+            "name": "Ein Yaakov Collection",
+            "description": "Aggadic portions of the Talmud with comprehensive commentary"
+          },
+          {
+            "@type": "Course",
+            "position": 2, 
+            "name": "Tanach Midrashim",
+            "description": "Midrashic interpretations of biblical texts"
+          },
+          {
+            "@type": "Course",
+            "position": 3,
+            "name": "Classical Midrash Literature",
+            "description": "Traditional midrashic texts and commentaries"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://midrashaggadah.com/#dataset",
+      "name": "Midrash Aggadah Shiurim Database",
+      "description": "Comprehensive database of 238+ shiurim covering Ein Yaakov, Tanach, and classical midrash texts",
+      "url": "https://midrashaggadah.com/catalog",
+      "publisher": {
+        "@id": "https://midrashaggadah.com/#organization"
+      },
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/rss+xml",
+          "contentUrl": "https://midrashaggadah.com/rss.xml"
+        },
+        {
+          "@type": "DataDownload", 
+          "encodingFormat": "application/atom+xml",
+          "contentUrl": "https://midrashaggadah.com/atom.xml"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/xml",
+          "contentUrl": "https://midrashaggadah.com/sitemap.xml"
+        }
+      ],
+      "keywords": [
+        "midrash aggadah",
+        "jewish learning",
+        "talmud",
+        "ein yaakov", 
+        "shiurim",
+        "hebrew texts",
+        "torah study",
+        "aggadic literature",
+        "rabbinical texts",
+        "jewish wisdom"
+      ],
+      "inLanguage": ["en", "he"],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isAccessibleForFree": true,
+      "dateModified": "2024-12-06",
+      "temporalCoverage": "2020/..",
+      "spatialCoverage": "Worldwide"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://midrashaggadah.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://midrashaggadah.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Catalog", 
+          "item": "https://midrashaggadah.com/catalog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Search",
+          "item": "https://midrashaggadah.com/search"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Sefarim",
+          "item": "https://midrashaggadah.com/sefarim"
+        }
+      ]
+    }
+  ]
+} 

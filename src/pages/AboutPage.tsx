@@ -1,9 +1,22 @@
 import React from 'react';
 import { Mail } from 'lucide-react';
+import SEOHead from '@/components/seo/SEOHead';
+import { generateFAQStructuredData, generateEnhancedMetaDescription, generateContextualKeywords } from '@/utils/additionalSeoUtils';
 
 const AboutPage: React.FC = () => {
+  const faqStructuredData = generateFAQStructuredData();
+  const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
+  
   return (
     <div className="min-h-screen py-8 pt-20 md:pt-8">
+      <SEOHead
+        title="About Midrash Aggadah"
+        description={generateEnhancedMetaDescription('about')}
+        keywords={generateContextualKeywords('about')}
+        structuredData={faqStructuredData}
+        canonicalUrl={`${baseUrl}/about`}
+        ogType="website"
+      />
       <div className="content-container">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-burgundy hidden md:block">

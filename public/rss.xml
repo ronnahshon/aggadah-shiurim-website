@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Midrash Aggadah</title>
+    <link>https://midrashaggadah.com</link>
+    <description>A comprehensive resource for exploring midrash aggadah, featuring shiurim, source texts, and sefarim</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jun 2025 23:16:40 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+    <ttl>1440</ttl>
+    <atom:link href="https://midrashaggadah.com/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <!-- iTunes podcast metadata -->
+    <itunes:author>Midrash Aggadah</itunes:author>
+    <itunes:summary>A comprehensive resource for exploring midrash aggadah, featuring shiurim, source texts, and sefarim</itunes:summary>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Midrash Aggadah</itunes:name>
+      <itunes:email>midrashaggadah@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://midrashaggadah.com/favicon.ico"/>
+
+    <item>
+      <title><![CDATA[Yevamot 13a - Beit Hillel and Beit Shammai practiced love and friendship with one another]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-1</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-1</guid>
+      <description><![CDATA[A shiur on "Yevamot 13a - Beit Hillel and Beit Shammai practiced love and friendship with one another" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות יג. - ללמדך שחיבה ורעות נוהגים זה בזה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 13a - Beit Hillel and Beit Shammai practiced love and friendship with one another]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 13a - Beit Hillel and Beit Shammai practiced love and friendship with one another" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות יג. - ללמדך שחיבה ורעות נוהגים זה בזה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1141mjsvzcKUQXTR9tofN34QqDajqd6U3/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>25:16</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 14a - Beit Shammai were of sharper intellect than Beit Hillel]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-2</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-2</guid>
+      <description><![CDATA[A shiur on "Yevamot 14a - Beit Shammai were of sharper intellect than Beit Hillel" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות יד. - הכא בית שמאי מחדדי טפי. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 14a - Beit Shammai were of sharper intellect than Beit Hillel]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 14a - Beit Shammai were of sharper intellect than Beit Hillel" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות יד. - הכא בית שמאי מחדדי טפי. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/12wsnvjy1sckQbTJOk0WUt90eSfV9sYag/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>26:17</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 16a - With heaven and earth as my witnesses, Hagai the prophet sat on this very mortar]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-3</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-3</guid>
+      <description><![CDATA[A shiur on "Yevamot 16a - With heaven and earth as my witnesses, Hagai the prophet sat on this very mortar" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות טז. - מעיד אני עלי שמים וארץ שעל מדוכה זו ישב חגי הנביא. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 16a - With heaven and earth as my witnesses, Hagai the prophet sat on this very mortar]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 16a - With heaven and earth as my witnesses, Hagai the prophet sat on this very mortar" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות טז. - מעיד אני עלי שמים וארץ שעל מדוכה זו ישב חגי הנביא. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1YfvQEv4Ko7mYDStur-YILYyv4lt8wlD9/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>29:39</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 20a - Sanctify yourself through that which is permitted]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-4</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-4</guid>
+      <description><![CDATA[A shiur on "Yevamot 20a - Sanctify yourself through that which is permitted" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות כ. - קדש עצמך במותר לך. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 20a - Sanctify yourself through that which is permitted]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 20a - Sanctify yourself through that which is permitted" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות כ. - קדש עצמך במותר לך. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1btuMB25AQ9a96EQkTimtDbt5k3J0Hohc/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>27:06</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 21a - This is comparable to an orchard watchman, if he watches from the outside the entire orchard is guarded]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-5</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-5</guid>
+      <description><![CDATA[A shiur on "Yevamot 21a - This is comparable to an orchard watchman, if he watches from the outside the entire orchard is guarded" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות כא. - לאדם משמר פרדס משמרו מבחוץ כולו משתמר. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 21a - This is comparable to an orchard watchman, if he watches from the outside the entire orchard is guarded]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 21a - This is comparable to an orchard watchman, if he watches from the outside the entire orchard is guarded" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות כא. - לאדם משמר פרדס משמרו מבחוץ כולו משתמר. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1H3QUhL3gHcVQg2-XGOu8T-IYD3Ncleww/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>26:17</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 34b - Er died the same death as his brother Onan]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-6</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-6</guid>
+      <description><![CDATA[A shiur on "Yevamot 34b - Er died the same death as his brother Onan" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות לד: - אף הוא באותו מיתה מת. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 34b - Er died the same death as his brother Onan]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 34b - Er died the same death as his brother Onan" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות לד: - אף הוא באותו מיתה מת. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1qkY7qsDxGs22urRXCu8pNhgTOCV9cBLG/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>42:48</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 48a - The beautiful captive's mother and father are her idols]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-7</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-7</guid>
+      <description><![CDATA[A shiur on "Yevamot 48a - The beautiful captive's mother and father are her idols" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות מח. - אביה ואמה זו עבודת כוכבים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 48a - The beautiful captive's mother and father are her idols]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 48a - The beautiful captive's mother and father are her idols" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות מח. - אביה ואמה זו עבודת כוכבים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1EBvS1qO4GgdfxnAwFbE8vmWmmWq-RaUT/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>34:36</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 49b - All the prophets saw G-d through a blurry looking glass]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-8</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-8</guid>
+      <description><![CDATA[A shiur on "Yevamot 49b - All the prophets saw G-d through a blurry looking glass" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות מט: - כל הנביאים נסתכלו באספקלריא שאינה מאירה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 49b - All the prophets saw G-d through a blurry looking glass]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 49b - All the prophets saw G-d through a blurry looking glass" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות מט: - כל הנביאים נסתכלו באספקלריא שאינה מאירה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1Ril7vY4POP6-8PBDl2WdUM1vk99G65NX/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>33:32</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 49b - Moshe acted of his own volition, and his will agreed with the Will of G-d]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-9</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-9</guid>
+      <description><![CDATA[A shiur on "Yevamot 49b - Moshe acted of his own volition, and his will agreed with the Will of G-d" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות מט: - עשה משה מדעתו והסכימה דעתו לדעת המקום. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 49b - Moshe acted of his own volition, and his will agreed with the Will of G-d]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 49b - Moshe acted of his own volition, and his will agreed with the Will of G-d" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות מט: - עשה משה מדעתו והסכימה דעתו לדעת המקום. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1yNiEofmJQqaat84iz-6uBPYYsRqQygz2/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>30:47</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 62b - Because they didnt treat each other with respect]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-10</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-10</guid>
+      <description><![CDATA[A shiur on "Yevamot 62b - Because they didnt treat each other with respect" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות סב: - מפני שלא נהגו כבוד זה לזה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 62b - Because they didnt treat each other with respect]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 62b - Because they didnt treat each other with respect" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות סב: - מפני שלא נהגו כבוד זה לזה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1EHkRC6gaoveg75mjqYOcqOkcjcat6G9L/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>31:31</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 63a - 100 coins in business yield meat and wine, while 100 coins in farming yield salt and vegetables]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-11</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-11</guid>
+      <description><![CDATA[A shiur on "Yevamot 63a - 100 coins in business yield meat and wine, while 100 coins in farming yield salt and vegetables" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות סג. - מאה זוזי בעיסקא כל יומא בשרא וחמרא מאה זוזי בארעא מילחא וחפורה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 63a - 100 coins in business yield meat and wine, while 100 coins in farming yield salt and vegetables]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 63a - 100 coins in business yield meat and wine, while 100 coins in farming yield salt and vegetables" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות סג. - מאה זוזי בעיסקא כל יומא בשרא וחמרא מאה זוזי בארעא מילחא וחפורה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1IgZN3x-xZ4A0JLzdpAZ2YzT57jAOdqkH/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>40:26</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 63b - Is the bride a find or found]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-12</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-12</guid>
+      <description><![CDATA[A shiur on "Yevamot 63b - Is the bride a find or found" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות סג: - מצא או מוצא. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 63b - Is the bride a find or found]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 63b - Is the bride a find or found" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות סג: - מצא או מוצא. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1IRjTPiHsgrWKC3vAISzjU71YDrMCKvph/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>31:35</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 64a - Why were our foreparents all barren]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-13</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-13</guid>
+      <description><![CDATA[A shiur on "Yevamot 64a - Why were our foreparents all barren" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות סד. - מפני מה היו אבותינו עקורים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 64a - Why were our foreparents all barren]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 64a - Why were our foreparents all barren" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות סד. - מפני מה היו אבותינו עקורים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1Q0-Srj1C82FW-948RJtvVurUak8zStMA/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>27:19</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 65b - It is permitted to lie for the sake of peace]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-14</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-14</guid>
+      <description><![CDATA[A shiur on "Yevamot 65b - It is permitted to lie for the sake of peace" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות סה: - מותר לו לאדם לשנות בדבר השלום. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 65b - It is permitted to lie for the sake of peace]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 65b - It is permitted to lie for the sake of peace" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות סה: - מותר לו לאדם לשנות בדבר השלום. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1WSRMv_vi46sssCRq0A3MNpNSkvFwNP0o/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>34:09</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 71b - Because the Northern wind did not blow for them]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-15</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-15</guid>
+      <description><![CDATA[A shiur on "Yevamot 71b - Because the Northern wind did not blow for them" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות עא: - משום דלא נשיב להו רוח צפונית. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 71b - Because the Northern wind did not blow for them]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 71b - Because the Northern wind did not blow for them" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות עא: - משום דלא נשיב להו רוח צפונית. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1Fv41DH0NOKFCSIGoemA94muYrhCmKOkR/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>33:28</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 76b - A king breaches a way for himself and nobody is able to stop him]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-16</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-16</guid>
+      <description><![CDATA[A shiur on "Yevamot 76b - A king breaches a way for himself and nobody is able to stop him" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות עו: - שהמלך פורץ לעשות דרך ואין ממחין בידו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 76b - A king breaches a way for himself and nobody is able to stop him]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 76b - A king breaches a way for himself and nobody is able to stop him" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות עו: - שהמלך פורץ לעשות דרך ואין ממחין בידו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1T1kWwxCghElltCjfhhPHZO7GAQTn1Y95/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>45:01</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 77a - Rehavam used to sit in David HaMelech's lap]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-17</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-17</guid>
+      <description><![CDATA[A shiur on "Yevamot 77a - Rehavam used to sit in David HaMelech's lap" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות עז. - מלמד שהיה רחבעם יושב בחיקו של דוד. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 77a - Rehavam used to sit in David HaMelech's lap]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 77a - Rehavam used to sit in David HaMelech's lap" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות עז. - מלמד שהיה רחבעם יושב בחיקו של דוד. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1Ts6wTNTEKEndEIuSpXZtT2hQRP5msTU4/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>37:29</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 79a - Jews are merciful, modest and doers of good deeds]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-18</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-18</guid>
+      <description><![CDATA[A shiur on "Yevamot 79a - Jews are merciful, modest and doers of good deeds" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות עט. - הרחמנים והביישנין וגומלי חסדים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 79a - Jews are merciful, modest and doers of good deeds]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 79a - Jews are merciful, modest and doers of good deeds" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות עט. - הרחמנים והביישנין וגומלי חסדים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1WsLgC3xSOvpMX9R1Vlx46yhBbHDYLdSG/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>25:16</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 86a - Rabbi Akiva may have his shepherd's bag, but Rabbi Elazar lives on]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-19</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-19</guid>
+      <description><![CDATA[A shiur on "Yevamot 86a - Rabbi Akiva may have his shepherd's bag, but Rabbi Elazar lives on" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות פו. - עקיבא בתרמילו ואנא חיי. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 86a - Rabbi Akiva may have his shepherd's bag, but Rabbi Elazar lives on]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 86a - Rabbi Akiva may have his shepherd's bag, but Rabbi Elazar lives on" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות פו. - עקיבא בתרמילו ואנא חיי. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1heUBy9ds-yeJ9fzWHHn0E0fyd9QHr-9h/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>36:27</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 96b - Why don't you know how to appease my honor like Rabbi Yaakov Ben Idi]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-20</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-20</guid>
+      <description><![CDATA[A shiur on "Yevamot 96b - Why don't you know how to appease my honor like Rabbi Yaakov Ben Idi" from Yevamot in the Ein Yaakov collection. Hebrew title: במות צו: - מפני מה אי אתם יודעין לפייס כבן אידי חברינו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 96b - Why don't you know how to appease my honor like Rabbi Yaakov Ben Idi]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 96b - Why don't you know how to appease my honor like Rabbi Yaakov Ben Idi" from Yevamot in the Ein Yaakov collection. Hebrew title: במות צו: - מפני מה אי אתם יודעין לפייס כבן אידי חברינו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1ROn8l3Aa4TyFtTwSitwd4-_dbD0_oJ45/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>27:31</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 98a - The Shechinah spoke with Yonah the prophet twice, but not a third time]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-21</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-21</guid>
+      <description><![CDATA[A shiur on "Yevamot 98a - The Shechinah spoke with Yonah the prophet twice, but not a third time" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות צח. - שנית דברה עמו שכינה שלישית לא דברה עמו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 98a - The Shechinah spoke with Yonah the prophet twice, but not a third time]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 98a - The Shechinah spoke with Yonah the prophet twice, but not a third time" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות צח. - שנית דברה עמו שכינה שלישית לא דברה עמו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1UoJBtkoz-lKDYXoilpDVplIGHiuY_BRh/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>27:03</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 103a - Sisera was with Yael seven times on that day]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-22</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-22</guid>
+      <description><![CDATA[A shiur on "Yevamot 103a - Sisera was with Yael seven times on that day" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות קג. - שבע בעילות בעל אותו רשע באותו היום. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 103a - Sisera was with Yael seven times on that day]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 103a - Sisera was with Yael seven times on that day" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות קג. - שבע בעילות בעל אותו רשע באותו היום. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1LeaEA3mojUwGXrrsPUL3DzuJYAZHR1mX/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>39:18</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 105b - Someone praying should look down, but direct his heart upwards to Heaven]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-23</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-23</guid>
+      <description><![CDATA[A shiur on "Yevamot 105b - Someone praying should look down, but direct his heart upwards to Heaven" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות קה: - המתפלל צריך שיתן עיניו למטה ולבו למעלה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 105b - Someone praying should look down, but direct his heart upwards to Heaven]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 105b - Someone praying should look down, but direct his heart upwards to Heaven" from Yevamot in the Ein Yaakov collection. Hebrew title: יבמות קה: - המתפלל צריך שיתן עיניו למטה ולבו למעלה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1wsDyW0EPLgcRi7H35j7JjqUn6IFADa3T/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>31:23</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Yevamot 121a - If wicked men attack a man, he should lower his head]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-24</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-24</guid>
+      <description><![CDATA[A shiur on "Yevamot 121a - If wicked men attack a man, he should lower his head" from Yevamot in the Ein Yaakov collection. Hebrew title: במות קכא. - אם יבואו רשעים על אדם ינענע לו ראשו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Yevamot]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Yevamot 121a - If wicked men attack a man, he should lower his head]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Yevamot 121a - If wicked men attack a man, he should lower his head" from Yevamot in the Ein Yaakov collection. Hebrew title: במות קכא. - אם יבואו רשעים על אדם ינענע לו ראשו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1QZ-ioLmKGD_k_WZGuCMBLkqIPgZRFGab/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>27:56</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 16b - When they give tzedakah, have them fail via people who are not worthy]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-1</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-1</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 16b - When they give tzedakah, have them fail via people who are not worthy" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא טז: - בשעה שעושין צדקה הכשילם בבני אדם שאינן מהוגנים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 16b - When they give tzedakah, have them fail via people who are not worthy]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 16b - When they give tzedakah, have them fail via people who are not worthy" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא טז: - בשעה שעושין צדקה הכשילם בבני אדם שאינן מהוגנים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1TkenQrVrMLYoI2eQIkc2260yQoNwIwkp/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>43:46</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 38a - I have two good fledglings to bring forth from them]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-2</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-2</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 38a - I have two good fledglings to bring forth from them" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא לח. - שתי פרידות טובות יש לי להוציא מהם. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 38a - I have two good fledglings to bring forth from them]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 38a - I have two good fledglings to bring forth from them" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא לח. - שתי פרידות טובות יש לי להוציא מהם. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1CLD-0PDRhVX6XucfBWRKFGPRV_2ad82x/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>33:15</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 50a - A male ram appeared to me with an old man leading it]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-3</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-3</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 50a - A male ram appeared to me with an old man leading it" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא נ. - זכר של רחלים נזדמן לי וזקן אחד מנהיגו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 50a - A male ram appeared to me with an old man leading it]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 50a - A male ram appeared to me with an old man leading it" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא נ. - זכר של רחלים נזדמן לי וזקן אחד מנהיגו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/11v_-DqOT4U-iS8d4H9FL9I5HPt-jsNKT/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>30:26</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 60a - Rav Yosef cried, are the righteous worth nothing when calamity hits]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-4</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-4</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 60a - Rav Yosef cried, are the righteous worth nothing when calamity hits" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא ס. - בכי רב יוסף כולי האי נמי לאין דומין. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 60a - Rav Yosef cried, are the righteous worth nothing when calamity hits]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 60a - Rav Yosef cried, are the righteous worth nothing when calamity hits" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא ס. - בכי רב יוסף כולי האי נמי לאין דומין. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1OoDSW11dzabblVZqMmaX6DCfm3IwfwYB/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>48:55</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 60a - A person should always gather in with 'ki tov' and go out with 'ki tov']]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-5</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-5</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 60a - A person should always gather in with 'ki tov' and go out with 'ki tov'" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא ס. - לעולם יכנס אדם בכי טוב ויצא בכי טוב. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 60a - A person should always gather in with 'ki tov' and go out with 'ki tov']]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 60a - A person should always gather in with 'ki tov' and go out with 'ki tov'" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא ס. - לעולם יכנס אדם בכי טוב ויצא בכי טוב. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1lmNEgHzPKn1AL9ZLtWnKPW3JpSt87ueY/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>37:15</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 79b - It is as though he made the eye of G-d as if it cannot see]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-6</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-6</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 79b - It is as though he made the eye of G-d as if it cannot see" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא עט: - כביכול עשה עין של מטה כאילו אינה רואה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 79b - It is as though he made the eye of G-d as if it cannot see]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 79b - It is as though he made the eye of G-d as if it cannot see" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא עט: - כביכול עשה עין של מטה כאילו אינה רואה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1LIIL7srTAFdh-3NSOpgcZJk2dx5XBtRa/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>46:05</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 80b - Whoever has bad luck, does not quickly have good luck]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-7</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-7</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 80b - Whoever has bad luck, does not quickly have good luck" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא פ: - כל המריעין לו לא במהרה מטיבין לו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 80b - Whoever has bad luck, does not quickly have good luck]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 80b - Whoever has bad luck, does not quickly have good luck" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא פ: - כל המריעין לו לא במהרה מטיבין לו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1LIIL7srTAFdh-3NSOpgcZJk2dx5XBtRa/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>46:05</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 82a - The interpreters of impressions said, there is no water but Torah]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-8</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-8</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 82a - The interpreters of impressions said, there is no water but Torah" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא פב. - דורשי רשומות אמרו אין מים אלא תורה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 82a - The interpreters of impressions said, there is no water but Torah]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 82a - The interpreters of impressions said, there is no water but Torah" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא פב. - דורשי רשומות אמרו אין מים אלא תורה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1eRucC_2fQp0laZ_g7KOmjHzgK27qszRh/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>35:17</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 91b - Shivhat Beri only died because he cut down fig trees prematurely]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-9</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-9</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 91b - Shivhat Beri only died because he cut down fig trees prematurely" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא צא: - לא שכיב שבחת ברי אלא דקץ תאנתא בלא זמנה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 91b - Shivhat Beri only died because he cut down fig trees prematurely]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 91b - Shivhat Beri only died because he cut down fig trees prematurely" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא צא: - לא שכיב שבחת ברי אלא דקץ תאנתא בלא זמנה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1fflm6tRwBFr_vobb-6w7h36rkz_xKamf/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>43:29</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 92b - The bad tree strolls among the barren grove]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-10</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-10</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 92b - The bad tree strolls among the barren grove" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא צב: - מטייל ואזיל דיקלא בישא גבי קינא דשרכי. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 92b - The bad tree strolls among the barren grove]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 92b - The bad tree strolls among the barren grove" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא צב: - מטייל ואזיל דיקלא בישא גבי קינא דשרכי. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/14etIXPEPhCXym4uAjxYxiYI5Jqu26C0r/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>36:36</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 93a - May it be His will that you will have children with covered eyes]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-11</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-11</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 93a - May it be His will that you will have children with covered eyes" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא צג. - יהי רצון שיהיו לך בנים כיסויי עיניים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 93a - May it be His will that you will have children with covered eyes]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 93a - May it be His will that you will have children with covered eyes" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא צג. - יהי רצון שיהיו לך בנים כיסויי עיניים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1MEBi0tceftzSqs_IxBwxBDzHqPvXmMUV/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>42:41</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 117a - Until now the Persians were not strict about murder]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-12</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-12</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 117a - Until now the Persians were not strict about murder" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא קיז. - עד העידנא הוו פרסאי דלא קפדי אשפיכות דמים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 117a - Until now the Persians were not strict about murder]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 117a - Until now the Persians were not strict about murder" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא קיז. - עד העידנא הוו פרסאי דלא קפדי אשפיכות דמים. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1Cc3omkL3iISBTj2eW3ZZJ6ZIISEV27Hs/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>42:44</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Kamma 119a - In a place where the people are particular it is considered stealing]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-13</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_kamma-13</guid>
+      <description><![CDATA[A shiur on "Bava Kamma 119a - In a place where the people are particular it is considered stealing" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא קיט. - באתרא דקפדי יש בהן משום גזל. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Kamma]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Kamma 119a - In a place where the people are particular it is considered stealing]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Kamma 119a - In a place where the people are particular it is considered stealing" from Bava Kamma in the Ein Yaakov collection. Hebrew title: בבא קמא קיט. - באתרא דקפדי יש בהן משום גזל. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1rgxdk_3RO7D8JrKDCNIHOSmYRsvma106/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>41:34</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 23b - Regarding these three things the Rabbis alter their words]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-1</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-1</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 23b - Regarding these three things the Rabbis alter their words" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא כג: - בהני תלת מילי עבידי רבנן דמשנו במלייהו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 23b - Regarding these three things the Rabbis alter their words]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 23b - Regarding these three things the Rabbis alter their words" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא כג: - בהני תלת מילי עבידי רבנן דמשנו במלייהו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/12uuyZwV2hiXUFMmLFomxpE1rgLqiS-q6/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>44:06</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 29b - Someone whose father left him a lot of money and he wants to get rid of it]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-2</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-2</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 29b - Someone whose father left him a lot of money and he wants to get rid of it" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא כט: - מי שהניח לו אביו מעות הרבה ורוצה לאבדן. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 29b - Someone whose father left him a lot of money and he wants to get rid of it]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 29b - Someone whose father left him a lot of money and he wants to get rid of it" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא כט: - מי שהניח לו אביו מעות הרבה ורוצה לאבדן. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1WoVkX6JeixOYCk_I00MKrKNjsSmLEtAD/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>35:57</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 33a - Hisda Hisda, I don't need you, you need me]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-3</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-3</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 33a - Hisda Hisda, I don't need you, you need me" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא לג. - חסדא חסדא לא צריכנא לך את צריכת לי. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 33a - Hisda Hisda, I don't need you, you need me]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 33a - Hisda Hisda, I don't need you, you need me" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא לג. - חסדא חסדא לא צריכנא לך את צריכת לי. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1vUUAUT--57peyQ_PRJh1MizXe6whKChJ/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>43:01</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 39b - This teaches that Yosef left without a beard and reappeared with a beard]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-4</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-4</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 39b - This teaches that Yosef left without a beard and reappeared with a beard" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא לט: - מלמד שיצא בלא חתימת זקן ובא בחתימת זקן. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 39b - This teaches that Yosef left without a beard and reappeared with a beard]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 39b - This teaches that Yosef left without a beard and reappeared with a beard" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא לט: - מלמד שיצא בלא חתימת זקן ובא בחתימת זקן. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/11hrtMvRy-xDIlFpKa2nm0xb5BPQJ-ZY0/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>44:00</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 42a - Blessing is not bestowed except on that which is hidden from the eye]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-5</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-5</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 42a - Blessing is not bestowed except on that which is hidden from the eye" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא מב. - אין הברכה מצויה אלא בדבר הסמוי מן העין . Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 42a - Blessing is not bestowed except on that which is hidden from the eye]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 42a - Blessing is not bestowed except on that which is hidden from the eye" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא מב. - אין הברכה מצויה אלא בדבר הסמוי מן העין . Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/12FHj3Fn2jfvjolizf13q2th_6jXA5GZc/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>46:33</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 58b - It is better for a man to throw himself into a fiery furnace]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-6</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-6</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 58b - It is better for a man to throw himself into a fiery furnace" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא נח: - נוח לו לאדם שיפיל עצמו לכבשן האש. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 58b - It is better for a man to throw himself into a fiery furnace]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 58b - It is better for a man to throw himself into a fiery furnace" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא נח: - נוח לו לאדם שיפיל עצמו לכבשן האש. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1J3ie2TpZMijzSvRryxyEBqFmZS9ZHWpb/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>32:55</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 59b - We do not pay attention to a Bat Kol]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-7</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-7</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 59b - We do not pay attention to a Bat Kol" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא נט: - אין אנו משגיחין בבת קול. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 59b - We do not pay attention to a Bat Kol]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 59b - We do not pay attention to a Bat Kol" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא נט: - אין אנו משגיחין בבת קול. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1fnmm-2iRC_4lSusq3m_z-qpY8ysdUSaM/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>40:49</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 71a - If a person calls his fellow wicked, the fellow can harass him in all aspects of his life]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-8</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-8</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 71a - If a person calls his fellow wicked, the fellow can harass him in all aspects of his life" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא עא. - אדם קורא לחבירו רשע יורד עמו לחייו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 71a - If a person calls his fellow wicked, the fellow can harass him in all aspects of his life]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 71a - If a person calls his fellow wicked, the fellow can harass him in all aspects of his life" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא עא. - אדם קורא לחבירו רשע יורד עמו לחייו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1OobLa6wI23cL-uBPGIsaSpmWa5SJx7xf/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>40:36</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 83b - It refers to this world which is compared to night]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-9</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-9</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 83b - It refers to this world which is compared to night" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא פג: - זה העולם הזה שדומה ללילה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 83b - It refers to this world which is compared to night]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 83b - It refers to this world which is compared to night" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא פג: - זה העולם הזה שדומה ללילה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1BX2GCKU3w2jQNTf8cPhMmcOL02vbmbjl/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>44:11</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 84b - His wife saw that a worm was emerging from his ear]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-10</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-10</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 84b - His wife saw that a worm was emerging from his ear" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא פד: - חזאי ריחשא דקא נפיק מאודניה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 84b - His wife saw that a worm was emerging from his ear]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 84b - His wife saw that a worm was emerging from his ear" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא פד: - חזאי ריחשא דקא נפיק מאודניה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/15DHhjLfMG6BRG2LnB0KstLjzi7LwC8Hi/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>34:35</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 84b - Rabbi Yehuda HaNasi said to the calf, go, this is why you were created]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-11</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-11</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 84b - Rabbi Yehuda HaNasi said to the calf, go, this is why you were created" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא פד: - אמר ליה זיל לכך נוצרת. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 84b - Rabbi Yehuda HaNasi said to the calf, go, this is why you were created]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 84b - Rabbi Yehuda HaNasi said to the calf, go, this is why you were created" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא פד: - אמר ליה זיל לכך נוצרת. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1lNTAJphssmPT7b9A87x4WXgDrRvtOo70/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>50:18</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 85a - From then on Torah will always return to her lodgings]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-12</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-12</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 85a - From then on Torah will always return to her lodgings" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא פה. - מכאן ואילך תורה מחזרת על אכסניא שלה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 85a - From then on Torah will always return to her lodgings]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 85a - From then on Torah will always return to her lodgings" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא פה. - מכאן ואילך תורה מחזרת על אכסניא שלה. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1cmzFDtXoYX0eaWjXwjGlTn63Q_EoY_L0/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>42:41</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Bava Metzia 85b - Rabbi decreed a fast, and brought forward Rabbi Hiyya and his sons]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-13</link>
+      <guid>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_metzia-13</guid>
+      <description><![CDATA[A shiur on "Bava Metzia 85b - Rabbi decreed a fast, and brought forward Rabbi Hiyya and his sons" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא פה: - גזר רבי תעניתא אחתינהו לרבי חייא ובניו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></description>
+      <pubDate>Thu, 05 Jun 2025 23:16:40 GMT</pubDate>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Bava Metzia]]></category>
+      
+      <!-- iTunes episode metadata -->
+      <itunes:title><![CDATA[Bava Metzia 85b - Rabbi decreed a fast, and brought forward Rabbi Hiyya and his sons]]></itunes:title>
+      <itunes:summary><![CDATA[A shiur on "Bava Metzia 85b - Rabbi decreed a fast, and brought forward Rabbi Hiyya and his sons" from Bava Metzia in the Ein Yaakov collection. Hebrew title: בבא מציעא פה: - גזר רבי תעניתא אחתינהו לרבי חייא ובניו. Part of the comprehensive Midrash Aggadah learning series featuring classical Jewish wisdom and aggadic texts.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/file/d/1x0CpPeJbXNyF1pWYx80GEgf4QUgDuE3I/view?usp=drive_link" type="audio/mpeg"/>
+      <itunes:duration>40:44</itunes:duration>
+    </item>
+  </channel>
+</rss>

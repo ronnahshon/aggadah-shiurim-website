@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/generateSitemap.js && vite build",
-    "build:dev": "node scripts/generateSitemap.js && vite build --mode development",
+    "build": "node scripts/generateSitemap.js && node scripts/generateRSSFeed.js && vite build",
+    "build:dev": "node scripts/generateSitemap.js && node scripts/generateRSSFeed.js && vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview",
     "sitemap": "node scripts/generateSitemap.js"

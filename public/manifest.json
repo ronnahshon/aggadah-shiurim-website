@@ -1,0 +1,21 @@
+{
+  "name": "Midrash Aggadah",
+  "short_name": "Midrash Aggadah",
+  "description": "A comprehensive resource for exploring midrash aggadah, featuring shiurim, source texts, and sefarim",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F2E8",
+  "theme_color": "#8B4513",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "reference", "lifestyle"]
+} 

@@ -5,6 +5,7 @@ import BackToTopButton from '@/components/common/BackToTopButton';
 import { Category, Shiur } from '@/types/shiurim';
 import { organizeShiurimByHierarchy, getAudioDuration } from '@/utils/dataUtils';
 import { generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
+import { generateEnhancedMetaDescription, generateContextualKeywords } from '@/utils/additionalSeoUtils';
 import SEOHead from '@/components/seo/SEOHead';
 import shiurimData from '@/data/shiurim_data.json';
 import { getAudioUrl } from '@/utils/s3Utils';
@@ -163,8 +164,8 @@ const CatalogPage: React.FC = () => {
     <div className="min-h-screen py-8 pt-20 md:pt-8">
       <SEOHead
         title="Browse Shiurim Catalog"
-        description={generateMetaDescription('catalog')}
-        keywords={generateKeywords('catalog')}
+        description={generateEnhancedMetaDescription('catalog')}
+        keywords={generateContextualKeywords('catalog')}
         ogType="website"
       />
       {/* Hidden audio element for metadata loading */}

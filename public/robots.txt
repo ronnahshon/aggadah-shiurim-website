@@ -12,3 +12,10 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+# Sitemaps
+Sitemap: https://midrashaggadah.com/sitemap.xml
+
+# RSS/Atom Feeds
+Sitemap: https://midrashaggadah.com/rss.xml
+Sitemap: https://midrashaggadah.com/atom.xml
