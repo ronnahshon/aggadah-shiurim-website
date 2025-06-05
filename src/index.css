@@ -289,6 +289,175 @@
   @apply text-biblical-brown leading-relaxed;
 }
 
+/* Enhanced source sheet rendering styles - preserves original formatting */
+.source-content {
+  /* Base typography that doesn't override specific formatting */
+  color: #654321; /* biblical-brown */
+  line-height: 1.6;
+}
+
+/* Only apply styles to elements without existing styles */
+.source-content h1:not([style]),
+.source-content h2:not([style]),
+.source-content h3:not([style]),
+.source-content h4:not([style]),
+.source-content h5:not([style]),
+.source-content h6:not([style]) {
+  @apply text-biblical-burgundy font-bold mt-6 mb-4;
+  line-height: 1.3;
+}
+
+.source-content h1:not([style]) {
+  @apply text-2xl md:text-3xl;
+}
+
+.source-content h2:not([style]) {
+  @apply text-xl md:text-2xl;
+}
+
+.source-content h3:not([style]) {
+  @apply text-lg md:text-xl;
+}
+
+/* Gentle defaults that don't override document formatting */
+.source-content p {
+  margin-bottom: 1rem;
+  /* Don't force text-justify - preserve original alignment */
+}
+
+.source-content ul,
+.source-content ol {
+  margin-bottom: 1rem;
+  margin-left: 1.5rem;
+}
+
+.source-content ul li,
+.source-content ol li {
+  margin-bottom: 0.5rem;
+}
+
+/* Preserve original text alignment from Google Docs */
+.source-content [style*="text-align"] {
+  /* Keep original alignment */
+}
+
+/* Preserve original font sizes */
+.source-content [style*="font-size"] {
+  /* Keep original font sizes */
+}
+
+/* Preserve original font weights */
+.source-content [style*="font-weight"] {
+  /* Keep original font weights */
+}
+
+/* Enhanced blockquotes only if not styled */
+.source-content blockquote:not([style]) {
+  @apply border-l-4 border-biblical-copper pl-6 italic my-6 text-biblical-olive bg-biblical-gold/5 py-4 rounded-r-lg;
+}
+
+/* Links with gentle styling */
+.source-content a {
+  color: #8B4513; /* biblical-burgundy */
+  transition: color 0.2s;
+}
+
+.source-content a:hover {
+  color: #D2691E; /* biblical-copper */
+}
+
+/* Tables with responsive design */
+.source-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.source-content th,
+.source-content td {
+  border: 1px solid #D5CEBE; /* parchment-dark */
+  padding: 0.75rem;
+}
+
+.source-content th {
+  background-color: rgba(25, 25, 112, 0.1); /* biblical-navy/10 */
+  font-weight: 600;
+}
+
+/* Images with responsive behavior */
+.source-content img {
+  max-width: 100%;
+  height: auto;
+  margin: 1.5rem auto;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: block;
+}
+
+/* Hebrew text support */
+.source-content .hebrew,
+.source-content [dir="rtl"] {
+  text-align: right;
+  font-family: 'David Libre', serif;
+}
+
+/* Code blocks and inline code (fallback) */
+.source-content code:not([style]) {
+  background-color: rgba(218, 165, 32, 0.1); /* biblical-gold/10 */
+  padding: 0.125rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+  font-family: monospace;
+  color: #191970; /* biblical-navy */
+}
+
+.source-content pre:not([style]) {
+  background-color: rgba(218, 165, 32, 0.05); /* biblical-gold/5 */
+  padding: 1rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+.source-content pre code {
+  background: transparent;
+  padding: 0;
+}
+
+/* Ensure responsive behavior */
+.source-content {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Handle Google Docs specific classes that we preserved */
+.source-content .c0,
+.source-content .c1,
+.source-content .c2,
+.source-content .c3,
+.source-content .c4,
+.source-content .c5,
+.source-content .c6,
+.source-content .c7,
+.source-content .c8,
+.source-content .c9 {
+  /* Let Google Docs classes work as intended */
+}
+
+/* Ensure good mobile experience */
+@media (max-width: 640px) {
+  .source-content {
+    font-size: 0.875rem; /* sm:text-base -> text-sm on mobile */
+  }
+  
+  .source-content table {
+    font-size: 0.75rem;
+  }
+}
+
 /* Hebrew Midrash Specific Styles */
 .midrash-content {
   direction: rtl;

@@ -6,7 +6,7 @@ import { Shiur } from '@/types/shiurim';
 import { formatTitle, getAudioDuration } from '@/utils/dataUtils';
 import { getAudioUrl, getGoogleDriveDownloadUrl } from '@/utils/s3Utils';
 import AudioPlayer from '@/components/common/AudioPlayer';
-import DocumentViewer from '@/components/common/DocumentViewer';
+import SourceSheetRenderer from '@/components/common/SourceSheetRenderer';
 
 const ShiurPage: React.FC = () => {
   const { shiurId } = useParams<{ shiurId: string }>();
@@ -173,10 +173,10 @@ const ShiurPage: React.FC = () => {
             />
           </div>
           
-          {/* Source document - titles and external link removed */}
+          {/* Source document - rendered as content */}
           {shiur.source_sheet_link && (
             <div className="mb-6 sm:mb-8">
-              <DocumentViewer 
+              <SourceSheetRenderer 
                 docUrl={shiur.source_sheet_link} 
                 isGoogleDoc={isGoogleDoc} 
               />
