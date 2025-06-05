@@ -4,7 +4,7 @@ import { BookOpen, ExternalLink } from 'lucide-react';
 
 const SefarimPage: React.FC = () => {
   return (
-    <div className="min-h-screen py-8">
+    <div className="min-h-screen py-8 flex items-center">
       <div className="content-container">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {/* Midrashim about Moshe Rabbeinu */}
@@ -34,7 +34,7 @@ const SefarimPage: React.FC = () => {
             <div className="h-48 bg-parchment flex items-center justify-center">
               <span className="text-biblical-brown/50 text-lg font-medium">Coming Soon</span>
             </div>
-            <div className="p-6">
+            <div className="p-6 text-center">
               <h2 className="text-xl font-semibold mb-2 text-biblical-brown/70">
                 More sefarim coming soon
               </h2>
@@ -49,7 +49,7 @@ const SefarimPage: React.FC = () => {
             <div className="h-48 bg-parchment flex items-center justify-center">
               <span className="text-biblical-brown/50 text-lg font-medium">Coming Soon</span>
             </div>
-            <div className="p-6">
+            <div className="p-6 text-center">
               <h2 className="text-xl font-semibold mb-2 text-biblical-brown/70">
                 More sefarim coming soon
               </h2>
