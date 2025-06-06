@@ -1,12 +1,11 @@
-const CACHE_NAME = 'midrash-aggadah-v3';
-const STATIC_CACHE = 'static-v3';
-const DYNAMIC_CACHE = 'dynamic-v3';
+const CACHE_NAME = 'midrash-aggadah-v4';
+const STATIC_CACHE = 'static-v4';
+const DYNAMIC_CACHE = 'dynamic-v4';
 
 // Resources to cache immediately
 const CORE_ASSETS = [
   '/',
   '/manifest.json',
-  '/images/subtle-parchment.png',
   '/favicon.ico'
 ];
 
@@ -38,6 +37,16 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   const { request } = event;
   const url = new URL(request.url);
+  
+  // Skip caching for unsupported schemes (chrome-extension, moz-extension, etc.)
+  if (!url.protocol.startsWith('http')) {
+    return;
+  }
+  
+  // Skip caching for cross-origin requests that might cause issues
+  if (url.origin !== self.location.origin && !url.hostname.includes('fonts.googleapis.com') && !url.hostname.includes('fonts.gstatic.com')) {
+    return;
+  }
   
   // Cache strategies based on request type
   if (request.destination === 'document') {
