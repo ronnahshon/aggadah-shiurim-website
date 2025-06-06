@@ -53,7 +53,7 @@ const AboutPage: React.FC = () => {
             </h2>
             
             <p className="text-biblical-brown mb-4">
-              The Midrash Aggadah website is the result of years of scholarship and teaching in the field of rabbinic literature and Jewish studies. The author has dedicated their academic and professional life to making these ancient texts accessible to contemporary audiences while maintaining their depth and authenticity.
+              Ron Nahshon grew up in New Jersey and studied Torah and Talmud at Yeshivat Har Etzion. He received a BA from Yeshiva University, and has Rabbinical Sofrut certification from Va'ad Mishmeret Stam and Machon Eliya in Jerusalem. He currently lives in Kiryat Gat, Israel.
             </p>
             
             <h2 className="text-2xl font-semibold mt-8 mb-4 text-biblical-navy">
