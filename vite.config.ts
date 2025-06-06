@@ -22,12 +22,39 @@ export default defineConfig(({ mode }) => ({
   build: {
     rollupOptions: {
       output: {
-        manualChunks: {
-          vendor: ['react', 'react-dom'],
-          router: ['react-router-dom'],
-          ui: ['@radix-ui/react-accordion', '@radix-ui/react-dialog', '@radix-ui/react-dropdown-menu'],
-          query: ['@tanstack/react-query'],
-          icons: ['lucide-react'],
+        manualChunks: (id) => {
+          // Core React libraries
+          if (id.includes('react') || id.includes('react-dom')) {
+            return 'vendor-react';
+          }
+          // Router
+          if (id.includes('react-router-dom')) {
+            return 'vendor-router';
+          }
+          // UI Components
+          if (id.includes('@radix-ui') || id.includes('lucide-react')) {
+            return 'vendor-ui';
+          }
+          // Data/Query libraries  
+          if (id.includes('@tanstack/react-query') || id.includes('axios')) {
+            return 'vendor-data';
+          }
+          // Utility libraries
+          if (id.includes('date-fns') || id.includes('clsx') || id.includes('class-variance-authority')) {
+            return 'vendor-utils';
+          }
+          // Forms and validation
+          if (id.includes('react-hook-form') || id.includes('zod') || id.includes('@hookform')) {
+            return 'vendor-forms';
+          }
+          // Large data files
+          if (id.includes('shiurim_data.json')) {
+            return 'data-shiurim';
+          }
+          // Other vendor code
+          if (id.includes('node_modules')) {
+            return 'vendor-misc';
+          }
         },
       },
     },
@@ -37,7 +64,13 @@ export default defineConfig(({ mode }) => ({
       compress: {
         drop_console: mode === 'production',
         drop_debugger: mode === 'production',
+        pure_funcs: mode === 'production' ? ['console.log', 'console.info'] : [],
+      },
+      mangle: {
+        safari10: true,
       },
     },
+    target: 'es2020',
+    chunkSizeWarningLimit: 600,
   },
 }));

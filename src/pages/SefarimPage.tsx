@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { BookOpen, ExternalLink } from 'lucide-react';
+import OptimizedImage from '@/components/ui/OptimizedImage';
 
 const SefarimPage: React.FC = () => {
   return (
