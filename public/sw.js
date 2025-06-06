@@ -1,6 +1,5 @@
-const CACHE_NAME = 'midrash-aggadah-v4';
-const STATIC_CACHE = 'static-v4';
-const DYNAMIC_CACHE = 'dynamic-v4';
+const CACHE_NAME = 'midrash-aggadah-v5';
+const STATIC_CACHE = 'static-v5';
 
 // Resources to cache immediately
 const CORE_ASSETS = [
@@ -24,7 +23,7 @@ self.addEventListener('activate', (event) => {
     caches.keys().then(cacheNames => {
       return Promise.all(
         cacheNames.map(cacheName => {
-          if (cacheName !== STATIC_CACHE && cacheName !== DYNAMIC_CACHE) {
+          if (cacheName !== STATIC_CACHE) {
             return caches.delete(cacheName);
           }
         })
@@ -33,43 +32,44 @@ self.addEventListener('activate', (event) => {
   );
 });
 
-// Fetch event - advanced caching strategy
+// Simple fetch event with better error handling
 self.addEventListener('fetch', (event) => {
   const { request } = event;
   const url = new URL(request.url);
   
-  // Skip caching for unsupported schemes (chrome-extension, moz-extension, etc.)
+  // Skip caching for unsupported schemes
   if (!url.protocol.startsWith('http')) {
     return;
   }
   
-  // Skip caching for cross-origin requests that might cause issues
-  if (url.origin !== self.location.origin && !url.hostname.includes('fonts.googleapis.com') && !url.hostname.includes('fonts.gstatic.com')) {
+  // Skip caching for Google Analytics and other external services that might cause issues
+  if (url.hostname.includes('google-analytics.com') || 
+      url.hostname.includes('googletagmanager.com') ||
+      url.hostname.includes('gstatic.com')) {
     return;
   }
   
-  // Cache strategies based on request type
+  // Handle different types of requests
   if (request.destination === 'document') {
-    // Network first for HTML documents
-    event.respondWith(networkFirstStrategy(request));
+    event.respondWith(handleDocumentRequest(request));
   } else if (request.destination === 'image') {
-    // Cache first for images
-    event.respondWith(cacheFirstStrategy(request));
-  } else if (url.pathname.includes('/assets/') || request.destination === 'script' || request.destination === 'style') {
-    // Cache first for static assets
-    event.respondWith(cacheFirstStrategy(request));
+    event.respondWith(handleImageRequest(request));
+  } else if (url.pathname.includes('/assets/')) {
+    event.respondWith(handleStaticAssetRequest(request));
+  } else if (url.hostname.includes('fonts.googleapis.com')) {
+    event.respondWith(handleFontRequest(request));
   } else {
-    // Stale while revalidate for other resources
-    event.respondWith(staleWhileRevalidateStrategy(request));
+    // For other requests, just pass through to network
+    event.respondWith(fetch(request));
   }
 });
 
-// Network first strategy
-async function networkFirstStrategy(request) {
+// Handle document requests (HTML)
+async function handleDocumentRequest(request) {
   try {
     const networkResponse = await fetch(request);
-    if (networkResponse.ok) {
-      const cache = await caches.open(DYNAMIC_CACHE);
+    if (networkResponse && networkResponse.status === 200) {
+      const cache = await caches.open(STATIC_CACHE);
       cache.put(request, networkResponse.clone());
       return networkResponse;
     }
@@ -79,46 +79,78 @@ async function networkFirstStrategy(request) {
     if (cachedResponse) {
       return cachedResponse;
     }
-    // Return offline fallback for navigation requests
-    if (request.mode === 'navigate') {
-      return caches.match('/');
-    }
-  }
-}
-
-// Cache first strategy
-async function cacheFirstStrategy(request) {
-  const cachedResponse = await caches.match(request);
-  if (cachedResponse) {
-    return cachedResponse;
   }
   
+  // Fallback for navigation requests
+  if (request.mode === 'navigate') {
+    const cachedFallback = await caches.match('/');
+    if (cachedFallback) {
+      return cachedFallback;
+    }
+  }
+  
+  return new Response('Network error', { status: 503 });
+}
+
+// Handle image requests
+async function handleImageRequest(request) {
   try {
+    const cachedResponse = await caches.match(request);
+    if (cachedResponse) {
+      return cachedResponse;
+    }
+    
     const networkResponse = await fetch(request);
-    if (networkResponse.ok) {
-      const cache = await caches.open(DYNAMIC_CACHE);
+    if (networkResponse && networkResponse.status === 200) {
+      const cache = await caches.open(STATIC_CACHE);
       cache.put(request, networkResponse.clone());
       return networkResponse;
     }
   } catch (error) {
-    // Return a fallback for failed image requests
-    if (request.destination === 'image') {
-      return new Response('', { status: 204 });
-    }
+    // Return empty response for failed images
+    return new Response('', { status: 204 });
   }
 }
 
-// Stale while revalidate strategy
-async function staleWhileRevalidateStrategy(request) {
-  const cachedResponse = await caches.match(request);
-  
-  const fetchPromise = fetch(request).then(networkResponse => {
-    if (networkResponse.ok) {
-      const cache = caches.open(DYNAMIC_CACHE);
-      cache.then(c => c.put(request, networkResponse.clone()));
+// Handle static assets (JS, CSS)
+async function handleStaticAssetRequest(request) {
+  try {
+    const cachedResponse = await caches.match(request);
+    if (cachedResponse) {
+      return cachedResponse;
+    }
+    
+    const networkResponse = await fetch(request);
+    if (networkResponse && networkResponse.status === 200) {
+      const cache = await caches.open(STATIC_CACHE);
+      cache.put(request, networkResponse.clone());
+      return networkResponse;
     }
     return networkResponse;
-  }).catch(() => cachedResponse);
-  
-  return cachedResponse || fetchPromise;
+  } catch (error) {
+    const cachedResponse = await caches.match(request);
+    return cachedResponse || new Response('Asset not found', { status: 404 });
+  }
+}
+
+// Handle Google Fonts with simpler logic
+async function handleFontRequest(request) {
+  try {
+    const cachedResponse = await caches.match(request);
+    if (cachedResponse) {
+      return cachedResponse;
+    }
+    
+    const networkResponse = await fetch(request);
+    if (networkResponse && networkResponse.status === 200) {
+      // Only cache successful font responses
+      const cache = await caches.open(STATIC_CACHE);
+      cache.put(request, networkResponse.clone());
+    }
+    return networkResponse;
+  } catch (error) {
+    // If font fails, just return the error - don't try to cache it
+    const cachedResponse = await caches.match(request);
+    return cachedResponse || fetch(request);
+  }
 } 
