@@ -27,7 +27,7 @@ export default defineConfig(({ mode }) => ({
           if (id.includes('shiurim_data.json')) {
             return 'data-shiurim';
           }
-          // Core React and React-based libraries together to avoid dependency issues
+          // Core React and ALL React-based libraries together to avoid dependency issues
           if (id.includes('react') || 
               id.includes('react-dom') ||
               id.includes('react-router') ||
@@ -35,7 +35,16 @@ export default defineConfig(({ mode }) => ({
               id.includes('@tanstack/react-query') ||
               id.includes('react-hook-form') ||
               id.includes('@hookform') ||
-              id.includes('react-helmet-async')) {
+              id.includes('react-helmet-async') ||
+              id.includes('next-themes') ||
+              id.includes('sonner') ||
+              id.includes('vaul') ||
+              id.includes('embla-carousel-react') ||
+              id.includes('input-otp') ||
+              id.includes('react-day-picker') ||
+              id.includes('react-resizable-panels') ||
+              id.includes('recharts') ||
+              id.includes('cmdk')) {
             return 'vendor-react';
           }
           // UI and utility libraries
