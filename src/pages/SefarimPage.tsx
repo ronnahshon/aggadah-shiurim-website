@@ -14,14 +14,13 @@ const SefarimPage: React.FC = () => {
             className="bg-white/80 rounded-lg shadow-md overflow-hidden block hover:shadow-lg hover:bg-white/90 transition-all duration-200 cursor-pointer"
           >
             <div className="h-48 bg-biblical-navy/20 flex items-center justify-center">
-              <img 
+              <OptimizedImage 
                 src="/images/moshe_aharon_hur_img.png" 
                 alt="Illustration of Moshe Rabbeinu with Aharon and Hur - representing the three ascents described in Midrash HaAliyah" 
-                className="h-full w-full object-cover"
+                width={400}
+                height={300}
                 loading="lazy"
-                decoding="async"
-                width="400"
-                height="300"
+                className="h-full w-full object-cover"
               />
             </div>
             <div className="p-6">

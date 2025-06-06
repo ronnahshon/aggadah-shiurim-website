@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowUp, Download } from 'lucide-react';
 import { parseMidrashContent, renderContentWithFootnotes, cleanMarkdownEscapes, type MidrashContent } from '../utils/midrashParser';
-import OptimizedImage from '@/components/ui/OptimizedImage';
 
 const MidrashHaaliyahPage: React.FC = () => {
   const [midrashContent, setMidrashContent] = useState<MidrashContent | null>(null);

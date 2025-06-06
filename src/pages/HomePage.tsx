@@ -6,28 +6,19 @@ import { formatTitle } from '@/utils/dataUtils';
 import { generateWebsiteStructuredData, generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
 import SEOHead from '@/components/seo/SEOHead';
 import SkeletonCard from '@/components/ui/SkeletonCard';
+import shiurimData from '@/data/shiurim_data.json';
 
 const HomePage: React.FC = () => {
   const [featuredShiurim, setFeaturedShiurim] = useState<Shiur[]>([]);
 
   useEffect(() => {
-    const loadFeaturedShiurim = async () => {
-      try {
-        // Lazy load the shiurim data to improve initial page load
-        const { default: shiurimData } = await import('@/data/shiurim_data.json');
-        const allShiurim = shiurimData as unknown as Shiur[];
-        const einYaakovShiurim = allShiurim.filter(shiur => shiur.category === 'ein_yaakov');
-        
-        // Randomly select 3 shiurim
-        const shuffled = einYaakovShiurim.sort(() => 0.5 - Math.random());
-        setFeaturedShiurim(shuffled.slice(0, 3));
-      } catch (error) {
-        console.error('Failed to load featured shiurim:', error);
-        // Gracefully handle the error - the component will still render without featured shiurim
-      }
-    };
-
-    loadFeaturedShiurim();
+    // Filter Ein Yaakov shiurim and randomly select 3
+    const allShiurim = shiurimData as unknown as Shiur[];
+    const einYaakovShiurim = allShiurim.filter(shiur => shiur.category === 'ein_yaakov');
+    
+    // Randomly select 3 shiurim
+    const shuffled = einYaakovShiurim.sort(() => 0.5 - Math.random());
+    setFeaturedShiurim(shuffled.slice(0, 3));
   }, []);
 
   const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';

@@ -1,6 +1,6 @@
-const CACHE_NAME = 'midrash-aggadah-v2';
-const STATIC_CACHE = 'static-v2';
-const DYNAMIC_CACHE = 'dynamic-v2';
+const CACHE_NAME = 'midrash-aggadah-v3';
+const STATIC_CACHE = 'static-v3';
+const DYNAMIC_CACHE = 'dynamic-v3';
 
 // Resources to cache immediately
 const CORE_ASSETS = [
