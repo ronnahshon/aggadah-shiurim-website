@@ -17,6 +17,17 @@ const getEnglishMonths = () => [
   'July', 'August', 'September', 'October', 'November', 'December'
 ];
 
+// Convert number to Hebrew letters
+const numberToHebrew = (num: number): string => {
+  const hebrewNumerals = [
+    '', 'א׳', 'ב׳', 'ג׳', 'ד׳', 'ה׳', 'ו׳', 'ז׳', 'ח׳', 'ט׳', 'י׳',
+    'יא׳', 'יב׳', 'יג׳', 'יד׳', 'טו׳', 'טז׳', 'יז׳', 'יח׳', 'יט׳', 'כ׳',
+    'כא׳', 'כב׳', 'כג׳', 'כד׳', 'כה׳', 'כו׳', 'כז׳', 'כח׳', 'כט׳', 'ל׳', 'לא׳'
+  ];
+  
+  return hebrewNumerals[num] || `${num}׳`;
+};
+
 const getCurrentHebrewDate = (): string => {
   const now = new Date();
   // More accurate Hebrew calendar conversion
@@ -51,8 +62,9 @@ const getCurrentHebrewDate = (): string => {
   
   const hebrewMonth = hebrewMonthMap[month];
   const day = now.getDate();
+  const hebrewDay = numberToHebrew(day);
   
-  return `${day} ${hebrewMonth} ${hebrewYear}`;
+  return `${hebrewDay} ${hebrewMonth} ${hebrewYear}`;
 };
 
 const getCurrentEnglishDate = (): string => {
@@ -159,11 +171,11 @@ const HomePage: React.FC = () => {
       />
       
       {/* Header with dates */}
-      <div className="bg-parchment-light py-2">
+      <div className="bg-parchment-light py-3">
         <div className="content-container">
           <div className="flex justify-end text-sm text-biblical-brown">
             <div className="flex gap-4">
-              <span className="font-hebrew">{getCurrentHebrewDate()}</span>
+              <span className="font-hebrew" style={{ fontFamily: '"Times New Roman", serif', fontWeight: 'normal' }}>{getCurrentHebrewDate()}</span>
               <span>|</span>
               <span>{getCurrentEnglishDate()}</span>
             </div>
@@ -171,31 +183,23 @@ const HomePage: React.FC = () => {
         </div>
       </div>
 
-      {/* Hero section with image */}
+      {/* Main header at very top */}
       <section className="py-12 bg-parchment-texture bg-cover bg-center">
         <div className="content-container">
-          {/* Main header at top */}
           <div className="text-center mb-12">
-            <h1 className="text-4xl md:text-5xl font-bold mb-8 text-biblical-burgundy animate-fade-in">
+            <h1 className="text-4xl md:text-5xl font-bold mb-6 text-biblical-burgundy animate-fade-in">
               Welcome to Midrash Aggadah
             </h1>
-          </div>
-
-          {/* Sub-header and description */}
-          <div className="text-center mb-8">
             <p className="text-lg md:text-xl max-w-4xl mx-auto mb-6 text-biblical-brown animate-fade-in">
-              Discover the timeless wisdom and profound teachings of our greatest Rabbis through an unparalleled collection of shiurim and sacred texts.
+              A website dedicated to spreading the timeless wisdom and profound teachings of חז״ל.
             </p>
-            <p className="text-lg max-w-3xl mx-auto mb-4 text-biblical-brown animate-fade-in">
-              Explore for free hundreds of shiurim, including both audio recordings and source sheets
-            </p>
-            <p className="text-lg max-w-3xl mx-auto mb-8 text-biblical-brown animate-fade-in">
-              Delve into original Sefarim in both English and Hebrew
+            <p className="text-lg max-w-3xl mx-auto mb-12 text-biblical-brown animate-fade-in">
+              Listen to hundreds of free audio shiurim on Ein Yaakov (Talmud), Tanach and other Midrashim.
             </p>
           </div>
 
           {/* Search section */}
-          <div className="max-w-4xl mx-auto mb-8">
+          <div className="max-w-4xl mx-auto">
             <form onSubmit={handleSearch} className="flex items-center gap-2 mb-4">
               <div className="relative flex-1">
                 <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-biblical-brown/60" size={20} />
@@ -236,7 +240,7 @@ const HomePage: React.FC = () => {
 
             {/* Filters */}
             {showFilters && (
-              <div className="bg-white/90 rounded-md shadow-md p-4 mb-6 animate-fade-in">
+              <div className="bg-white/90 rounded-md shadow-md p-4 animate-fade-in">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                   {/* Categories filter */}
                   <div>
@@ -308,12 +312,12 @@ const HomePage: React.FC = () => {
       </section>
 
       {/* Sample shiurim section */}
-      <section className="py-12">
+      <section className="py-16 bg-white">
         <div className="content-container">
-          <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-center text-biblical-burgundy">
-            Or, Browse Sample Shiurim
+          <h2 className="text-2xl md:text-3xl font-semibold mb-12 text-center text-biblical-burgundy">
+            Browse Sample Shiurim
           </h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
             {featuredShiurim.map(shiur => (
               <div key={shiur.id} className="group bg-white/90 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 p-6 border border-biblical-gold/20 hover:border-biblical-gold/40">
                 <div className="flex flex-col h-full">
@@ -380,8 +384,19 @@ const HomePage: React.FC = () => {
         </div>
       </section>
 
+      {/* Sefarim section */}
+      <section className="py-12 bg-parchment-light">
+        <div className="content-container">
+          <div className="text-center">
+            <p className="text-lg max-w-3xl mx-auto text-biblical-brown">
+              Explore Sefarim which develop original חידושים on various teachings. In Hebrew and English.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Large image at bottom */}
-      <section className="py-8 bg-parchment-light">
+      <section className="py-12 bg-white">
         <div className="content-container">
           <div className="max-w-4xl mx-auto">
             <img 
