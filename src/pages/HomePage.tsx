@@ -1,25 +1,149 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
-import { Book, BookOpen, Search, Info, Clock } from 'lucide-react';
-import { Shiur } from '@/types/shiurim';
-import { formatTitle } from '@/utils/dataUtils';
+import { Link, useNavigate } from 'react-router-dom';
+import { Book, Search, X, Filter, Clock } from 'lucide-react';
+import { Shiur, SearchFilters } from '@/types/shiurim';
+import { formatTitle, searchShiurim, getUniqueCategories, getUniqueSubCategories, getUniqueSefarim, countShiurimInFilter } from '@/utils/dataUtils';
 import { generateWebsiteStructuredData, generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
 import SEOHead from '@/components/seo/SEOHead';
-import SkeletonCard from '@/components/ui/SkeletonCard';
 import shiurimData from '@/data/shiurim_data.json';
 
+// Helper functions for Hebrew and English dates
+const getHebrewMonths = () => [
+  'תשרי', 'חשון', 'כסלו', 'טבת', 'שבט', 'אדר', 'ניסן', 'אייר', 'סיון', 'תמוז', 'אב', 'אלול'
+];
+
+const getEnglishMonths = () => [
+  'January', 'February', 'March', 'April', 'May', 'June',
+  'July', 'August', 'September', 'October', 'November', 'December'
+];
+
+const getCurrentHebrewDate = (): string => {
+  const now = new Date();
+  // More accurate Hebrew calendar conversion
+  // Hebrew year starts in Tishrei (September/October)
+  const gregorianYear = now.getFullYear();
+  const month = now.getMonth(); // 0-11
+  
+  // Approximate Hebrew year calculation
+  let hebrewYear;
+  if (month >= 8) { // September or later
+    hebrewYear = gregorianYear + 3761;
+  } else {
+    hebrewYear = gregorianYear + 3760;
+  }
+  
+  // Hebrew months start from Tishrei (around September)
+  // Map Gregorian months to Hebrew months (approximate)
+  const hebrewMonthMap = [
+    'טבת',    // January -> Tevet
+    'שבט',    // February -> Shevat  
+    'אדר',    // March -> Adar
+    'ניסן',   // April -> Nissan
+    'אייר',   // May -> Iyar
+    'סיון',   // June -> Sivan
+    'תמוז',   // July -> Tammuz
+    'אב',     // August -> Av
+    'אלול',   // September -> Elul
+    'תשרי',   // October -> Tishrei
+    'חשון',   // November -> Cheshvan
+    'כסלו'    // December -> Kislev
+  ];
+  
+  const hebrewMonth = hebrewMonthMap[month];
+  const day = now.getDate();
+  
+  return `${day} ${hebrewMonth} ${hebrewYear}`;
+};
+
+const getCurrentEnglishDate = (): string => {
+  const now = new Date();
+  const month = getEnglishMonths()[now.getMonth()];
+  const day = now.getDate();
+  const year = now.getFullYear();
+  return `${month} ${day}, ${year}`;
+};
+
 const HomePage: React.FC = () => {
+  const navigate = useNavigate();
   const [featuredShiurim, setFeaturedShiurim] = useState<Shiur[]>([]);
+  const [shiurim, setShiurim] = useState<Shiur[]>([]);
+  const [query, setQuery] = useState('');
+  const [filters, setFilters] = useState<SearchFilters>({
+    categories: [],
+    subCategories: [],
+    sefarim: []
+  });
+  const [showFilters, setShowFilters] = useState(true);
+
+  // Get unique filter options
+  const categories = getUniqueCategories(shiurim);
+  const subCategories = getUniqueSubCategories(
+    shiurim, 
+    filters.categories.length > 0 ? filters.categories : []
+  );
+  const sefarim = getUniqueSefarim(
+    shiurim, 
+    filters.categories.length > 0 ? filters.categories : [],
+    filters.subCategories.length > 0 ? filters.subCategories : []
+  );
 
   useEffect(() => {
-    // Filter Ein Yaakov shiurim and randomly select 3
+    // Load shiurim data
     const allShiurim = shiurimData as unknown as Shiur[];
+    setShiurim(allShiurim);
+
+    // Filter Ein Yaakov shiurim and randomly select 3
     const einYaakovShiurim = allShiurim.filter(shiur => shiur.category === 'ein_yaakov');
     
     // Randomly select 3 shiurim
     const shuffled = einYaakovShiurim.sort(() => 0.5 - Math.random());
     setFeaturedShiurim(shuffled.slice(0, 3));
   }, []);
+
+  const handleSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    // Redirect to search page with query and filters
+    const searchParams = new URLSearchParams();
+    if (query) searchParams.set('q', query);
+    if (filters.categories.length > 0) searchParams.set('categories', filters.categories.join(','));
+    if (filters.subCategories.length > 0) searchParams.set('subCategories', filters.subCategories.join(','));
+    if (filters.sefarim.length > 0) searchParams.set('sefarim', filters.sefarim.join(','));
+    
+    navigate(`/search?${searchParams.toString()}`);
+  };
+
+  const handleFilterChange = (type: keyof SearchFilters, value: string) => {
+    setFilters(prev => {
+      const current = [...prev[type]];
+      const index = current.indexOf(value);
+      
+      if (index >= 0) {
+        // Remove from filter
+        current.splice(index, 1);
+      } else {
+        // Add to filter
+        current.push(value);
+      }
+      
+      return {
+        ...prev,
+        [type]: current
+      };
+    });
+  };
+
+  const handleReset = () => {
+    setQuery('');
+    setFilters({
+      categories: [],
+      subCategories: [],
+      sefarim: []
+    });
+  };
+
+  const toggleFilters = () => {
+    setShowFilters(prev => !prev);
+  };
 
   const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
   const structuredData = generateWebsiteStructuredData(baseUrl);
@@ -33,95 +157,152 @@ const HomePage: React.FC = () => {
         structuredData={structuredData}
         ogType="website"
       />
-      {/* Hero section */}
-      <section className="py-16 bg-parchment-texture bg-cover bg-center">
-        <div className="content-container text-center">
-          {/* Work in Progress Notice */}
-          <div className="max-w-2xl mx-auto mb-8 animate-fade-in">
-            <div className="bg-amber-50 border border-amber-200 rounded-lg p-4 shadow-sm">
-              <p className="text-amber-800 font-medium">
-                ⚠️ Please be aware: This website is still a work in progress
-              </p>
+      
+      {/* Header with dates */}
+      <div className="bg-parchment-light py-2">
+        <div className="content-container">
+          <div className="flex justify-end text-sm text-biblical-brown">
+            <div className="flex gap-4">
+              <span className="font-hebrew">{getCurrentHebrewDate()}</span>
+              <span>|</span>
+              <span>{getCurrentEnglishDate()}</span>
             </div>
-          </div>
-          
-          <h1 className="text-4xl md:text-5xl font-bold mb-6 text-biblical-burgundy animate-fade-in">
-            Welcome to Midrash Aggadah
-          </h1>
-          <p className="text-lg md:text-xl max-w-3xl mx-auto mb-8 text-biblical-brown animate-fade-in">
-            A website that brings ancient Jewish wisdom and storytelling to life through an accessible collection of lectures and source texts.
-          </p>
-          
-          {/* Content Statistics */}
-          <div className="max-w-2xl mx-auto mb-8 animate-fade-in">
-            <div className="bg-white/80 backdrop-blur-sm rounded-lg p-6 shadow-lg border border-biblical-gold/20">
-              <p className="text-lg font-medium text-biblical-burgundy mb-2">
-                📚 Explore Our Extensive Collection
-              </p>
-              <p className="text-biblical-brown">
-                <span className="font-semibold text-biblical-navy">Thousands of pages</span> of written source sheets, <span className="font-semibold text-biblical-navy">hundreds of hours</span> of audio shiurim
-              </p>
-            </div>
-          </div>
-          
-          <div className="flex flex-wrap justify-center gap-4">
-            <Link to="/search" className="px-6 py-3 bg-biblical-navy text-white rounded-md hover:bg-opacity-90 transition-colors shadow-md">
-              Search Shiurim
-            </Link>
-            <Link to="/catalog" className="px-6 py-3 bg-biblical-burgundy text-white rounded-md hover:bg-opacity-90 transition-colors shadow-md">
-              Browse Catalog
-            </Link>
           </div>
         </div>
-      </section>
+      </div>
 
-      {/* Feature tiles */}
-      <section className="py-12 bg-parchment-light">
+      {/* Hero section with image */}
+      <section className="py-12 bg-parchment-texture bg-cover bg-center">
         <div className="content-container">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            {/* Catalog Tile */}
-            <Link to="/catalog" className="shiur-card flex flex-col items-center text-center p-6">
-              <div className="mb-4 p-3 bg-biblical-burgundy/10 rounded-full">
-                <Book size={36} className="text-biblical-burgundy" />
-              </div>
-              <h3 className="text-xl font-semibold mb-2">Browse Catalog</h3>
-              <p className="text-biblical-brown/80">
-                Explore our structured collection of shiurim organized by category, sub-category, and sefer.
-              </p>
-            </Link>
+          {/* Main header at top */}
+          <div className="text-center mb-12">
+            <h1 className="text-4xl md:text-5xl font-bold mb-8 text-biblical-burgundy animate-fade-in">
+              Welcome to Midrash Aggadah
+            </h1>
+          </div>
 
-            {/* Search Tile */}
-            <Link to="/search" className="shiur-card flex flex-col items-center text-center p-6">
-              <div className="mb-4 p-3 bg-biblical-burgundy/10 rounded-full">
-                <Search size={36} className="text-biblical-burgundy" />
-              </div>
-              <h3 className="text-xl font-semibold mb-2">Search Shiurim</h3>
-              <p className="text-biblical-brown/80">
-                Find specific topics or keywords across our entire collection of lectures and source texts.
-              </p>
-            </Link>
+          {/* Sub-header and description */}
+          <div className="text-center mb-8">
+            <p className="text-lg md:text-xl max-w-4xl mx-auto mb-6 text-biblical-brown animate-fade-in">
+              Discover the timeless wisdom and profound teachings of our greatest Rabbis through an unparalleled collection of shiurim and sacred texts.
+            </p>
+            <p className="text-lg max-w-3xl mx-auto mb-4 text-biblical-brown animate-fade-in">
+              Explore for free hundreds of shiurim, including both audio recordings and source sheets
+            </p>
+            <p className="text-lg max-w-3xl mx-auto mb-8 text-biblical-brown animate-fade-in">
+              Delve into original Sefarim in both English and Hebrew
+            </p>
+          </div>
 
-            {/* Sefarim Tile */}
-            <Link to="/sefarim" className="shiur-card flex flex-col items-center text-center p-6">
-              <div className="mb-4 p-3 bg-biblical-burgundy/10 rounded-full">
-                <BookOpen size={36} className="text-biblical-burgundy" />
+          {/* Search section */}
+          <div className="max-w-4xl mx-auto mb-8">
+            <form onSubmit={handleSearch} className="flex items-center gap-2 mb-4">
+              <div className="relative flex-1">
+                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-biblical-brown/60" size={20} />
+                <input
+                  type="text"
+                  value={query}
+                  onChange={e => setQuery(e.target.value)}
+                  placeholder={`Search through ${shiurim.length} shiurim ...`}
+                  className="w-full pl-10 pr-4 py-3 border border-parchment-dark rounded-md bg-white/90 placeholder-biblical-brown/60 focus:outline-none focus:ring-2 focus:ring-biblical-burgundy"
+                />
               </div>
-              <h3 className="text-xl font-semibold mb-2">Browse Sefarim</h3>
-              <p className="text-biblical-brown/80">
-                Access complete sefarim with our unique collection of midrashic texts and commentaries.
-              </p>
-            </Link>
+              
+              <button 
+                type="button" 
+                onClick={toggleFilters}
+                className="p-3 bg-biblical-navy text-white rounded-md hover:bg-biblical-navy/90"
+                aria-label="Toggle filters"
+              >
+                <Filter size={20} />
+              </button>
+              
+              <button 
+                type="button" 
+                onClick={handleReset}
+                className="p-3 bg-parchment-dark text-biblical-brown rounded-md hover:bg-parchment-dark/80"
+                aria-label="Reset search"
+              >
+                <X size={20} />
+              </button>
 
-            {/* About Tile */}
-            <Link to="/about" className="shiur-card flex flex-col items-center text-center p-6">
-              <div className="mb-4 p-3 bg-biblical-burgundy/10 rounded-full">
-                <Info size={36} className="text-biblical-burgundy" />
+              <button 
+                type="submit"
+                className="px-6 py-3 bg-biblical-burgundy text-white rounded-md hover:bg-biblical-burgundy/90 font-medium"
+              >
+                Search
+              </button>
+            </form>
+
+            {/* Filters */}
+            {showFilters && (
+              <div className="bg-white/90 rounded-md shadow-md p-4 mb-6 animate-fade-in">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                  {/* Categories filter */}
+                  <div>
+                    <h3 className="text-sm font-medium mb-2 text-biblical-navy">Categories</h3>
+                    <div className="space-y-1 max-h-48 overflow-y-auto pr-2">
+                      {categories.map(category => (
+                        <label key={category} className="flex items-center">
+                          <input
+                            type="checkbox"
+                            checked={filters.categories.includes(category)}
+                            onChange={() => handleFilterChange('categories', category)}
+                            className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
+                          />
+                          <span className="flex-1">{category}</span>
+                          <span className="text-xs text-biblical-brown/60">
+                            ({countShiurimInFilter(shiurim, 'category', category)})
+                          </span>
+                        </label>
+                      ))}
+                    </div>
+                  </div>
+                  
+                  {/* Sub-categories filter */}
+                  <div>
+                    <h3 className="text-sm font-medium mb-2 text-biblical-navy">Sub-Categories</h3>
+                    <div className="space-y-1 max-h-48 overflow-y-auto pr-2">
+                      {subCategories.map(subCategory => (
+                        <label key={subCategory} className="flex items-center">
+                          <input
+                            type="checkbox"
+                            checked={filters.subCategories.includes(subCategory)}
+                            onChange={() => handleFilterChange('subCategories', subCategory)}
+                            className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
+                          />
+                          <span className="flex-1">{subCategory}</span>
+                          <span className="text-xs text-biblical-brown/60">
+                            ({countShiurimInFilter(shiurim, 'sub_category', subCategory)})
+                          </span>
+                        </label>
+                      ))}
+                    </div>
+                  </div>
+                  
+                  {/* Sefarim filter */}
+                  <div>
+                    <h3 className="text-sm font-medium mb-2 text-biblical-navy">Sefarim</h3>
+                    <div className="space-y-1 max-h-48 overflow-y-auto pr-2">
+                      {sefarim.map(sefer => (
+                        <label key={sefer} className="flex items-center">
+                          <input
+                            type="checkbox"
+                            checked={filters.sefarim.includes(sefer)}
+                            onChange={() => handleFilterChange('sefarim', sefer)}
+                            className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
+                          />
+                          <span className="flex-1">{sefer}</span>
+                          <span className="text-xs text-biblical-brown/60">
+                            ({countShiurimInFilter(shiurim, 'english_sefer', sefer)})
+                          </span>
+                        </label>
+                      ))}
+                    </div>
+                  </div>
+                </div>
               </div>
-              <h3 className="text-xl font-semibold mb-2">About</h3>
-              <p className="text-biblical-brown/80">
-                Learn more about the mission and people behind the Midrash Aggadah project.
-              </p>
-            </Link>
+            )}
           </div>
         </div>
       </section>
@@ -130,7 +311,7 @@ const HomePage: React.FC = () => {
       <section className="py-12">
         <div className="content-container">
           <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-center text-biblical-burgundy">
-            Sample Shiurim
+            Or, Browse Sample Shiurim
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
             {featuredShiurim.map(shiur => (
@@ -195,6 +376,19 @@ const HomePage: React.FC = () => {
               <Book className="mr-2" size={20} />
               View All Shiurim
             </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Large image at bottom */}
+      <section className="py-8 bg-parchment-light">
+        <div className="content-container">
+          <div className="max-w-4xl mx-auto">
+            <img 
+              src="/images/moshe_aharon_hur_img.png" 
+              alt="Moshe, Aharon, and Hur"
+              className="w-full h-auto rounded-lg shadow-lg"
+            />
           </div>
         </div>
       </section>

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useSearchParams } from 'react-router-dom';
 import { Search, X, Headphones, Book, Filter, Clock } from 'lucide-react';
 import BackToTopButton from '@/components/common/BackToTopButton';
 import shiurimData from '@/data/shiurim_data.json';
@@ -36,10 +36,28 @@ const SearchPage: React.FC = () => {
     filters.subCategories.length > 0 ? filters.subCategories : []
   );
 
+  // Add useEffect to read URL parameters
+  const [searchParams] = useSearchParams();
+  
   useEffect(() => {
     // Load shiurim data
     setShiurim(shiurimData as unknown as Shiur[]);
   }, []);
+
+  useEffect(() => {
+    // Read URL parameters and set initial state
+    const urlQuery = searchParams.get('q') || '';
+    const urlCategories = searchParams.get('categories')?.split(',').filter(Boolean) || [];
+    const urlSubCategories = searchParams.get('subCategories')?.split(',').filter(Boolean) || [];
+    const urlSefarim = searchParams.get('sefarim')?.split(',').filter(Boolean) || [];
+    
+    setQuery(urlQuery);
+    setFilters({
+      categories: urlCategories,
+      subCategories: urlSubCategories,
+      sefarim: urlSefarim
+    });
+  }, [searchParams]);
 
   useEffect(() => {
     // Search and apply filters
