@@ -13,23 +13,25 @@ const SefarimPage: React.FC = () => {
             to="/sefer/midrash-haaliyah"
             className="bg-white/80 rounded-lg shadow-md overflow-hidden block hover:shadow-lg hover:bg-white/90 transition-all duration-200 cursor-pointer"
           >
-            <div className="h-48 bg-biblical-navy/20 flex items-center justify-center">
+            <div className="h-48 bg-biblical-navy/20 flex items-center justify-center relative">
               <OptimizedImage 
                 src="/images/moshe_aharon_hur_img.png" 
                 alt="Illustration of Moshe Rabbeinu with Aharon and Hur - representing the three ascents described in Midrash HaAliyah" 
                 width={400}
                 height={300}
                 loading="lazy"
-                className="h-full w-full object-cover"
+                className="h-full w-full object-contain p-2"
               />
             </div>
-            <div className="p-6">
-              <h2 className="text-2xl font-bold mb-4 text-biblical-burgundy text-center font-hebrew">
-                מדרש העלייה
-              </h2>
-              <p className="text-biblical-brown mb-4 text-center">
-                A midrash written in Hebrew in the style of classic aggadic works, ספר העלייה explores the life, character, and legacy of Moshe Rabbeinu and his brother Aharon via their three ascents in the dessert. It combines original חידושים with teachings found throughout ספרי חז״ל.
-              </p>
+            <div className="p-8 py-16 space-y-8">
+              <div className="pt-8">
+                <h2 className="text-3xl font-bold text-black text-center font-hebrew mb-3">
+                  מדרש העלייה
+                </h2>
+                <p className="text-biblical-brown text-center leading-relaxed">
+                  A midrash written in Hebrew in the style of classic aggadic works, ספר העלייה explores the life, character, and legacy of Moshe Rabbeinu and his brother Aharon via their three ascents in the dessert. It combines original חידושים with teachings found throughout ספרי חז״ל.
+                </p>
+              </div>
             </div>
           </Link>
           
