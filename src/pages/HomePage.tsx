@@ -169,27 +169,31 @@ const HomePage: React.FC = () => {
         structuredData={structuredData}
         ogType="website"
       />
-      
-      {/* Header with dates */}
-      <div className="bg-parchment-light py-3">
-        <div className="content-container">
-          <div className="flex justify-end text-sm text-biblical-brown">
-            <div className="flex gap-4">
-              <span className="font-hebrew" style={{ fontFamily: '"Times New Roman", serif', fontWeight: 'normal' }}>{getCurrentHebrewDate()}</span>
-              <span>|</span>
-              <span>{getCurrentEnglishDate()}</span>
-            </div>
-          </div>
+
+      {/* Date at very top-left */}
+      <div className="absolute top-0 left-0 z-10 p-3 text-sm text-biblical-brown bg-parchment-light/80">
+        <div className="flex gap-4">
+          <span className="font-hebrew" style={{ fontFamily: '"Times New Roman", serif', fontWeight: 'normal' }}>{getCurrentHebrewDate()}</span>
+          <span>|</span>
+          <span>{getCurrentEnglishDate()}</span>
         </div>
       </div>
 
-      {/* Main header at very top */}
+      {/* Welcome header at very top */}
+      <section className="py-8 bg-parchment-texture bg-cover bg-center">
+        <div className="content-container">
+          <div className="text-center">
+            <h1 className="text-4xl md:text-5xl font-bold text-biblical-burgundy animate-fade-in">
+              Welcome to Midrash Aggadah
+            </h1>
+          </div>
+        </div>
+      </section>
+      
+      {/* Main content section */}
       <section className="py-12 bg-parchment-texture bg-cover bg-center">
         <div className="content-container">
           <div className="text-center mb-12">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6 text-biblical-burgundy animate-fade-in">
-              Welcome to Midrash Aggadah
-            </h1>
             <p className="text-lg md:text-xl max-w-4xl mx-auto mb-6 text-biblical-brown animate-fade-in">
               A website dedicated to spreading the timeless wisdom and profound teachings of חז״ל.
             </p>

@@ -31,22 +31,21 @@ const Sidebar: React.FC = () => {
       case '/search':
         return 'Search Shiurim';
       case '/sefarim':
-        return 'Sefarim Collection';
+        return 'Original Sefarim';
       case '/about':
         return 'About Midrash Aggadah';
       case '/':
-        return 'Midrash Aggadah';
+        return '';
       default:
-        return 'Midrash Aggadah';
+        return '';
     }
   };
 
   const navigationLinks = [
     { to: '/', icon: Home, label: 'Home' },
-    { to: '/search', icon: Search, label: 'Search' },
-    { to: '/catalog', icon: Book, label: 'Catalog' },
-    { to: '/sefarim', icon: BookOpen, label: 'Sefarim' },
-    { to: '/about', icon: Info, label: 'About' },
+    { to: '/catalog', icon: Book, label: 'Shiurim Catalog' },
+    { to: '/sefarim', icon: BookOpen, label: 'Original Sefarim' },
+    { to: '/about', icon: Info, label: 'About Midrash Aggadah' },
   ];
 
   // Mobile Navigation (Top Bar)
