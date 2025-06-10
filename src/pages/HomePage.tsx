@@ -132,6 +132,8 @@ const HomePage: React.FC = () => {
                 <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-biblical-brown/60" size={20} />
                 <input
                   type="text"
+                  id="homepage-search-input"
+                  name="search"
                   value={query}
                   onChange={e => setQuery(e.target.value)}
                   placeholder={`Search through ${shiurim.length} shiurim ...`}
@@ -177,6 +179,8 @@ const HomePage: React.FC = () => {
                         <label key={category} className="flex items-center">
                           <input
                             type="checkbox"
+                            id={`homepage-category-${category.replace(/\s+/g, '-').toLowerCase()}`}
+                            name={`category-${category}`}
                             checked={filters.categories.includes(category)}
                             onChange={() => handleFilterChange('categories', category)}
                             className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
@@ -198,6 +202,8 @@ const HomePage: React.FC = () => {
                         <label key={subCategory} className="flex items-center">
                           <input
                             type="checkbox"
+                            id={`homepage-subcategory-${subCategory.replace(/\s+/g, '-').toLowerCase()}`}
+                            name={`subcategory-${subCategory}`}
                             checked={filters.subCategories.includes(subCategory)}
                             onChange={() => handleFilterChange('subCategories', subCategory)}
                             className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
@@ -219,6 +225,8 @@ const HomePage: React.FC = () => {
                         <label key={sefer} className="flex items-center">
                           <input
                             type="checkbox"
+                            id={`homepage-sefer-${sefer.replace(/\s+/g, '-').toLowerCase()}`}
+                            name={`sefer-${sefer}`}
                             checked={filters.sefarim.includes(sefer)}
                             onChange={() => handleFilterChange('sefarim', sefer)}
                             className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
@@ -239,7 +247,7 @@ const HomePage: React.FC = () => {
       </section>
 
       {/* Sample shiurim section */}
-      <section className="py-16 bg-white">
+      <section className="py-16">
         <div className="content-container">
           <h2 className="text-2xl md:text-3xl font-semibold mb-12 text-center text-biblical-burgundy">
             Browse Sample Shiurim
@@ -323,7 +331,7 @@ const HomePage: React.FC = () => {
       </section>
 
       {/* Large image at bottom */}
-      <section className="py-12 bg-white">
+      <section className="py-6">
         <div className="content-container">
           <div className="max-w-4xl mx-auto">
             <img 

@@ -117,6 +117,8 @@ const SearchPage: React.FC = () => {
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-biblical-brown/60" size={20} />
               <input
                 type="text"
+                id="search-page-input"
+                name="search"
                 value={query}
                 onChange={e => setQuery(e.target.value)}
                 placeholder={`Search through ${shiurim.length} shiurim ...`}
@@ -155,6 +157,8 @@ const SearchPage: React.FC = () => {
                       <label key={category} className="flex items-center">
                         <input
                           type="checkbox"
+                          id={`search-category-${category.replace(/\s+/g, '-').toLowerCase()}`}
+                          name={`category-${category}`}
                           checked={filters.categories.includes(category)}
                           onChange={() => handleFilterChange('categories', category)}
                           className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
@@ -176,6 +180,8 @@ const SearchPage: React.FC = () => {
                       <label key={subCategory} className="flex items-center">
                         <input
                           type="checkbox"
+                          id={`search-subcategory-${subCategory.replace(/\s+/g, '-').toLowerCase()}`}
+                          name={`subcategory-${subCategory}`}
                           checked={filters.subCategories.includes(subCategory)}
                           onChange={() => handleFilterChange('subCategories', subCategory)}
                           className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
@@ -197,6 +203,8 @@ const SearchPage: React.FC = () => {
                       <label key={sefer} className="flex items-center">
                         <input
                           type="checkbox"
+                          id={`search-sefer-${sefer.replace(/\s+/g, '-').toLowerCase()}`}
+                          name={`sefer-${sefer}`}
                           checked={filters.sefarim.includes(sefer)}
                           onChange={() => handleFilterChange('sefarim', sefer)}
                           className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
