@@ -7,74 +7,6 @@ import { generateWebsiteStructuredData, generateMetaDescription, generateKeyword
 import SEOHead from '@/components/seo/SEOHead';
 import shiurimData from '@/data/shiurim_data.json';
 
-// Helper functions for Hebrew and English dates
-const getHebrewMonths = () => [
-  'תשרי', 'חשון', 'כסלו', 'טבת', 'שבט', 'אדר', 'ניסן', 'אייר', 'סיון', 'תמוז', 'אב', 'אלול'
-];
-
-const getEnglishMonths = () => [
-  'January', 'February', 'March', 'April', 'May', 'June',
-  'July', 'August', 'September', 'October', 'November', 'December'
-];
-
-// Convert number to Hebrew letters
-const numberToHebrew = (num: number): string => {
-  const hebrewNumerals = [
-    '', 'א׳', 'ב׳', 'ג׳', 'ד׳', 'ה׳', 'ו׳', 'ז׳', 'ח׳', 'ט׳', 'י׳',
-    'יא׳', 'יב׳', 'יג׳', 'יד׳', 'טו׳', 'טז׳', 'יז׳', 'יח׳', 'יט׳', 'כ׳',
-    'כא׳', 'כב׳', 'כג׳', 'כד׳', 'כה׳', 'כו׳', 'כז׳', 'כח׳', 'כט׳', 'ל׳', 'לא׳'
-  ];
-  
-  return hebrewNumerals[num] || `${num}׳`;
-};
-
-const getCurrentHebrewDate = (): string => {
-  const now = new Date();
-  // More accurate Hebrew calendar conversion
-  // Hebrew year starts in Tishrei (September/October)
-  const gregorianYear = now.getFullYear();
-  const month = now.getMonth(); // 0-11
-  
-  // Approximate Hebrew year calculation
-  let hebrewYear;
-  if (month >= 8) { // September or later
-    hebrewYear = gregorianYear + 3761;
-  } else {
-    hebrewYear = gregorianYear + 3760;
-  }
-  
-  // Hebrew months start from Tishrei (around September)
-  // Map Gregorian months to Hebrew months (approximate)
-  const hebrewMonthMap = [
-    'טבת',    // January -> Tevet
-    'שבט',    // February -> Shevat  
-    'אדר',    // March -> Adar
-    'ניסן',   // April -> Nissan
-    'אייר',   // May -> Iyar
-    'סיון',   // June -> Sivan
-    'תמוז',   // July -> Tammuz
-    'אב',     // August -> Av
-    'אלול',   // September -> Elul
-    'תשרי',   // October -> Tishrei
-    'חשון',   // November -> Cheshvan
-    'כסלו'    // December -> Kislev
-  ];
-  
-  const hebrewMonth = hebrewMonthMap[month];
-  const day = now.getDate();
-  const hebrewDay = numberToHebrew(day);
-  
-  return `${hebrewDay} ${hebrewMonth} ${hebrewYear}`;
-};
-
-const getCurrentEnglishDate = (): string => {
-  const now = new Date();
-  const month = getEnglishMonths()[now.getMonth()];
-  const day = now.getDate();
-  const year = now.getFullYear();
-  return `${month} ${day}, ${year}`;
-};
-
 const HomePage: React.FC = () => {
   const navigate = useNavigate();
   const [featuredShiurim, setFeaturedShiurim] = useState<Shiur[]>([]);
@@ -169,15 +101,6 @@ const HomePage: React.FC = () => {
         structuredData={structuredData}
         ogType="website"
       />
-
-      {/* Date at very top-left */}
-      <div className="absolute top-0 left-0 z-10 p-3 text-sm text-biblical-brown bg-parchment-light/80">
-        <div className="flex gap-4">
-          <span className="font-hebrew" style={{ fontFamily: '"Times New Roman", serif', fontWeight: 'normal' }}>{getCurrentHebrewDate()}</span>
-          <span>|</span>
-          <span>{getCurrentEnglishDate()}</span>
-        </div>
-      </div>
 
       {/* Welcome header at very top */}
       <section className="py-8 bg-parchment-texture bg-cover bg-center">
