@@ -376,8 +376,8 @@ function parseFootnotes(footnoteLines: string[]): {
       continue;
     }
     
-    // Check for footnote number start (e.g., "**1. Pesikta DeRav Kahana 3:8**")
-    const footnoteMatch = trimmedLine.match(/^\*\*(\d+)\.\s+(.+)\*\*$/);
+    // Check for footnote number start (e.g., "**1. Pesikta DeRav Kahana 3:8**" or "**3.** While na'ar...")
+    const footnoteMatch = trimmedLine.match(/^\*\*(\d+)\.\*?\s*(.*)$/);
     if (footnoteMatch) {
       saveCurrentFootnote();
       
