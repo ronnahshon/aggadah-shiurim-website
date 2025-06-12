@@ -443,8 +443,8 @@ export function cleanMarkdownFormatting(content: string): string {
     .replace(/\*\*\*([^*]+)\*\*\*/g, '<strong><em>$1</em></strong>')
     // Handle footnotes specially - don't add line breaks around them
     .replace(/\*\*(\^?\[\d+\]\{\.underline\}\^?)\*\*/g, '<strong>$1</strong>')
-    // Handle other bold text with line breaks
-    .replace(/\*\*([^*]+)\*\*/g, '<br/><strong>$1</strong><br/>')
+    // Handle other bold text inline (no line breaks)
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
     .replace(/\*([^*]+)\*/g, '<em>$1</em>')
     .replace(/\[([^\]]+)\]\{\.underline\}/g, '<u>$1</u>')
     .replace(/\[([^\]]+)\]\{dir="rtl"\}/g, '<span dir="rtl">$1</span>')
