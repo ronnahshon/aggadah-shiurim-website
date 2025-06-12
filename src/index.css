@@ -653,12 +653,10 @@
   font-weight: 600;
   text-decoration: none;
   transition: all 0.2s ease;
-  /* Remove any display/margin properties that might cause line breaks */
-  display: inline;
-  margin: 0;
-  padding: 0;
-  /* Improve touch target size on mobile without breaking layout */
-  position: relative;
+  /* Improve touch target size on mobile */
+  padding: 2px 4px;
+  margin: -2px -4px;
+  border-radius: 3px;
 }
 
 .footnote-link:hover {
@@ -670,35 +668,6 @@
 .footnote-link:active {
   background-color: rgba(201, 176, 55, 0.2);
   transform: scale(1.05);
-}
-
-/* Ensure superscript footnotes don't break text flow */
-sup .footnote-link {
-  display: inline;
-  vertical-align: super;
-  font-size: 0.75em;
-  line-height: 1;
-  margin: 0;
-  padding: 0;
-}
-
-/* Override any conflicting styles for sup elements */
-.midrash-content sup {
-  display: inline;
-  vertical-align: super;
-  font-size: 0.75em;
-  line-height: 1;
-  margin: 0;
-  padding: 0;
-  /* Prevent line breaks */
-  white-space: nowrap;
-}
-
-/* Ensure the footnote link itself is inline */
-.midrash-content sup .footnote-link {
-  display: inline;
-  white-space: nowrap;
-  vertical-align: baseline; /* Let the sup handle the vertical alignment */
 }
 
 .footnote-tooltip {
@@ -730,19 +699,12 @@ sup .footnote-link {
   }
   
   .footnote-link {
-    /* Keep mobile touch improvements but ensure inline display */
-    position: relative;
-  }
-  
-  /* Mobile touch target enhancement without breaking layout */
-  .footnote-link::before {
-    content: '';
-    position: absolute;
-    top: -4px;
-    left: -4px;
-    right: -4px;
-    bottom: -4px;
-    /* Invisible but increases touch target */
+    /* Larger touch target on mobile */
+    padding: 4px 6px;
+    margin: -4px -6px;
+    min-height: 24px;
+    display: inline-flex;
+    align-items: center;
   }
 }
 
@@ -758,7 +720,19 @@ sup .footnote-link {
   }
 }
 
-/* Remove the mobile indicator to prevent text flow issues */
+/* Add a small indicator that footnotes are tappable on mobile */
+@media (max-width: 768px) {
+  .footnote-link::after {
+    content: '';
+    display: inline-block;
+    width: 2px;
+    height: 2px;
+    background-color: currentColor;
+    border-radius: 50%;
+    margin-left: 2px;
+    opacity: 0.6;
+  }
+}
 
 /* Section Separators */
 .section-separator {
@@ -784,56 +758,6 @@ sup .footnote-link {
 .midrash-content .prose {
   text-align: justify;
   text-align-last: right;
-}
-
-/* Ensure proper text flow and inline footnotes */
-.midrash-content .prose p {
-  /* Ensure paragraphs handle inline elements properly */
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  /* Ensure proper spacing between paragraphs */
-  margin-bottom: 1rem;
-}
-
-/* Make sure footnote superscripts stay inline */
-.midrash-content .prose sup {
-  display: inline;
-  vertical-align: super;
-  font-size: 0.75em;
-  line-height: 0;
-  margin: 0;
-  padding: 0;
-  white-space: nowrap;
-  /* Prevent any box model issues */
-  box-sizing: content-box;
-}
-
-/* Ensure footnote links within superscripts are truly inline */
-.midrash-content .prose sup a {
-  display: inline;
-  margin: 0;
-  padding: 0;
-  white-space: nowrap;
-  line-height: inherit;
-  /* Ensure no block-level behavior */
-  float: none;
-  clear: none;
-}
-
-/* Ensure paragraphs with footnotes don't break */
-.midrash-content .prose p sup {
-  /* Keep footnotes inline within paragraphs */
-  display: inline;
-  vertical-align: super;
-}
-
-/* Remove any potential margin/padding from generated paragraph tags */
-.midrash-content .prose p:empty {
-  display: none;
-}
-
-.midrash-content .prose p:last-child {
-  margin-bottom: 0;
 }
 
 /* Text justification for all content */
