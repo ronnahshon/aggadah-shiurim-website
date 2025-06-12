@@ -155,9 +155,9 @@ const DaroshDarashMoshePage: React.FC = () => {
       {/* Note: No Layout wrapper as specified - no global side menu */}
       <div className="min-h-screen bg-gradient-to-br from-biblical-cream via-biblical-sand to-biblical-cream">
         {/* Three-column layout */}
-        <div className="flex max-w-full">
+        <div className="flex max-w-full w-full">
           {/* Left Column - Table of Contents */}
-          <div className="w-1/5 min-w-[240px] bg-biblical-sage/10 border-r-2 border-biblical-brown/20 sticky top-0 h-screen overflow-y-auto">
+          <div className="w-[15%] min-w-[200px] bg-biblical-sage/10 border-r-2 border-biblical-brown/20 sticky top-0 h-screen overflow-y-auto">
             <div className="p-6">
               <h2 className="text-xl font-bold text-biblical-brown mb-6 border-b-2 border-biblical-brown/30 pb-2">
                 Table of Contents
@@ -223,7 +223,7 @@ const DaroshDarashMoshePage: React.FC = () => {
           </div>
 
           {/* Middle Column - Main Content */}
-          <div className="w-2/5 min-w-[480px] px-8 py-6 h-screen overflow-y-auto">
+          <div className="w-[42.5%] min-w-[480px] px-8 py-6 h-screen overflow-y-auto">
             <div className="max-w-4xl">
               {/* Title */}
               <div className="text-center mb-8">
@@ -318,7 +318,7 @@ const DaroshDarashMoshePage: React.FC = () => {
           </div>
 
           {/* Right Column - Footnotes */}
-          <div className="w-2/5 min-w-[480px] bg-biblical-brown/5 border-l-2 border-biblical-brown/20 sticky top-0 h-screen overflow-y-auto">
+          <div className="w-[42.5%] min-w-[480px] bg-biblical-brown/5 border-l-2 border-biblical-brown/20 sticky top-0 h-screen overflow-y-auto">
             <div className="p-6">
               <h2 className="text-xl font-bold text-biblical-brown mb-6 border-b-2 border-biblical-brown/30 pb-2">
                 Footnotes
