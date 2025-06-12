@@ -426,8 +426,12 @@ export function renderContentWithFootnotes(
   content: string,
   footnotes: Record<string, string>
 ): string {
-  // Replace footnote references like ^[1] with clickable links
+  // Replace footnote references like **^[1]{.underline}^** with clickable superscript links
   return content
+    .replace(/\*\*\^?\[(\d+)\]\{\.underline\}\^?\*\*/g, (match, footnoteNum) => {
+      return `<sup><a href="#footnote-${footnoteNum}" class="footnote-link" data-footnote="${footnoteNum}">${footnoteNum}</a></sup>`;
+    })
+    // Also handle simpler patterns like ^[1] or [1]{.underline}
     .replace(/\^?\[(\d+)\](\{\.underline\})?/g, (match, footnoteNum) => {
       return `<sup><a href="#footnote-${footnoteNum}" class="footnote-link" data-footnote="${footnoteNum}">${footnoteNum}</a></sup>`;
     })
@@ -437,6 +441,9 @@ export function renderContentWithFootnotes(
 export function cleanMarkdownFormatting(content: string): string {
   return content
     .replace(/\*\*\*([^*]+)\*\*\*/g, '<strong><em>$1</em></strong>')
+    // Handle footnotes specially - don't add line breaks around them
+    .replace(/\*\*(\^?\[\d+\]\{\.underline\}\^?)\*\*/g, '<strong>$1</strong>')
+    // Handle other bold text with line breaks
     .replace(/\*\*([^*]+)\*\*/g, '<br/><strong>$1</strong><br/>')
     .replace(/\*([^*]+)\*/g, '<em>$1</em>')
     .replace(/\[([^\]]+)\]\{\.underline\}/g, '<u>$1</u>')

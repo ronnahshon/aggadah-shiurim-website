@@ -657,6 +657,17 @@
   padding: 2px 4px;
   margin: -2px -4px;
   border-radius: 3px;
+  /* Ensure footnotes stay inline */
+  display: inline;
+  white-space: nowrap;
+}
+
+/* Ensure superscript footnotes don't create line breaks */
+sup {
+  display: inline;
+  vertical-align: super;
+  font-size: smaller;
+  line-height: 0;
 }
 
 .footnote-link:hover {

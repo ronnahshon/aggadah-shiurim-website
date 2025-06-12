@@ -1,5 +1,4 @@
-*מנחם אב תשפ״ג*
-*August 2023*
+*מנחם אב תשפ״ג / August 2023*
 
 This introduction speaks to the methodology employed in this work, a methodology I refer to as *"meta-midrash"*. In short, it is an aggadic midrash of aggadic midrashim, analyzing them using the exegetical tools they use to analyze holy texts. For example, aggadic midrash weaves together different pesukim from different books in Tanach to make a cohesive whole, and the goal of this work is to engage in the same exercise, but at the midrashic level: weaving together different midrashic traditions into a cohesive whole.
 
