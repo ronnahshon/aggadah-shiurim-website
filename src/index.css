@@ -768,13 +768,35 @@ sup {
 /* Main content text justification */
 .midrash-content .prose {
   text-align: justify;
-  text-align-last: right;
+  text-align-last: left;
 }
 
 /* Text justification for all content */
 .text-justify {
   text-align: justify;
-  text-align-last: right;
+  text-align-last: left;
+}
+
+/* Ensure prose content is justified */
+.prose-biblical {
+  text-align: justify;
+  text-align-last: left;
+}
+
+/* Keep headers centered even in justified content */
+.prose-biblical h1,
+.prose-biblical h2,
+.prose-biblical h3,
+.prose-biblical h4,
+.prose-biblical h5,
+.prose-biblical h6 {
+  text-align: center !important;
+}
+
+/* Ensure paragraphs are justified */
+.prose-biblical p {
+  text-align: justify;
+  text-align-last: left;
 }
 
 /* Responsive margins for desktop */

@@ -325,7 +325,7 @@ const DaroshDarashMoshePage: React.FC = () => {
                   <div className="w-32 h-1.5 bg-biblical-brown/50 mx-auto rounded"></div>
                 </div>
                 <div
-                  className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-center"
+                  className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-justify"
                   dangerouslySetInnerHTML={{
                     __html: cleanMarkdownFormatting(
                       renderContentWithFootnotes(daroshContent.generalIntroduction, daroshContent.allFootnotes)
@@ -349,7 +349,7 @@ const DaroshDarashMoshePage: React.FC = () => {
                     <div className="mb-8">
                       <h3 className="text-xl font-semibold text-biblical-brown mb-3">General Introduction</h3>
                       <div
-                        className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-center"
+                        className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-justify"
                         dangerouslySetInnerHTML={{
                           __html: cleanMarkdownFormatting(
                             renderContentWithFootnotes(chapter.generalIntroduction, daroshContent.allFootnotes)
@@ -374,7 +374,7 @@ const DaroshDarashMoshePage: React.FC = () => {
                         <div className="mb-6">
                           <h4 className="text-lg font-medium text-biblical-brown mb-2">Introduction</h4>
                           <div
-                            className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-center"
+                            className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-justify"
                             dangerouslySetInnerHTML={{
                               __html: cleanMarkdownFormatting(
                                 renderContentWithFootnotes(part.introduction, daroshContent.allFootnotes)
@@ -394,7 +394,7 @@ const DaroshDarashMoshePage: React.FC = () => {
                             <div className="w-16 h-0.5 bg-biblical-brown/30 mx-auto rounded"></div>
                           </div>
                           <div
-                            className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-center"
+                            className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-justify"
                             dangerouslySetInnerHTML={{
                               __html: cleanMarkdownFormatting(
                                 renderContentWithFootnotes(section.content, daroshContent.allFootnotes)
@@ -501,10 +501,23 @@ const DaroshDarashMoshePage: React.FC = () => {
         
         .prose-biblical {
           color: #654321;
+          text-align: justify !important;
+          text-align-last: left !important;
         }
         
         .prose-biblical p {
           margin-bottom: 1rem;
+          text-align: justify !important;
+          text-align-last: left !important;
+        }
+        
+        .prose-biblical h1,
+        .prose-biblical h2,
+        .prose-biblical h3,
+        .prose-biblical h4,
+        .prose-biblical h5,
+        .prose-biblical h6 {
+          text-align: center !important;
         }
         
         .prose-biblical strong {
