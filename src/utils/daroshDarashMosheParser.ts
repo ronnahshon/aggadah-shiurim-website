@@ -427,9 +427,11 @@ export function renderContentWithFootnotes(
   footnotes: Record<string, string>
 ): string {
   // Replace footnote references like ^[1] with clickable links
-  return content.replace(/\^?\[(\d+)\](\{\.underline\})?/g, (match, footnoteNum) => {
-    return `<sup><a href="#footnote-${footnoteNum}" class="footnote-link" data-footnote="${footnoteNum}">${footnoteNum}</a></sup>`;
-  });
+  return content
+    .replace(/\^?\[(\d+)\](\{\.underline\})?/g, (match, footnoteNum) => {
+      return `<sup><a href="#footnote-${footnoteNum}" class="footnote-link" data-footnote="${footnoteNum}">${footnoteNum}</a></sup>`;
+    })
+    .replace(/\^/g, ''); // Remove any remaining "^" characters
 }
 
 export function cleanMarkdownFormatting(content: string): string {

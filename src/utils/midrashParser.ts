@@ -233,7 +233,23 @@ export function parseMidrashContent(markdownContent: string): MidrashContent {
 
 export function renderContentWithFootnotes(content: string): string {
   // First clean markdown escapes
-  const cleanedContent = cleanMarkdownEscapes(content);
+  let cleanedContent = cleanMarkdownEscapes(content);
+  
+  // Convert newlines to spaces to ensure continuous text flow
+  // But preserve paragraph breaks (double newlines)
+  cleanedContent = cleanedContent
+    .replace(/\n\n+/g, '</p><p>') // Convert paragraph breaks to HTML
+    .replace(/\n/g, ' ') // Convert single newlines to spaces
+    .replace(/\s+/g, ' ') // Normalize multiple spaces to single space
+    .trim();
+  
+  // Wrap in paragraph tags if not already wrapped
+  if (!cleanedContent.startsWith('<p>')) {
+    cleanedContent = '<p>' + cleanedContent;
+  }
+  if (!cleanedContent.endsWith('</p>')) {
+    cleanedContent = cleanedContent + '</p>';
+  }
   
   // Convert footnote references to clickable superscript links
   return cleanedContent.replace(/\[(\^[^\]]+)\]/g, (match, footnoteId) => {
