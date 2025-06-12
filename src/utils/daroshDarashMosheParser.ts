@@ -435,12 +435,15 @@ export function renderContentWithFootnotes(
 export function cleanMarkdownFormatting(content: string): string {
   return content
     .replace(/\*\*\*([^*]+)\*\*\*/g, '<strong><em>$1</em></strong>')
-    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*\*([^*]+)\*\*/g, '<br/><strong>$1</strong><br/>')
     .replace(/\*([^*]+)\*/g, '<em>$1</em>')
     .replace(/\[([^\]]+)\]\{\.underline\}/g, '<u>$1</u>')
     .replace(/\[([^\]]+)\]\{dir="rtl"\}/g, '<span dir="rtl">$1</span>')
     .replace(/^\s*\-\s+/gm, '• ')
     .replace(/\n\n+/g, '</p><p>')
     .replace(/^(.+)$/gm, '<p>$1</p>')
-    .replace(/<p><\/p>/g, '');
+    .replace(/<p><\/p>/g, '')
+    .replace(/<br\/><br\/>/g, '<br/>') // Clean up double line breaks
+    .replace(/^<br\/>/g, '') // Remove line break at the very beginning
+    .replace(/<br\/>$/g, ''); // Remove line break at the very end
 } 

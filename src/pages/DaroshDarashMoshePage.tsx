@@ -225,6 +225,13 @@ const DaroshDarashMoshePage: React.FC = () => {
           {/* Middle Column - Main Content */}
           <div className="w-[42.5%] min-w-[480px] px-8 py-6 h-screen overflow-y-auto">
             <div className="max-w-4xl">
+              {/* Disclaimer */}
+              <div className="mb-6 p-3 bg-yellow-50 border-l-4 border-yellow-400 rounded-r-md">
+                <p className="text-sm text-yellow-800 font-medium">
+                  Note: This page is still a work in progress
+                </p>
+              </div>
+
               {/* Title */}
               <div className="text-center mb-8">
                 <h1 className="text-4xl font-bold text-biblical-brown mb-2">
