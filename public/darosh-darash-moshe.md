@@ -1,127 +1,34 @@
-חוט המשולש
-
-***The life and legacy of Moshe Rabbeinu***
-
-***through the lens of Midrash Aggadah***
-
-*By: Ron Nahshon*
-
-![](images/media/image1.png){width="6.5in" height="4.694444444444445in"}
-
-**[Foreword]{.underline}**
-
-מנחם אב תשפ״ג
-
+*מנחם אב תשפ״ג*
 *August 2023*
 
-This work is structured as follows:
+This introduction speaks to the methodology employed in this work, a methodology I refer to as *"meta-midrash"*. In short, it is an aggadic midrash of aggadic midrashim, analyzing them using the exegetical tools they use to analyze holy texts. For example, aggadic midrash weaves together different pesukim from different books in Tanach to make a cohesive whole, and the goal of this work is to engage in the same exercise, but at the midrashic level: weaving together different midrashic traditions into a cohesive whole.
 
-(1) A **General** **Introduction**
+The introduction also elucidates a theory of midrashic pedagogy I refer to as [חוט המשולש] in the spirit of ״והחוט המשולש לא במהרה ינתק״ (קהלת ד, יב), i.e. "The three-corded string does not easily tear." It argues that there are three essential layers which are combined to develop, in composite, classical aggadic midrashim:
 
-(2) Chapter I: **Giv'at Rephidim**
+(1) **Linguistic.** Begin with some anomaly or difficulty in the language, structure or grammar of one or more pesukim. This can be based on strange spelling, improper tense, etc.
 
-(3) Chapter II: **Har Sinai**
+(2) **Thematic.** Use those linguistic difficulties coupled with relevant contextual questions as a springboard to develop broader ideas in line with Rabbinic principles or beliefs.
 
-(4) Chapter III: **Hor HaHar**
+(3) **Ethical.** Uses those developed ideas to teach lessons about how to live a better, more spiritually oriented life; or, how to relate to Judaism and the Creator in an intimate way.
 
-(5) Appendix: **Midrash Ha'Aliyah**
+This Sefer is comprised of three Chapters, each of which focuses on a different ascent of Moshe Rabbeinu and his brother Aharon up a hill or a mountain. Each chapter explores a respective ascent in midrashic depth and develops innovative and original approaches based on midrashim from the aggadic works of Hazal and the Sages of later generations.
 
-(6) Glossary & Acknowledgements
+Instead of systematically describing the three-tiered חוט המשולש structure I have chosen instead to discuss how different midrashim contradict and complement each other in a more poetic, analytical way, in the style of the midrashic literature itself which is infamously non-structured. Along the way I do attempt to highlight when the Rabbis are engaging in each level of exegesis and propose what is likely motivating them, all while building a grander, "meta-midrashic" narrative for each respective ascent.
 
-**(1) General Introduction**
+Every Chapter opens with a *General Introduction* followed by  *Three Parts*, each of which contains its own *Introduction* and *Four Sections*. In addition, every Chapter has *>100* associated footnotes of varying lengths. These footnotes aim to: (1) provide sources for quoted teachings, (2) include additional relevant sources, and (3) add additional layers of detailed analysis.
 
-The introduction speaks to the methodology employed in this work, a
-methodology I refer to as *"meta-midrash"*. In short, it is an aggadic
-midrash of aggadic midrashim, analyzing them using the exegetical tools
-they use to analyze holy texts. For example, aggadic midrash weaves
-together different pesukim from different books in Tanach to make a
-cohesive whole, and the goal of this work is to engage in the same
-exercise, but at the midrashic level: weaving together different
-midrashic traditions into a cohesive whole.
+**Midrash Ha'Aliyah**
 
-The introduction also elucidates a theory of midrashic pedagogy I refer
-to as [חוט המשולש] in the spirit of (״[והחוט המשולש לא במהרה
-ינתק״ (קהלת ד, יב], i.e. "The three-corded string does not
-easily tear." It argues that there are three essential layers which are
-combined to develop, in composite, classical aggadic midrashim:
+I took the midrashic insights developed in this work and, while trying to stay reasonably true to the text of the work and the order its ideas are developed in, created a new midrash called Midrash Ha'Aliyah. This Midrash is written in Hebrew and in the style of the classical aggadic midrashim of Hazal. In particular, this Midrash is meant to be similar to works such as Midrash Rabbah, and pays homage to the authors of these ancient masterpieces. It includes existing midrashim referenced in the work while crafting new ones that stand alongside them, with the aim of enriching them while maintaining the stylistic integrity of the originals.
 
-(1) **Linguistic.** Begin with some anomaly or difficulty in the
-    language, structure or grammar of one or more pesukim. This can be
-    based on strange spelling, improper tense, etc.
+The structure of Midrash Ha'Aliyah aims to mirror the structure of this work. It has *Three Perakim* (פרקים), each of which focuses on a different respective ascent of Moshe. Each *Perek* contains *Sixteen Mishnayot* (משניות), each of which has and has *250-300* footnotes. Unlike in the main work the footnotes do not contain any additional commentary; they simply list the sources being quoted. An index is also available which categorizes the sources referenced by the Midrash.
 
-(2) **Thematic.** Use those linguistic difficulties coupled with
-    relevant contextual questions as a springboard to develop broader
-    ideas in line with Rabbinic principles or beliefs.
-
-(3) **Ethical.** Uses those developed ideas to teach lessons about how
-    to live a better, more spiritually oriented life; or, how to relate
-    to Judaism and the Creator in an intimate way.
-
-*\*\* NOTE: General Introduction still needs to be written*
-
-**(2) (3) (4) Chapters I, II & III**
-
-These chapters contain the core content of this work. Each chapter
-focuses on a different ascent of Moshe Rabbeinu up a hill or mountain,
-and explores the respective ascent in midrashic depth.
-
-Instead of systematically describing the three-tiered [חוט
-המשולש] structure I have chosen instead to discuss how
-different midrashim contradict and complement each other in a more
-poetic, analytical way, in the style of the midrashic literature itself
-which is infamously non-structured. Along the way I do attempt to
-highlight when the Rabbis are engaging in each level of exegesis and
-propose what is likely motivating them, all while building a grander,
-"meta-midrashic" narrative for each respective ascent.
-
-Each chapter is structured similarly:
-
-1)  **General Introduction** with **Notes**
-
-2)  **Three** **Parts**, each of which contains an
-
-    a)  **Introduction** with **Notes**
-
-    b)  **Four** **Subsections** with **Notes**
-
-Each chapter has \~**80-100** pages and \~**120-140** footnotes.
-
-Some caveats:
-
+Please be mindful of the following caveats:
 - There is inconsistency in translations (my own)
-
 - There is inconsistency in transliterations (editing needed)
+- Some of the footnotes within each chapter need updating
 
-- Page numbers / footnotes within each chapter need updating
-
-- Spelling mistakes, grammar mistakes, etc.
-
-The **Notes** after each **Part** should ideally be found at the bottom
-of the pages which reference them. The current format has **Notes**
-after the **Part** instead; this was due to formatting constraints and
-will hopefully be adjusted for easier reading.
-
-**(5) Appendix: Midrash Ha'Aliyah**
-
-I took the midrashic insights developed in this work and, while trying
-to stay reasonably true to the text of the work and the order its ideas
-are developed in, created a new midrash called Midrash Ha'Aliyah. This
-Midrash is written in Hebrew and in the style of the classical aggadic
-midrashim of Hazal. In particular, this Midrash is meant to be similar
-to works such as Midrash Rabbah, and pays homage to the authors of these
-ancient masterpieces. It includes existing midrashim referenced in the
-work while crafting new ones that stand alongside them, with the aim of
-enriching them while maintaining the stylistic integrity of the
-originals.
-
-The structure of Midrash Ha'Aliyah aims to mirror the structure of the
-work itself. It has **Three** **Perakim** ([פרקים]), each of
-which focuses on a different respective ascent of Moshe. Each **Perek**
-contains **Sixteen Mishnayot** ([משניות]) and has
-\~**275-300** footnotes. Unlike in the main work the footnotes do not
-contain any additional commentary; they simply list the sources being
-quoted. An index is also available which categorizes the sources
-referenced by the Midrash.
+May it be His will that this work help contribute to the spread and knowledge of the holy Torah's wisdom and beauty.
 
 ***Table of Contents***
 
