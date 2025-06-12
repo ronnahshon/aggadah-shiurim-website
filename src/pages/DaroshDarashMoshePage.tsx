@@ -19,9 +19,9 @@ const DaroshDarashMoshePage: React.FC = () => {
   const [activeSection, setActiveSection] = useState<string>('');
   
   // Resizable columns state
-  const [tocWidth, setTocWidth] = useState(15); // percentage
-  const [mainWidth, setMainWidth] = useState(42.5); // percentage
-  const [footnotesWidth, setFootnotesWidth] = useState(42.5); // percentage
+  const [tocWidth, setTocWidth] = useState(18); // percentage
+  const [mainWidth, setMainWidth] = useState(50); // percentage
+  const [footnotesWidth, setFootnotesWidth] = useState(32); // percentage
   const [isResizing, setIsResizing] = useState<'toc-main' | 'main-footnotes' | null>(null);
 
   useEffect(() => {
