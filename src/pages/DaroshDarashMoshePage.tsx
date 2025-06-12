@@ -17,6 +17,12 @@ const DaroshDarashMoshePage: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [showBackToTop, setShowBackToTop] = useState(false);
   const [activeSection, setActiveSection] = useState<string>('');
+  
+  // Resizable columns state
+  const [tocWidth, setTocWidth] = useState(15); // percentage
+  const [mainWidth, setMainWidth] = useState(42.5); // percentage
+  const [footnotesWidth, setFootnotesWidth] = useState(42.5); // percentage
+  const [isResizing, setIsResizing] = useState<'toc-main' | 'main-footnotes' | null>(null);
 
   useEffect(() => {
     const loadContent = async () => {
@@ -128,6 +134,59 @@ const DaroshDarashMoshePage: React.FC = () => {
     return () => document.removeEventListener('click', handleDocumentClick);
   }, []);
 
+  // Resize functionality
+  const handleMouseDown = (divider: 'toc-main' | 'main-footnotes') => (e: React.MouseEvent) => {
+    e.preventDefault();
+    setIsResizing(divider);
+  };
+
+  useEffect(() => {
+    const handleMouseMove = (e: MouseEvent) => {
+      if (!isResizing) return;
+
+      const containerWidth = window.innerWidth;
+      const mouseX = e.clientX;
+      const mousePercentage = (mouseX / containerWidth) * 100;
+
+      if (isResizing === 'toc-main') {
+        // Constrain TOC width between 10% and 30%
+        const newTocWidth = Math.max(10, Math.min(30, mousePercentage));
+        const remainingWidth = 100 - newTocWidth;
+        const mainFootnotesRatio = mainWidth / (mainWidth + footnotesWidth);
+        
+        setTocWidth(newTocWidth);
+        setMainWidth(remainingWidth * mainFootnotesRatio);
+        setFootnotesWidth(remainingWidth * (1 - mainFootnotesRatio));
+      } else if (isResizing === 'main-footnotes') {
+        // Calculate based on the current TOC width
+        const availableWidth = 100 - tocWidth;
+        const dividerPosition = mousePercentage - tocWidth;
+        const mainPercentage = Math.max(20, Math.min(60, (dividerPosition / availableWidth) * 100));
+        
+        setMainWidth((availableWidth * mainPercentage) / 100);
+        setFootnotesWidth((availableWidth * (100 - mainPercentage)) / 100);
+      }
+    };
+
+    const handleMouseUp = () => {
+      setIsResizing(null);
+    };
+
+    if (isResizing) {
+      document.addEventListener('mousemove', handleMouseMove);
+      document.addEventListener('mouseup', handleMouseUp);
+      document.body.style.cursor = 'col-resize';
+      document.body.style.userSelect = 'none';
+    }
+
+    return () => {
+      document.removeEventListener('mousemove', handleMouseMove);
+      document.removeEventListener('mouseup', handleMouseUp);
+      document.body.style.cursor = '';
+      document.body.style.userSelect = '';
+    };
+  }, [isResizing, tocWidth, mainWidth, footnotesWidth]);
+
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-biblical-cream via-biblical-sand to-biblical-cream">
@@ -157,7 +216,10 @@ const DaroshDarashMoshePage: React.FC = () => {
         {/* Three-column layout */}
         <div className="flex max-w-full w-full">
           {/* Left Column - Table of Contents */}
-          <div className="w-[15%] min-w-[200px] bg-biblical-sage/10 border-r-2 border-biblical-brown/20 sticky top-0 h-screen overflow-y-auto">
+          <div 
+            style={{ width: `${tocWidth}%` }}
+            className="min-w-[200px] bg-biblical-sage/10 sticky top-0 h-screen overflow-y-auto"
+          >
             <div className="p-6">
               <h2 className="text-xl font-bold text-biblical-brown mb-6 border-b-2 border-biblical-brown/30 pb-2">
                 Table of Contents
@@ -222,8 +284,20 @@ const DaroshDarashMoshePage: React.FC = () => {
             </div>
           </div>
 
+          {/* Resize Handle - TOC/Main */}
+          <div
+            className="w-1 bg-biblical-brown/30 hover:bg-biblical-brown/50 cursor-col-resize transition-colors duration-200 group relative"
+            onMouseDown={handleMouseDown('toc-main')}
+          >
+            <div className="absolute inset-y-0 -left-1 -right-1" />
+            <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-3 h-8 bg-biblical-brown/40 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200" />
+          </div>
+
           {/* Middle Column - Main Content */}
-          <div className="w-[42.5%] min-w-[480px] px-8 py-6 h-screen overflow-y-auto">
+          <div 
+            style={{ width: `${mainWidth}%` }}
+            className="min-w-[480px] px-8 py-6 h-screen overflow-y-auto"
+          >
             <div className="max-w-4xl">
               {/* Disclaimer */}
               <div className="mb-6 p-3 bg-yellow-50 border-l-4 border-yellow-400 rounded-r-md">
@@ -324,8 +398,20 @@ const DaroshDarashMoshePage: React.FC = () => {
             </div>
           </div>
 
+          {/* Resize Handle - Main/Footnotes */}
+          <div
+            className="w-1 bg-biblical-brown/30 hover:bg-biblical-brown/50 cursor-col-resize transition-colors duration-200 group relative"
+            onMouseDown={handleMouseDown('main-footnotes')}
+          >
+            <div className="absolute inset-y-0 -left-1 -right-1" />
+            <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-3 h-8 bg-biblical-brown/40 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200" />
+          </div>
+
           {/* Right Column - Footnotes */}
-          <div className="w-[42.5%] min-w-[480px] bg-biblical-brown/5 border-l-2 border-biblical-brown/20 sticky top-0 h-screen overflow-y-auto">
+          <div 
+            style={{ width: `${footnotesWidth}%` }}
+            className="min-w-[480px] bg-biblical-brown/5 sticky top-0 h-screen overflow-y-auto"
+          >
             <div className="p-6">
               <h2 className="text-xl font-bold text-biblical-brown mb-6 border-b-2 border-biblical-brown/30 pb-2">
                 Footnotes
