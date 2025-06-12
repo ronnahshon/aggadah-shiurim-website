@@ -355,10 +355,13 @@ const DaroshDarashMoshePage: React.FC = () => {
 
                   {/* Parts */}
                   {chapter.parts.map((part) => (
-                    <div key={part.id} id={part.id} data-section-id={part.id} className="mb-10">
-                      <h3 className="text-2xl font-semibold text-biblical-brown mb-4 border-l-4 border-biblical-brown/40 pl-4">
-                        {part.title}
-                      </h3>
+                    <div key={part.id} id={part.id} data-section-id={part.id} className="mb-12">
+                      <div className="text-center mb-8 py-6 px-4 bg-gradient-to-r from-biblical-brown/10 via-biblical-brown/15 to-biblical-brown/10 rounded-lg border-2 border-biblical-brown/20 shadow-sm">
+                        <h3 className="text-2xl font-bold text-biblical-brown mb-2">
+                          {part.title}
+                        </h3>
+                        <div className="w-24 h-1 bg-biblical-brown/40 mx-auto rounded"></div>
+                      </div>
 
                       {/* Part Introduction */}
                       {part.introduction && (
@@ -377,10 +380,13 @@ const DaroshDarashMoshePage: React.FC = () => {
 
                       {/* Sections */}
                       {part.sections.map((section) => (
-                        <div key={section.id} id={section.id} data-section-id={section.id} className="mb-8">
-                          <h4 className="text-xl font-medium text-biblical-brown mb-3">
-                            {section.title}
-                          </h4>
+                        <div key={section.id} id={section.id} data-section-id={section.id} className="mb-10">
+                          <div className="text-center mb-6 py-4 px-3 bg-biblical-cream/80 rounded-md border border-biblical-brown/15 shadow-xs">
+                            <h4 className="text-xl font-semibold text-biblical-brown mb-1">
+                              {section.title}
+                            </h4>
+                            <div className="w-16 h-0.5 bg-biblical-brown/30 mx-auto rounded"></div>
+                          </div>
                           <div
                             className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed"
                             dangerouslySetInnerHTML={{
