@@ -347,13 +347,10 @@ const DaroshDarashMoshePage: React.FC = () => {
                             id={`footnote-${footnote.number}`}
                             className="mb-6 ml-4 p-4 bg-white/80 rounded-lg shadow-md border-2 border-biblical-brown/20 transition-colors duration-500"
                           >
-                            <div className="text-sm font-bold text-biblical-brown mb-3 pb-2 border-b border-biblical-brown/20">
-                              Footnote {footnote.number}
-                            </div>
                             <div
                               className="text-sm text-biblical-brown/90 leading-relaxed"
                               dangerouslySetInnerHTML={{
-                                __html: cleanMarkdownFormatting(footnote.content)
+                                __html: `<strong>${footnote.number}.</strong> ${cleanMarkdownFormatting(footnote.content)}`
                               }}
                             />
                           </div>
