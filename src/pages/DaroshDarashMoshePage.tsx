@@ -317,10 +317,13 @@ const DaroshDarashMoshePage: React.FC = () => {
               </div>
 
               {/* General Introduction */}
-              <section id="general-introduction" data-section-id="general-introduction" className="mb-12">
-                <h2 className="text-2xl font-bold text-biblical-brown mb-4 border-b-2 border-biblical-brown/30 pb-2">
-                  General Introduction
-                </h2>
+              <section id="general-introduction" data-section-id="general-introduction" className="mb-16">
+                <div className="text-center mb-10 py-8 px-6 bg-gradient-to-r from-biblical-brown/20 via-biblical-brown/25 to-biblical-brown/20 rounded-xl border-2 border-biblical-brown/30 shadow-md">
+                  <h2 className="text-3xl font-bold text-biblical-brown mb-3">
+                    General Introduction
+                  </h2>
+                  <div className="w-32 h-1.5 bg-biblical-brown/50 mx-auto rounded"></div>
+                </div>
                 <div
                   className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed"
                   dangerouslySetInnerHTML={{
@@ -333,10 +336,13 @@ const DaroshDarashMoshePage: React.FC = () => {
 
               {/* Chapters */}
               {daroshContent.chapters.map((chapter) => (
-                <section key={chapter.id} id={chapter.id} data-section-id={chapter.id} className="mb-12">
-                  <h2 className="text-3xl font-bold text-biblical-brown mb-6 border-b-2 border-biblical-brown/30 pb-2">
-                    {chapter.title}
-                  </h2>
+                <section key={chapter.id} id={chapter.id} data-section-id={chapter.id} className="mb-16">
+                  <div className="text-center mb-12 py-10 px-8 bg-gradient-to-r from-biblical-brown/25 via-biblical-brown/35 to-biblical-brown/25 rounded-2xl border-3 border-biblical-brown/40 shadow-lg">
+                    <h2 className="text-4xl font-bold text-biblical-brown mb-4">
+                      {chapter.title}
+                    </h2>
+                    <div className="w-40 h-2 bg-biblical-brown/60 mx-auto rounded-full"></div>
+                  </div>
 
                   {/* Chapter General Introduction */}
                   {chapter.generalIntroduction && (
