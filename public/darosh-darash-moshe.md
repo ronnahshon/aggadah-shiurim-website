@@ -253,17 +253,20 @@ Aharon's decision to cave and listen to the people, while less heroic in a certa
 
 The next time a person named Hur appears in the Torah is as a paternal ancestor of Betzalel:
 
-*"Hashem spoke to Moshe, see that I have called by name Betzalel son
-of Uri son of Hur from the tribe of Yehudah. I have endowed him with a spirit of G-d, with wisdom, insight and knowledge in every type of craft. To make designs for work from gold, silver and copper, to cut stones for setting and to carve wood, to work in every type of craft."***^[24]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל מֹשֶׁ֥ה לֵּאמֹֽר׃ רְאֵ֖ה קָרָ֣אתִֽי בְשֵׁ֑ם בְּצַלְאֵ֛ל בֶּן אוּרִ֥י בֶן ח֖וּר לְמַטֵּ֥ה יְהוּדָֽה׃ וָאֲמַלֵּ֥א אֹת֖וֹ ר֣וּחַ אֱלֹהִ֑ים בְּחׇכְמָ֛ה וּבִתְבוּנָ֥ה וּבְדַ֖עַת וּבְכׇל מְלָאכָֽה׃ לַחְשֹׁ֖ב מַחֲשָׁבֹ֑ת לַעֲשׂ֛וֹת בַּזָּהָ֥ב וּבַכֶּ֖סֶף וּבַנְּחֹֽשֶׁת: וּבַחֲרֹ֥שֶׁת אֶ֛בֶן לְמַלֹּ֖את וּבַחֲרֹ֣שֶׁת עֵ֑ץ לַעֲשׂ֖וֹת בְּכׇל מְלָאכָֽה׃**^[24]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Hashem spoke to Moshe, see that I have called by name Betzalel son of Uri son of Hur from the tribe of Yehudah. I have endowed him with a spirit of G-d, with wisdom, insight and knowledge in every type of craft. To make designs for work from gold, silver and copper, to cut stones for setting and to carve wood, to work in every type of craft."**^[24]{.underline}^**
+</div>
+</div>
 
 There are two main schools of thought in the midrashic tradition as to why Betzalel was singled out and chosen as the Mishkan's main artisan in such a prodigious manner. The first approach is struck by the flowery language used to single out Betzalel: HaKadosh Baruch Hu "calls him by name", a concept not often used by the Torah, and he is filled with the Divine spirit along with an abundance of "wisdom, insight and knowledge", the very traits used by G-d to create the world as well as the *Beit HaMikdash*.**^[25]{.underline}^** Emphasis is even placed on the need for G-d Himself to appoint Betzalel instead of some emissary or agent.**^[26]{.underline}^** Such unusually lofty designations and gifts hardly seem commensurate with any theoretical actions Betzalel could have taken to prove himself deserving of them. Instead they indicate a deeper truth, that Betzalel had been predestined for this role, indeed born in order to fulfill it. His soul had been created for this very task since the beginning of creation; this is why Betzalel knew how to harness the powers of creation themselves.**^[27]{.underline}^**
 
 In particular, this midrashic tradition is puzzled by the phrase *"See, I have called by name Betzalel"* (Shmot 31:2). Although seeing can also mean taking to heart and internalizing, the word is still extraneous. It therefore must refer to literal seeing, and teach us that HaKadosh Baruch Hu actually has a way to demonstrate that Betzalel had been called by name. But how is this possible?**^[28]{.underline}^** There was a genealogical record of all mankind, written by G-d Himself in the days of Adam HaRishon and detailing all people destined to exist - from Adam himself until the end of days - and listed there among every other person with his respective task in this world was Betzalel as architect of the Mishkan.**^[29]{.underline}^**
 
-The implications of this teaching are tremendous. Although it is Betzalel specifically that was called by name, it is not unique to him.
-On the contrary: every single person who ever lived or will live has been similarly called by name since the earliest days of creation, his mission in this world already known and ordained since the days of Adam HaRishon. If G-d is the omniscient Master of all creation, He must know - in the Divine sense, in a way that does not contradict that fundamental cornerstone of human uniqueness, free will**^[30]{.underline}^** - how all of history will unfold at the outset, as various pesukim brought by the midrash attest. In this sense, every single person was already designated from the womb - to borrow Yishayahu's poetic language - for the life he leads and the role he plays in the drama of human existence. The message is an affirmation of purpose and meaning: every person is called by name, one should view his life in this light. He has a place in this world, a destiny that is specific for him and that has been written in the Book from the beginning of time; the strange wording by Betzalel is meant to provide the proof-text for this broader *hashkafic* principle.
+The implications of this teaching are tremendous. Although it is Betzalel specifically that was called by name, it is not unique to him. On the contrary: every single person who ever lived or will live has been similarly called by name since the earliest days of creation, his mission in this world already known and ordained since the days of Adam HaRishon. If G-d is the omniscient Master of all creation, He must know - in the Divine sense, in a way that does not contradict that fundamental cornerstone of human uniqueness, free will**^[30]{.underline}^** - how all of history will unfold at the outset, as various pesukim brought by the midrash attest. In this sense, every single person was already designated from the womb - to borrow Yishayahu's poetic language - for the life he leads and the role he plays in the drama of human existence. The message is an affirmation of purpose and meaning: every person is called by name, one should view his life in this light. He has a place in this world, a destiny that is specific for him and that has been written in the Book from the beginning of time; the strange wording by Betzalel is meant to provide the proof-text for this broader *hashkafic* principle.
 
 As much as this idea explains the textual difficulty, it simultaneously raises another problem: if Betzalel was not unique in this respect - as the midrash readily admits - why is he the one with whom the concept of being called by name is associated? Perhaps in response to this dilemma, a variant of the midrashic tradition found in Midrash Shocher Tov and Tanchuma Yelamdenu localizes the context of this principle to the specific narrative of Moshe receiving instruction on how to build the Mishkan. Moshe believed he was meant to construct it; why else would HaKadosh Baruch Hu give him such detailed instructions and without an indication of someone else to lead the effort? It is to dispel this idea that G-d informs Moshe that Betzalel is called by name.**^[31]{.underline}^** This resolves the quandary by explaining why Betzalel is the one specifically whose name calling is explicit in the text: it was required to alleviate any concern or confusion on Moshe's part regarding who was meant for this holy task.**^[32]{.underline}^** This explanation also draws a thematic parallel and support to other, distinct midrashim which explore similar themes regarding supernatural experiences that Moshe was privy to.**^[33]{.underline}^**
 
@@ -273,35 +276,39 @@ There is, however, an entirely different way to approach this description of Bet
 
 The terse description of Betzalel's paternal lineage provided in Sefer Shmot is greatly expanded upon in Divrei HaYamim:
 
-*"Kalev Ben Hetzron gave birth with his wife Azuvah, and with Yeriot.
-These were her sons: Yesher, Shovav and Ardon. Azuvah died, and Kalev took Efrat as a wife, and she gave birth to Hur. Hur gave birth to Uri, and Uri gave birth to Betzalel.*
-
-*The sons of Yehudah: Peretz, Hetzron, Karmi, Hur and Shoval. Ra'aya son
-of Shoval gave birth to Yachat, Yachat gave birth to Achumai and Lahad - these are the Tzar'ati families. And these are the fathers of Eitam: Yizre'el, Yishma and Yidbash, and their sister's name was Hatzlelponi.
-Penuel the father of Gedor, and Ezer the father of Hushah - these are the sons of Hur the first born of Efrat, the father of Beit Lechem."***^[34]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וְכָלֵ֣ב בֶּן חֶצְר֗וֹן הוֹלִ֛יד אֶת עֲזוּבָ֥ה אִשָּׁ֖ה וְאֶת יְרִיע֑וֹת וְאֵ֣לֶּה בָנֶ֔יהָ יֵ֥שֶׁר וְשׁוֹבָ֖ב וְאַרְדּֽוֹן׃ וַתָּ֖מׇת עֲזוּבָ֑ה וַיִּֽקַּֽח ל֤וֹ כָלֵב֙ אֶת אֶפְרָ֔ת וַתֵּ֥לֶד ל֖וֹ אֶת חֽוּר׃ וְחוּר֙ הוֹלִ֣יד אֶת אוּרִ֔י וְאוּרִ֖י הוֹלִ֥יד אֶת בְּצַלְאֵֽל׃
 
 בְּנֵ֖י יְהוּדָ֑ה פֶּ֧רֶץ חֶצְר֛וֹן וְכַרְמִ֖י וְח֥וּר וְשׁוֹבָֽל׃ וּרְאָיָ֤ה בֶן שׁוֹבָל֙ הֹלִ֣יד אֶת יַ֔חַת וְיַ֣חַת הֹלִ֔יד אֶת אֲחוּמַ֖י וְאֶת לָ֑הַד אֵ֖לֶּה מִשְׁפְּח֥וֹת הַצָּֽרְעָתִֽי׃ וְאֵ֙לֶּה֙ אֲבִ֣י עֵיטָ֔ם יִזְרְעֶ֥אל וְיִשְׁמָ֖א וְיִדְבָּ֑שׁ וְשֵׁ֥ם אֲחוֹתָ֖ם הַצְלֶלְפּֽוֹנִי׃ וּפְנוּאֵל֙ אֲבִ֣י גְדֹ֔ר וְעֵ֖זֶר אֲבִ֣י חוּשָׁ֑ה אֵ֤לֶּה בְנֵי חוּר֙ בְּכ֣וֹר אֶפְרָ֔תָה אֲבִ֖י בֵּ֥ית לָֽחֶם׃**^[34]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Kalev Ben Hetzron gave birth with his wife Azuvah, and with Yeriot. These were her sons: Yesher, Shovav and Ardon. Azuvah died, and Kalev took Efrat as a wife, and she gave birth to Hur. Hur gave birth to Uri, and Uri gave birth to Betzalel.
+
+The sons of Yehudah: Peretz, Hetzron, Karmi, Hur and Shoval. Ra'aya son of Shoval gave birth to Yachat, Yachat gave birth to Achumai and Lahad - these are the Tzar'ati families. And these are the fathers of Eitam: Yizre'el, Yishma and Yidbash, and their sister's name was Hatzlelponi.Penuel the father of Gedor, and Ezer the father of Hushah - these are the sons of Hur the first born of Efrat, the father of Beit Lechem."**^[34]{.underline}^**
+</div>
+</div>
 
 We already noted that the name of Betzalel's grandfather is Hur, and now we are told that his father's name was Kalev, son of Hetzron. Hetzron was the son of Peretz, who was one of the sons of Yehudah, son of Yaakov Avinu. We are told that this Kalev had a wife named Azuvah, and when she died he remarried a woman named Efrat who was Hur's mother; Hur was Efrat's first born son.**^[35]{.underline}^** Betzalel was the great-grandson of Kalev and Efrat, and Kalev himself was the great-grandson of Yehudah and Tamar.**^[36]{.underline}^**
 
-It appears that the Hur mentioned in Shmot 31 and Divrei HaYamim Aleph was a generation after Moshe and Aharon, which makes it very possible that they were contemporaries. Given that Moshe and Betzalel were contemporaries - and that they were three generations removed - surely it is not implausible to suggest that Betzalel's grandfather Hur, who was only one generation removed, also overlapped with Moshe and Aharon.
-This, however, is the limit of where the *peshat* can take us; beyond a reasonable assumption that they lived at the same time, there is no explicit indication that this Hur is related to the enigmatic Hur from the battle of Amalek.
+It appears that the Hur mentioned in Shmot 31 and Divrei HaYamim Aleph was a generation after Moshe and Aharon, which makes it very possible that they were contemporaries. Given that Moshe and Betzalel were contemporaries - and that they were three generations removed - surely it is not implausible to suggest that Betzalel's grandfather Hur, who was only one generation removed, also overlapped with Moshe and Aharon. This, however, is the limit of where the *peshat* can take us; beyond a reasonable assumption that they lived at the same time, there is no explicit indication that this Hur is related to the enigmatic Hur from the battle of Amalek.
 
 Aggadah cannot tolerate names or characters which are lacking in background information, and it often attempts to lump multiple people together and claim they are actually one and the same.**^[37]{.underline}^** In particular, when one person is given many names - or more commonly, when there are many unidentified names that could be understood to belong to a single person - the midrash sees this as an opportunity to highlight something relevant about that person.**^[38]{.underline}^** Our case of two people named Hur, both mentioned in the same Sefer and without much backstory, yet both connected to prominent members of Bnai Yisrael and to Moshe in particular, is a paradigmatic example of when this strategy should be employed. The case to equate the two "Hurs" as one and the same is so compelling that it feels almost trivial, as if the midrash's hands are tied; it couldn't not make the association even if it wanted to, so strong is the evidence alluding to this identification, so beautifully are many open questions, textual anomalies, and - perhaps most crucially - thematic and ethical considerations elucidated as a result.
 
 To fully appreciate the many loose threads tied together by making this single identification, we need to first dive into the midrashic complexity of Betzalel's family tree, and focus in particular on another name that appears multiple times: Kalev. Divrei HaYamim Aleph is unequivocal in assigning a man named Kalev as Hur's father. We are intimately familiar with someone named Kalev from later in the Torah, though like with Hur the simple *peshat* does not equate the two:
 
-*"Yehoshua Bin Nun and Kalev Ben Yefuneh from among those who scouted
-out the land tore their clothes. They said to the entire congregation of Bnai Yisrael: The land we passed through to scout out was very very good. If Hashem desires us He will bring us into this land and give it to us, a land which is flowing with milk and honey. Only do not rebel against Hashem; do not be afraid of the locals of the land, for they are our bread, their shadows have departed from them. Hashem is with us, do not be afraid. The entire congregation sought to stone them with rocks; and the glory of Hashem appeared by the Ohel Moed before all of Bnai Yisrael.*
-
-*My servant Kalev - because he had a different spirit with him, and
-remained loyal to Me - I shall bring him into the land which he entered, and his offspring shall inherit it."***^[39]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וִיהוֹשֻׁ֣עַ בִּן נ֗וּן וְכָלֵב֙ בֶּן יְפֻנֶּ֔ה מִן הַתָּרִ֖ים אֶת הָאָ֑רֶץ קָרְע֖וּ בִּגְדֵיהֶֽם׃ וַיֹּ֣אמְר֔וּ אֶל כׇּל עֲדַ֥ת בְּנֵֽי יִשְׂרָאֵ֖ל לֵאמֹ֑ר הָאָ֗רֶץ אֲשֶׁ֨ר עָבַ֤רְנוּ בָהּ֙ לָת֣וּר אֹתָ֔הּ טוֹבָ֥ה הָאָ֖רֶץ מְאֹ֥ד מְאֹֽד׃ אִם חָפֵ֥ץ בָּ֙נוּ֙ יְהֹוָ֔ה וְהֵבִ֤יא אֹתָ֙נוּ֙ אֶל הָאָ֣רֶץ הַזֹּ֔את וּנְתָנָ֖הּ לָ֑נוּ אֶ֕רֶץ אֲשֶׁר הִ֛וא זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ׃ אַ֣ךְ בַּיהֹוָה֮ אַל תִּמְרֹ֒דוּ֒ וְאַתֶּ֗ם אַל תִּֽירְאוּ֙ אֶת עַ֣ם הָאָ֔רֶץ כִּ֥י לַחְמֵ֖נוּ הֵ֑ם סָ֣ר צִלָּ֧ם מֵעֲלֵיהֶ֛ם וַֽיהֹוָ֥ה אִתָּ֖נוּ אַל תִּירָאֻֽם׃ יֹּֽאמְרוּ֙ כׇּל הָ֣עֵדָ֔ה לִרְגּ֥וֹם אֹתָ֖ם בָּאֲבָנִ֑ים וּכְב֣וֹד יְהֹוָ֗ה נִרְאָה֙ בְּאֹ֣הֶל מוֹעֵ֔ד אֶֽל כׇּל בְּנֵ֖י יִשְׂרָאֵֽל׃
 
 וְעַבְדִּ֣י כָלֵ֗ב עֵ֣קֶב הָֽיְתָ֞ה ר֤וּחַ אַחֶ֙רֶת֙ עִמּ֔וֹ וַיְמַלֵּ֖א אַחֲרָ֑י וַהֲבִֽיאֹתִ֗יו אֶל הָאָ֙רֶץ֙ אֲשֶׁר בָּ֣א שָׁ֔מָּה וְזַרְע֖וֹ יוֹרִשֶֽׁנָּה׃**^[39]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Yehoshua Bin Nun and Kalev Ben Yefuneh from among those who scouted out the land tore their clothes. They said to the entire congregation of Bnai Yisrael: The land we passed through to scout out was very very good. If Hashem desires us He will bring us into this land and give it to us, a land which is flowing with milk and honey. Only do not rebel against Hashem; do not be afraid of the locals of the land, for they are our bread, their shadows have departed from them. Hashem is with us, do not be afraid. The entire congregation sought to stone them with rocks; and the glory of Hashem appeared by the Ohel Moed before all of Bnai Yisrael.
+
+My servant Kalev - because he had a different spirit with him, and remained loyal to Me - I shall bring him into the land which he entered, and his offspring shall inherit it."**^[39]{.underline}^**
+</div>
+</div>
 
 Sefer Yehoshua provides some interesting biographical details about Kalev Ben Yefuneh as well:
 
