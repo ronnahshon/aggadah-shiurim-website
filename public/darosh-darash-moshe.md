@@ -495,23 +495,24 @@ If we accept this idea, then the 36 crowns can be interpreted as originally belo
 
 Given Rabbi Shimon Bar Yochai's insistence that meriting the crown of Torah is like meriting all three crowns at once, it is somewhat surprising that elsewhere he mentions another crown being even greater:
 
-*"Rabbi Shimon said, there are three crowns: the crown of Torah, the
-crown of Kehunah, and the crown of Malchut; and the crown of a good name supersedes them all."***^[75]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 רַבִּי שִׁמְעוֹן אוֹמֵר, שְׁלשָׁה כְתָרִים הֵם, כֶּתֶר תּוֹרָה וְכֶתֶר כְּהֻנָּה וְכֶתֶר מַלְכוּת, וְכֶתֶר שֵׁם טוֹב עוֹלֶה עַל גַּבֵּיהֶן:**^[75]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Rabbi Shimon said, there are three crowns: the crown of Torah, the crown of Kehunah, and the crown of Malchut; and the crown of a good name supersedes them all."**^[75]{.underline}^**
+</div>
+</div>
 
 The crown of Torah is above the crowns of Malchut and Kehunah, but the crown of a good name is above even that of Torah. While the crowns of Kehunah and Malchut can only be inherited, the crown of Torah can be earned through study and effort; the crown of a good name can also be earned by anyone, and its reach is much greater than Torah.**^[76]{.underline}^** One variant of Rabbi Shimon Bar Yochai's teaching has an even farther-reaching conclusion: the crown of a good name is infinitely greater than that of the others, for while the crown of Torah travels for three days, the crown of a good name has no limit and can travel infinitely far in either direction.**^[77]{.underline}^**
 
-Combining this last variant of Rabbi Shimon Bar Yochai's teaching found in Kohelet Rabbah with the one in Shmot Rabbah (see above **Note 56**) conveniently allows us to assign quantitative values, or points, to each of the crowns under discussion. The crowns of Kehunah and Malchut are described as the lowest-ranked and as equal to one another, similar in their hereditary nature and their having ceased to exist as proper functions with the destruction of the Beit HaMikdash. Each of these crowns is equal to one point. The crown of Torah is superior to either of the other crowns, and Shmot Rabbah informs us that one who merits it,
-*"it is as if he merits all of the crowns."* The crown of Torah is
-therefore equal to three points, since it is the sum of three individual crowns - each of which is worth one point - and larger than any one of them on its own. This assignment of three points also ties nicely into Kohelet Rabbah's source for Torah's extent as three days' journey, which it juxtaposes to a good name whose extent is infinite, surrounding the entire world.
+Combining this last variant of Rabbi Shimon Bar Yochai's teaching found in Kohelet Rabbah with the one in Shmot Rabbah (see above **Note 56**) conveniently allows us to assign quantitative values, or points, to each of the crowns under discussion. The crowns of Kehunah and Malchut are described as the lowest-ranked and as equal to one another, similar in their hereditary nature and their having ceased to exist as proper functions with the destruction of the Beit HaMikdash. Each of these crowns is equal to one point. The crown of Torah is superior to either of the other crowns, and Shmot Rabbah informs us that one who merits it, *"it is as if he merits all of the crowns."* The crown of Torah is therefore equal to three points, since it is the sum of three individual crowns - each of which is worth one point - and larger than any one of them on its own. This assignment of three points also ties nicely into Kohelet Rabbah's source for Torah's extent as three days' journey, which it juxtaposes to a good name whose extent is infinite, surrounding the entire world.
 
 What does *shem tov*, a good name, mean in this context, and why does it sit atop the other three crowns? The simple, straightforward understanding that a good name refers to somebody's reputation and actions.**^[78]{.underline}^** If a person is righteous and pleasant, if he is known for his kindness and he is popular and well-liked, then he has a "good name". The other three crowns are inferior to this one, because in order for somebody to be an effective leader - whether that title is inherited such as with Malchut or Kehunah, or whether it is acquired such as with Torah - he must have the trust and respect of the people he is leading. A king without a kingdom has nothing to rule.
 
 However, there is another way to interpret the phrase *shem tov* in this midrash, namely in the spirit of its most famous application. The founder of Chassidut was known as the Ba'al Shem Tov, the master of the Good Name, and he lived in a time where there were many Ba'alei Shem wandering around in Eastern Europe. Master of the Name, or Good Name, is a reference to someone who knows how to write amulets or special scrolls that contain holy names of G-d in order to ward off evil spirits and demons. It follows that *shem tov* can also be understood to mean not "a good name" in a generic sense, but "the Good Name" is a very specific sense: a moniker for HaKadosh Baruch Hu Himself.**^[79]{.underline}^**
 
-If understood this way, our Mishnah takes on an entirely new meaning.
-None of the three crowns can be successful unless they have the crown of the Good Name above them; put differently, no Jewish leader can be successful without a proper and constant recognition of G-d, without working and serving with a sense of who the King of Kings is. To use perhaps a more mundane terminology: no one can govern effectively in any branch of government unless he carries himself with a profound sense of responsibility, as a servant for a higher purpose and the greater good, namely the well-being of the people he is responsible for. For Jewish leaders this higher purpose is not just the prospering of Bnai Yisrael, but also the glorification of His Name in the world, an overabundance of good and moral behavior that the other nations of the world will apprehend and come to recognize His dominion and Name as a result.**^[80]{.underline}^** In fact, one midrashic tradition frames the requirement to erase the memory of the wicked Amalek as a prerequisite to enabling His Name and kingship to become unified in the world.**^[81]{.underline}^**
+If understood this way, our Mishnah takes on an entirely new meaning. None of the three crowns can be successful unless they have the crown of the Good Name above them; put differently, no Jewish leader can be successful without a proper and constant recognition of G-d, without working and serving with a sense of who the King of Kings is. To use perhaps a more mundane terminology: no one can govern effectively in any branch of government unless he carries himself with a profound sense of responsibility, as a servant for a higher purpose and the greater good, namely the well-being of the people he is responsible for. For Jewish leaders this higher purpose is not just the prospering of Bnai Yisrael, but also the glorification of His Name in the world, an overabundance of good and moral behavior that the other nations of the world will apprehend and come to recognize His dominion and Name as a result.**^[80]{.underline}^** In fact, one midrashic tradition frames the requirement to erase the memory of the wicked Amalek as a prerequisite to enabling His Name and kingship to become unified in the world.**^[81]{.underline}^**
 
 Since the crown of Torah is greater than those of Kehunah or Malchut, and given that the crown of a good name is *oleh al gabeihen*, which literally means "above them" i.e. the other three crowns, we can take this ranking scale inferred from this midrash in all of its variations and visualize it using the numerical system discussed above.**^[82]{.underline}^** It is this image which reveals the ultimate secret of Hur's character, and unlocks a powerful understanding of just how deep the thematic brilliance employed by the aggadic sages truly runs.
 
@@ -523,26 +524,31 @@ The rightful wearers of these crowns underwent numerous iterations during the ri
 
 The first person to merit donning the crown of Kehunah is undoubtedly Aharon, appointed by G-d Himself as ancestor to all Kohanim that were to bear it after him. Similarly, the first and quintessential personification of the crown of Torah is none other than Moshe Rabbeinu, the very man who brought the Torah down from Heaven, the lawgiver who taught G-d's word to Bnai Yisrael, and ensured the beginning of its successful transmission through the ages. The crowns of Kehunah and Torah were first introduced and passed on by Moshe and Aharon; it follows that the individual supposed to bear the mantle of the third crown should have been initiated at the same time.**^[82b]{.underline}^** Who, then, was the original paradigm of Malchut?
 
-*David was also descended from Miriam, as it says: 'Azuvah died, and
-Kalev took Efrat as a wife, and she gave birth to Hur' (Divrei HaYamim Aleph 2:19), and it says: 'David was an Efratite' (Shmuel Aleph 17:12)***^[46]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 דָּוִד נָמֵי מִמִּרְיָם קָאָתֵי דִּכְתִיב וַתָּמׇת עֲזוּבָה אֵשֶׁת כָּלֵב וַיִּקַּח לוֹ כָלֵב אֶת אֶפְרָת וַתֵּלֶד לוֹ אֶת חוּר (דברי הימים א ב, יט) וּכְתִיב וְדָוִד בֶּן אִישׁ אֶפְרָתִי וְגוֹ׳ (שמואל א יז, יב):**^[46]{.underline}^**
+</div>
+<div style="flex: 1;">
+David was also descended from Miriam, as it says: 'Azuvah died, and Kalev took Efrat as a wife, and she gave birth to Hur' (Divrei HaYamim Aleph 2:19), and it says: 'David was an Efratite' (Shmuel Aleph 17:12)**^[46]{.underline}^**
+</div>
+</div>
 
 There stands one man who perfectly fits the requirement: Hur, son of Kalev Ben Hetzron and Miriam Bat Amram. Effectively the third sibling to Moshe and Aharon on his mother's side, and effectively the ancestor to David HaMelech and the royal family tree on his father's side, Hur is the bridge between two worlds: the independent world of Malchut contained within the tribe of Yehudah, and the related worlds of Kehunah and Torah both found in the tribe of Levi. Only a man such as Hur could be the chosen one, the ultimate candidate for the crown of Malchut - he represented in his person and lineage all that the king is meant to embody and strive for on both a personal and communal level. He has intimate ties to the other crowns, by blood and by action, by word and by deed. Who is more fitting to exemplify and epitomize the third crown than Hur?
 
-It is armed with this knowledge that a glorious, brilliant light is suddenly shed on the eternal relevance and importance of Amalek's attack in Shmot 17. Moshe, the crown prince of Torah, is seated on a rock in the middle. Aharon, the crown prince of Kehunah, is supporting his hand on one side; Hur, the crown prince of Malchut, is supporting his hand on the other. All three crowns thus make their first formal appearance embodied by these legendary figures of Jewish leadership in an idyllic realization of unshakeable unity. This more than anything else is a true
-*emunah ad bo hashamesh*, a symbol of faith, commitment, love and
-brotherhood that can overcome any struggle, is necessary to defeat the polar opposite: a symbol of randomness, disloyalty, hatred and divisiveness, the evil nation of Amalek.**^[83]{.underline}^**
+It is armed with this knowledge that a glorious, brilliant light is suddenly shed on the eternal relevance and importance of Amalek's attack in Shmot 17. Moshe, the crown prince of Torah, is seated on a rock in the middle. Aharon, the crown prince of Kehunah, is supporting his hand on one side; Hur, the crown prince of Malchut, is supporting his hand on the other. All three crowns thus make their first formal appearance embodied by these legendary figures of Jewish leadership in an idyllic realization of unshakeable unity. This more than anything else is a true *emunah ad bo hashamesh*, a symbol of faith, commitment, love and brotherhood that can overcome any struggle, is necessary to defeat the polar opposite: a symbol of randomness, disloyalty, hatred and divisiveness, the evil nation of Amalek.**^[83]{.underline}^**
 
 Additionally, it was no accident that Moshe was seated in the middle of Aharon and Hur, nor was it an accident that the text goes out of its way to tell us this. Just as the Aron was first item to be commanded and constructed, found in the center of the Mishkan at the holiest epicenter of Divine immanence, and just as Torah is greater than either Kehunah or Malchut because of its constant availability, so too here: Hur and Aharon, while indispensable in their own areas of leadership, are subservient to Moshe, to Torah's superior nature. Only then can the human manifestation of all three crowns work in unison as co-leaders, dependent on each other, happy for one another, and not in competition but rather bonded as one.
 
 Moshe, Aharon and Hur stand atop the hill, hands raised up to Heaven, three crowns united, yet still something is missing: Bnai Yisrael are only able to win the battle when the crowns' joined hands are stretched Heavenward. The Mishnah wonders why this was so:
 
-*"'Whenever Moshe raised his hand, Yisrael would gain the upper hand'
-(Shmot 17:11). Did Moshe's hands make or break a battle? Rather this teaches you that whenever Yisrael would look Heavenward and subjected their hearts to their Father in Heaven, they would gain the upper hand.
-But if not, they would fall."***^[10]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וְהָיָה כַּאֲשֶׁר יָרִים משֶׁה יָדוֹ וְגָבַר יִשְׂרָאֵל וְגוֹ' (שמות יז, יא), וְכִי יָדָיו שֶׁל משֶׁה עוֹשׂוֹת מִלְחָמָה אוֹ שׁוֹבְרוֹת מִלְחָמָה. אֶלָּא לוֹמַר לְךָ, כָּל זְמַן שֶׁהָיוּ יִשְׂרָאֵל מִסְתַּכְּלִים כְּלַפֵּי מַעְלָה וּמְשַׁעְבְּדִין אֶת לִבָּם לַאֲבִיהֶם שֶׁבַּשָּׁמַיִם הָיוּ מִתְגַּבְּרִים. וְאִם לָאו, הָיוּ נוֹפְלִין:**^[10]{.underline}^**
+</div>
+<div style="flex: 1;">
+"'Whenever Moshe raised his hand, Yisrael would gain the upper hand' (Shmot 17:11). Did Moshe's hands make or break a battle? Rather this teaches you that whenever Yisrael would look Heavenward and subjected their hearts to their Father in Heaven, they would gain the upper hand. But if not, they would fall."**^[10]{.underline}^**
+</div>
+</div>
 
 In order to vanquish Amalek, Bnai Yisrael had to recognize their Father in Heaven; only when they directed their eyes and hearts upward would they gain the upper hand in the fight against their enemy. Victory could not be achieved without this, no matter how unified Moshe, Aharon and Hur presented themselves as: at the end of the day it is Hashem who fights for Yisrael and ensures their success in battle. Moshe's hands directed up to Heaven symbolizes how the crown of a Good Name is above the other three crowns: our Father in Heaven is above the crowns of Torah, Kehunah and Malchut, and these are all dependent on Him in order to be successful. Only with a unification of all of Yisrael through the three crowns, combined with the ultimate unification of HaKadosh Baruch Hu, can Yisrael win and emerge on top.**^[84]{.underline}^**
 
@@ -550,10 +556,14 @@ The image of how all the crowns interact with each other in a numerical plane (s
 
 This rendering of Shmot 17 also allows for an innovative midrashic rereading of the psalmist's famous paise of brotherly unity:
 
-*"A song of ascents, to David. Behold how good and how pleasant it is
-when brothers sit together. Like good oil on the head, which drips down into the beard, the beard of Aharon, that comes down over the collar of his robe. Like the dew of Hermon which comes down on the mountains of Tzion, for there Hashem commanded the blessing, everlasting life."***^[86]{.underline}^**
-
-שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד הִנֵּ֣ה מַה טּ֭וֹב וּמַה נָּעִ֑ים שֶׁ֖בֶת אַחִ֣ים גַּם יָֽחַד׃ כַּשֶּׁ֤מֶן הַטּ֨וֹב ׀ עַל הָרֹ֗אשׁ יֹרֵ֗ד עַֽל הַזָּקָ֥ן זְקַֽן אַהֲרֹ֑ן שֶׁ֝יֹּרֵ֗ד עַל פִּ֥י מִדּוֹתָֽיו׃ כְּטַל חֶרְמ֗וֹן שֶׁיֹּרֵד֮ עַל הַרְרֵ֢י צִ֫יּ֥וֹן כִּ֤י שָׁ֨ם ׀ צִוָּ֣ה יְ֭הֹוָה אֶת הַבְּרָכָ֑ה חַ֝יִּ֗ים עַד הָעוֹלָֽם׃**^[86]{.underline}^**
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד הִנֵּ֣ה מַה טּ֭וֹב וּמַה נָּעִ֑ים שֶׁ֖בֶת אַחִ֣ים גַּם יָֽחַד׃ כַּשֶּׁ֤מֶן הַטּ֨וֹב עַל הָרֹ֗אשׁ יֹרֵ֗ד עַֽל הַזָּקָ֥ן זְקַֽן אַהֲרֹ֑ן שֶׁ֝יֹּרֵ֗ד עַל פִּ֥י מִדּוֹתָֽיו׃ כְּטַל חֶרְמ֗וֹן שֶׁיֹּרֵד֮ עַל הַרְרֵ֢י צִ֫יּ֥וֹן כִּ֤י שָׁ֨ם ׀ צִוָּ֣ה יְ֭הֹוָה אֶת הַבְּרָכָ֑ה חַ֝יִּ֗ים עַד הָעוֹלָֽם׃**^[86]{.underline}^**
+</div>
+<div style="flex: 1;">
+"A song of ascents, to David. Behold how good and how pleasant it is when brothers sit together. Like good oil on the head, which drips down into the beard, the beard of Aharon, that comes down over the collar of his robe. Like the dew of Hermon which comes down on the mountains of Tzion, for there Hashem commanded the blessing, everlasting life."**^[86]{.underline}^**^**
+</div>
+</div>
 
 Who exactly are the brothers this *mizmor* is referring to, that it celebrates their closeness so admiringly? There are several midrashic traditions which interpret "brothers" as more of a concept than a reference to actual siblings,**^[87]{.underline}^** but one prominent idea notes the reference to Aharon in his priestly function in pasuk 2, and infers from this an allusion to the beauty of Aharon and Moshe's happiness for one another's greatness. Each was given a position of honor, and each was not jealous over what the other received.**^[88]{.underline}^** This, as Tanchuma HaKadum notes acerbically, is the exception rather than the norm, as brothers tend to be competitive and unwilling to cooperate with one another.**^[89]{.underline}^**
 
@@ -571,9 +581,7 @@ Alternatively, we can expand the concept of brothers even further and suggest an
 
 Including Yehoshua zooms out the scope of brothers from blood relatives to the more metaphorical brothers-in-arms, though as we mentioned there is midrashic precedent to interpret the word "brothers" here in the non-literal sense. Yehoshua, too, was an essential player in our drama, and he too needed to be together with Moshe and the others. It is this all-encompassing power of unity, symbolic and military combined, which must be harnessed in order to prevail over an enemy as daunting and ruthless as Amalek.
 
-A third possibility is to slightly alter the [נוטריקון] in light of Mishnah Rosh HaShanah's insight into Moshe's actions (see above
-**Note 85**) and shift the value of the *yud* in the word
-אחים]:
+A third possibility is to slightly alter the [נוטריקון] in light of Mishnah Rosh HaShanah's insight into Moshe's actions (see above **Note 85**) and shift the value of the *yud* in the word אחים]:
 
 > [א = אהרון
 >
