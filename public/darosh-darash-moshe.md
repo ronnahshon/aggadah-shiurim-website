@@ -561,7 +561,7 @@ This rendering of Shmot 17 also allows for an innovative midrashic rereading of 
 שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד הִנֵּ֣ה מַה טּ֭וֹב וּמַה נָּעִ֑ים שֶׁ֖בֶת אַחִ֣ים גַּם יָֽחַד׃ כַּשֶּׁ֤מֶן הַטּ֨וֹב עַל הָרֹ֗אשׁ יֹרֵ֗ד עַֽל הַזָּקָ֥ן זְקַֽן אַהֲרֹ֑ן שֶׁ֝יֹּרֵ֗ד עַל פִּ֥י מִדּוֹתָֽיו׃ כְּטַל חֶרְמ֗וֹן שֶׁיֹּרֵד֮ עַל הַרְרֵ֢י צִ֫יּ֥וֹן כִּ֤י שָׁ֨ם ׀ צִוָּ֣ה יְ֭הֹוָה אֶת הַבְּרָכָ֑ה חַ֝יִּ֗ים עַד הָעוֹלָֽם׃**^[86]{.underline}^**
 </div>
 <div style="flex: 1;">
-"A song of ascents, to David. Behold how good and how pleasant it is when brothers sit together. Like good oil on the head, which drips down into the beard, the beard of Aharon, that comes down over the collar of his robe. Like the dew of Hermon which comes down on the mountains of Tzion, for there Hashem commanded the blessing, everlasting life."**^[86]{.underline}^**^**
+"A song of ascents, to David. Behold how good and how pleasant it is when brothers sit together. Like good oil on the head, which drips down into the beard, the beard of Aharon, that comes down over the collar of his robe. Like the dew of Hermon which comes down on the mountains of Tzion, for there Hashem commanded the blessing, everlasting life."**^[86]{.underline}^**
 </div>
 </div>
 
