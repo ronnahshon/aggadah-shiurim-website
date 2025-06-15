@@ -571,25 +571,19 @@ Expanding on this idea, we can now understand this *mizmor* as referring to a sp
 
 Alternatively, we can expand the concept of brothers even further and suggest an alternate reading informed by invoking the aggadic principle of *notrikon* ([נוטריקון]), or acronym. The word אחים] can be read as [ראשי תיבות] for the names of the four leaders mentioned in Shmot 17:
 
-> [א = אהרון
->
-> [ח = חור
->
-> [י = יהושע
->
-> [ם = משה
+א = אהרון
+ח = חור
+י = יהושע
+ם = משה
 
 Including Yehoshua zooms out the scope of brothers from blood relatives to the more metaphorical brothers-in-arms, though as we mentioned there is midrashic precedent to interpret the word "brothers" here in the non-literal sense. Yehoshua, too, was an essential player in our drama, and he too needed to be together with Moshe and the others. It is this all-encompassing power of unity, symbolic and military combined, which must be harnessed in order to prevail over an enemy as daunting and ruthless as Amalek.
 
 A third possibility is to slightly alter the [נוטריקון] in light of Mishnah Rosh HaShanah's insight into Moshe's actions (see above **Note 85**) and shift the value of the *yud* in the word אחים]:
 
-> [א = אהרון
->
-> [ח = חור
->
-> [י = יקוק
->
-> [ם = משה
+א = אהרון
+ח = חור
+י = יקוק
+ם = משה
 
 Now it is Moshe, Aharon and Hur who are all joined with Hashem Himself atop the mountain; it is G-d Himself, dwelling together with His chosen ones, who are described as good and pleasant by the *mizmor*. All four crowns of Rabbi Shimon Bar Yochai, including the crown of a Good Name, are necessary to successfully eradicate evil.**^[90]{.underline}^**
 
