@@ -381,15 +381,20 @@ function parseFootnotes(footnoteLines: string[]): {
     if (footnoteMatch) {
       saveCurrentFootnote();
       
-      // Start new footnote
+      // Start new footnote - keep number and content together
       currentFootnoteNum = footnoteMatch[1];
-      currentFootnoteContent = footnoteMatch[2] + '\n';
+      currentFootnoteContent = footnoteMatch[2];
       continue;
     }
     
     // Add content to current footnote
     if (currentFootnoteNum && trimmedLine) {
-      currentFootnoteContent += trimmedLine + '\n';
+      // Only add a space if there's already content, otherwise start fresh
+      if (currentFootnoteContent) {
+        currentFootnoteContent += ' ' + trimmedLine;
+      } else {
+        currentFootnoteContent = trimmedLine;
+      }
     }
   }
   

@@ -433,16 +433,19 @@ When discussing the many utensils commanded as part of the Mishkan's constructio
 
 The Aron, the Shulchan and the Mizbeach HaKetoret are all supposed to be made with a crown of gold around their upper rims. This curiosity was not lost on Rabbi Shimon Bar Yochai:
 
-*"Rabbi Shimon Bar Yochai said, there are three crowns: a crown of
-Malchut, a crown of Kehunah, and a crown of Torah. The crown of Malchut: this is the Shulchan, as it says: 'A crown of gold around it' (Shmot 25:24). The crown of Kehunah: this is the Altar, as it says: 'A crown of gold around it' (Shmot 30:3). And the crown of Torah: this is the Aron, as it says: 'A crown of gold around it' (Shmot 25:11).*
-
-*Why are they written as 'stranger' but read as 'crown'? To teach you
-that if a person is worthy, they can be made for him into a crown, but if not, a stranger. And why in regards to the others i.e. the Shulchan and the altar does it say: 'You shall me for it', while for the Aron it says: 'You shall make on it'? To teach you that the crown of Torah is greater than the others; if a person merits Torah, it is as if he merits all of the crowns."***^[58]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 אָמַר רַבִּי שִׁמְעוֹן בֶּן יוֹחָאי, שְׁלשָׁה כְּתָרִים הֵם, כֶּתֶר מַלְכוּת וְכֶתֶר כְּהֻנָּה וְכֶתֶר תּוֹרָה.
 כֶּתֶר מַלְכוּת, זֶה הַשֻׁלְחָן, דִּכְתִיב בּוֹ (שמות כה, כד): זֵר זָהָב סָבִיב. כֶּתֶר כְּהֻנָּה, זֶה הַמִּזְבֵּחַ, דִּכְתִיב בּוֹ (שמות ל, ג): זֵר זָהָב סָבִיב. וְכֶתֶר תּוֹרָה זֶה הָאָרוֹן, דִּכְתִיב בּוֹ (שמות כה, יא): זֵר זָהָב סָבִיב.
 
 לָמָּה נִכְתָּבִים זָר וְנִקְרָאִים זֵיר, אֶלָּא לוֹמַר לָךְ אִם אָדָם זוֹכֶה נַעֲשִׂים לוֹ זֵר, וְאִם לָאו זָר. וּמִפְּנֵי מָה בְּכֻלָּן כְּתִיב (שמות כה, כד) (שמות ל, ג): וְעָשִׂיתָ לוֹ, וּבָאָרוֹן כְּתִיב (שמות כה, יא): וְעָשִׂיתָ עָלָיו, לְלַמֶּדְךָ שֶׁכֶּתֶר תּוֹרָה מְעֻלָּה יוֹתֵר מִכֻּלָּן, זָכָה אָדָם לַתּוֹרָה כְּאִלּוּ זָכָה לְכֻלָּן:**^[58]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Rabbi Shimon Bar Yochai said, there are three crowns: a crown of Malchut, a crown of Kehunah, and a crown of Torah. The crown of Malchut: this is the Shulchan, as it says: 'A crown of gold around it' (Shmot 25:24). The crown of Kehunah: this is the Altar, as it says: 'A crown of gold around it' (Shmot 30:3). And the crown of Torah: this is the Aron, as it says: 'A crown of gold around it' (Shmot 25:11).
+
+Why are they written as 'stranger' but read as 'crown'? To teach you that if a person is worthy, they can be made for him into a crown, but if not, a stranger. And why in regards to the others i.e. the Shulchan and the altar does it say: 'You shall me for it', while for the Aron it says: 'You shall make on it'? To teach you that the crown of Torah is greater than the others; if a person merits Torah, it is as if he merits all of the crowns."**^[58]{.underline}^**
+</div>
+</div>
 
 Each of these items represent an abstract concept, and the crowns which adorn them indicate those concepts are differing areas of Jewish life and leadership. The Shulchan is a symbol of wealth and greatness**^[59]{.underline}^** and as such is a fitting symbol for Malchut. Similarly, the Altar is an obvious candidate to represent the Kehunah, as it was the vehicle through which the Kohanim performed their required service and attained forgiveness for Yisrael before HaKadosh Baruch Hu.**^[60]{.underline}^** Finally, the Aron contained within it the "testimony which I shall give you" (Shmot 25:16), the two tablets of stone upon which the ten commandments were engraved and which were a microcosm for the entirety of Torah.**^[61]{.underline}^** It is to teach these very abstractions that the Torah commands the respective utensils be created with golden crowns.
 
@@ -463,28 +466,26 @@ Another example is Uzziyahu, the righteous king who listened to the visions of Z
 Another noteworthy example of this is how Yoash was hidden away in safety as a young boy by Yehoyada the Kohen Gadol, who subsequently assisted him in gaining power and ascending the throne. As long as Yoash listened to Yehoyada and followed his mentorship, he was successful and G-d fearing. After Yehoyada's death, however, Yoash was corrupted by people in his court, and eventually condoned the murder of his son Zechariah, a man who was both a Navi and the Kohen Gadol in his own right (Divrei HaYamim Bet 24).
 
 There are many other stories which describe this dynamic, and the text continually drills home the larger theological point: when there is discord and a lack of unity between the three crowns, disaster awaits the Jewish people. If the King does not lend an ear to the Navi - whether he is preaching a religious exhortation such as the removal of
-*Avodah Zarah*, or providing a purely political suggestion such as
-whether the King should surrender to Bavel - HaKadosh Baruch Hu hides His face from the Jewish people. Similarly, if the King turns against the Kohen Gadol and goes his own way, it ends up leading to unwanted consequences for him. It is only when the representatives of each crown are all on the same page and dealing honestly with each other that Bnai Yisrael are also united, prosperous and righteous.
+*Avodah Zarah*, or providing a purely political suggestion such as whether the King should surrender to Bavel - HaKadosh Baruch Hu hides His face from the Jewish people. Similarly, if the King turns against the Kohen Gadol and goes his own way, it ends up leading to unwanted consequences for him. It is only when the representatives of each crown are all on the same page and dealing honestly with each other that Bnai Yisrael are also united, prosperous and righteous.
 
-This system of checks and balances between the three crowns was the de facto leadership model which developed during Biblical times and existed until the beginning of the *Bayit Sheni* period. At that point the crown of Malchut was represented by Zerubavel - a descendant of the Davidic line - the crown of Kehunah was represented by Yehoshua the Kohen Gadol, and crown of Torah was represented by the last of the Nevi'im: Hagai, Zechariah, and Malachi, and in the early days of the return from exile the crowns all worked together in harmony as attested to by the
-*neviim*.**^[70]{.underline}^** [These crowns are well
-identified throughout early Jewish history, but it is Rabbi Shimon Bar Yochai who formally defines them as the official spheres of leadership on the national level. All of Bnai Yisrael, as it were, are crowned with these three things, and in each generation certain people merit to wear them.] Although only certain individuals within Bnai Yisrael are actually kings, priests and scholars, t[hese] crowns conceptually and metaphysically rest upon the entire nation.
+This system of checks and balances between the three crowns was the de facto leadership model which developed during Biblical times and existed until the beginning of the *Bayit Sheni* period. At that point the crown of Malchut was represented by Zerubavel - a descendant of the Davidic line - the crown of Kehunah was represented by Yehoshua the Kohen Gadol, and crown of Torah was represented by the last of the Nevi'im: Hagai, Zechariah, and Malachi, and in the early days of the return from exile the crowns all worked together in harmony as attested to by the *neviim*.**^[70]{.underline}^** [These crowns are well identified throughout early Jewish history, but it is Rabbi Shimon Bar Yochai who formally defines them as the official spheres of leadership on the national level. All of Bnai Yisrael, as it were, are crowned with these three things, and in each generation certain people merit to wear them.] Although only certain individuals within Bnai Yisrael are actually kings, priests and scholars, t[hese] crowns conceptually and metaphysically rest upon the entire nation.
 
 The scope and breadth of these crowns can be applied to a sub-collective of the Jewish people as a whole; each individual belongs not just to Bnai Yisrael but also to a particular tribe, be it Kohanim from the tribe of Levi, Kings from the tribe of Yehudah, or Torah scholars from any of the twelve tribes. Is it possible that - in some sense - each of these crowns also rests upon each tribe as well?
 
-*"'They reach the threshing floor of Atad' (Breishit 50:10) ... It was
-taught: They all came ready for battle, but once they saw Yosef's crown hanging on Yaakov's coffin, each the sons of Esav, Yishmael and Keturah took off his crown and also hung it on Yaakov's coffin.*
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+ויבואו עד גורן האטד (בראשית נ, י) ... תנא כולם למלחמה באו, כיון שראו כתרו של יוסף תלוי בארונו של יעקב, נטלו כולן כתריהן ותלאום בארונו של יעקב.
 
-*It was also taught: They hung thirty-six crowns on Yaakov's
-coffin."***^[71]{.underline}^**
+תנא שלשים וששה כתרים נתלו בארונו של יעקב:**^[71]{.underline}^**
+</div>
+<div style="flex: 1;">
+"'They reach the threshing floor of Atad' (Breishit 50:10) ... It was taught: They all came ready for battle, but once they saw Yosef's crown hanging on Yaakov's coffin, each the sons of Esav, Yishmael and Keturah took off his crown and also hung it on Yaakov's coffin.
 
-ויבואו עד גורן האטד (בראשית נ, י) \... תנא כולם למלחמה באו, כיון שראו כתרו של יוסף תלוי בארונו של יעקב, נטלו כולן כתריהן ותלאום בארונו של יעקב.
+It was also taught: They hung thirty-six crowns on Yaakov's coffin."**^[71]{.underline}^**
+</div>
+</div>
 
-תנא שלשים] [וששה כתרים נתלו בארונו של יעקב:**^[71]{.underline}^**
-
-After Yaakov Avinu passed away Yosef organized a massive funeral procession, escorting him with an entourage including his brothers from Egypt to Eretz Canaan. The Talmud discusses how the sons of Esav, Yishmael, and Keturah came to the funeral intent on waging war with Yaakov's sons, but once they saw Yosef's crown hanging on the coffin they were placated and also hung their own crowns onto it in solidarity.
-The Talmud then mentions in the next line - introduced with the word
-*tanna*, it was taught - that 36 crowns were hung on Yaakov's coffin.
+After Yaakov Avinu passed away Yosef organized a massive funeral procession, escorting him with an entourage including his brothers from Egypt to Eretz Canaan. The Talmud discusses how the sons of Esav, Yishmael, and Keturah came to the funeral intent on waging war with Yaakov's sons, but once they saw Yosef's crown hanging on the coffin they were placated and also hung their own crowns onto it in solidarity. The Talmud then mentions in the next line - introduced with the word *tanna*, it was taught - that 36 crowns were hung on Yaakov's coffin.
 
 There are two ways to interpret this passage. The first way is to view the second passage as an addendum to the first, a corollary detail to the prior story. In that case, the thirty-six crowns described must have been hung by the sons of Esav, Yishmael, and Keturah; this is how Rashi explains the passage.**^[72]{.underline}^** However, it is also possible to read the second passage as an independent teaching. The Talmud is bringing it here because it is already on the subject of crowns decorating Yaakov's coffin, and so the number of crowns is directly relevant. However, the owners of those crowns do not necessarily have to be the three groups mentioned in the previous teaching.**^[73]{.underline}^**
 
