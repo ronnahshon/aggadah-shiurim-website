@@ -924,27 +924,33 @@ In discussing the procedure the Sanhedrin is instructed to follow when administe
 </div>
 </div>
 
-What exactly happened when Nadav and Avihu were consumed by fire?
-According to the Tanna Kamma they were burnt alive by the flame; though their bodies were completely charred, their clothes remained miraculously undamaged. Rabbi Elazar disagrees, contending that it was their souls which were burnt by the fire while their bodies remained unscorched. What lies behind this disagreement - are these Rabbis arguing about what actually happened, or is the debate about something more fundamental, perhaps a clash of worldviews, with the story of Nadav and Avihu acting as a pedagogical tool to flesh out the conflict?
+What exactly happened when Nadav and Avihu were consumed by fire? According to the Tanna Kamma they were burnt alive by the flame; though their bodies were completely charred, their clothes remained miraculously undamaged. Rabbi Elazar disagrees, contending that it was their souls which were burnt by the fire while their bodies remained unscorched. What lies behind this disagreement - are these Rabbis arguing about what actually happened, or is the debate about something more fundamental, perhaps a clash of worldviews, with the story of Nadav and Avihu acting as a pedagogical tool to flesh out the conflict?
 
 **[Above and Below]{.underline}**
 
 Among the exegetical techniques employed by midrash to gain insight into a puzzling word or description is to look at the first time that word or description appears in Tanach and use it as a paradigm from which to derive and extrapolate information on later occurrences. A beautiful example of this technique can be found in a discussion surrounding the description of Moshe as being good in the eyes of his mother:
 
-*"'She saw that he was good' (Shmot 2:2). It was taught: Rabbi Meir
-says, his name was Tov good. Rabbi Yehudah says, his name was Toviah. Rabbi Nehemiah says, he was worthy of prophecy. Others say, he was born circumcised. And the Rabbis say, when Moshe was born the entire house was filled with light. It says here: 'She saw that he was good', and it says there: 'G-d saw that the light was good' (Breishit 1:4)."**^[18]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וַתֵּרֶא אוֹתוֹ כִּי טוֹב הוּא (שמות ב, ב) תַּנְיָא רַבִּי מֵאִיר אוֹמֵר טוֹב שְׁמוֹ רַבִּי יְהוּדָה אוֹמֵר טוֹבִיָּה שְׁמוֹ רַבִּי נְחֶמְיָה אוֹמֵר הָגוּן לִנְבִיאוּת אֲחֵרִים אוֹמְרִים נוֹלַד כְּשֶׁהוּא מָהוּל וַחֲכָמִים אוֹמְרִים בְּשָׁעָה שֶׁנּוֹלַד מֹשֶׁה נִתְמַלֵּא הַבַּיִת כּוּלּוֹ אוֹר כְּתִיב הָכָא וַתֵּרֶא אוֹתוֹ כִּי טוֹב הוּא וּכְתִיב הָתָם וַיַּרְא אֱלֹהִים אֶת הָאוֹר כִּי טוֹב (בראשית א, ד):**^[18]{.underline}^**
+</div>
+<div style="flex: 1;">
+"'She saw that he was good' (Shmot 2:2). It was taught: Rabbi Meir says, his name was Tov good. Rabbi Yehudah says, his name was Toviah. Rabbi Nehemiah says, he was worthy of prophecy. Others say, he was born circumcised. And the Rabbis say, when Moshe was born the entire house was filled with light. It says here: 'She saw that he was good', and it says there: 'G-d saw that the light was good' (Breishit 1:4)."**^[18]{.underline}^**
+</div>
+</div>
 
-What does it mean that Yocheved saw her three month old son was good - don't all mothers have a protective maternal instinct over their babies, and would be willing to do anything to help them? Surely the description of Moshe being good is meant to teach something more than how his mother viewed him, and as it is the first descriptive term ever used to describe Moshe, it is interpreted as a tool to describe his character.
-The Rabbis employ this rule of paradigms**^[19]{.underline}^** and look to the first time 'good' is found in the Torah, and discover it is in the context of Creation: G-d saw that the light was good. The Rabbis are then able to connect the concept of light with Moshe's birth, which in turn lays the foundation for highlighting Moshe's messianic role in the deliverance of G-d's people and the fulfillment of Hashem's promise to Avraham. Great men such as Moshe, argues the midrash, are chosen from birth by G-d, and Moshe was born set apart for a unique mission, brought into the world to receive the Torah and bring Bnai Yisrael to the Promised Land.**^[20]{.underline}^**
+What does it mean that Yocheved saw her three month old son was good - don't all mothers have a protective maternal instinct over their babies, and would be willing to do anything to help them? Surely the description of Moshe being good is meant to teach something more than how his mother viewed him, and as it is the first descriptive term ever used to describe Moshe, it is interpreted as a tool to describe his character. The Rabbis employ this rule of paradigms**^[19]{.underline}^** and look to the first time 'good' is found in the Torah, and discover it is in the context of Creation: G-d saw that the light was good. The Rabbis are then able to connect the concept of light with Moshe's birth, which in turn lays the foundation for highlighting Moshe's messianic role in the deliverance of G-d's people and the fulfillment of Hashem's promise to Avraham. Great men such as Moshe, argues the midrash, are chosen from birth by G-d, and Moshe was born set apart for a unique mission, brought into the world to receive the Torah and bring Bnai Yisrael to the Promised Land.**^[20]{.underline}^**
 
 In a similar vein, to understand the nature of the supernatural flame which consumed Nadav and Avihu, it behooves us to analyze the first occurrence of a supernatural flame in the Torah:**^[21]{.underline}^**
 
-*"An angel of Hashem appeared to Moshe in a blazing fire from within
-the bush. He saw and behold, the bush was aflame, yet the bush was not consumed. Moshe said, I must turn aside and see this wonderful sight: why doesn't the bush burn up?"**^[22]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וַ֠יֵּרָ֠א מַלְאַ֨ךְ יְהֹוָ֥ה אֵלָ֛יו בְּלַבַּת אֵ֖שׁ מִתּ֣וֹךְ הַסְּנֶ֑ה וַיַּ֗רְא וְהִנֵּ֤ה הַסְּנֶה֙ בֹּעֵ֣ר בָּאֵ֔שׁ וְהַסְּנֶ֖ה אֵינֶ֥נּוּ אֻכָּֽל׃ וַיֹּ֣אמֶר מֹשֶׁ֔ה אָסֻֽרָה נָּ֣א וְאֶרְאֶ֔ה אֶת הַמַּרְאֶ֥ה הַגָּדֹ֖ל הַזֶּ֑ה מַדּ֖וּעַ לֹא יִבְעַ֥ר הַסְּנֶֽה׃**^[22]{.underline}^**
+</div>
+<div style="flex: 1;">
+"An angel of Hashem appeared to Moshe in a blazing fire from within the bush. He saw and behold, the bush was aflame, yet the bush was not consumed. Moshe said, I must turn aside and see this wonderful sight: why doesn't the bush burn up?"**^[22]{.underline}^**
+</div>
+</div>
 
 Moshe is so shocked by the unusual behavior of this flame that he feels compelled to investigate further. What sets this Heavenly flame apart from regular, earthly flames? The Torah reveals the answer: the Divine flame burns, but does not consume.**^[23]{.underline}^** It should follow that the fire which destroyed Nadav and Avihu also burned but did not consume, yet there is a problem with this assertion: the Torah explicitly describes the fire of Nadav and Avihu as *"consuming them, and they died before Hashem".* Perhaps despite their destruction involving consumption, it must have also involved non-consumption, for as we have seen flames from above are set apart in that they burn, but do not consume.
 
@@ -956,28 +962,33 @@ This connection to the burning bush, while providing a compelling thematic motiv
 
 A closer look at what unfolds immediately after Nadav and Avihus' inferno brings with it additional complexity. The Torah informs us that Moshe instructed kinsmen Mishael and Eltzafan to remove Nadav and Avihu from inside the Mishkan and take them outside of the camp.**^[26]{.underline}^** This is all well and good for Rabbi Elazar, who held that while their souls were charred, their bodies remained intact, but according to Abba Yosi Ben Dostai who argued that their bodies were incinerated, what exactly did Mishael and Eltzafan carry out of the camp?
 
-*"It is brought in Torat Kohanim i.e. Sifra in two separate
-teachings which are recorded anonymously. The first one teaches: how did they die? Two streams went out and burned their bodies, but their clothes remained intact in accordance with Rabbi Elazar, as it says: 'A fire went out from before Hashem and consumed them and they died' (Vayikra 10:1). Yet the second one teaches: after that in regards to: 'They shall weep over the incineration' (Vayikra 10:6) - this means their souls were incinerated, but their bodies remained intact.*
-
-*And if you will ask, does it not say in Sukkot 25b that Mishael and
-Eltzafan were the ones who were pushed off to Pesach Sheni because they had been made impure while tending to Nadav and Avihus' bodies?
-If their bodies were incinerated, how could Mishael and Eltzafan have become impure? We could say that even if their bodies were charred their skeleton survived, and it says in Niddah 27b that a dead person who is incinerated but his skeleton survives conveys impurity."**^[27]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 בת"כ איכא ב' ברייתות שנויות סתם דפליגי מעיקרא קתני כיצד היתה מיתתן שני חוטין כו' ונשרף גופן ובגדיהן קיימין שנאמר ותצא אש מלפני ה' ותאכל אותם וימותו (ויקרא י, ב) ובתר הכי גבי יבכו את השריפה (ויקרא י, ו) קתני שריפת נשמה וגוף קיים.
 
 וא"ת והא אמרי' בפ' הישן (סוכה דף כה: ושם) מישאל ואלצפן היו שנדחו לפסח שני ואי שריפה ממש הואי לא נטמאו ויש לומר דשלדן קיימת הוה כדאמר בהמפלת (נדה דף כז:) מת שנשרף ושלדו קיימת טמא:**^[27]{.underline}^**
+</div>
+<div style="flex: 1;">
+"It is brought in Torat Kohanim i.e. Sifra in two separate teachings which are recorded anonymously. The first one teaches: how did they die? Two streams went out and burned their bodies, but their clothes remained intact in accordance with Rabbi Elazar, as it says: 'A fire went out from before Hashem and consumed them and they died' (Vayikra 10:1). Yet the second one teaches: after that in regards to: 'They shall weep over the incineration' (Vayikra 10:6) - this means their souls were incinerated, but their bodies remained intact.
+
+And if you will ask, does it not say in Sukkot 25b that Mishael and Eltzafan were the ones who were pushed off to Pesach Sheni because they had been made impure while tending to Nadav and Avihus' bodies? If their bodies were incinerated, how could Mishael and Eltzafan have become impure? We could say that even if their bodies were charred their skeleton survived, and it says in Niddah 27b that a dead person who is incinerated but his skeleton survives conveys impurity."**^[27]{.underline}^**
+</div>
+</div>
 
 Tosafot notes that the debate between Rabbi Elazar and Abba Yosi Ben Dostai is also found in the Sifra between two competing anonymous teachings. He then asks: according to the opinion proffered by Abba Yosi Ben Dostai that their bodies were incinerated, how could Mishael and Eltzafan have become impure from carrying them? The solution suggested by Tosafot is quite gruesome: indeed, nothing was left of Nadav and Avihu for their kinsmen to take outside of the camp except their skeletons; the rest of their bodies were burnt out of existence. The good news, however, is that even skeletons of the dead carry impurity, so Abba Yosi Ben Dostai is not in conflict with the midrash that identifies the men who were unable to celebrate Pesach in the desert with Mishael and Eltzafan.**^[28]{.underline}^** We can also employ Tosafot's explanation to answer the question posed earlier: for Abba Yosi Ben Dostai, even though no bodies remained, Mishael and Eltzafan were able to carry Nadav and Avihus' charred skeletons out of the Mishkan.
 
 Mishael and Eltzafan also figure prominently in a related aggadic discussion involving Rabbis Eliezer and Akiva concerning Nadav and Avihus' deaths:
 
-*"'They died before Hashem' (Vayikra 10:2). Rabbi Eliezer says, they
-died outside of the Kodesh Kodashim, in a place where Leviim were allowed to enter, as it says: 'They i.e. the Leviim approached and carried them by their tunics' (Vayikra 10:5). If so, why does it say 'They died before Hashem'? An angel struck them and pushed them outside, and removed them. Rabbi Akiva says, they died inside of the Kodesh Kodashim, as it says: 'They died before Hashem'. If so, why does it say 'They approached and carried them by their tunics'? The Leviim took a spear of iron and dragged Nadav and Avihu and brought them out of the Kodesh Kodashim."**^[29]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 ״וימותו לפני ה׳״. רבי אליעזר אומר, לא מתו אלא בחוץ, מקום שהלוים מותרים לכנס לשם שנאמר: ״ויקרבו וישאום בכתנתם״. אם כן למה נאמר: ״וימותו לפני ה׳״? נגפן מלאך ודחפן לחוץ והוציאן. רבי עקיבא אומר, לא מתו אלא בפנים שנאמר: ״וימותו לפני ה׳״. אם כן למה נאמר: ״ויקרבו וישאום בכתנתם״? מלמד שהטילו חנית של ברזל וגררום והוציאום לחוץ:**^[29]{.underline}^**
+</div>
+<div style="flex: 1;">
+"'They died before Hashem' (Vayikra 10:2). Rabbi Eliezer says, they died outside of the Kodesh Kodashim, in a place where Leviim were allowed to enter, as it says: 'They i.e. the Leviim approached and carried them by their tunics' (Vayikra 10:5). If so, why does it say 'They died before Hashem'? An angel struck them and pushed them outside, and removed them. Rabbi Akiva says, they died inside of the Kodesh Kodashim, as it says: 'They died before Hashem'. If so, why does it say 'They approached and carried them by their tunics'? The Leviim took a spear of iron and dragged Nadav and Avihu and brought them out of the Kodesh Kodashim."**^[29]{.underline}^**
+</div>
+</div>
 
-There is a difficulty inherent in how events are said to have unfolded.
-Nadav and Avihu must have been in the innermost sanctum of the Mishkan where only Kohanim were permitted, as they are described as having been removed *"from before the Kodesh"***^[26]{.underline}^**. Yet only Kohanim were allowed to enter there, so how could Mishael and Eltzafan, who after all were Leviim and not Kohanim, be commanded to take them outside of the camp?
+There is a difficulty inherent in how events are said to have unfolded. Nadav and Avihu must have been in the innermost sanctum of the Mishkan where only Kohanim were permitted, as they are described as having been removed *"from before the Kodesh"***^[26]{.underline}^**. Yet only Kohanim were allowed to enter there, so how could Mishael and Eltzafan, who after all were Leviim and not Kohanim, be commanded to take them outside of the camp?
 
 Rabbi Eliezer resolves the issue by maintaining the fire occurred outside, but an angel**^[30]{.underline}^** ejected them from the Kodesh HaKodashim as they were being consumed by fire; their bodies landed in a place where Leviim were permitted to reach them. Rabbi Akiva, in contrast, argues they never left the innermost area of holiness, for we know they died *"before Hashem"*. Rather, the Leviim must have managed to remove them - their bodies according to Rabbi Elazar, their skeletons according to Abba Yosi Ben Dostai - by prodding them with a sharp metal spear while they remained in a permissible area for Leviim.
 
@@ -993,10 +1004,14 @@ There is no shortage of midrashic responses to the question of the nature of Nad
 
 Another tradition goes to the other extreme and suggests completely unrelated possibilities for Nadav and Avihus' sin, while simultaneously ignoring the foreign fire:
 
-*"Rabbi Manai from Sheav and Rabbi Yehoshua from Sichnin and Rabbi
-Yochanan in the name of Rabbi Levi said, the sons of Aharon died because of four things, and regarding each of them the Torah prescribes death. (1) They were drunk on wine, and it prescribes death, as it says: 'You shall not drink wine and beer during sacrificial service' (Vayikra 10:9). (2) They were missing priestly garments, and it prescribes death, as it says: 'They shall be on Aharon and his sons' (Shmot 28:43). Which garments were missing? The Me'il, and it prescribes death, as it says: 'It shall be on Aharon to serve' (Shmot 28:35). (3) They went in without washing their hands and feet first, as it says: 'They shall wash their hands and feet and not die' (Shmot 30:21), and it says: 'When they come to the Ohel Moed they shall wash with water' (Shmot 30:20). (4) They did not have sons, and it prescribes death, as it says: 'Nadav and Avihu died' (Bemidbar 3:4). Abba Hanin says, because they did not have wives, as it says: 'He shall atone for himself and his house' (Vayikra 16:6) - his house means his wife."**^[34]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 רַבִּי מָנֵי דִּשְׁאָב וְרַבִּי יְהוֹשֻׁעַ דְּסִכְנִין וְרַבִּי יוֹחָנָן בְּשֵׁם רַבִּי לֵוִי אָמְרוּ בִּשְׁבִיל אַרְבָּעָה דְּבָרִים מֵתוּ בְּנֵי אַהֲרֹן, וּבְכֻלָּן כְּתִיב בָּהֶן מִיתָה, עַל שֶׁהָיוּ שְׁתוּיֵי יַיִן, וּכְתִיב בּוֹ מִיתָה, שֶׁנֶּאֱמַר (ויקרא י, ט): יַיִן וְשֵׁכָר אַל תֵּשְׁתְּ. וְעַל יְדֵי שֶׁהָיוּ מְחֻסְרֵי בְּגָדִים, וּכְתִיב בּוֹ מִיתָה, שֶׁנֶּאֱמַר (שמות כח, מג): וְהָיוּ עַל אַהֲרֹן וְעַל בָּנָיו, וּמָה הָיוּ חֲסֵרִין, מְעִיל, שֶׁכָּתוּב בּוֹ מִיתָה, שֶׁנֶּאֱמַר (שמות כח, לה): וְהָיָה עַל אַהֲרֹן לְשָׁרֵת, וְעַל יְדֵי שֶׁנִּכְנְסוּ בְּלֹא רְחִיצַת יָדַיִם וְרַגְלַיִם, שֶׁנֶּאֱמַר (שמות ל, כא): וְרָחֲצוּ יְדֵיהֶם וְרַגְלֵיהֶם וְלֹא יָמֻתוּ, וּכְתִיב (שמות ל, כ): בְּבֹאָם אֶל אֹהֶל מוֹעֵד יִרְחֲצוּ מַיִם, וְעַל יְדֵי שֶׁלֹּא הָיוּ לָהֶם בָּנִים, וּכְתִיב בּוֹ מִיתָה, הֲדָא הוּא דִכְתִיב (במדבר ג, ד): וַיָּמָת נָדָב וַאֲבִיהוּא. אַבָּא חָנִין אוֹמֵר עַל יְדֵי שֶׁלֹּא הָיוּ לָהֶם נָשִׁים, דִּכְתִיב (ויקרא טז, ו): וְכִפֶּר בַּעֲדוֹ וּבְעַד בֵּיתוֹ, בֵּיתוֹ זוֹ אִשְׁתּוֹ:**^[34]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Rabbi Manai from Sheav and Rabbi Yehoshua from Sichnin and Rabbi Yochanan in the name of Rabbi Levi said, the sons of Aharon died because of four things, and regarding each of them the Torah prescribes death. (1) They were drunk on wine, and it prescribes death, as it says: 'You shall not drink wine and beer during sacrificial service' (Vayikra 10:9). (2) They were missing priestly garments, and it prescribes death, as it says: 'They shall be on Aharon and his sons' (Shmot 28:43). Which garments were missing? The Me'il, and it prescribes death, as it says: 'It shall be on Aharon to serve' (Shmot 28:35). (3) They went in without washing their hands and feet first, as it says: 'They shall wash their hands and feet and not die' (Shmot 30:21), and it says: 'When they come to the Ohel Moed they shall wash with water' (Shmot 30:20). (4) They did not have sons, and it prescribes death, as it says: 'Nadav and Avihu died' (Bemidbar 3:4). Abba Hanin says, because they did not have wives, as it says: 'He shall atone for himself and his house' (Vayikra 16:6) - his house means his wife."**^[34]{.underline}^**
+</div>
+</div>
 
 All these sins, along with many others detailed in the midrashim**^[35]{.underline}^**, are essentially actions that Nadav and Avihu could have prevented directly by conducting themselves in a different way. Even the fourth possibility, namely that they didn't have children, is still considered a fault to them for choosing not to fulfill the mitzvah of procreation.**^[36]{.underline}^** HaKadosh Baruch Hu conducts Himself in a way that is just and fair; surely if Nadav and Avihu were punished in such a spectacular way, it must have been as a direct result of their having committed some personal, avoidable transgression. These midrashim are motivated at least in part by a desire to emphasize this central theological principle, defending the appropriateness of HaKadosh Baruch Hu's actions and seeing in them a justification for the belief that He operates in the world *middah keneged middah*, measure for measure.
 
