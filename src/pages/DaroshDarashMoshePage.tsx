@@ -105,8 +105,9 @@ const DaroshDarashMoshePage: React.FC = () => {
     }
   };
 
-  const handleFootnoteClick = (footnoteNum: string) => {
-    const footnoteElement = document.getElementById(`footnote-${footnoteNum}`);
+  const handleFootnoteClick = (footnoteNum: string, chapterContext?: string) => {
+    const footnoteId = chapterContext ? `footnote-${chapterContext}-${footnoteNum}` : `footnote-${footnoteNum}`;
+    const footnoteElement = document.getElementById(footnoteId);
     if (footnoteElement) {
       footnoteElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
       // Highlight the footnote briefly
@@ -124,8 +125,9 @@ const DaroshDarashMoshePage: React.FC = () => {
       if (target.classList.contains('footnote-link')) {
         e.preventDefault();
         const footnoteNum = target.getAttribute('data-footnote');
+        const chapterContext = target.getAttribute('data-chapter');
         if (footnoteNum) {
-          handleFootnoteClick(footnoteNum);
+          handleFootnoteClick(footnoteNum, chapterContext || undefined);
         }
       }
     };
@@ -324,14 +326,14 @@ const DaroshDarashMoshePage: React.FC = () => {
                   </h2>
                   <div className="w-32 h-1.5 bg-biblical-brown/50 mx-auto rounded"></div>
                 </div>
-                <div
-                  className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-justify"
-                  dangerouslySetInnerHTML={{
-                    __html: cleanMarkdownFormatting(
-                      renderContentWithFootnotes(daroshContent.generalIntroduction, daroshContent.allFootnotes)
-                    )
-                  }}
-                />
+                              <div
+                className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-justify"
+                dangerouslySetInnerHTML={{
+                  __html: cleanMarkdownFormatting(
+                    renderContentWithFootnotes(daroshContent.generalIntroduction, daroshContent.allFootnotes, 'general')
+                  )
+                }}
+              />
               </section>
 
               {/* Chapters */}
@@ -352,7 +354,7 @@ const DaroshDarashMoshePage: React.FC = () => {
                         className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-justify"
                         dangerouslySetInnerHTML={{
                           __html: cleanMarkdownFormatting(
-                            renderContentWithFootnotes(chapter.generalIntroduction, daroshContent.allFootnotes)
+                            renderContentWithFootnotes(chapter.generalIntroduction, daroshContent.allFootnotes, chapter.id)
                           )
                         }}
                       />
@@ -377,7 +379,7 @@ const DaroshDarashMoshePage: React.FC = () => {
                             className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-justify"
                             dangerouslySetInnerHTML={{
                               __html: cleanMarkdownFormatting(
-                                renderContentWithFootnotes(part.introduction, daroshContent.allFootnotes)
+                                renderContentWithFootnotes(part.introduction, daroshContent.allFootnotes, chapter.id)
                               )
                             }}
                           />
@@ -397,7 +399,7 @@ const DaroshDarashMoshePage: React.FC = () => {
                             className="prose prose-biblical max-w-none text-biblical-brown leading-relaxed text-justify"
                             dangerouslySetInnerHTML={{
                               __html: cleanMarkdownFormatting(
-                                renderContentWithFootnotes(section.content, daroshContent.allFootnotes)
+                                renderContentWithFootnotes(section.content, daroshContent.allFootnotes, chapter.id)
                               )
                             }}
                           />
@@ -430,26 +432,39 @@ const DaroshDarashMoshePage: React.FC = () => {
               </h2>
               
               {/* Render hierarchical footnotes */}
-              {daroshContent.footnoteStructure.map((chapter) => (
-                <div key={chapter.id} className="mb-8">
-                  {/* Chapter Header */}
-                  <h3 className="text-lg font-bold text-biblical-brown mb-4 border-b border-biblical-brown/20 pb-1">
-                    {chapter.title}
-                  </h3>
-                  
-                  {/* Sections within Chapter */}
-                  {chapter.sections.map((section) => (
-                    <div key={section.id} className="mb-6">
-                      {/* Section Header */}
-                      <h4 className="text-md font-semibold text-biblical-brown mb-3 pl-2 border-l-2 border-biblical-brown/30">
-                        {section.title}
-                      </h4>
-                      
-                                              {/* Footnotes within Section */}
+              {daroshContent.footnoteStructure.map((chapter) => {
+                // Map footnote chapter ID to main content chapter ID
+                let chapterContext = '';
+                if (chapter.id.includes('chapter-i')) {
+                  chapterContext = 'chapter-i';
+                } else if (chapter.id.includes('chapter-ii')) {
+                  chapterContext = 'chapter-ii';
+                } else if (chapter.id.includes('chapter-iii')) {
+                  chapterContext = 'chapter-iii';
+                } else {
+                  chapterContext = 'general';
+                }
+                
+                return (
+                  <div key={chapter.id} className="mb-8">
+                    {/* Chapter Header */}
+                    <h3 className="text-lg font-bold text-biblical-brown mb-4 border-b border-biblical-brown/20 pb-1">
+                      {chapter.title}
+                    </h3>
+                    
+                    {/* Sections within Chapter */}
+                    {chapter.sections.map((section) => (
+                      <div key={section.id} className="mb-6">
+                        {/* Section Header */}
+                        <h4 className="text-md font-semibold text-biblical-brown mb-3 pl-2 border-l-2 border-biblical-brown/30">
+                          {section.title}
+                        </h4>
+                        
+                        {/* Footnotes within Section */}
                         {section.footnotes.map((footnote) => (
                           <div
                             key={footnote.number}
-                            id={`footnote-${footnote.number}`}
+                            id={`footnote-${chapterContext}-${footnote.number}`}
                             className="mb-6 ml-4 p-4 bg-white/80 rounded-lg shadow-md border-2 border-biblical-brown/20 transition-colors duration-500"
                           >
                             <div
@@ -460,10 +475,11 @@ const DaroshDarashMoshePage: React.FC = () => {
                             />
                           </div>
                         ))}
-                    </div>
-                  ))}
-                </div>
-              ))}
+                      </div>
+                    ))}
+                  </div>
+                );
+              })}
             </div>
           </div>
         </div>

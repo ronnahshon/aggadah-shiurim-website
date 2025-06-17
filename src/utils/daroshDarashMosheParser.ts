@@ -303,6 +303,7 @@ function parseFootnotes(footnoteLines: string[]): {
   let currentSection: DaroshFootnoteSection | null = null;
   let currentFootnoteNum = '';
   let currentFootnoteContent = '';
+  let actualChapterNumber = 0; // Track the actual chapter we're in
   
   const saveCurrentFootnote = () => {
     if (currentFootnoteNum && currentFootnoteContent && currentSection) {
@@ -343,18 +344,39 @@ function parseFootnotes(footnoteLines: string[]): {
       saveCurrentSection();
       saveCurrentChapter();
       
-      const chapterNum = chapterMatch[1];
+      // Increment the actual chapter number regardless of what the header says
+      actualChapterNumber++;
+      
       let chapterTitle = '';
-      if (chapterNum === 'I') {
+      let chapterIdSuffix = '';
+      
+      // Use the actual sequential chapter number instead of the header text
+      if (actualChapterNumber === 1) {
         chapterTitle = 'Chapter I: Givat Rephidim';
-      } else if (chapterNum === 'II') {
+        chapterIdSuffix = 'i';
+      } else if (actualChapterNumber === 2) {
         chapterTitle = 'Chapter II: Har Sinai';
-      } else if (chapterNum === 'III') {
+        chapterIdSuffix = 'ii';
+      } else if (actualChapterNumber === 3) {
         chapterTitle = 'Chapter III: Hor HaHar';
+        chapterIdSuffix = 'iii';
+      } else {
+        // Fallback to the original header if we have more chapters than expected
+        const chapterNum = chapterMatch[1];
+        if (chapterNum === 'I') {
+          chapterTitle = 'Chapter I: Givat Rephidim';
+          chapterIdSuffix = 'i';
+        } else if (chapterNum === 'II') {
+          chapterTitle = 'Chapter II: Har Sinai';
+          chapterIdSuffix = 'ii';
+        } else if (chapterNum === 'III') {
+          chapterTitle = 'Chapter III: Hor HaHar';
+          chapterIdSuffix = 'iii';
+        }
       }
       
       currentChapter = {
-        id: `footnotes-chapter-${chapterNum.toLowerCase()}`,
+        id: `footnotes-chapter-${chapterIdSuffix}`,
         title: chapterTitle,
         sections: []
       };
@@ -429,16 +451,19 @@ export function generateTableOfContents(content: DaroshContent): DaroshTableOfCo
 
 export function renderContentWithFootnotes(
   content: string,
-  footnotes: Record<string, string>
+  footnotes: Record<string, string>,
+  chapterContext?: string
 ): string {
   // Replace footnote references like **^[1]{.underline}^** with clickable superscript links
   return content
     .replace(/\*\*\^?\[(\d+)\]\{\.underline\}\^?\*\*/g, (match, footnoteNum) => {
-      return `<sup><a href="#footnote-${footnoteNum}" class="footnote-link" data-footnote="${footnoteNum}">${footnoteNum}</a></sup>`;
+      const footnoteId = chapterContext ? `footnote-${chapterContext}-${footnoteNum}` : `footnote-${footnoteNum}`;
+      return `<sup><a href="#${footnoteId}" class="footnote-link" data-footnote="${footnoteNum}" data-chapter="${chapterContext || ''}">${footnoteNum}</a></sup>`;
     })
     // Also handle simpler patterns like ^[1] or [1]{.underline}
     .replace(/\^?\[(\d+)\](\{\.underline\})?/g, (match, footnoteNum) => {
-      return `<sup><a href="#footnote-${footnoteNum}" class="footnote-link" data-footnote="${footnoteNum}">${footnoteNum}</a></sup>`;
+      const footnoteId = chapterContext ? `footnote-${chapterContext}-${footnoteNum}` : `footnote-${footnoteNum}`;
+      return `<sup><a href="#${footnoteId}" class="footnote-link" data-footnote="${footnoteNum}" data-chapter="${chapterContext || ''}">${footnoteNum}</a></sup>`;
     })
     .replace(/\^/g, ''); // Remove any remaining "^" characters
 }
