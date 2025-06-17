@@ -1234,9 +1234,9 @@ Seven weeks go by; the twentieth of Nisan comes and with it news that Bnai Yisra
 
 This interpretation of Shmot 24:9-11 and how its consequences reverberate in subsequent challenging narratives resolves a myriad of grammatical and linguistic difficulties, and ties together a host of thematic and literary loose ends. Yet it also develops and demonstrates critical cornerstones of Rabbinic theology concerning the way G-d governs the world and metes out justice. In particular, there is a strong emphasis placed on the importance of *middah keneged middah*, the idea that people are punished in line with what transgression they committed. Nadav, Avihu and the elders should never have seen HaKadosh Baruch Hu, and perhaps they also acted too frivolously in that exalted moment; they could not resume normal life, instead wanting to return to Him, continuing the transgression a second time,**^[69]{.underline}^** unable to separate above and below. Indeed, if we understand the eating and drinking done at Har Sinai as spiritual nourishment from the Shechinah, it becomes clear how the way the respective deaths were carried out was fitting. The same root denoting consumption - אכל] - appears in all these stories, tying together the sin with its corollary punishment: just as Nadav, Avihu and the seventy elders ate, consumed, drank in, the G-d of Yisrael, so too He consumed them with fire:
 
-וַיִּקְח֣וּ בְנֵֽי אַ֠הֲרֹ֠ן נָדָ֨ב וַאֲבִיה֜וּא אִ֣ישׁ מַחְתָּת֗וֹ וַיִּתְּנ֤וּ בָהֵן֙ [אֵ֔שׁ]{.underline} וַיָּשִׂ֥ימוּ עָלֶ֖יהָ קְטֹ֑רֶת וַיַּקְרִ֜יבוּ לִפְנֵ֤י יְהֹוָה֙ [אֵ֣שׁ]{.underline} זָרָ֔ה אֲשֶׁ֧ר לֹ֦א צִוָּ֖ה אֹתָֽם׃ וַתֵּ֥צֵא אֵ֛שׁ]{.underline} מִלִּפְנֵ֥י יְהֹוָ֖ה [וַתֹּ֣אכַל]{.underline} אוֹתָ֑ם וַיָּמֻ֖תוּ לִפְנֵ֥י יְהֹוָֽה: (ויקרא י:א, ב)
+וַיִּקְח֣וּ בְנֵֽי אַ֠הֲרֹ֠ן נָדָ֨ב וַאֲבִיה֜וּא אִ֣ישׁ מַחְתָּת֗וֹ וַיִּתְּנ֤וּ בָהֵן֙ אֵ֔שׁ וַיָּשִׂ֥ימוּ עָלֶ֖יהָ קְטֹ֑רֶת וַיַּקְרִ֜יבוּ לִפְנֵ֤י יְהֹוָה֙ אֵ֣שׁ זָרָ֔ה אֲשֶׁ֧ר לֹ֦א צִוָּ֖ה אֹתָֽם׃ וַתֵּ֥צֵא אֵ֛שׁ מִלִּפְנֵ֥י יְהֹוָ֖ה וַתֹּ֣אכַל אוֹתָ֑ם וַיָּמֻ֖תוּ לִפְנֵ֥י יְהֹוָֽה: (ויקרא י:א, ב)
 
-וַיְהִ֤י הָעָם֙ כְּמִתְאֹ֣נְנִ֔ים רַ֖ע בְּאׇזְנֵ֣י יְהֹוָ֑ה וַיִּשְׁמַ֤ע יְהֹוָה֙ וַיִּ֣חַר אַפּ֔וֹ וַתִּבְעַר בָּם֙ אֵ֣שׁ]{.underline} יְהֹוָ֔ה [וַתֹּ֖אכַל]{.underline} בִּקְצֵ֥ה הַֽמַּחֲנֶֽה׃ ... וְהָֽאסַפְסֻף֙ אֲשֶׁ֣ר בְּקִרְבּ֔וֹ הִתְאַוּ֖וּ תַּאֲוָ֑ה וַיָּשֻׁ֣בוּ וַיִּבְכּ֗וּ גַּ֚ם בְּנֵ֣י יִשְׂרָאֵ֔ל וַיֹּ֣אמְר֔וּ מִ֥י יַאֲכִלֵ֖נוּ]{.underline}] [[בָּשָֽׂר]{.underline}׃ (במדבר יא:א, ד)
+וַיְהִ֤י הָעָם֙ כְּמִתְאֹ֣נְנִ֔ים רַ֖ע בְּאׇזְנֵ֣י יְהֹוָ֑ה וַיִּשְׁמַ֤ע יְהֹוָה֙ וַיִּ֣חַר אַפּ֔וֹ וַתִּבְעַר בָּם֙ אֵ֣שׁ יְהֹוָ֔ה וַתֹּ֖אכַל בִּקְצֵ֥ה הַֽמַּחֲנֶֽה׃ ... וְהָֽאסַפְסֻף֙ אֲשֶׁ֣ר בְּקִרְבּ֔וֹ הִתְאַוּ֖וּ תַּאֲוָ֑ה וַיָּשֻׁ֣בוּ וַיִּבְכּ֗וּ גַּ֚ם בְּנֵ֣י יִשְׂרָאֵ֔ל וַיֹּ֣אמְר֔וּ מִ֥י יַאֲכִלֵ֖נוּ בָּשָֽׂר (במדבר יא:א, ד)
 
 **[Angelic Guidance]{.underline}**
 
@@ -1246,59 +1246,80 @@ We find in Rabbi Eliezer's opinion a description of an angel being the arbiter o
 
 The Talmud also makes mention of an angel orchestrating the initial events of Shmot 24:
 
-*"Rav Nachman said, one who knows how to respond to heretics like Rav
-Idit should respond, but if not, he should not respond. Once a heretic said to Rav Idit, it says: 'He said to Moshe, ascend to Hashem' (Shmot 24:1) - it should have said, come up to Me? He said to him, that was Metatron, whose name was like that of his Master, as it says: 'My name is in him' (Shmot 23:21). If so, let us worship him? It says: 'Do not defy him' - do not replace Me with him. If so, why do I need: 'He will not pardon your transgression'? He said to him, we believe that we did not accept an angel even as a guide for the journey, as it says: 'And he said to him: If Your Presence go not with me, don't raise me out of here' (Shmot 33:15)."**^[71]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 אמר רב נחמן האי מאן דידע לאהדורי למינים כרב אידית ליהדר ואי לא לא ליהדר אמר ההוא מינא לרב אידית כתיב (שמות כד, א) ואל משה אמר עלה אל ה' עלה אלי מיבעי ליה א"ל זהו מטטרון ששמו כשם רבו דכתיב (שמות כג, כא) כי שמי בקרבו אי הכי ניפלחו ליה כתיב (שמות כג, כא) אל תמר בו אל תמירני בו אם כן לא ישא לפשעכם למה לי א"ל הימנותא בידן דאפילו בפרוונקא נמי לא קבילניה דכתיב (שמות לג, טו) ויאמר אליו אם אין פניך הולכים וגו׳:**^[71]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Rav Nachman said, one who knows how to respond to heretics like Rav Idit should respond, but if not, he should not respond. Once a heretic said to Rav Idit, it says: 'He said to Moshe, ascend to Hashem' (Shmot 24:1) - it should have said, come up to Me? He said to him, that was Metatron, whose name was like that of his Master, as it says: 'My name is in him' (Shmot 23:21). If so, let us worship him? It says: 'Do not defy him' - do not replace Me with him. If so, why do I need: 'He will not pardon your transgression'? He said to him, we believe that we did not accept an angel even as a guide for the journey, as it says: 'And he said to him: If Your Presence go not with me, don't raise me out of here' (Shmot 33:15)."**^[71]{.underline}^**
+</div>
+</div>
 
 The context of the conversation between Rav Idit and the heretic is polemical in nature, and comes on the heels of esoteric metaphysical discussions surrounding the danger inherent in knowledge of multiple Divine thrones leading someone astray and towards gnostic apostasy if not understood correctly.**^[72]{.underline}^** According to Rav Idit, it is the archangel Metatron, and not HaKadosh Baruch Hu Himself, who called Moshe and the *atzilei bnai yisrael* up the mountain. The grammatical issue raised by the heretic - namely, that Hashem refers to Himself in the third person - is solved by Rav Idit's answer, but there may be deeper thematic significance being developed here too. The fallout from this episode was terrible, culminating in the untimely deaths of *atzilei bnai yisrael*; G-d Himself had His "forced" to carry out a seeming injustice. By placing the blame of calling Nadav, Avihu and the seventy elders up the mountain squarely at the feet of angel - such Metatron, as Rav Idit does, or Michael, as per the translation of Targum Yonatan**^[8]{.underline}^** - the midrash is sidestepping the issue by relegating the ramifications of their deaths to be the archangel's responsibility.**^[73]{.underline}^**
 
 Rav Idit's strategy of helping the Divine evade direct responsibility proves useful in light of a radically shocking comment made by the Tur HaAroch in his commentary on Shmot 24:1:
 
-*"I find it puzzling that Elazar and Itamar were not included in this
-invitation. Surely they were more distinguished than the seventy elders mentioned in our verse ... It seems to me that because before HaKadosh Baruch Hu: 'All possibilities are laid out' (Shmuel Aleph 2:3), and He knew that from this episode they would become liable for death, as it says that from here they were liable to be burnt but HaKadosh Baruch Hu did not want to dampen the joy of Torah, and so He waited to punish Nadav and Avihu until the eighth day of the consecration and He waited to punish the elders until Tav'eira. If Elazar and Itamar had died also, all the offspring of Aharon would have been cut off, and HaKadosh Baruch Hu didn't want the holy Kehunah to be completely cut off and therefore He did not invite them up the mountain with their brothers."**^[74]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 תימא לי למה לא עלו אלעזר ואיתמר שהרי גדולה מעלתם ממעלת הזקנים ... ונ"ל משום שהקב"ה לו נתכנו עלילות (שמואל א ב, ג) וידע שבעלילה זו נתחייבו כדאמרינן שמכאן נתחייבו שריפה אלא שלא רצה הקב"ה לערבב שמחת התורה והמתין לנדב ואביהו עד יום שמיני של מלואים ולזקנים עד תבערה ואילו מתו אלעזר ואיתמר היה נכרת כל זרע אהרן ולא רצה הקב"ה שיכרת זרע כהונה הקדושה:**^[74]{.underline}^**
+</div>
+<div style="flex: 1;">
+"I find it puzzling that Elazar and Itamar were not included in this invitation. Surely they were more distinguished than the seventy elders mentioned in our verse ... It seems to me that because before HaKadosh Baruch Hu: 'All possibilities are laid out' (Shmuel Aleph 2:3), and He knew that from this episode they would become liable for death, as it says that from here they were liable to be burnt but HaKadosh Baruch Hu did not want to dampen the joy of Torah, and so He waited to punish Nadav and Avihu until the eighth day of the consecration and He waited to punish the elders until Tav'eira. If Elazar and Itamar had died also, all the offspring of Aharon would have been cut off, and HaKadosh Baruch Hu didn't want the holy Kehunah to be completely cut off and therefore He did not invite them up the mountain with their brothers."**^[74]{.underline}^**
+</div>
+</div>
 
 The Tur is grappling with a question which has not been addressed yet: why were *atzilei bnai yisrael* singled out to ascend the mountain? More to the point, why were two of Aharon's sons invited while two were excluded - what happened to Elazar and Itamar?**^[75]{.underline}^** Out of seeming desperation, he provides a theologically mind-blowing suggestion, one not even hinted at in the midrashic literature. Since HaKadosh Baruch Hu knows everything that will unfold, He must have known that *atzilei bnai yisrael* would not avert their gazes and incur death at the sight of G-d seated on His throne. Additionally, He wanted to avoid the destruction of Aharon's lineage, since they were destined to become the Kohanim. Since He knew that Elazar and Itamar would be liable for death if they were to ascend the mountain, He specifically did not command them to ascend, so that there would be a remnant remaining after Nadav and Avihu met their demise.**^[76]{.underline}^**
 
 There could be yet another, additional layer of thematic consistency and unity being promoted by Rav Idit's insertion of Metatron into the story of Har Sinai. Among the myriad of angels in the Heavenly court Metatron ranks among the highest, yet it is his origin story that sets him apart:
 
-*"All the days of Hanoch were 365 years. Hanoch walked with G-d, and was
-no more, for G-d took him."**^[77]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וַיְהִ֖י כׇּל יְמֵ֣י חֲנ֑וֹךְ חָמֵ֤שׁ וְשִׁשִּׁים֙ שָׁנָ֔ה וּשְׁלֹ֥שׁ מֵא֖וֹת שָׁנָֽה׃ וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים:**^[77]{.underline}^**
+</div>
+<div style="flex: 1;">
+"All the days of Hanoch were 365 years. Hanoch walked with G-d, and was no more, for G-d took him."**^[77]{.underline}^**
+</div>
+</div>
 
 Metatron had originally been a mortal human being named Hanoch who had been taken alive by G-d and transformed into an archangel:
 
-*"All the days that Hanoch was with those who dwell on earth equaled 365
-years. Hanoch served truthfully before Hashem and behold, he was not among those who live in the world, for he was withdrawn. He ascended to the heavens by the word of G-d, and his name was Metatron, the great teacher."**^[78]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וַהֲווֹ כָּל יוֹמֵי חֲנוֹךְ עִם דַיְירֵי אַרְעָא תְּלַת מְאָה וְשִׁיתִּין וַחֲמֵשׁ שְׁנִין: וּפְלַח חֲנוֹךְ בְּקוּשְׁטָא קֳדָם יְיָ וְהָא לֵיתוֹהִי עִם דַיְירֵי אַרְעָא אֲרוּם אִתְנְגִיד וְסַלִיק לִרְקִיעָא בְּמֵימַר קָדָם יְיָ וּקְרָא שְׁמֵיהּ מִיטַטְרוֹן סַפְרָא רַבָּא:**^[78]{.underline}^**
+</div>
+<div style="flex: 1;">
+"All the days that Hanoch was with those who dwell on earth equaled 365 years. Hanoch served truthfully before Hashem and behold, he was not among those who live in the world, for he was withdrawn. He ascended to the heavens by the word of G-d, and his name was Metatron, the great teacher."**^[78]{.underline}^**
+</div>
+</div>
 
-There is no shortage of fantastic explanations as to why or how this process occurred,**^[79]{.underline}^** but for our purposes the takeaway is simple: perhaps the reason Metatron was chosen to call up
-*atzilei bnai yisrael* to experience a vision of G-d and become
-transformed by it was because he himself in his life as the mortal Hanoch had walked with G-d and survived crossing over the threshold from physical to spiritual. He was the most appropriate candidate to command Nadav, Avihu and the elders on how to enter the paradise of the Shechinah and experience G-d as he had done thousands of years earlier.
-Unfortunately the calling was too great, the mission too lofty: Aharon's sons and the elders failed where Hanoch had succeeded.**^[80]{.underline}^**
+There is no shortage of fantastic explanations as to why or how this process occurred,**^[79]{.underline}^** but for our purposes the takeaway is simple: perhaps the reason Metatron was chosen to call up *atzilei bnai yisrael* to experience a vision of G-d and become
+transformed by it was because he himself in his life as the mortal Hanoch had walked with G-d and survived crossing over the threshold from physical to spiritual. He was the most appropriate candidate to command Nadav, Avihu and the elders on how to enter the paradise of the Shechinah and experience G-d as he had done thousands of years earlier. Unfortunately the calling was too great, the mission too lofty: Aharon's sons and the elders failed where Hanoch had succeeded.**^[80]{.underline}^**
 
 **[Blurry Vision]{.underline}**
 
 If we take Tanchuma Yelamdenu at its word, the revelation of Shmot 24 must have involved the G-d of Yisrael revealing Himself fully, without any filters or separations, at a level which man cannot endure or comprehend what he encounters, an experience so overwhelming that his soul departs. Yet there are other examples in Tanach of prophets and leaders having visions of the Divine on His throne, and there is no talk of it being a fatal encounter:
 
-*"It was taught: Shimon Ben Azzai says, I found a scroll of lineages in
-Yerushalayim, and it said three things: So-and-so is a mamzer from an adulterous union with a married woman; the teachings of Rabbi Eliezer Ben Yaakov are few, but pure; Menashe king of Yisrael murdered Yishayahu the prophet. Rava said, Menashe judged Yishayahu for making false statements against the Torah and killed him. He said to him, your teacher Moshe said: 'No person can see Me and live' (Shmot 33:20), yet you said: 'I saw Hashem sitting on a high and lofty throne' (Yishayahu 6:1) ... Yishayahu said, I know that Menashe will not accept whatever I say to him anyway, and if I do say something, it will make him an intentional murderer. Yishayahu said the holy Name, and was swallowed up by a cedar tree. They brought the cedar tree and sawed through it, and as it got to Yishayahu's mouth he died; this was because he had said: 'I dwell among a nation of impure lips (Yishayahu 6:5). In any event, how do we resolve the contradiction? As it was taught: all the prophets saw G-d observed through an obscure looking glass, while Moshe Rabbeinu observed through a transparent looking glass."**^[81]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 תָּנֵי, שִׁמְעוֹן בֶּן עַזַּאי אוֹמֵר: מָצָאתִי מְגִלַּת יוּחֲסִין בִּירוּשָׁלַיִם, וְכָתוּב בָּהּ: אִישׁ פְּלוֹנִי מַמְזֵר מֵאֵשֶׁת אִישׁ, וְכָתוּב בָּהּ: מִשְׁנַת רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב קַב וְנָקִי. וְכָתוּב בָּהּ: מְנַשֶּׁה הָרַג אֶת יְשַׁעְיָה. אָמַר רָבָא: מֵידָן דַּיְינֵיהּ וְקַטְלֵיהּ. אֲמַר לֵיהּ, מֹשֶׁה רַבְּךָ אָמַר: ״כִּי לֹא יִרְאַנִי הָאָדָם וָחָי״ (שמות לג, כ), וְאַתְּ אָמְרַתְּ: ״וָאֶרְאֶה אֶת ה׳ יוֹשֵׁב עַל כִּסֵּא רָם וְנִשָּׂא״ (ישעיה ו, א) ... אָמַר יְשַׁעְיָה: יָדַעְנָא בֵּיהּ דְּלָא מְקַבֵּל מָה דְּאֵימָא לֵיהּ, וְאִי אֵימָא לֵיהּ --- אֶישַּׁוְּיֵיהּ מֵזִיד. אֲמַר שֵׁם אִיבְּלַע בְּאַרְזָא, אַתְיוּהּ לְאַרְזָא וְנַסְּרוּהּ. כִּי מְטָא לַהֲדֵי פּוּמָּא, נָח נַפְשֵׁיהּ. מִשּׁוּם דַּאֲמַר: ״וּבְתוֹךְ עַם טְמֵא שְׂפָתַיִם אָנֹכִי יוֹשֵׁב״ (ישעיה ו, ה). מִכׇּל מָקוֹם קָשׁוּ קְרָאֵי אַהֲדָדֵי? ״וָאֶרְאֶה אֶת ה׳״, כִּדְתַנְיָא: כׇּל הַנְּבִיאִים נִסְתַּכְּלוּ בְּאַסְפַּקְלַרְיָא שֶׁאֵינָהּ מְאִירָה, מֹשֶׁה רַבֵּינוּ נִסְתַּכֵּל בְּאַסְפַּקְלַרְיָא הַמְּאִירָה:**^[81]{.underline}^**
+</div>
+<div style="flex: 1;">
+"It was taught: Shimon Ben Azzai says, I found a scroll of lineages in Yerushalayim, and it said three things: So-and-so is a mamzer from an adulterous union with a married woman; the teachings of Rabbi Eliezer Ben Yaakov are few, but pure; Menashe king of Yisrael murdered Yishayahu the prophet. Rava said, Menashe judged Yishayahu for making false statements against the Torah and killed him. He said to him, your teacher Moshe said: 'No person can see Me and live' (Shmot 33:20), yet you said: 'I saw Hashem sitting on a high and lofty throne' (Yishayahu 6:1) ... Yishayahu said, I know that Menashe will not accept whatever I say to him anyway, and if I do say something, it will make him an intentional murderer. Yishayahu said the holy Name, and was swallowed up by a cedar tree. They brought the cedar tree and sawed through it, and as it got to Yishayahu's mouth he died; this was because he had said: 'I dwell among a nation of impure lips (Yishayahu 6:5). In any event, how do we resolve the contradiction? As it was taught: all the prophets saw G-d observed through an obscure looking glass, while Moshe Rabbeinu observed through a transparent looking glass."**^[81]{.underline}^**
+</div>
+</div>
 
 Yishayahu is confronted by nobody less than the wicked king Menashe who accuses him of prophesying falsely. If you really saw what you claim to have seen, Menashe asks, how did you survive? The answer given by the Talmud is that there was a qualitative difference between Moshe's level of prophecy and everybody else's. Moshe saw *panim el panim*, without any distortion or obscurity, while the prophets received everything through riddles and a haze of confusion. The answer is therefore quite simple: even though Yishayahu's vision as it's described sounds like the real deal, it was refracted through a lens, a prism so that he could process it and be able to survive, though that also means it came at the cost of translucence and clarity.
 
-As the debate in the Talmud takes place between Menashe and Yishayahu, it is logical for the paradigmatic use case brought as a challenge to Shmot 33:20 of a prophet who sees G-d and lives is Yishayahu. Yet, would it not be an even stronger question if asked from the Torah itself?
-HaKadosh Baruch Hu tells Moshe that no one may see His face and live in the aftermath of the Golden Calf, yet not even two months prior an entire group of elders did just that. While we could answer that, like Yishayahu, Yechezkel and anyone who is not Moshe, their prophecy was diluted, as through perceived through a dirty looking glass, yet the question remains: why did the Talmud not raise the contradiction from the story of Shmot 24?
+As the debate in the Talmud takes place between Menashe and Yishayahu, it is logical for the paradigmatic use case brought as a challenge to Shmot 33:20 of a prophet who sees G-d and lives is Yishayahu. Yet, would it not be an even stronger question if asked from the Torah itself? HaKadosh Baruch Hu tells Moshe that no one may see His face and live in the aftermath of the Golden Calf, yet not even two months prior an entire group of elders did just that. While we could answer that, like Yishayahu, Yechezkel and anyone who is not Moshe, their prophecy was diluted, as through perceived through a dirty looking glass, yet the question remains: why did the Talmud not raise the contradiction from the story of Shmot 24?
 
-*"The fact that it did not ask from the Torah itself, as it says: 'They
-saw the G-d of Yisrael, and under His feet, etc. - we could suggest that atzilei bnai yisrael saw His back, as it says: 'You shall see My back but you shall not see My face'. In contrast: 'I saw Hashem sitting on a throne', which implies that Yishayahu saw His face."**^[82]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 הא דלא קשיא ליה בתורה גופה מדכתיב ויראו את א-לקי ישראל ותחת רגליו וגו' י"ל דראו אחוריו כמפורש בקרא וראית את אחורי ופני לא יראו אבל ואראה את ה' יושב על כסא משמע ליה שראה הפנים:**^[82]{.underline}^**
+</div>
+<div style="flex: 1;">
+"The fact that it did not ask from the Torah itself, as it says: 'They saw the G-d of Yisrael, and under His feet, etc. - we could suggest that atzilei bnai yisrael saw His back, as it says: 'You shall see My back but you shall not see My face'. In contrast: 'I saw Hashem sitting on a throne', which implies that Yishayahu saw His face."**^[82]{.underline}^**
+</div>
+</div>
 
 Maharsha suggests that the reason *atzilei bnai yisrael*'s survival is not a good question to raise is because they saw G-d's back, not His face, whereas Yishayahu saw His face; in other words, Shmot 24's revelation was a lower level of prophecy than Yishayahu 6, which itself was lower than a Moshe-style prophecy perceived through a see-through looking glass.**^[83]{.underline}^**
 
@@ -1306,10 +1327,14 @@ This answer forces us to accept that the level achieved by *atzilei bnai yisrael
 
 The midrash's understanding of what actually occurred to the nobles can provide an answer to Maharsha's question:
 
-*"There is also room to suggest that the main problem Menashe had with
-Yishayahu's words contradicting Moshe's words was in regards to 'and live', meaning that if a man has an opportunity to see Him he will not live, but die. However, the seventy elders, Nadav and Avihu, about whom it was stated: 'They saw the G-d of Yisrael' - death was actually decreed for them, just that HaKadosh Baruch Hu did not want to dilute the joy of Torah, so He waited for Nadav and Avihu, etc. for the elders, etc. as Rashi explains. In contrast Yishayahu testified regarding himself that an angel touched his mouth and said to him: 'Now your sin is removed and your iniquity is atoned for', meaning that you will not die. This is the essence of the contradiction."**^[84]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 ועוד יש מקום לומר כי עיקר מה שמצא מנשה בדברי ישעיה סתירה לדברי משה הוא וח״י כלומר אם יזדמן אם יראה האדם אותו יתברך שוב לא יחיה אבל ימות והנה שבעים זקנים ונדב ואביהוא אשר הועד עליהם ויראו את א-לקי ישראל נגזרה עליהם מיתה באמת אלא שלא רצה הקב״ה לערבב שמחת התורה והמתין לנדב ואביהוא וכו ולזקנים וכו כמו שפירש רש״י שם. וישעיה העיד על עצמו כי המלאך הגיע על פיו ואמר לו וסר עונך וחטאתך תכופר כלומר ולא תמות וזהו עצמות הניגוד והסתירה]:**^[84]{.underline}^**
+</div>
+<div style="flex: 1;">
+"There is also room to suggest that the main problem Menashe had with Yishayahu's words contradicting Moshe's words was in regards to 'and live', meaning that if a man has an opportunity to see Him he will not live, but die. However, the seventy elders, Nadav and Avihu, about whom it was stated: 'They saw the G-d of Yisrael' - death was actually decreed for them, just that HaKadosh Baruch Hu did not want to dilute the joy of Torah, so He waited for Nadav and Avihu, etc. for the elders, etc. as Rashi explains. In contrast Yishayahu testified regarding himself that an angel touched his mouth and said to him: 'Now your sin is removed and your iniquity is atoned for', meaning that you will not die. This is the essence of the contradiction."**^[84]{.underline}^**
+</div>
+</div>
 
 This approach flips the question on its head: instead of accepting the question's premise and trying to differentiate between the prophecy of Yishayahu and the revelation of the nobles, it instead rejects the question's premise and asks: who said that the nobles survived? If we understand the idea that: *'Man cannot see Me and live'* to mean generally, but not necessarily that death is spontaneous and immediate, then in fact not only is Shmot 24 not a contradiction to this idea but rather its strongest support: Nadav, Avihu and the seventy elders all saw G-d, and perished. They did live a few additional months to a year, but that was out of joy over Matan Torah; the nobles were an application of the rule, not the exception.
 
