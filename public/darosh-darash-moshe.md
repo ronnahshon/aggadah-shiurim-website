@@ -2134,104 +2134,131 @@ Aharon achieved longevity through his sons Elazar and Itamar continuing the *Keh
 
 Any assessment of the relationship between Tzipporah, the concept of spiritual purity which her name and essence connote, and the affliction of *tzara'at*, cannot be complete without investigating the most lengthy - and midrashically informative - story that involves Tzipporah:
 
-*"Miriam and Aharon spoke against Moshe regarding the Cushite woman he
-had taken, for he had taken a Cushite woman. They said: Does Hashem only speak through Moshe - does He not also speak through us? Hashem heard.
-Now the man Moshe was very humble, more so than any other man on the face of the earth. Hashem said suddenly to Moshe, Aharon and Miriam: Go out to the ohel moed, all three of you. All three of them went out.
-Hashem descended in a pillar of cloud and stood opposite the tent, and called: Aharon and Miriam. The two of them went out. Hashem said: listen to my words. If you have a prophecy from Hashem, I reveal myself to him in a vision, and speak to him in a dream. It is not so with my servant Moshe, in all My house he is trusted. I speak to him mouth-to-mouth, not with a vision of riddles. He views the image of Hashem - why did you not fear to speak against My servant Moshe? Hashem got angry at them and left. The cloud left from the tent, and behold Miriam had tzara't like snow; Aharon turned to Miriam and behold she had tzara'at. Aharon said to Moshe: Please my master, do not lay sin upon us, for we have acted foolishly and sinned. Do not let her be like a dead person who, upon leaving his mother's womb, has his flesh half-eaten. Moshe cried out to Hashem, saying: G-d, please heal her.
-Hashem said to Moshe: If her father had spit in her face, would she not quarantine for seven days? She shall be closed off outside the camp for seven days and then she shall come back. Miriam was quarantined outside of the camp for seven days, and the nation did not travel until Miriam was gathered in. Then the nation traveled from Chazerot and moved to Midbar Paran."**^[104]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וַתְּדַבֵּ֨ר מִרְיָ֤ם וְאַהֲרֹן֙ בְּמֹשֶׁ֔ה עַל אֹד֛וֹת הָאִשָּׁ֥ה הַכֻּשִׁ֖ית אֲשֶׁ֣ר לָקָ֑ח כִּֽי אִשָּׁ֥ה כֻשִׁ֖ית לָקָֽח׃ וַיֹּאמְר֗וּ הֲרַ֤ק אַךְ בְּמֹשֶׁה֙ דִּבֶּ֣ר יְהֹוָ֔ה הֲלֹ֖א גַּם בָּ֣נוּ דִבֵּ֑ר וַיִּשְׁמַ֖ע יְהֹוָֽה׃ וְהָאִ֥ישׁ מֹשֶׁ֖ה עָנָ֣ו מְאֹ֑ד מִכֹּל֙ הָֽאָדָ֔ם אֲשֶׁ֖ר עַל פְּנֵ֥י הָאֲדָמָֽה׃ וַיֹּ֨אמֶר יְהֹוָ֜ה פִּתְאֹ֗ם אֶל מֹשֶׁ֤ה וְאֶֽל אַהֲרֹן֙ וְאֶל מִרְיָ֔ם צְא֥וּ שְׁלׇשְׁתְּכֶ֖ם אֶל אֹ֣הֶל מוֹעֵ֑ד וַיֵּצְא֖וּ שְׁלׇשְׁתָּֽם׃ וַיֵּ֤רֶד יְהֹוָה֙ בְּעַמּ֣וּד עָנָ֔ן וַֽיַּעֲמֹ֖ד פֶּ֣תַח הָאֹ֑הֶל וַיִּקְרָא֙ אַהֲרֹ֣ן וּמִרְיָ֔ם וַיֵּצְא֖וּ שְׁנֵיהֶֽם׃ וַיֹּ֖אמֶר שִׁמְעוּ נָ֣א דְבָרָ֑י אִם יִֽהְיֶה֙ נְבִ֣יאֲכֶ֔ם יְהֹוָ֗ה בַּמַּרְאָה֙ אֵלָ֣יו אֶתְוַדָּ֔ע בַּחֲל֖וֹם אֲדַבֶּר בּֽוֹ׃ לֹא כֵ֖ן עַבְדִּ֣י מֹשֶׁ֑ה בְּכׇל בֵּיתִ֖י נֶאֱמָ֥ן הֽוּא׃ פֶּ֣ה אֶל פֶּ֞ה אֲדַבֶּר בּ֗וֹ וּמַרְאֶה֙ וְלֹ֣א בְחִידֹ֔ת וּתְמֻנַ֥ת יְהֹוָ֖ה יַבִּ֑יט וּמַדּ֙וּעַ֙ לֹ֣א יְרֵאתֶ֔ם לְדַבֵּ֖ר בְּעַבְדִּ֥י בְמֹשֶֽׁה׃ וַיִּֽחַר אַ֧ף יְהֹוָ֛ה בָּ֖ם וַיֵּלַֽךְ׃ וְהֶעָנָ֗ן סָ֚ר מֵעַ֣ל הָאֹ֔הֶל וְהִנֵּ֥ה מִרְיָ֖ם מְצֹרַ֣עַת כַּשָּׁ֑לֶג וַיִּ֧פֶן אַהֲרֹ֛ן אֶל מִרְיָ֖ם וְהִנֵּ֥ה מְצֹרָֽעַת׃ וַיֹּ֥אמֶר אַהֲרֹ֖ן אֶל מֹשֶׁ֑ה בִּ֣י אֲדֹנִ֔י אַל נָ֨א תָשֵׁ֤ת עָלֵ֙ינוּ֙ חַטָּ֔את אֲשֶׁ֥ר נוֹאַ֖לְנוּ וַאֲשֶׁ֥ר חָטָֽאנוּ׃ אַל נָ֥א תְהִ֖י כַּמֵּ֑ת אֲשֶׁ֤ר בְּצֵאתוֹ֙ מֵרֶ֣חֶם אִמּ֔וֹ וַיֵּאָכֵ֖ל חֲצִ֥י בְשָׂרֽוֹ׃ וַיִּצְעַ֣ק מֹשֶׁ֔ה אֶל יְהֹוָ֖ה לֵאמֹ֑ר אֵ֕ל נָ֛א רְפָ֥א נָ֖א לָֽהּ׃ וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל מֹשֶׁ֗ה וְאָבִ֙יהָ֙ יָרֹ֤ק יָרַק֙ בְּפָנֶ֔יהָ הֲלֹ֥א תִכָּלֵ֖ם שִׁבְעַ֣ת יָמִ֑ים תִּסָּגֵ֞ר שִׁבְעַ֤ת יָמִים֙ מִח֣וּץ לַֽמַּחֲנֶ֔ה וְאַחַ֖ר תֵּאָסֵֽף׃ וַתִּסָּגֵ֥ר מִרְיָ֛ם מִח֥וּץ לַֽמַּחֲנֶ֖ה שִׁבְעַ֣ת יָמִ֑ים וְהָעָם֙ לֹ֣א נָסַ֔ע עַד הֵאָסֵ֖ף מִרְיָֽם׃ וְאַחַ֛ר נָסְע֥וּ הָעָ֖ם מֵחֲצֵר֑וֹת וַֽיַּחֲנ֖וּ בְּמִדְבַּ֥ר פָּארָֽן׃**^[104]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Miriam and Aharon spoke against Moshe regarding the Cushite woman he had taken, for he had taken a Cushite woman. They said: Does Hashem only speak through Moshe - does He not also speak through us? Hashem heard. Now the man Moshe was very humble, more so than any other man on the face of the earth. Hashem said suddenly to Moshe, Aharon and Miriam: Go out to the ohel moed, all three of you. All three of them went out. Hashem descended in a pillar of cloud and stood opposite the tent, and called: Aharon and Miriam. The two of them went out. Hashem said: listen to my words. If you have a prophecy from Hashem, I reveal myself to him in a vision, and speak to him in a dream. It is not so with my servant Moshe, in all My house he is trusted. I speak to him mouth-to-mouth, not with a vision of riddles. He views the image of Hashem - why did you not fear to speak against My servant Moshe? Hashem got angry at them and left. The cloud left from the tent, and behold Miriam had tzara't like snow; Aharon turned to Miriam and behold she had tzara'at. Aharon said to Moshe: Please my master, do not lay sin upon us, for we have acted foolishly and sinned. Do not let her be like a dead person who, upon leaving his mother's womb, has his flesh half-eaten. Moshe cried out to Hashem, saying: G-d, please heal her. Hashem said to Moshe: If her father had spit in her face, would she not quarantine for seven days? She shall be closed off outside the camp for seven days and then she shall come back. Miriam was quarantined outside of the camp for seven days, and the nation did not travel until Miriam was gathered in. Then the nation traveled from Chazerot and moved to Midbar Paran."**^[104]{.underline}^**
+</div>
+</div>
 
 Miriam is afflicted with *tzara'at* as punishment for speaking ill about Moshe's wife,**^[105]{.underline}^** arguing that she and Aharon are prophets just like him. There is much ambiguity to this story and as expected a myriad of interpretations exist, for similar to most examples where aggadic ingenuity is found, the pesukim seem to conceal more than they reveal. Tzipporah has not been mentioned by the Torah since her father Yitro brought her back after being sent away (Shmot 18:2), and Miriam has not been mentioned since she led all the women in echoing praise to Hashem after *kriat yam suf* (Shmot 15:20-21). What, exactly, is the relationship between these sisters-in-law? Were they close, indifferent or hostile towards one another? A careful grammatical reading would suggest that Miriam spoke against Moshe regarding his relationship with Tzipporah, and not against Tzipporah herself, which would indicate that Miriam did not harbor negative feelings against Tzipporah per se. But then what was Miriam upset about, and why did Hashem punish her so severely?
 
 What is primarily motivating the midrashic approach to these questions is not only the contextual difficulties of this story in isolation, but the relevance of this episode to the rest of Torah. There is only one other explicit reference made to this incident, and even then the context is strictly regarding the halachot of *tzara'at*:
 
-*"In cases of an affliction of tzara'at be careful to do exactly as the
-Kohanaim instruct you. Take care to do as I have commanded them.
-Remember what Hashem your G-d did to Miriam on the way after you left Egypt."**^[106]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 הִשָּׁ֧מֶר בְּנֶֽגַע הַצָּרַ֛עַת לִשְׁמֹ֥ר מְאֹ֖ד וְלַעֲשׂ֑וֹת כְּכֹל֩ אֲשֶׁר יוֹר֨וּ אֶתְכֶ֜ם הַכֹּהֲנִ֧ים הַלְוִיִּ֛ם כַּאֲשֶׁ֥ר צִוִּיתִ֖ם תִּשְׁמְר֥וּ לַעֲשֽׂוֹת׃ זָכ֕וֹר אֵ֧ת אֲשֶׁר עָשָׂ֛ה יְהֹוָ֥ה אֱלֹהֶ֖יךָ לְמִרְיָ֑ם בַּדֶּ֖רֶךְ בְּצֵאתְכֶ֥ם מִמִּצְרָֽיִם׃**^[106]{.underline}^**
+</div>
+<div style="flex: 1;">
+"In cases of an affliction of tzara'at be careful to do exactly as the Kohanaim instruct you. Take care to do as I have commanded them. Remember what Hashem your G-d did to Miriam on the way after you left Egypt."**^[106]{.underline}^**
+</div>
+</div>
 
 Why is this story recorded in the Torah, seemingly materializing out of nowhere and without any obvious lasting repercussions? This is the only time all three of Amram's children are mentioned together, and therefore it should be relevant to any broader fundamental understanding of them as siblings on the one hand, and to a deeper understanding of each child's own self-contained family unit on the other. The key to unlocking this story will actually be in placing the stories found after this one in the text both geographically and chronologically, as a careful reading of the midrashim will demonstrate.
 
 **[Rashi's Approach]{.underline}**
 
-Bnai Yisrael spent nearly a year at Har Sinai, arriving in the beginning of the 3rd month and departing on the 20th of the 2nd month the following year.**^[107]{.underline}^** [We are told that the cloud rested in the desert of Paran:
+Bnai Yisrael spent nearly a year at Har Sinai, arriving in the beginning of the 3rd month and departing on the 20th of the 2nd month the following year.**^[107]{.underline}^** We are told that the cloud rested in the desert of Paran:
 
-*["In the second year, in the second month on the twentieth of the
-month, the cloud rose from atop the Mishkan of the testimony. Bnai Yisrael journeyed on their journeys, from Midbar Sinai, and the cloud rested in Midbar Paran." **(Bemidbar 10:11-12)***
-
-[וַיְהִי בַּשָּׁנָה הַשֵּׁנִית, בַּחֹדֶשׁ הַשֵּׁנִי בְּעֶשְׂרִים בַּחֹדֶשׁ; נַעֲלָה, הֶעָנָן, מֵעַל, מִשְׁכַּן הָעֵדֻת:
-וַיִּסְעוּ בְנֵי-יִשְׂרָאֵל לְמַסְעֵיהֶם, מִמִּדְבַּר סִינָי; וַיִּשְׁכֹּן הֶעָנָן, בְּמִדְבַּר פָּארָן: (במדבר י:יא-יב)]
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+וַיְהִי בַּשָּׁנָה הַשֵּׁנִית, בַּחֹדֶשׁ הַשֵּׁנִי בְּעֶשְׂרִים בַּחֹדֶשׁ; נַעֲלָה, הֶעָנָן, מֵעַל, מִשְׁכַּן הָעֵדֻת: וַיִּסְעוּ בְנֵי-יִשְׂרָאֵל לְמַסְעֵיהֶם, מִמִּדְבַּר סִינָי; וַיִּשְׁכֹּן הֶעָנָן, בְּמִדְבַּר פָּארָן: (במדבר י:יא-יב)
+</div>
+<div style="flex: 1;">
+"In the second year, in the second month on the twentieth of the month, the cloud rose from atop the Mishkan of the testimony. Bnai Yisrael journeyed on their journeys, from Midbar Sinai, and the cloud rested in Midbar Paran." (Bemidbar 10:11-12)
+</div>
+</div>
 
 This account seems to contradict what is recorded later on in Sefer Bemidbar:
 
-*["He named that place Kivrot HaTa'avah, since that was where the nation
-that desired was buried. From Kivrot HaTa'avah the nation journeyed to Chatzerot, and they were in Chatzerot." **(Bemidbar 11:34-35)***
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+וַיִּקְרָ֛א אֶת שֵֽׁם הַמָּק֥וֹם הַה֖וּא קִבְר֣וֹת הַֽתַּאֲוָ֑ה כִּי שָׁם֙ קָֽבְר֔וּ אֶת הָעָ֖ם הַמִּתְאַוִּֽים׃ מִקִּבְר֧וֹת הַֽתַּאֲוָ֛ה נָסְע֥וּ הָעָ֖ם חֲצֵר֑וֹת וַיִּהְי֖וּ בַּחֲצֵרֽוֹת׃ (במדבר יא: לד-לה)
+</div>
+<div style="flex: 1;">
+"He named that place Kivrot HaTa'avah, since that was where the nation that desired was buried. From Kivrot HaTa'avah the nation journeyed to Chatzerot, and they were in Chatzerot." (Bemidbar 11:34-35)
+</div>
+</div>
 
-*["After that the nation journeyed from Chatzerot, and encamped in
-Midbar Paran." **(Bemidbar 12:16)***
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+וְאַחַ֛ר נָסְע֥וּ הָעָ֖ם מֵחֲצֵר֑וֹת וַֽיַּחֲנ֖וּ בְּמִדְבַּ֥ר פָּארָֽן׃ (במדבר יב:טז)
+</div>
+<div style="flex: 1;">
+"After that the nation journeyed from Chatzerot, and encamped in Midbar Paran." (Bemidbar 12:16)
+</div>
+</div>
 
-*["Moshe sent the spies from Midbar Paran by the word of Hashem, all
-of them men, the heads of Bnai Yisrael." **(Bemidbar 13:3)***
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+וַיִּשְׁלַ֨ח אֹתָ֥ם מֹשֶׁ֛ה מִמִּדְבַּ֥ר פָּארָ֖ן עַל פִּ֣י יְהֹוָ֑ה כֻּלָּ֣ם אֲנָשִׁ֔ים רָאשֵׁ֥י בְנֵֽי יִשְׂרָאֵ֖ל הֵֽמָּה: (במדבר יג:ג)
+</div>
+<div style="flex: 1;">
+"Moshe sent the spies from Midbar Paran by the word of Hashem, all of them men, the heads of Bnai Yisrael." (Bemidbar 13:3)
+</div>
+</div>
 
-*["They went straight to Moshe and Aharon and the whole community of
-Bnai Yisrael at Kadesh in Midbar Paran, and they made their report to them and to the whole community, and showed them the fruit of the land."
-**(Bemidbar 13:26)***
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+וַיֵּלְכ֡וּ וַיָּבֹ֩אוּ֩ אֶל מֹשֶׁ֨ה וְאֶֽל אַהֲרֹ֜ן וְאֶל כׇּל עֲדַ֧ת בְּנֵֽי יִשְׂרָאֵ֛ל אֶל מִדְבַּ֥ר פָּארָ֖ן קָדֵ֑שָׁה וַיָּשִׁ֨יבוּ אֹתָ֤ם דָּבָר֙ וְאֶת כׇּל הָ֣עֵדָ֔ה וַיַּרְא֖וּם אֶת פְּרִ֥י הָאָֽרֶץ׃ (במדבר יג:כו)
+</div>
+<div style="flex: 1;">
+"They went straight to Moshe and Aharon and the whole community of Bnai Yisrael at Kadesh in Midbar Paran, and they made their report to them and to the whole community, and showed them the fruit of the land." (Bemidbar 13:26)
+</div>
+</div>
 
-*["They journeyed from Midbar Sinai, and encamped in Kivrot HaTa'avah.
-They journeyed from Kivrot HaTa'avah, and encamped in Chatzerot. They journeyed in Chatzerot, and encamped in Ritmah ..." **(Bemidbar 33:16-18)***
-
-[וַיִּקְרָ֛א אֶת שֵֽׁם הַמָּק֥וֹם הַה֖וּא קִבְר֣וֹת הַֽתַּאֲוָ֑ה כִּי שָׁם֙ קָֽבְר֔וּ אֶת הָעָ֖ם הַמִּתְאַוִּֽים׃ מִקִּבְר֧וֹת
-הַֽתַּאֲוָ֛ה נָסְע֥וּ הָעָ֖ם חֲצֵר֑וֹת וַיִּהְי֖וּ בַּחֲצֵרֽוֹת׃ (במדבר יא: לד-לה)]
-
-[וְאַחַ֛ר נָסְע֥וּ הָעָ֖ם מֵחֲצֵר֑וֹת וַֽיַּחֲנ֖וּ בְּמִדְבַּ֥ר פָּארָֽן׃ (במדבר
-יב:טז)]
-
-[וַיִּשְׁלַ֨ח אֹתָ֥ם מֹשֶׁ֛ה מִמִּדְבַּ֥ר פָּארָ֖ן עַל פִּ֣י יְהֹוָ֑ה כֻּלָּ֣ם אֲנָשִׁ֔ים רָאשֵׁ֥י בְנֵֽי יִשְׂרָאֵ֖ל הֵֽמָּה:
-(במדבר יג:ג)]
-
-[וַיֵּלְכ֡וּ וַיָּבֹ֩אוּ֩ אֶל מֹשֶׁ֨ה וְאֶֽל אַהֲרֹ֜ן וְאֶל כׇּל עֲדַ֧ת בְּנֵֽי יִשְׂרָאֵ֛ל אֶל מִדְבַּ֥ר פָּארָ֖ן קָדֵ֑שָׁה
-וַיָּשִׁ֨יבוּ אֹתָ֤ם דָּבָר֙ וְאֶת כׇּל הָ֣עֵדָ֔ה וַיַּרְא֖וּם אֶת פְּרִ֥י הָאָֽרֶץ׃ (במדבר יג:כו)]
-
-[וַיִּסְע֖וּ מִמִּדְבַּ֣ר סִינָ֑י וַֽיַּחֲנ֖וּ בְּקִבְרֹ֥ת הַֽתַּאֲוָֽה׃ וַיִּסְע֖וּ מִקִּבְרֹ֣ת הַֽתַּאֲוָ֑ה וַֽיַּחֲנ֖וּ בַּחֲצֵרֹֽת׃
-וַיִּסְע֖וּ מֵחֲצֵרֹ֑ת וַֽיַּחֲנ֖וּ בְּרִתְמָֽה׃ (במדבר לג: טז-יח)]
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+וַיִּסְע֖וּ מִמִּדְבַּ֣ר סִינָ֑י וַֽיַּחֲנ֖וּ בְּקִבְרֹ֥ת הַֽתַּאֲוָֽה׃ וַיִּסְע֖וּ מִקִּבְרֹ֣ת הַֽתַּאֲוָ֑ה וַֽיַּחֲנ֖וּ בַּחֲצֵרֹֽת׃ וַיִּסְע֖וּ מֵחֲצֵרֹ֑ת וַֽיַּחֲנ֖וּ בְּרִתְמָֽה׃ (במדבר לג: טז-יח)
+</div>
+<div style="flex: 1;">
+"They journeyed from Midbar Sinai, and encamped in Kivrot HaTa'avah. They journeyed from Kivrot HaTa'avah, and encamped in Chatzerot. They journeyed in Chatzerot, and encamped in Ritmah ..." (Bemidbar 33:16-18)
+</div>
+</div>
 
 In other words:
 
-(A) ***[Midbar Sinai → Midbar Paran / Kivrot HaTa'avah → Chatzerot → Midbar Paran / Kadesh (Bemidbar 10-13)***
-
-(B) ***[Midbar Sinai → Kivrot HaTa'avah → Chatzerot → Ritmah → etc (Bemidbar 33)***
+- Option 1 = Midbar Sinai → Midbar Paran / Kivrot HaTa'avah → Chatzerot → Midbar Paran / Kadesh (Bemidbar 10-13)
+- Option 2 = Midbar Sinai → Kivrot HaTa'avah → Chatzerot → Ritmah → etc (Bemidbar 33)
 
 This problem is easily resolved by accepting that Midbar Paran was not the name of a specific place but rather a region that encompassed and included several campsites within it. Kivrot HaTa'avah, Chatzerot and Ritmah were all located in Midbar Paran.**^[108]{.underline}^**
-
 
 This confusion opens the door for some elasticity in interpreting not just the locations of several key events, but also the order in which they occurred. We are told the story of Miriam afflicted with *tzara'at* happened in Chatzerot. But what about the following story, of the sin of the spies? We are told it happened in Midbar Paran, but as we just said that is a general area as opposed to a specific place. What we can say is that the spies were not sent from Chatzerot, since the people traveled from Chatzerot to wherever the sin of the spies occurred. We also know when the sin of the spies happened, since the consequence of that sin was the punishment to wander in the desert for 40 years. It must therefore have happened in the second year, soon after Bnai Yisrael left Har Sinai. This explains why the sin of the spies is recorded right after the story of Miriam in Chatzerot, since that makes the most sense chronologically.**^[109]{.underline}^**
 
 Identifying the time and place of Korach's rebellion - which follows the story of the spies - is more challenging. Not only is no geographic information provided at all, but unlike the spies it is not clear when the rebellion happened.**^[110]{.underline}^** Did Korach's rebellion happen after the sin of the spies, as a chronological reading would suggest?
 
-*"'Everyone is holy ... and why should you lord over' (Bemidbar 16:3).
-Immediately Moshe shook from the machloket, because this was already the fourth transgression on their hands. What is this comparable to? The son of a king who transgressed against his father, and the king's friend appeased him once, twice and thrice. When the son transgressed a fourth time, the hands of the king's friend became weak, and he said: how many times can I bother the king? So too here with Moshe regarding Yisrael. They sinned by the calf, 'Moshe pleaded' (Shmot 32:11); by the murmurers, 'Moshe prayed' (Bemidbar 11:2); by the spies, 'Moshe said to Hashem Egypt will hear' (Bemidbar 14:13); by the rebellion of Korach, his hands became weak, and he said: how many times can I bother HaMakom?
-Therefore: 'Moshe heard and he fell on his face' (Bemidbar 16:4)."**^[111]{.underline}^**
-
-[כֻּלָּם קְדוֹשִׁים, וּמַדּוּעַ תִּתְנַשְּׂאוּ (במדבר טז:ג). מִיָּד נִזְדַּעְזֵעַ מֹשֶׁה מִפְּנֵי הַמַּחֲלֹקֶת,
-מִפְּנֵי שֶׁכְּבָר הָיָה בְּיָדָן סִרָחוֹן רְבִיעִי. מָשָׁל לְמַה הַדָּבָר דּוֹמֶה. לְבֶן מֶלֶךְ שֶׁסָּרַח עַל אָבִיו, וּפִיֵּס עָלָיו אוֹהֲבוֹ פַּעַם אַחַת וּשְׁתַּיִם וְשָׁלֹש. כְּשֶׁסָּרַח פַּעַם רְבִיעִית, נִתְרַשְּׁלוּ יְדֵי אוֹהֲבוֹ שֶׁל מֶלֶךְ, אָמַר, כַּמָּה פְּעָמִים אֲנִי מַטְרִיחַ אֶת הַמֶּלֶךְ. אַף כָּאן עָשָׂה מֹשֶׁה לְיִשְׂרָאֵל. חָטְאוּ בָּעֵגֶל, וַיְחַל מֹשֶׁה (שמות לב, יא). בַּמִּתְאוֹנְנִים, וְיִתְפַּלֵּל מֹשֶׁה (במדבר יא, ב).
-בַּמְּרַגְּלִים, וַיֹּאמֶר מֹשֶׁה אֶל ה' וְשָׁמְעוּ מִצְרַיִם (שם יד, יג). בְּמַחֲלֻקְתוֹ שֶׁל קֹרַח, נִתְרַשְּׁלוּ יָדָיו. אָמַר, כַּמָּה אוּכַל לְהַטְרִיחַ אֶת הַמָּקוֹם. לְפִיכָךְ, וַיִּשְׁמַע מֹשֶׁה וַיִּפֹּל עַל פָּנָיו (שם טז, ד):**^[111]{.underline}^**
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+כֻּלָּם קְדוֹשִׁים, וּמַדּוּעַ תִּתְנַשְּׂאוּ (במדבר טז:ג). מִיָּד נִזְדַּעְזֵעַ מֹשֶׁה מִפְּנֵי הַמַּחֲלֹקֶת, מִפְּנֵי שֶׁכְּבָר הָיָה בְּיָדָן סִרָחוֹן רְבִיעִי. מָשָׁל לְמַה הַדָּבָר דּוֹמֶה. לְבֶן מֶלֶךְ שֶׁסָּרַח עַל אָבִיו, וּפִיֵּס עָלָיו אוֹהֲבוֹ פַּעַם אַחַת וּשְׁתַּיִם וְשָׁלֹש. כְּשֶׁסָּרַח פַּעַם רְבִיעִית, נִתְרַשְּׁלוּ יְדֵי אוֹהֲבוֹ שֶׁל מֶלֶךְ, אָמַר, כַּמָּה פְּעָמִים אֲנִי מַטְרִיחַ אֶת הַמֶּלֶךְ. אַף כָּאן עָשָׂה מֹשֶׁה לְיִשְׂרָאֵל. חָטְאוּ בָּעֵגֶל, וַיְחַל מֹשֶׁה (שמות לב, יא). בַּמִּתְאוֹנְנִים, וְיִתְפַּלֵּל מֹשֶׁה (במדבר יא, ב). בַּמְּרַגְּלִים, וַיֹּאמֶר מֹשֶׁה אֶל ה' וְשָׁמְעוּ מִצְרַיִם (שם יד, יג). בְּמַחֲלֻקְתוֹ שֶׁל קֹרַח, נִתְרַשְּׁלוּ יָדָיו. אָמַר, כַּמָּה אוּכַל לְהַטְרִיחַ אֶת הַמָּקוֹם. לְפִיכָךְ, וַיִּשְׁמַע מֹשֶׁה וַיִּפֹּל עַל פָּנָיו (שם טז, ד):**^[111]{.underline}^**
+</div>
+<div style="flex: 1;">
+"'Everyone is holy ... and why should you lord over' (Bemidbar 16:3). Immediately Moshe shook from the machloket, because this was already the fourth transgression on their hands. What is this comparable to? The son of a king who transgressed against his father, and the king's friend appeased him once, twice and thrice. When the son transgressed a fourth time, the hands of the king's friend became weak, and he said: how many times can I bother the king? So too here with Moshe regarding Yisrael. They sinned by the calf, 'Moshe pleaded' (Shmot 32:11); by the murmurers, 'Moshe prayed' (Bemidbar 11:2); by the spies, 'Moshe said to Hashem Egypt will hear' (Bemidbar 14:13); by the rebellion of Korach, his hands became weak, and he said: how many times can I bother HaMakom? Therefore: 'Moshe heard and he fell on his face' (Bemidbar 16:4)."**^[111]{.underline}^**
+</div>
+</div>
 
 Moshe's hands were weak because Korach was already the fourth transgression, thus indicating that Korach's rebellion took place after the sin of the spies. This is perhaps the most straightforward understanding and one that is easiest to explain, both because it is the order in which the stories are presented in, and because it frames the impetus for Korach's rebellion as a consequence of the devastating pronouncement of 40 years in the desert. The discontent and anger felt by the people in the aftermath of the deferred redemption helped fuel Korach's cause.
 
 Rashi in his comments on Chumash to Bemidbar 16:4 quotes this Tanchuma Yelamdenu Korach, indicating his agreement with this interpretation. Yet in his comments to the beginning of Sefer Devarim Rashi offers another opinion, one that on the surface seems difficult to understand:
 
-*["These are the words that Moses spoke to all Yisrael on the other side
-of the Jordan: in the desert, in the Aravah near Suph, between Paran and Tophel, Lavan, Chatzerot, and Di Zahav. It is eleven days from Chorev i.e. Har Sinai to Kadesh Barnea where the sin of the spies occurred via Har Seir."**^[112]{.underline}^** *[(Devarim 1:1-2)*
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+אֵ֣לֶּה הַדְּבָרִ֗ים אֲשֶׁ֨ר דִּבֶּ֤ר מֹשֶׁה֙ אֶל כׇּל יִשְׂרָאֵ֔ל בְּעֵ֖בֶר הַיַּרְדֵּ֑ן בַּמִּדְבָּ֡ר בָּֽעֲרָבָה֩ מ֨וֹל ס֜וּף בֵּֽין פָּארָ֧ן וּבֵֽין תֹּ֛פֶל וְלָבָ֥ן וַחֲצֵרֹ֖ת וְדִ֥י זָהָֽב׃ אַחַ֨ד עָשָׂ֥ר יוֹם֙ מֵֽחֹרֵ֔ב דֶּ֖רֶךְ הַר שֵׂעִ֑יר עַ֖ד קָדֵ֥שׁ בַּרְנֵֽעַ׃**^[112]{.underline}^**
+</div>
+<div style="flex: 1;">
+"These are the words that Moses spoke to all Yisrael on the other side of the Jordan: in the desert, in the Aravah near Suph, between Paran and Tophel, Lavan, Chatzerot, and Di Zahav. It is eleven days from Chorev i.e. Har Sinai to Kadesh Barnea where the sin of the spies occurred via Har Seir."**^[112]{.underline}^** (Devarim 1:1-2)
+</div>
+</div>
 
-[אֵ֣לֶּה הַדְּבָרִ֗ים אֲשֶׁ֨ר דִּבֶּ֤ר מֹשֶׁה֙ אֶל כׇּל יִשְׂרָאֵ֔ל בְּעֵ֖בֶר הַיַּרְדֵּ֑ן בַּמִּדְבָּ֡ר בָּֽעֲרָבָה֩ מ֨וֹל ס֜וּף בֵּֽין
-פָּארָ֧ן וּבֵֽין תֹּ֛פֶל וְלָבָ֥ן וַחֲצֵרֹ֖ת וְדִ֥י זָהָֽב׃ אַחַ֨ד עָשָׂ֥ר יוֹם֙ מֵֽחֹרֵ֔ב דֶּ֖רֶךְ הַר שֵׂעִ֑יר עַ֖ד קָדֵ֥שׁ בַּרְנֵֽעַ׃**^[112]{.underline}^**
-
-*"'And Chatzerot'. The place of the rebellion of Korach. Another
-idea: HaKadosh Baruch Hu said to Bnai Yisrael, you should have learned from what I did to Miriam in Chatzerot over lashon hara, yet you still spoke against HaMakom."**^[113]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וחצרת. בְּמַחְלָקְתּוֹ שֶׁל קֹרַח; דָּבָר אַחֵר אָמַר לָהֶם הָיָה לָכֶם לִלְמֹד מִמַּה שֶּׁעָשִׂיתִי לְמִרְיָם בַּחֲצֵרוֹת בִּשְׁבִיל לָשׁוֹן הָרָע, וְאַתֶּם נִדְבַּרְתֶּם בַּמָּקוֹם:**^[113]{.underline}^**
+</div>
+<div style="flex: 1;">
+'And Chatzerot'. The place of the rebellion of Korach. Another idea: HaKadosh Baruch Hu said to Bnai Yisrael, you should have learned from what I did to Miriam in Chatzerot over lashon hara, yet you still spoke against HaMakom."**^[113]{.underline}^**
+</div>
+</div>
 
 Rashi believes that the list of locations Sefer Devarim opens with are allusions to places where Bnai Yisrael had sinned during their 40 years of wandering in the desert,**^[114]{.underline}^** and Chatzerot is one of the locations on that list. However, Rashi's first approach forces us to interpret the three stories of Miriam's *tzara'at* affliction, the sin of the spies, and Korach's rebellion anachronistically, for if the stories involving Miriam and Korach both happened at Chatzerot, Korach's rebellion must have preceded the sin of the spies, which only unfolded after Bnai Yisrael had traveled from Chatzerot to Kadesh. If this were not challenging enough to accept, Rashi himself constrains the amount of time Bnai Yisrael spent in Chatzerot to exactly seven days, and no longer: Miriam spoke against Moshe and was stricken with *tzara'at* on the first day in Chatzerot, and Bnai Yisrael left after seven days when her mandatory quarantine had ended.**^[115]{.underline}^** In other words, Korach's rebellion took place during that seven day period while the nation was waiting at Chatzerot for Miriam's quarantine to end.
 
@@ -2245,32 +2272,35 @@ Bnai Yisrael encamped and traveled during their wanderings through the desert ba
 
 It is rather striking, then, that a mere two chapters later we are told of an explicit violation of this rule. After Hashem's anger is kindled at Miriam and Aharon at Chatzerot, this cloud rises up and reveals Miriam afflicted with *tzara'at* like snow. Hashem then commands that Miriam should be shut up outside of the camp for seven days, and only after Miriam was gathered back into the camp did Bnai Yisrael travel from Chatzerot (Bemidbar 12:9-10, 14-15). Does this not fly in the face of the confident, thrice repeated assertion from Bemidbar 10 that Bnai Yisrael kept the charge of Hashem and always journeyed when the cloud rose from the Mishkan? How then could Bnai Yisrael have waited seven days until Miriam's quarantine had ended?
 
-Seforno notes this problem and suggests that Bnai Yisrael understood this was a unique circumstance, and inferred that in this situation HaKadosh Baruch Hu actually did not want the nation to travel. His cloud had risen, not as an indication to begin the next journey, but in order to distance Himself from the impurity of Miriam's
-*tzara'at*.**^[120]{.underline}^** [
+Seforno notes this problem and suggests that Bnai Yisrael understood this was a unique circumstance, and inferred that in this situation HaKadosh Baruch Hu actually did not want the nation to travel. His cloud had risen, not as an indication to begin the next journey, but in order to distance Himself from the impurity of Miriam's *tzara'at*.**^[120]{.underline}^**
 
 The midrash is troubled by a similar question but resolves it differently. Instead of the people's delay being a reflection of HaKadosh Baruch Hu's anger - as Seforno suggests - it is seemingly quite the opposite: a sign of His love and desire to reward good righteousness:**^[121]{.underline}^**
 
-*Miriam waited for Moshe for a short period, as it says: 'His sister
-waited for him from afar' (Shmot 2:4). Therefore, Yisrael waited for her for seven days in the desert, as it says: 'The nation did not journey until Miriam was brought in (Bemidbar 12:15).'"**^[122]{.underline}^**
-
-[מִרְיָם הִמְתִּינָה לְמֹשֶׁה שָׁעָה אַחַת שֶׁנֶּאֱמַר וַתֵּתַצַּב אֲחוֹתוֹ מֵרָחוֹק (שמות ב:ד) לְפִיכָךְ
-נִתְעַכְּבוּ לָהּ יִשְׂרָאֵל שִׁבְעָה יָמִים בַּמִּדְבָּר שֶׁנֶּאֱמַר וְהָעָם לֹא נָסַע עַד הֵאָסֵף מִרְיָם (במדבר יב:טו):**^[122]{.underline}^**
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+מִרְיָם הִמְתִּינָה לְמֹשֶׁה שָׁעָה אַחַת שֶׁנֶּאֱמַר וַתֵּתַצַּב אֲחוֹתוֹ מֵרָחוֹק (שמות ב:ד) לְפִיכָךְ נִתְעַכְּבוּ לָהּ יִשְׂרָאֵל שִׁבְעָה יָמִים בַּמִּדְבָּר שֶׁנֶּאֱמַר וְהָעָם לֹא נָסַע עַד הֵאָסֵף מִרְיָם (במדבר יב:טו):**^[122]{.underline}^**
+</div>
+<div style="flex: 1;">
+Miriam waited for Moshe for a short period, as it says: 'His sister waited for him from afar' (Shmot 2:4). Therefore, Yisrael waited for her for seven days in the desert, as it says: 'The nation did not journey until Miriam was brought in (Bemidbar 12:15).'"**^[122]{.underline}^**
+</div>
+</div>
 
 There is a later version of this same midrashic tradition that embellishes Sotah's teaching:
 
-*"'The nation did not journey. This teaches you that the way a man
-measures, that is how others measure him. Miriam waited for Moshe for a short period, as it says: 'His sister waited for him from afar' (Shmot 2:4). Therefore, HaKadosh Baruch Hu held up the Aron and Shechinah, Kohanim Leviim and Yisraelim, and the seven clouds of glory on her behalf, as it says: 'The nation did not journey until Miriam was brought in (Bemidbar 12:15).'"**^[123]{.underline}^**
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+והעם לא נסע ללמדך שבמדה שאדם מודד בה מודדין לו, מרים המתינה למשה שעה אחת שנאמר ותתצב אחותו מרחוק [(שמות ב:ד)] לפיכך עכב לה הקב"ה ארון ושכינה כהנים ולוים וישראלים ושבעה ענני כבוד שנא' והעם לא נסע עד האסף מרים (במדבר יב:טו):**^[123]{.underline}^**
+</div>
+<div style="flex: 1;">
+"'The nation did not journey. This teaches you that the way a man measures, that is how others measure him. Miriam waited for Moshe for a short period, as it says: 'His sister waited for him from afar' (Shmot 2:4). Therefore, HaKadosh Baruch Hu held up the Aron and Shechinah, Kohanim Leviim and Yisraelim, and the seven clouds of glory on her behalf, as it says: 'The nation did not journey until Miriam was brought in (Bemidbar 12:15).'"**^[123]{.underline}^**
+</div>
+</div>
 
-והעם לא נסע ללמדך שבמדה שאדם מודד בה מודדין לו, מרים המתינה למשה שעה אחת שנאמר ותתצב אחותו מרחוק [(שמות ב:ד)] לפיכך עכב לה הקב"ה ארון ושכינה כהנים ולוים וישראלים ושבעה ענני כבוד שנא' והעם לא נסע עד האסף מרים [(במדבר יב:טו):**^[123]{.underline}^**
-
-There is an important difference between the version found in Sotah and the one in Yalkut Shimoni, namely regarding the question of who sanctioned the week-long delay. According to Sotah, Bnai Yisrael on their own decided to wait for Miriam; while it was based on their understanding of Hashem's will, it was still a human-initiated decision.
-Perhaps the later iteration of this midrash found in Yalkut Shimoni is bothered by this, and is not satisfied with claiming that the nation somehow realized this time that Hashem wanted them to delay. After all, even for journeys of just one or two days the people would immediately depart when the cloud rose. It must be that the seven day delay was not merely sanctioned by Hashem after the fact; rather, it was actively caused by Him. The language found in Yalkut Shimoni is much stronger and more explicit, effectively removing the decision to delay from Bnai Yisrael and having HaKadosh Baruch Hu instead as the primary deciding force in the story.
+There is an important difference between the version found in Sotah and the one in Yalkut Shimoni, namely regarding the question of who sanctioned the week-long delay. According to Sotah, Bnai Yisrael on their own decided to wait for Miriam; while it was based on their understanding of Hashem's will, it was still a human-initiated decision. Perhaps the later iteration of this midrash found in Yalkut Shimoni is bothered by this, and is not satisfied with claiming that the nation somehow realized this time that Hashem wanted them to delay. After all, even for journeys of just one or two days the people would immediately depart when the cloud rose. It must be that the seven day delay was not merely sanctioned by Hashem after the fact; rather, it was actively caused by Him. The language found in Yalkut Shimoni is much stronger and more explicit, effectively removing the decision to delay from Bnai Yisrael and having HaKadosh Baruch Hu instead as the primary deciding force in the story.
 
 Is there a *nafka mina* between these two approaches? Let us consider the following: if Bnai Yisrael had in fact journeyed onward in the desert when the cloud rose from atop the tent, presumably Miriam would have journeyed in lockstep with the rest of the camp for seven days while keeping the necessary distance. According to Sotah, the decision to postpone the departure was made by Bnai Yisrael, and while Hashem clearly acquiesced perhaps He would not have insisted on that delay beforehand. Had Bnai Yisrael instead actually started to journey once His cloud rose, perhaps He would have been amenable to that. In contrast, this outcome was never a viable option for Yalkut Shimoni: it was Hashem Himself who ordered the people to wait seven days, thereby breaking from the general "charge" of traveling when the cloud rises or rests. While this was an exception to the usual rules of the cloud's departure, it was not a violation of that charge because Hashem had commanded them to stay put, so there is no contradiction.
 
-A profound *hashkafic* debate may also be underpinning the nuanced differences between these two midrashim. When we say that Hashem rewards those who act righteously, *middah keneged middah*, does this mean to say that He directly intervenes to ensure that justice is meted out, even at the cost of human free will? Or does it mean that the way events unfold in the world on a macro level somehow will end up squaring with this principle and working out the way they should? For Sotah, it was Bnai Yisrael who decided to wait for Miriam, thereby rewarding her for her attentiveness to baby Moshe eighty years earlier. The fulfillment of
-*middah keneged middah* in this instance happens through the Jewish
-people as a collective agent of the Divine will. For Yalkut Shimoni, it is Hakadosh Baruch Hu who directly insists on postponing any departure for seven days in order to ensure that Miriam is rewarded for her sisterly concern. Seen in this light *middah keneged middah* is upheld as a result of explicit Divine intervention.
+A profound *hashkafic* debate may also be underpinning the nuanced differences between these two midrashim. When we say that Hashem rewards those who act righteously, *middah keneged middah*, does this mean to say that He directly intervenes to ensure that justice is meted out, even at the cost of human free will? Or does it mean that the way events unfold in the world on a macro level somehow will end up squaring with this principle and working out the way they should? For Sotah, it was Bnai Yisrael who decided to wait for Miriam, thereby rewarding her for her attentiveness to baby Moshe eighty years earlier. The fulfillment of *middah keneged middah* in this instance happens through the Jewish people as a collective agent of the Divine will. For Yalkut Shimoni, it is Hakadosh Baruch Hu who directly insists on postponing any departure for seven days in order to ensure that Miriam is rewarded for her sisterly concern. Seen in this light *middah keneged middah* is upheld as a result of explicit Divine intervention.
 
 There is a third ramification as well to whether it was Hashem or Bnai Yisrael who caused a break from the usual routine of leaving camp when His cloud rises: who is to blame - *keveyachol* - for any negative consequences of that delay. If Korach's rebellion transpired during that waiting period, as Rashi argues, then perhaps the circumstances which needed to align to allow the seeds of revolt to blossom would not have occurred, and disaster could have been averted. However, this last suggestion is troubling because both according to Sotah and Yalkut Shimoni the motivation for delaying leaving Chatzerot was for the right reason: to acknowledge Miriam's protectiveness over Moshe. But if the reason for waiting was in order to recognize the righteousness in that aspect of Miriam's personality, then how could that decision possibly set the stage for Korach's rebellion?
 
@@ -2278,37 +2308,41 @@ There is a third ramification as well to whether it was Hashem or Bnai Yisrael w
 
 Miriam's *lashon hara* against Moshe stemmed from her indignation that he had separated from his spouse, something she and Aharon had not been required to do:
 
-*"Why does the Torah say Miriam and then Aharon? Because she spoke
-against Moshe first, and that is why the text mentioned her before Aharon. What did they say? 'Did Hashem only speak through Moshe' (Bemidbar 12:2), meaning, did Hashem only speak through Moshe, who separated from his wife? 'Did He not also speak through us' - He also spoke with us and we did not separate from the natural way relations with our spouses. How did Miriam know that Moshe had separated from women? Rabbi Natan says: Miriam was next to Tzipporah when Moshe was told 'Eldad and Meidad are prophesying in the camp' (Bemidbar 11:27).
-When Tzipporah heard this, she said: woe to them and their wives. And from when had Moshe separated from the natural way? From the time that HaKadosh Baruch Hu had said to Moshe at Sinai before Matan Torah, that he should sanctify the nation and he said to them: 'For three days do not come near your wife' (Shmot 19:15). The people separated from their wives and Moshe separated from his wife. After Matan Torah, however, HaKadosh Baruch Hu said to Moshe: 'Go say to them, return to your tents; but you, come stand with Me' (Devarim 5:30-31), and do not go back to the natural way. And when Tzipporah said: Woe to their wives, she meant because they are not susceptible to prophecy so they will separate from their wives just as my husband Moshe separated from me. That is how Miriam knew, and she told Aharon. And if Miriam, who did not have any ill intent towards Moshe, was punished, someone who speaks ill of his fellow and says lashon hara* - *how much more so should such a person be stricken with tzara'at ... 'Hashem said suddenly (Bemidbar 12:4), that He appeared to Miriam and Aharon suddenly, and they were impure because of the natural way i.e. were having relations with their spouses, and they called out 'water water'. He did this to let them know that Moshe had done well to separate from his wife, since the Shechinah reveals Herself to him constantly and there is no set time for receiving it. And He also said to them: 'I speak with Moshe mouth to mouth' (Bemidbar 12:8) - I said to him mouth to mouth to separate from his wife."**^[124]{.underline}^**
-
-[וְלָמָּה אָמַר תְּחִלָּה מִרְיָם וְאַחַר כָּךְ אַהֲרֹן. אֶלָּא שֶׁהִיא פָּתְחָה בַּדָּבָר תְּחִלָּה, וּלְפִיכָךְ
-הִקְדִּימָהּ הַכָּתוּב. וּמָה אָמְרוּ, הֲרַק אַךְ בְּמֹשֶׁה דִּבֵּר ה' (במדבר יב, ב), כְּלוֹמַר, בְּמֹשֶׁה דִּבֵּר ה' לְבַדּוֹ, שֶׁפָּרַשׁ מֵאִשְׁתּוֹ. הֲלֹא גַּם בָּנוּ דִּבֵּר (שם), כְּמוֹ כֵן דִּבֵּר עִמָּנוּ וְלֹא פָּרַשְׁנוּ מִדֶּרֶךְ אֶרֶץ. וּמִנַּיִן הָיְתָה יוֹדַעַת מִרְיָם שֶׁפָּרַשׁ מֹשֶׁה מִן הָאִשָּׁה. רַבִּי נָתַן אוֹמֵר, מִרְיָם הָיְתָה בְּצַד צִפּוֹרָהּ כְּשֶׁאָמְרוּ לְמֹשֶׁה אֶלְדָּד וּמֵידָד מִתְנַבְּאִים בַּמַּחֲנֶה (שם יא, כז). וְכֵיוָן שֶׁשָּׁמְעָה צִפּוֹרָהּ, אָמְרָה, אוֹי לָהֶם לִנְשׁוֹתֵיהֶם שֶׁל אֵלּוּ. וּמֵאֵיזֶה זְמַן פָּרַשׁ מֹשֶׁה מִדֶּרֶךְ אֶרֶץ, אֶלָּא בְּשָׁעָה שֶׁאָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְמֹשֶׁה בְּסִינַי קֹדֶם מַתַּן תּוֹרָה שֶׁיְּקַדֵּשׁ אֶת הָעָם וְאָמַר לָהֶם: לִשְׁלֹשֶת יָמִים אֶל תִּגְּשׁוּ אֶל אִשָּׁה (שמות יט, טו), פָּרְשׁוּ הֵם מִנְּשׁוֹתֵיהֶם וּפָרַשׁ מֹשֶׁה מֵאִשְׁתּוֹ. וְאַחַר מַתַּן תּוֹרָהּ אָמַר לֵיהּ הַקָּדוֹשׁ בָּרוּךְ הוּא, לֵךְ אֱמֹר לָהֶם, שׁוּבוּ לָכֶם לְאָהֳלֵיכֶם, וְאַתָּה פֹּה עֲמֹד עִמָּדִי (דברים ה, ל-לא), וְאַל תָּשׁוּב לְדֶרֶךְ אֶרֶץ. וּכְשֶׁאָמְרָה צִפּוֹרָהּ אוֹי לִנְשׁוֹתֵיהֶן שֶׁל אֵלּוּ, הֵן נִזְקָקִין לִנְבוּאָה שֶׁיְּהוּ פּוֹרְשִׁין מִנְּשׁוֹתֵיהֶם כְּמוֹ שֶׁפָּרַשׁ בַּעֲלֵי הֵימֶנִּי. וּמִשָּׁם יָדְעָה מִרְיָם וְהִגִּידָה לְאַהֲרֹן. וּמַה מִּרְיָם שֶׁלֹּא נִתְכַּוְּנָה לִגְנוּתוֹ שֶׁל מֹשֶׁה, נֶעֶנְשָׁה. קַל וָחֹמֶר לַמְסַפֵּר בִּגְנוּתוֹ שֶׁל חֲבֵרוֹ וּבְלָשׁוֹן הָרַע, יִלְקֶה הָאָדָם בְּצָרַעַת ... וַיֹּאמֶר ה' פִּתְאֹם (במדבר יב, ד). שֶׁנִּגְלָה עִמָּהֶם פִּתְאֹם, וְהֵם טְמֵאִים בְּדֶרֶךְ אֶרֶץ וְהָיוּ צוֹעֲקִים מַיִם מַיִם, לְהוֹדִיעָם שֶׁיָּפֶה עָשָׂה מֹשֶׁה שֶׁפָּרַשׁ מֵאִשְׁתּוֹ, אַחַר שֶׁנִּגְלֵית שְׁכִינָה עָלָיו תָּדִיר וְאֵין עֵת קָבוּעַ לַדִּבּוּר. וְכֵן אָמַר לָהֶם: פֶּה אֶל פֶּה אֶדָּבֵר בּוֹ (במדבר יב, ח), פֶּה אֶל פֶּה אָמַרְתִּי לוֹ לִפְרֹשׁ מִן הָאִשָּׁה:**^[124]{.underline}^**
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+וְלָמָּה אָמַר תְּחִלָּה מִרְיָם וְאַחַר כָּךְ אַהֲרֹן. אֶלָּא שֶׁהִיא פָּתְחָה בַּדָּבָר תְּחִלָּה, וּלְפִיכָךְ הִקְדִּימָהּ הַכָּתוּב. וּמָה אָמְרוּ, הֲרַק אַךְ בְּמֹשֶׁה דִּבֵּר ה' (במדבר יב, ב), כְּלוֹמַר, בְּמֹשֶׁה דִּבֵּר ה' לְבַדּוֹ, שֶׁפָּרַשׁ מֵאִשְׁתּוֹ. הֲלֹא גַּם בָּנוּ דִּבֵּר (שם), כְּמוֹ כֵן דִּבֵּר עִמָּנוּ וְלֹא פָּרַשְׁנוּ מִדֶּרֶךְ אֶרֶץ. וּמִנַּיִן הָיְתָה יוֹדַעַת מִרְיָם שֶׁפָּרַשׁ מֹשֶׁה מִן הָאִשָּׁה. רַבִּי נָתַן אוֹמֵר, מִרְיָם הָיְתָה בְּצַד צִפּוֹרָהּ כְּשֶׁאָמְרוּ לְמֹשֶׁה אֶלְדָּד וּמֵידָד מִתְנַבְּאִים בַּמַּחֲנֶה (שם יא, כז). וְכֵיוָן שֶׁשָּׁמְעָה צִפּוֹרָהּ, אָמְרָה, אוֹי לָהֶם לִנְשׁוֹתֵיהֶם שֶׁל אֵלּוּ. וּמֵאֵיזֶה זְמַן פָּרַשׁ מֹשֶׁה מִדֶּרֶךְ אֶרֶץ, אֶלָּא בְּשָׁעָה שֶׁאָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְמֹשֶׁה בְּסִינַי קֹדֶם מַתַּן תּוֹרָה שֶׁיְּקַדֵּשׁ אֶת הָעָם וְאָמַר לָהֶם: לִשְׁלֹשֶת יָמִים אֶל תִּגְּשׁוּ אֶל אִשָּׁה (שמות יט, טו), פָּרְשׁוּ הֵם מִנְּשׁוֹתֵיהֶם וּפָרַשׁ מֹשֶׁה מֵאִשְׁתּוֹ. וְאַחַר מַתַּן תּוֹרָהּ אָמַר לֵיהּ הַקָּדוֹשׁ בָּרוּךְ הוּא, לֵךְ אֱמֹר לָהֶם, שׁוּבוּ לָכֶם לְאָהֳלֵיכֶם, וְאַתָּה פֹּה עֲמֹד עִמָּדִי (דברים ה, ל-לא), וְאַל תָּשׁוּב לְדֶרֶךְ אֶרֶץ. וּכְשֶׁאָמְרָה צִפּוֹרָהּ אוֹי לִנְשׁוֹתֵיהֶן שֶׁל אֵלּוּ, הֵן נִזְקָקִין לִנְבוּאָה שֶׁיְּהוּ פּוֹרְשִׁין מִנְּשׁוֹתֵיהֶם כְּמוֹ שֶׁפָּרַשׁ בַּעֲלֵי הֵימֶנִּי. וּמִשָּׁם יָדְעָה מִרְיָם וְהִגִּידָה לְאַהֲרֹן. וּמַה מִּרְיָם שֶׁלֹּא נִתְכַּוְּנָה לִגְנוּתוֹ שֶׁל מֹשֶׁה, נֶעֶנְשָׁה. קַל וָחֹמֶר לַמְסַפֵּר בִּגְנוּתוֹ שֶׁל חֲבֵרוֹ וּבְלָשׁוֹן הָרַע, יִלְקֶה הָאָדָם בְּצָרַעַת ... וַיֹּאמֶר ה' פִּתְאֹם (במדבר יב, ד). שֶׁנִּגְלָה עִמָּהֶם פִּתְאֹם, וְהֵם טְמֵאִים בְּדֶרֶךְ אֶרֶץ וְהָיוּ צוֹעֲקִים מַיִם מַיִם, לְהוֹדִיעָם שֶׁיָּפֶה עָשָׂה מֹשֶׁה שֶׁפָּרַשׁ מֵאִשְׁתּוֹ, אַחַר שֶׁנִּגְלֵית שְׁכִינָה עָלָיו תָּדִיר וְאֵין עֵת קָבוּעַ לַדִּבּוּר. וְכֵן אָמַר לָהֶם: פֶּה אֶל פֶּה אֶדָּבֵר בּוֹ (במדבר יב, ח), פֶּה אֶל פֶּה אָמַרְתִּי לוֹ לִפְרֹשׁ מִן הָאִשָּׁה:**^[124]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Why does the Torah say Miriam and then Aharon? Because she spoke against Moshe first, and that is why the text mentioned her before Aharon. What did they say? 'Did Hashem only speak through Moshe' (Bemidbar 12:2), meaning, did Hashem only speak through Moshe, who separated from his wife? 'Did He not also speak through us' - He also spoke with us and we did not separate from the natural way relations with our spouses. How did Miriam know that Moshe had separated from women? Rabbi Natan says: Miriam was next to Tzipporah when Moshe was told 'Eldad and Meidad are prophesying in the camp' (Bemidbar 11:27). When Tzipporah heard this, she said: woe to them and their wives. And from when had Moshe separated from the natural way? From the time that HaKadosh Baruch Hu had said to Moshe at Sinai before Matan Torah, that he should sanctify the nation and he said to them: 'For three days do not come near your wife' (Shmot 19:15). The people separated from their wives and Moshe separated from his wife. After Matan Torah, however, HaKadosh Baruch Hu said to Moshe: 'Go say to them, return to your tents; but you, come stand with Me' (Devarim 5:30-31), and do not go back to the natural way. And when Tzipporah said: Woe to their wives, she meant because they are not susceptible to prophecy so they will separate from their wives just as my husband Moshe separated from me. That is how Miriam knew, and she told Aharon. And if Miriam, who did not have any ill intent towards Moshe, was punished, someone who speaks ill of his fellow and says lashon hara* - *how much more so should such a person be stricken with tzara'at ... 'Hashem said suddenly (Bemidbar 12:4), that He appeared to Miriam and Aharon suddenly, and they were impure because of the natural way i.e. were having relations with their spouses, and they called out 'water water'. He did this to let them know that Moshe had done well to separate from his wife, since the Shechinah reveals Herself to him constantly and there is no set time for receiving it. And He also said to them: 'I speak with Moshe mouth to mouth' (Bemidbar 12:8) - I said to him mouth to mouth to separate from his wife."**^[124]{.underline}^**
+</div>
+</div>
 
 Tzipporah had returned to reunite with the father of her children, only to have her husband Moshe separate from her because of his need to be in a constant state of preparedness to receive prophecy from HaKadosh Baruch Hu.**^[125]{.underline}^** Miriam did not realize that Moshe's level of prophecy was unique and as such demanded a higher level of sacrifice than what He need from either her or Aharon. While the Rabbis acknowledge Miriam's *lashon hara* was not proper, as is incontrovertibly evidenced by her punishment, they argue that her intention was actually good, thus teaching an important message about how careful we need to be with our words.**^[126]{.underline}^** Yet while we can understand why she would feel indignant on Tzipporah's behalf upon discovering Moshe's decision, is that really enough of a reason to explain her maligning his actions?
 
 Miriam's assertion that she is a prophetess is indeed confirmed by the Torah, which labels her a *nevi'ah* in the aftermath *kriat yam suf*:
 
-*"Miriam the nevi'ah, the sister of Aharon, took the tambourine in her
-hand, and all the women went out after her with drums and dance. Miriam answered them: Sing to Hashem, for He has triumphed gloriously; He has hurled horse and chariot into the sea."**^[127]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וַתִּקַּח֩ מִרְיָ֨ם הַנְּבִיאָ֜ה אֲח֧וֹת אַהֲרֹ֛ן אֶת הַתֹּ֖ף בְּיָדָ֑הּ וַתֵּצֶ֤אןָ כׇֽל הַנָּשִׁים֙ אַחֲרֶ֔יהָ בְּתֻפִּ֖ים וּבִמְחֹלֹֽת׃ וַתַּ֥עַן לָהֶ֖ם מִרְיָ֑ם שִׁ֤ירוּ לַֽיהֹוָה֙ כִּֽי גָאֹ֣ה גָּאָ֔ה ס֥וּס וְרֹכְב֖וֹ רָמָ֥ה בַיָּֽם׃**^[127]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Miriam the nevi'ah, the sister of Aharon, took the tambourine in her hand, and all the women went out after her with drums and dance. Miriam answered them: Sing to Hashem, for He has triumphed gloriously; He has hurled horse and chariot into the sea."**^[127]{.underline}^**
+</div>
+</div>
 
 Three questions can be posed based on this description:
 
-- [Why is Miriam described as Aharon's sister but not Moshe's sister?
+- Why is Miriam described as Aharon's sister but not Moshe's sister?
 
-- [If Miriam is already referred to as a *nevi'ah* at this point, does that imply she had received prophecy before the splitting of *Yam Suf*?
+- If Miriam is already referred to as a *nevi'ah* at this point, does that imply she had received prophecy before the splitting of *Yam Suf*?
 
-- [What was the content of Miriam's prophecy?
+- What was the content of Miriam's prophecy?
 
-The Talmud describes how Miriam had prophesied that her mother Yocheved would give birth to a son who would redeem all of Bnai Yisrael from Egyptian bondage.**^[128]{.underline}^** [The reason she is referred to as Aharon's sister in that context is because the prophecy was made before Moshe was born, as it was made regarding his birth.
-Amram had separated from Yocheved as a result of the royal decree to murder any Jewish baby boys, but Miriam scolded him for acting this way as it condemned not just potential boys but also potential girls as well. Amram was convinced and remarried Yocheved, and due to that second marriage Moshe was born, thus ensuring the fulfillment of Miriam's prophecy and the deliverance of Bnai Yisrael.**^[129]{.underline}^**
+The Talmud describes how Miriam had prophesied that her mother Yocheved would give birth to a son who would redeem all of Bnai Yisrael from Egyptian bondage.**^[128]{.underline}^** The reason she is referred to as Aharon's sister in that context is because the prophecy was made before Moshe was born, as it was made regarding his birth. Amram had separated from Yocheved as a result of the royal decree to murder any Jewish baby boys, but Miriam scolded him for acting this way as it condemned not just potential boys but also potential girls as well. Amram was convinced and remarried Yocheved, and due to that second marriage Moshe was born, thus ensuring the fulfillment of Miriam's prophecy and the deliverance of Bnai Yisrael.**^[129]{.underline}^**
 
-Aside from the textual issue of Miriam being referred to as Aharon's sister, this also explains another textual difficulty regarding the lack of proper names in Shmot 2. Amram and Yocheved are referred to simply as members of the tribe of Levi, even though we are given their actual names later on in the text. To explain this, the Talmudic account finds in this a hint to their separation and remarriage. Yet beyond the textual resolutions what this story reveals is a consistent account of Miriam's personality and someone who is both deeply caring and empathetic towards children in general and her family in particular**^[130]{.underline}^**[, but also someone who is brazen and has the strength of character to challenge others when she believes them to be mistaken or misguided, particularly when it comes to hesitations around bringing new life into the world.
+Aside from the textual issue of Miriam being referred to as Aharon's sister, this also explains another textual difficulty regarding the lack of proper names in Shmot 2. Amram and Yocheved are referred to simply as members of the tribe of Levi, even though we are given their actual names later on in the text. To explain this, the Talmudic account finds in this a hint to their separation and remarriage. Yet beyond the textual resolutions what this story reveals is a consistent account of Miriam's personality and someone who is both deeply caring and empathetic towards children in general and her family in particular**^[130]{.underline}^**, but also someone who is brazen and has the strength of character to challenge others when she believes them to be mistaken or misguided, particularly when it comes to hesitations around bringing new life into the world.
 
-This portrayal of Miriam provides a much needed backdrop for the story of her *lashon hara* against Moshe. Miriam - also known as Pu'ah - was in her youth both a midwife who brought babies to life, and a prophetess whose stubbornness and insistence brought Moshe to life through the marital reunion of their parents. More than anything else, Miriam has lived and breathed the importance of bringing life into the world, and not letting any excuse distract from that holiest of missions. And now it is Moshe himself who is separated from his wife - the same Moshe whose very birth was the result of a divorced couple that remarried due to Miriam's prophecy.**^[131]{.underline}^** [In effect, then, Miriam is asking incredulously: how can my little brother Moshe separate from his wife because of prophecy - doesn't he know that it was only because of my prophecy that our parents got back together in the first place? If it had not been for me, they would not have remarried, and if it hadn't been for their remarriage, Moshe would never have been born.
-So how can Moshe claim that separation and abstinence are now necessary for his prophecy?
+This portrayal of Miriam provides a much needed backdrop for the story of her *lashon hara* against Moshe. Miriam - also known as Pu'ah - was in her youth both a midwife who brought babies to life, and a prophetess whose stubbornness and insistence brought Moshe to life through the marital reunion of their parents. More than anything else, Miriam has lived and breathed the importance of bringing life into the world, and not letting any excuse distract from that holiest of missions. And now it is Moshe himself who is separated from his wife - the same Moshe whose very birth was the result of a divorced couple that remarried due to Miriam's prophecy.**^[131]{.underline}^** In effect, then, Miriam is asking incredulously: how can my little brother Moshe separate from his wife because of prophecy - doesn't he know that it was only because of my prophecy that our parents got back together in the first place? If it had not been for me, they would not have remarried, and if it hadn't been for their remarriage, Moshe would never have been born. So how can Moshe claim that separation and abstinence are now necessary for his prophecy?
 
 This explains why Miriam went to Aharon and discussed the matter with him. Aharon was known for his successful efforts in reconciling divorced couples who had already brought children into the world.**^[132]{.underline}^** As a fellow prophet, and as someone with a shared belief in the importance of staying married, Miriam felt comfortable taking Aharon into her confidence.**^[133]{.underline}^**
 
@@ -2316,49 +2350,46 @@ Though well intentioned, Miriam was ultimately mistaken. The rules for Moshe wer
 
 With this background we can revisit the question raised earlier: what led to the success of Korach's rebellion? There are various midrashim which address this, and they all have in common a trigger event, a precursor or prior story that set up a situation which was ripe for exploitation by Korach. As discussed earlier, the decree of death in the wilderness due to the spies' sin would certainly explain how Korach was able to tap into the peoples' desperation and resentment. But perhaps there is another possibility. Korach's main point of protest, boiled down to its essentials, was a challenge to the authority of Moshe. In particular, he attacked Moshe by decrying that he was: *"Lording himself over the congregation of Hashem" (Bemidbar 16:3)*. Until Korach expressed this sentiment, Moshe was the unquestioned leader of Bnai Yisrael. Although Bnai Yisrael had complained and rebelled multiple times in the past, it had never been a revolt against Moshe's claim to leadership directly; it was always about a desire for food or water, or the need to worship a visible god. No one had dared to openly defy Moshe before the way Korach had, so why did Korach think he would be able to not only do so but also garner public support against Moshe's supreme status?
 
-The answer, of course, is that Korach was not the first person to challenge Moshe's authority as being unique and supreme. Miriam and Aharon - Moshe's own siblings - questioned his superiority in Chatzerot.
-They argued that Moshe was no better than they were, that his place in the pecking order did not excuse him from behavior which was, in their view, unacceptable.
+The answer, of course, is that Korach was not the first person to challenge Moshe's authority as being unique and supreme. Miriam and Aharon - Moshe's own siblings - questioned his superiority in Chatzerot. They argued that Moshe was no better than they were, that his place in the pecking order did not excuse him from behavior which was, in their view, unacceptable.
 
-It was this tragic act of *lashon hara* - well intentioned - that started the snowball effect. Miriam is shut out of the camp for seven days, and something unusual happens: the Divine cloud rises suddenly, which would normally be an indication that the time to travel had arrived. Yet as Rashi argued, Miriam was afflicted with *tzara'at* the same day that Bnai Yisrael arrived in Chatzerot. The people see that Miriam is removed from the camp, and the cloud inexplicably rises the same day it rests, right upon arrival. Naturally everybody in Bnai Yisrael would want to know what happened. Why would the cloud rise right after settling? Could it have to do with Miriam's condition? Gossip and rumors began to infiltrate the people's tents, things spiraled out of control, and ultimately the reason for Miriam's punishment was arrived at: she had questioned a fundamental truth, previously unassailable, that Moshe was beyond rebuke. Suddenly - almost instantaneously - the
-*lashon hara* spoken by Moshe's own siblings normalized a topic of
-conversation which was previously unthinkable: assailing Moshe's authority.
+It was this tragic act of *lashon hara* - well intentioned - that started the snowball effect. Miriam is shut out of the camp for seven days, and something unusual happens: the Divine cloud rises suddenly, which would normally be an indication that the time to travel had arrived. Yet as Rashi argued, Miriam was afflicted with *tzara'at* the same day that Bnai Yisrael arrived in Chatzerot. The people see that Miriam is removed from the camp, and the cloud inexplicably rises the same day it rests, right upon arrival. Naturally everybody in Bnai Yisrael would want to know what happened. Why would the cloud rise right after settling? Could it have to do with Miriam's condition? Gossip and rumors began to infiltrate the people's tents, things spiraled out of control, and ultimately the reason for Miriam's punishment was arrived at: she had questioned a fundamental truth, previously unassailable, that Moshe was beyond rebuke. Suddenly - almost instantaneously - the *lashon hara* spoken by Moshe's own siblings normalized a topic of conversation which was previously unthinkable: assailing Moshe's authority.
 
 A poignant midrash provides an apt metaphor when describing a similar deconstruction process when Amalek attacked Bnai Yisrael after *Yetziat Mitzrayim*:
 
-*["The Rabbis said: 'Met you' - this means they cooled you in the eyes
-of others. Rabbi Chunya said: A parable, what is this similar to? To a boiling hot bath, that no living thing could descend into. One wicked man came and jumped into it. Even though he got scalded, he cooled it in the eyes of others as something which was now thinkable to do. So too here - when Yisrael left Egypt, HaKadosh Baruch Hu split the sea before them and the Egyptians were drowned inside it. Fear of Bnai Yisrael fell upon the nations, as it says: 'The chiefs of Edom trembled' (Shmot 15:15). Once Amalek came and engaged them in battle, even though Amalek was handed his portion by them i.e. defeated, it cooled Bnai Yisrael as a potential target of attack in the eyes of the world."**^[134]{.underline}^**
-
-[וְרַבָּנָן אָמְרֵי, קָרְךָ, הֵקֶרְךָ לִפְנֵי אֲחֵרִים. אָמַר רַבִּי חוּנְיָא, מָשָׁל לְמָה הַדָּבָר דּוֹמֶה.
-לְאַמְבָּטִי רוֹתַחַת, שֶׁלֹּא הָיְתָה בְּרִיָּה יְכוֹלָה לֵירֵד בְּתוֹכָהּ, בָּא בֶּן בְּלִיַּעַל אֶחָד וְקָפַץ לְתוֹכָהּ, אַף עַל פִּי שֶׁנִּכְוָה, הֵקֵרָהּ לִפְנֵי אֲחֵרִים. אַף כָּאן כֵּיוָן שֶׁיָּצְאוּ יִשְׂרָאֵל מִמִּצְרַיִם, הַקָּדוֹשׁ בָּרוּךְ הוּא קָרַע הַיָּם לִפְנֵיהֶם וְנִשְׁתַּקְּעוּ הַמִּצְרִים לְתוֹכוֹ. נָפַל פַּחְדָּן עַל כָּל הָאֻמּוֹת, שֶׁנֶּאֱמַר: אָז נִבְהֲלוּ אַלּוּפֵי אֱדוֹם וְגוֹ' (שם טו, טו). כֵּיוָן שֶׁבָּא עֲמָלֵק וְנִזְדַּוֵּג לָהֶם, אַף עַל פִּי שֶׁנָּטַל אֶת שֶׁלּוֹ מִתַּחַת יָדָן, הֵקֵרָן לִפְנֵי אֻמּוֹת הָעוֹלָם:**^[134]{.underline}^**
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+וְרַבָּנָן אָמְרֵי, קָרְךָ, הֵקֶרְךָ לִפְנֵי אֲחֵרִים. אָמַר רַבִּי חוּנְיָא, מָשָׁל לְמָה הַדָּבָר דּוֹמֶה. לְאַמְבָּטִי רוֹתַחַת, שֶׁלֹּא הָיְתָה בְּרִיָּה יְכוֹלָה לֵירֵד בְּתוֹכָהּ, בָּא בֶּן בְּלִיַּעַל אֶחָד וְקָפַץ לְתוֹכָהּ, אַף עַל פִּי שֶׁנִּכְוָה, הֵקֵרָהּ לִפְנֵי אֲחֵרִים. אַף כָּאן כֵּיוָן שֶׁיָּצְאוּ יִשְׂרָאֵל מִמִּצְרַיִם, הַקָּדוֹשׁ בָּרוּךְ הוּא קָרַע הַיָּם לִפְנֵיהֶם וְנִשְׁתַּקְּעוּ הַמִּצְרִים לְתוֹכוֹ. נָפַל פַּחְדָּן עַל כָּל הָאֻמּוֹת, שֶׁנֶּאֱמַר: אָז נִבְהֲלוּ אַלּוּפֵי אֱדוֹם וְגוֹ' (שם טו, טו). כֵּיוָן שֶׁבָּא עֲמָלֵק וְנִזְדַּוֵּג לָהֶם, אַף עַל פִּי שֶׁנָּטַל אֶת שֶׁלּוֹ מִתַּחַת יָדָן, הֵקֵרָן לִפְנֵי אֻמּוֹת הָעוֹלָם:**^[134]{.underline}^**
+</div>
+<div style="flex: 1;">
+"The Rabbis said: 'Met you' - this means they cooled you in the eyes of others. Rabbi Chunya said: A parable, what is this similar to? To a boiling hot bath, that no living thing could descend into. One wicked man came and jumped into it. Even though he got scalded, he cooled it in the eyes of others as something which was now thinkable to do. So too here - when Yisrael left Egypt, HaKadosh Baruch Hu split the sea before them and the Egyptians were drowned inside it. Fear of Bnai Yisrael fell upon the nations, as it says: 'The chiefs of Edom trembled' (Shmot 15:15). Once Amalek came and engaged them in battle, even though Amalek was handed his portion by them i.e. defeated, it cooled Bnai Yisrael as a potential target of attack in the eyes of the world."**^[134]{.underline}^**
+</div>
+</div>
 
 Amalek attacking Bnai Yisrael after the miracles of Egypt is compared to a boiling bath which no one is willing to enter into. One wicked man jumped in and got burnt, but even though he was "punished" he made the bath seem cooler to everyone else. So too with Amalek: they attacked Bnai Yisrael who had an aura of invincibility and were seen as unbeatable. Even though Amalek was defeated by Yehoshua, by confronting Bnai Yisrael in battle they had transformed the idea and concept of attacking Bnai Yisrael into a very real possibility.
 
-The same principle taught by the wicked man and Amalek can also be applied to the *lashon hara* of Miriam. Why was she punished so harshly?
-Not because of her specific *lashon hara* in and of itself, but because of what it led to: she had now set the precedent, forever irreversible, which made it acceptable to murmur against Moshe's leadership. And just like the wicked man was scalded and Amalek was weakened in battle, Miriam was punished with *tzara'at*, but the damage was done: Moshe's unassailability seems less unassailable for the first time. This opened a Pandora's box and provided the fuel Korach needed to instigate the flames of his revolt. This is why Rashi argues that Korach's rebellion happened in Chatzerot: that seven day period wasted waiting impatiently for Miriam was the perfect breeding ground for bitterness and destruction.
+The same principle taught by the wicked man and Amalek can also be applied to the *lashon hara* of Miriam. Why was she punished so harshly? Not because of her specific *lashon hara* in and of itself, but because of what it led to: she had now set the precedent, forever irreversible, which made it acceptable to murmur against Moshe's leadership. And just like the wicked man was scalded and Amalek was weakened in battle, Miriam was punished with *tzara'at*, but the damage was done: Moshe's unassailability seems less unassailable for the first time. This opened a Pandora's box and provided the fuel Korach needed to instigate the flames of his revolt. This is why Rashi argues that Korach's rebellion happened in Chatzerot: that seven day period wasted waiting impatiently for Miriam was the perfect breeding ground for bitterness and destruction.
 
-The national week-long wait may have been a reward for Miriam, but why did it happen? Hashem had demanded it as punishment: *"If her father had spit in her face, would she not hide in shame for seven days" (Bemidbar 12:14)*.**^[135]{.underline}^** [The people could and should have used this opportunity to reflect on what happened to Miriam, and to learn the dangers and consequences of *lashon hara*. Instead the opposite happens: the people are idle, for while they are not traveling, neither are they at Har Sinai anymore; they have been stopped at Chatzerot, a random spot in the desert of Paran. The people are paralyzed by the *lashon hara* that is spreading like a virus throughout the camp,**^[136]{.underline}^** [and the situation is ripe for abuse and manipulation.
+The national week-long wait may have been a reward for Miriam, but why did it happen? Hashem had demanded it as punishment: *"If her father had spit in her face, would she not hide in shame for seven days" (Bemidbar 12:14)*.**^[135]{.underline}^** The people could and should have used this opportunity to reflect on what happened to Miriam, and to learn the dangers and consequences of *lashon hara*. Instead the opposite happens: the people are idle, for while they are not traveling, neither are they at Har Sinai anymore; they have been stopped at Chatzerot, a random spot in the desert of Paran. The people are paralyzed by the *lashon hara* that is spreading like a virus throughout the camp,**^[136]{.underline}^** and the situation is ripe for abuse and manipulation.
 
 **[Chain Reaction]{.underline}**
 
-Miriam's story is not just an isolated incident, meant only to impart a message about the dangers of *lashon hara*. It also describes the unraveling of Moshe's unquestioned authority, unwittingly instigated by his own elder sister. [It presented an opportunity for Korach to appear on the scene and rile up Bnai Yisrael, to fan the flames of *lashon hara* that had burst forth from Miriam's mouth and spread throughout the camp. As we have seen, this connection is beautifully drawn by Rashi's connecting Korach's rebellion to Chatzerot along with Miriam's *lashon hara*. Indeed, the midrash teaches that Korach and his followers, who like Miriam promulgated *lashon hara* against Moshe Rabbeinu, were deserving of *tzara'at*:
+Miriam's story is not just an isolated incident, meant only to impart a message about the dangers of *lashon hara*. It also describes the unraveling of Moshe's unquestioned authority, unwittingly instigated by his own elder sister. It presented an opportunity for Korach to appear on the scene and rile up Bnai Yisrael, to fan the flames of *lashon hara* that had burst forth from Miriam's mouth and spread throughout the camp. As we have seen, this connection is beautifully drawn by Rashi's connecting Korach's rebellion to Chatzerot along with Miriam's *lashon hara*. Indeed, the midrash teaches that Korach and his followers, who like Miriam promulgated *lashon hara* against Moshe Rabbeinu, were deserving of *tzara'at*:
 
-*["'Moshe heard' (Bemidbar 16:4). What did he hear? Rabbi Shmuel Bar
-Nachmani said in the name of Rabbi Yonatan: This teaches that they suspected Moshe of adultery, as it says: 'They were jealous of Moshe in the camp' (Tehillim 106:16). Rabbi Shmuel Bar Yitzchak said in the name of Rav: This teaches that every person was jealous of his wife on account of Moshe. 'Moshe went to Datan and Aviram' (Bemidbar 16:25).
-Reish Lakish said: From here we learn that one should not continue a quarrel. Rav said: Whoever continues in a quarrel violates the prohibition of: 'Do not be like Korach and his assembly' (Bemidbar 17:5). Rav Asi said: Whoever continues in a quarrel deserves tzara'at - it says here: 'As Hashem said to him by the hand of Moshe' (Bemidbar 17:5), and it says there: 'Hashem said to him further, bring your hand' (Shmot 4:6)."**^[137]{.underline}^** [
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+וַיִּשְׁמַע משֶׁה, מַה שָּׁמַע אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן מְלַמֵּד שֶׁחֲשָׁדוּהוּ בְּאֵשֶׁת אִישׁ, שֶׁנֶּאֱמַר (תהלים קו, טז): וַיְקַנְאוּ לְמשֶׁה בַּמַּחֲנֶה, אָמַר רַבִּי שְׁמוּאֵל בַּר יִצְחָק אָמַר רַב מְלַמֵּד שֶׁכָּל אֶחָד קִנֵּא לְאִשְׁתּוֹ מִמּשֶׁה. וַיֵּלֶךְ אֶל דָּתָן וַאֲבִירָם (במדבר טז, כה), אָמַר רֵישׁ לָקִישׁ מִכָּאן שֶׁאֵין מַחְזִיקִין בְּמַחֲלֹקֶת, אָמַר רַב כָּל הַמַּחְזִיק בְּמַחֲלֹקֶת עוֹבֵר מִשּׁוּם (במדבר יז, ה): וְלֹא יִהְיֶה כְקֹרַח וְכַעֲדָתוֹ, אָמַר רַב אָסֵי רָאוּי לְהִצְטָרֵעַ, כְּתִיב הָכָא (במדבר יז, ה): כַּאֲשֶׁר דִּבֶּר ה' בְּיַד משֶׁה לוֹ. וּכְתִיב הָתָם (שמות ד, ו): וַיֹּאמֶר ה' לוֹ עוֹד הָבֵא נָא יָדְךָ וגו':**^[137]{.underline}^**
+</div>
+<div style="flex: 1;">
+"'Moshe heard' (Bemidbar 16:4). What did he hear? Rabbi Shmuel Bar Nachmani said in the name of Rabbi Yonatan: This teaches that they suspected Moshe of adultery, as it says: 'They were jealous of Moshe in the camp' (Tehillim 106:16). Rabbi Shmuel Bar Yitzchak said in the name of Rav: This teaches that every person was jealous of his wife on account of Moshe. 'Moshe went to Datan and Aviram' (Bemidbar 16:25). Reish Lakish said: From here we learn that one should not continue a quarrel. Rav said: Whoever continues in a quarrel violates the prohibition of: 'Do not be like Korach and his assembly' (Bemidbar 17:5). Rav Asi said: Whoever continues in a quarrel deserves tzara'at - it says here: 'As Hashem said to him by the hand of Moshe' (Bemidbar 17:5), and it says there: 'Hashem said to him further, bring your hand' (Shmot 4:6)."**^[137]{.underline}^**
+</div>
+</div>
 
-[וַיִּשְׁמַע משֶׁה, מַה שָּׁמַע אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן מְלַמֵּד שֶׁחֲשָׁדוּהוּ
-בְּאֵשֶׁת אִישׁ, שֶׁנֶּאֱמַר (תהלים קו, טז): וַיְקַנְאוּ לְמשֶׁה בַּמַּחֲנֶה, אָמַר רַבִּי שְׁמוּאֵל בַּר יִצְחָק אָמַר רַב מְלַמֵּד שֶׁכָּל אֶחָד קִנֵּא לְאִשְׁתּוֹ מִמּשֶׁה. וַיֵּלֶךְ אֶל דָּתָן וַאֲבִירָם (במדבר טז, כה), אָמַר רֵישׁ לָקִישׁ מִכָּאן שֶׁאֵין מַחְזִיקִין בְּמַחֲלֹקֶת, אָמַר רַב כָּל הַמַּחְזִיק בְּמַחֲלֹקֶת עוֹבֵר מִשּׁוּם (במדבר יז, ה): וְלֹא יִהְיֶה כְקֹרַח וְכַעֲדָתוֹ, אָמַר רַב אָסֵי רָאוּי לְהִצְטָרֵעַ, כְּתִיב הָכָא (במדבר יז, ה): כַּאֲשֶׁר דִּבֶּר ה' בְּיַד משֶׁה לוֹ. וּכְתִיב הָתָם (שמות ד, ו): וַיֹּאמֶר ה' לוֹ עוֹד הָבֵא נָא יָדְךָ וגו':**^[137]{.underline}^**
+The connection between *tzara'at*, personified here by Miriam, and *machloket*, exemplified by Korach,**^[138]{.underline}^** speaks to the consequences of *lashon hara*: direct Divine punishment that demands atonement, but also the remedy is too late: it is like a fire that has spread beyond the owner's reach, and spirals into exponentially more divisiveness and anger.
 
-The connection between *tzara'at*, personified here by Miriam, and
-*machloket*, exemplified by Korach,**^[138]{.underline}^**
-speaks to the consequences of *lashon hara*: direct Divine punishment that demands atonement, but also the remedy is too late: it is like a fire that has spread beyond the owner's reach, and spirals into exponentially more divisiveness and anger.
+This explains why Rashi argues that Chazerot is where Korach's rebellion happened. This can either be meant in the literal sense, that the rebellion of Korach happened during those seven days that Miriam was in quarantine, or it can be meant in the thematic, meta-literal sense that Korach's rebellion was rooted in Chazerot, namely in the *lashon hara* that began there but then spread to the minds and hearts of *keriyei mo'ed anshei shem* who were seduced into joining Korach in his crusade against Moshe and Aharon.
 
-This explains why Rashi argues that Chazerot is where Korach's rebellion happened. This can either be meant in the literal sense, that the rebellion of Korach happened during those seven days that Miriam was in quarantine, or it can be meant in the thematic, meta-literal sense that Korach's rebellion was rooted in Chazerot, namely in the *lashon hara* that began there but then spread to the minds and hearts of
-*keriyei mo'ed anshei shem* who were seduced into joining Korach in his
-crusade against Moshe and Aharon.
+This interpretation is further supported by the astonishing claim that Moshe was so devastated by Korach's rebellion because he was suspected of stealing everyone's wives and committing adultery.**^[139]{.underline}^** Miriam's initial complaint against Moshe was that he separated from his wife, but as *lashon hara* spreads its tentacles the truth gets distorted and bent: accusations of cheating are an almost natural progression of Miriam's *lashon hara* about Moshe's marital relationship with his wife. The story sells itself, and makes sense aside from its patent falsehood: the leader of Bnai Yisrael had separated from his wife, claiming it was because of his need for prophecy, when in fact he was abusing his power and taking women from among the people. The appropriateness of the Earth opening its mouth and swallowing those who opened their own mouths and slandered Moshe speaks for itself.
 
-This interpretation is further supported by the astonishing claim that Moshe was so devastated by Korach's rebellion because he was suspected of stealing everyone's wives and committing adultery.**^[139]{.underline}^** [Miriam's initial complaint against Moshe was that he separated from his wife, but as *lashon hara* spreads its tentacles the truth gets distorted and bent: accusations of cheating are an almost natural progression of Miriam's *lashon hara* about Moshe's marital relationship with his wife. The story sells itself, and makes sense aside from its patent falsehood: the leader of Bnai Yisrael had separated from his wife, claiming it was because of his need for prophecy, when in fact he was abusing his power and taking women from among the people. The appropriateness of the Earth opening its mouth and swallowing those who opened their own mouths and slandered Moshe speaks for itself.
-
-The Talmud goes out of its way to insert wives into the story of Korach's rebellion as major influences in their husbands' behavior. In particular, On's wife was righteous and saved him from perishing, while Korach's power-hungry wife egged his destructive behavior on.**^[140]{.underline}^** [While at first glance it is puzzling that the aggadah insert these men's wives so prominently and aggressively into the story of Korach's rebellion, if we understand the kernels of protest which Korach was sowing as being planted during Miriam's slander against Moshe in relation to *his* wife, then we can readily see why tensions - which brewed as a result of false rumors Korach and his followers had helped circulate about Moshe taking other wives - would involve those very same men's wives.**^[141]{.underline}^**
+The Talmud goes out of its way to insert wives into the story of Korach's rebellion as major influences in their husbands' behavior. In particular, On's wife was righteous and saved him from perishing, while Korach's power-hungry wife egged his destructive behavior on.**^[140]{.underline}^** While at first glance it is puzzling that the aggadah insert these men's wives so prominently and aggressively into the story of Korach's rebellion, if we understand the kernels of protest which Korach was sowing as being planted during Miriam's slander against Moshe in relation to *his* wife, then we can readily see why tensions - which brewed as a result of false rumors Korach and his followers had helped circulate about Moshe taking other wives - would involve those very same men's wives.**^[141]{.underline}^**
 
 The danger of even speaking against someone you love, and with the right intentions, highlights just how dangerous *lashon hara* is, and how careful we have to be in exercising caution with the words we say. Our mouths are unique among the human organs, hidden behind two rows of defenses - teeth and lips - as a constant reminder of how carefully guarded they need to remain. To avoid the fate of a *metzora* placed in quarantine and watched by everyone else, we must be proactively vigilant and watch the words that we say. We must learn from the martyrdom of Miriam, and recognize that some grievances spoken in private can, [in short order, lead to great and uncontrollable tragedy.
