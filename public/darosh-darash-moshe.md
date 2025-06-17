@@ -1937,21 +1937,20 @@ This idea also extended beyond the normal bounds of aggadic exercise and interpr
 
 It is with this in mind that we turn our attention to Moshe's wife, Tzipporah. Unlike Moshe, Gershom or Eliezer - whose names are explained by the Torah (Shmot 2:10, 2:22, and 18:4 respectively) - the reason behind Tzipporah's name is not given. The most straightforward rendering is that her name is related to a female bird, but does this have anything to do with her character or any of her stories we are familiar with?
 
-One explanation relates her name to the "bridegroom of blood" story discussed above (Shmot 4:24-26). Moshe and Tzipporah were confronted by G-d Himself who sought to kill them, so it would have been an understandable reaction had they panicked and frozen up under pressure.**^[75]{.underline}^** Instead, Tzipporah took drastic, dangerous measures to save her family, and did so without hesitation.
-This instinctual response evokes for us the image of a mother bird hovering over her eggs protectively.**^[76]{.underline}^** Another midrash also relates Tzipporah's name to a bird's speed, but ties it to a different episode: her running to fetch Moshe from the well after he saves her and her sisters from abusive shepherds.**^[77]{.underline}^**
+One explanation relates her name to the "bridegroom of blood" story discussed above (Shmot 4:24-26). Moshe and Tzipporah were confronted by G-d Himself who sought to kill them, so it would have been an understandable reaction had they panicked and frozen up under pressure.**^[75]{.underline}^** Instead, Tzipporah took drastic, dangerous measures to save her family, and did so without hesitation. This instinctual response evokes for us the image of a mother bird hovering over her eggs protectively.**^[76]{.underline}^** Another midrash also relates Tzipporah's name to a bird's speed, but ties it to a different episode: her running to fetch Moshe from the well after he saves her and her sisters from abusive shepherds.**^[77]{.underline}^**
 
 It is a different tradition, however, which demands our attention and scrutiny. Tzipporah's name is connected to the concept of purity and blood:
 
-*"Why was her name Tzipporah? Because she purified her entire father's
-house like the blood of a bird."**^[78]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 ד"א למה נקראת צפורה שטיהרה כל בית אביה כדם הציפור:**^[78]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Why was her name Tzipporah? Because she purified her entire father's house like the blood of a bird."**^[78]{.underline}^**
+</div>
+</div>
 
-It might be tempting to understand this as acknowledging that because Tzipporah's marriage to Moshe eventually led to her father Yitro recognizing Hashem - which then logically led the rest of his family to follow suit - the purification of Yitro and his house from the sins of
-*Avodah Zarah* is in her merit. But could there be a deeper, thematic
-connection between Tzipporah's essence on the one hand, and the
-*"purified ... blood of a bird"* on the other hand? And how does this
-connect to Tzipporah's relationship with Moshe and their children?
+It might be tempting to understand this as acknowledging that because Tzipporah's marriage to Moshe eventually led to her father Yitro recognizing Hashem - which then logically led the rest of his family to follow suit - the purification of Yitro and his house from the sins of *Avodah Zarah* is in her merit. But could there be a deeper, thematic connection between Tzipporah's essence on the one hand, and the *"purified ... blood of a bird"* on the other hand? And how does this connect to Tzipporah's relationship with Moshe and their children?
 
 **[Back Home]{.underline}**
 
@@ -1959,21 +1958,27 @@ After Bnai Yisrael are delivered from Egypt and begin their wanderings in the de
 
 One midrash contends that Tzipporah and her children went back to Midian after they had already arrived in Egypt and spoke to Pharaoh, who responded by increasing the Jews' workload (Shmot 5:1-9). Not only that, but Moshe accompanied them there:
 
-*'The taskmasters of the people and their officers went out' (Shmot
-5:10). Once this decree was made Moshe went back to Midian and waited there for six months, and Aharon remained behind in Egypt. At that time Moshe also returned his wife and children to Midian."**^[79]{.underline}^**
-
-[וַיֵּצְאוּ נֹגְשֵׂי הָעָם וְשֹׁטְרָיו, כֵּיוָן שֶׁגָּזַר כֵּן הָלַךְ משֶׁה לְמִדְיָן וְעָשָׂה שִׁשָּׁה חֳדָשִׁים וְאַהֲרֹן
-הָיָה יוֹשֵׁב בְּמִצְרַיִם, וְאוֹתָהּ שָׁעָה הֶחֱזִיר משֶׁה אִשְׁתּוֹ וּבָנָיו לְמִדְיָן:**^[79]{.underline}^**
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+וַיֵּצְאוּ נֹגְשֵׂי הָעָם וְשֹׁטְרָיו, כֵּיוָן שֶׁגָּזַר כֵּן הָלַךְ משֶׁה לְמִדְיָן וְעָשָׂה שִׁשָּׁה חֳדָשִׁים וְאַהֲרֹן הָיָה יוֹשֵׁב בְּמִצְרַיִם, וְאוֹתָהּ שָׁעָה הֶחֱזִיר משֶׁה אִשְׁתּוֹ וּבָנָיו לְמִדְיָן:**^[79]{.underline}^**
+</div>
+<div style="flex: 1;">
+'The taskmasters of the people and their officers went out' (Shmot 5:10). Once this decree was made Moshe went back to Midian and waited there for six months, and Aharon remained behind in Egypt. At that time Moshe also returned his wife and children to Midian."**^[79]{.underline}^**
+</div>
+</div>
 
 Unable to face the excessive suffering in Egypt which had repulsed him decades earlier, and eager to avoid responsibility for his initial failure to free the people, Moshe flees to Midian with his family for six months. He remains there until Hashem appears to him and commands him to try again, promising this time to actually begin the redemptive process.**^[80]{.underline}^**
 
 A second midrash argues that Tzipporah was sent back to Midian by Moshe soon after she circumcised their son:
 
-*"'Yitro, the father-in-law of Moshe, took Tzipporah, Moshe's wife,
-after she was sent away'. Rabbi Yehoshua said, after she was sent away from him with a divorce document: it says here 'sending away' and it says there 'sending away', just as the 'sending away' there means a divorce document, so too the 'sending away' here means a divorce document. Rabbi Elazar HaModa'i said, after she was sent away from him with words. When HaKadosh Baruch Hu said to Moshe, go take My nation Bnai Yisrael out of Egypt, as it says: 'Now go and I shall send you to Pharaoh' (Shmot 3), at that time Moshe took his wife and two sons and brought them with him to Egypt, as it says: 'Moshe took his wife and children and placed them on the donkey and returned to the land of Egypt' (Shmot 4:20). At that time it was said to Aharon: 'Go to Moshe'.
-He went to Moshe, hugged him and kissed him, and said to him, Moshe, where were you all these years? He said to him, in Midian. He said to him, who are these children and women with you? He said to him, my wife and sons. He said to him, where are you taking them? He said to him, Egypt. He said to him, we are in distress about the first ones, now you are adding these to the distress? At that time Moshe said to Tzipporah, go home to your father's house. At that time Tzipporah went back to her father's house and took her two sons, and therefore it says: 'After she was sent away.'"**^[81]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 ויקח יתרו חותן משה את צפורה אשת משה אחר שלוחיה. רבי יהושע אומר, אחר שנפטרה ממנו בגט. נאמר כאן שלוח ונאמר להלן שילוח, מה שלוח האמור להלן גט, אף כאן גט. רבי אלעזר המודעי אומר, מאחר שנפטרה ממנו במאמר, שבשעה שאמר הקדוש ברוך הוא למשה, לך הוצא את עמי בני ישראל ממצרים, שנאמר (שמות ג) ועתה לכה ואשלחך אל פרעה, באותה שעה נטל אשתו ושני בניו והיה מוליכם למצרים, שנ' (שמות ד, כ) ויקח משה את אשתו ואת בניו וירכיבם על החמור וישב ארצה מצרים. באותה שעה נאמר לאהרן, (שם) לך לקראת משה. יצא לקראת משה וחבקו ונשקו. א"ל משה היכן היית כל השנים הללו, אמר לו במדין. א"ל מה טף ונשים אלו עמך, אמר לו אשתי ובני. אמר לו, ולאן אתה מוליכם, אמר לו למצרים; א"ל על הראשונים אנו מצטערים ועכשיו נצטער גם באלו. באותה שעה אמר לצפורה, לכי לבית אביך. ובאותה שעה הלכה לבית אביה ונטלה שני בניה, לכך נאמר אחר שלוחיה:**^[81]{.underline}^**
+</div>
+<div style="flex: 1;">
+"'Yitro, the father-in-law of Moshe, took Tzipporah, Moshe's wife, after she was sent away'. Rabbi Yehoshua said, after she was sent away from him with a divorce document: it says here 'sending away' and it says there 'sending away', just as the 'sending away' there means a divorce document, so too the 'sending away' here means a divorce document. Rabbi Elazar HaModa'i said, after she was sent away from him with words. When HaKadosh Baruch Hu said to Moshe, go take My nation Bnai Yisrael out of Egypt, as it says: 'Now go and I shall send you to Pharaoh' (Shmot 3), at that time Moshe took his wife and two sons and brought them with him to Egypt, as it says: 'Moshe took his wife and children and placed them on the donkey and returned to the land of Egypt' (Shmot 4:20). At that time it was said to Aharon: 'Go to Moshe'. He went to Moshe, hugged him and kissed him, and said to him, Moshe, where were you all these years? He said to him, in Midian. He said to him, who are these children and women with you? He said to him, my wife and sons. He said to him, where are you taking them? He said to him, Egypt. He said to him, we are in distress about the first ones, now you are adding these to the distress? At that time Moshe said to Tzipporah, go home to your father's house. At that time Tzipporah went back to her father's house and took her two sons, and therefore it says: 'After she was sent away.'"**^[81]{.underline}^**
+</div>
+</div>
 
 It is Aharon who, after reuniting with his brother after many years,**^[82]{.underline}^** convinces Moshe that the last thing their mission needs is more people to worry about. Moshe sends Tzipporah and their children back to her father, and continues onward with Aharon to confront Pharaoh.
 
@@ -1987,27 +1992,35 @@ Alternatively, unlike Moshe and Aharon - who each had an intimate knowledge of B
 
 It is armed with this insight gleaned from the words of Mechilta DeRabbi Yishmael that we can begin to analyze the larger implications of Tzipporah's name. Recall that when Yitro comes to visit Moshe in the desert he is accompanied by Tzipporah after she had been sent away with her two children:
 
-*"Yitro, the priest of Midian, the father-in-law of Moshe, heard about
-what G-d did for Moshe and His nation Yisrael, that Hashem took Yisrael out of Mitzrayim. Yitro, the father-in-law of Moshe, took Tzipporah, Moshe's wife, after she had been sent away. And her two sons: One was named Gershom, for Moshe said 'I was a stranger in a foreign land', and the other was named Eliezer, for 'the G-d of my father assisted me and saved me from the sword of Pharaoh.'"**^[14]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וַיִּשְׁמַ֞ע יִתְר֨וֹ כֹהֵ֤ן מִדְיָן֙ חֹתֵ֣ן מֹשֶׁ֔ה אֵת֩ כׇּל אֲשֶׁ֨ר עָשָׂ֤ה אֱלֹהִים֙ לְמֹשֶׁ֔ה וּלְיִשְׂרָאֵ֖ל עַמּ֑וֹ כִּֽי הוֹצִ֧יא יְהֹוָ֛ה אֶת יִשְׂרָאֵ֖ל מִמִּצְרָֽיִם׃ וַיִּקַּ֗ח יִתְרוֹ֙ חֹתֵ֣ן מֹשֶׁ֔ה אֶת צִפֹּרָ֖ה אֵ֣שֶׁת מֹשֶׁ֑ה אַחַ֖ר שִׁלּוּחֶֽיהָ׃ וְאֵ֖ת שְׁנֵ֣י בָנֶ֑יהָ אֲשֶׁ֨ר שֵׁ֤ם הָֽאֶחָד֙ גֵּֽרְשֹׁ֔ם כִּ֣י אָמַ֔ר גֵּ֣ר הָיִ֔יתִי בְּאֶ֖רֶץ נׇכְרִיָּֽה׃ וְשֵׁ֥ם הָאֶחָ֖ד אֱלִיעֶ֑זֶר כִּֽי אֱלֹהֵ֤י אָבִי֙ בְּעֶזְרִ֔י וַיַּצִּלֵ֖נִי מֵחֶ֥רֶב פַּרְעֹֽה׃**^[14]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Yitro, the priest of Midian, the father-in-law of Moshe, heard about what G-d did for Moshe and His nation Yisrael, that Hashem took Yisrael out of Mitzrayim. Yitro, the father-in-law of Moshe, took Tzipporah, Moshe's wife, after she had been sent away. And her two sons: One was named Gershom, for Moshe said 'I was a stranger in a foreign land', and the other was named Eliezer, for 'the G-d of my father assisted me and saved me from the sword of Pharaoh.'"**^[14]{.underline}^**
+</div>
+</div>
 
 Note the key concepts being employed here:
 
-- A bird, in this case a mother ([ציפור])
+- A bird, in this case a mother (ציפור)
 
-- The bird's two children ([שני בני])
+- The bird's two children (שני בני)
 
-- An act of taking the bird ([קיחה])
+- An act of taking the bird (קיחה)
 
-- An act of sending the bird away ([שילוח])
+- An act of sending the bird away (שילוח)
 
 These remind us of another instance in the Torah which contains many of the same words, albeit applied in an entirely different - and halachic, rather than narrative - context:
 
-*"Hashem spoke to Moshe, saying: This shall be the law of the metzora on
-the day of his purification; he shall be brought before the Kohen. The Kohen shall go outside of the camp, and the Kohen shall see that the tzaru'a has been healed of the affliction of tzara'at. The Kohen shall command, and they shall take for the one being purified two pure, live birds, cedar wood, crimson stuff and hyssop. The Kohen shall command, and he will slaughter one of the birds in an earthenware utensil over running water. He shall then take the remaining live bird, the cedar wood, the crimson stuff and the hyssop, and he shall dip them and the live bird in the blood of the slaughtered bird, over the running water. He shall sprinkle it seven times on the one being purified from tzara'at, and purify him; then he shall set the live bird free over the open field. The one being purified shall then wash his clothes, shave all his hair, bathe in water, and be purified; then he shall come back into the camp, and sit outside his tent for seven days."**^[88]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל מֹשֶׁ֥ה לֵּאמֹֽר׃ זֹ֤את תִּֽהְיֶה֙ תּוֹרַ֣ת הַמְּצֹרָ֔ע בְּי֖וֹם טׇהֳרָת֑וֹ וְהוּבָ֖א אֶל הַכֹּהֵֽן׃ וְיָצָא֙ הַכֹּהֵ֔ן אֶל מִח֖וּץ לַֽמַּחֲנֶ֑ה וְרָאָה֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה נִרְפָּ֥א נֶֽגַע הַצָּרַ֖עַת מִן הַצָּרֽוּעַ׃ וְצִוָּה֙ הַכֹּהֵ֔ן [וְלָקַ֧ח]{.underline} לַמִּטַּהֵ֛ר [שְׁתֵּֽי צִפֳּרִ֥ים]{.underline} חַיּ֖וֹת טְהֹר֑וֹת וְעֵ֣ץ אֶ֔רֶז וּשְׁנִ֥י תוֹלַ֖עַת וְאֵזֹֽב׃ וְצִוָּה֙ הַכֹּהֵ֔ן וְשָׁחַ֖ט אֶת הַצִּפּ֣וֹר הָאֶחָ֑ת אֶל כְּלִי חֶ֖רֶשׂ עַל מַ֥יִם חַיִּֽים׃ אֶת הַצִּפֹּ֤ר]{.underline} הַֽחַיָּה֙ [יִקַּ֣ח]{.underline} אֹתָ֔הּ וְאֶת עֵ֥ץ הָאֶ֛רֶז וְאֶת שְׁנִ֥י הַתּוֹלַ֖עַת וְאֶת הָאֵזֹ֑ב וְטָבַ֨ל אוֹתָ֜ם וְאֵ֣ת ׀ הַצִּפֹּ֣ר הַֽחַיָּ֗ה בְּדַם֙ הַצִּפֹּ֣ר הַשְּׁחֻטָ֔ה עַ֖ל הַמַּ֥יִם הַֽחַיִּֽים׃ וְהִזָּ֗ה עַ֧ל הַמִּטַּהֵ֛ר מִן הַצָּרַ֖עַת שֶׁ֣בַע פְּעָמִ֑ים וְטִ֣הֲר֔וֹ [וְשִׁלַּ֛ח]{.underline} אֶת [הַצִּפֹּ֥ר הַֽחַיָּ֖ה]{.underline} עַל פְּנֵ֥י הַשָּׂדֶֽה׃ וְכִבֶּס֩ הַמִּטַּהֵ֨ר אֶת בְּגָדָ֜יו וְגִלַּ֣ח אֶת כׇּל שְׂעָר֗וֹ וְרָחַ֤ץ בַּמַּ֙יִם֙ וְטָהֵ֔ר וְאַחַ֖ר יָב֣וֹא אֶל הַֽמַּחֲנֶ֑ה וְיָשַׁ֛ב מִח֥וּץ לְאׇהֳל֖וֹ שִׁבְעַ֥ת יָמִֽים׃**^[88]{.underline}^**
+</div>
+<div style="flex: 1;">
+"Hashem spoke to Moshe, saying: This shall be the law of the metzora on the day of his purification; he shall be brought before the Kohen. The Kohen shall go outside of the camp, and the Kohen shall see that the tzaru'a has been healed of the affliction of tzara'at. The Kohen shall command, and they shall take for the one being purified two pure, live birds, cedar wood, crimson stuff and hyssop. The Kohen shall command, and he will slaughter one of the birds in an earthenware utensil over running water. He shall then take the remaining live bird, the cedar wood, the crimson stuff and the hyssop, and he shall dip them and the live bird in the blood of the slaughtered bird, over the running water. He shall sprinkle it seven times on the one being purified from tzara'at, and purify him; then he shall set the live bird free over the open field. The one being purified shall then wash his clothes, shave all his hair, bathe in water, and be purified; then he shall come back into the camp, and sit outside his tent for seven days."**^[88]{.underline}^**
+</div>
+</div>
 
 The first phase in the purification process of a *metzora* involves the taking of two live birds. The Kohen leaves the camp and goes out to visit the *metzora* who has been quarantined outside. Once the Kohen confirms that the affliction has disappeared, a ritual involving two birds is undertaken, after which the *metzora*, no longer condemned beyond the camp's borders, is allowed to return.
 
@@ -2023,8 +2036,7 @@ The linguistic associations between the halachot of the *metzora* on the one han
 
 One of the birds is slaughtered over an earthenware utensil, and its blood is later sprinkled on the *metzora* to purify him:
 
-וְשָׁחַ֖ט אֶת הַצִּפּ֣וֹר הָאֶחָ֑ת אֶל כְּלִי חֶ֖רֶשׂ עַל מַ֥יִם חַיִּֽים ... בְּדַם֙ ... הַצִּפֹּ֣ר הַשְּׁחֻטָ֔ה ...
-וְהִזָּ֗ה ... וְטִ֣הֲר֔: (ויקרא יד:ה-ז)
+וְשָׁחַ֖ט אֶת הַצִּפּ֣וֹר הָאֶחָ֑ת אֶל כְּלִי חֶ֖רֶשׂ עַל מַ֥יִם חַיִּֽים ... בְּדַם֙ ... הַצִּפֹּ֣ר הַשְּׁחֻטָ֔ה ... וְהִזָּ֗ה ... וְטִ֣הֲר֔: (ויקרא יד:ה-ז)
 
 The second bird is dipped in the blood of the first, and afterwards released over the open field:
 
@@ -2036,8 +2048,7 @@ According to this reading, the *metzora* ritual becomes transformed into a descr
 
 Halachah dictates that these two live birds should be identical, symbolizing the equal potential inherent in both before the ritual begins and their destinies are irreversibly set in opposite directions.**^[90]{.underline}^** It is in this vein that Aharon HaKohen tells Moshe: you still have the chance to determine if Tzipporah is destined to be the first bird, who will not come out from Egypt unscathed, or the second bird, free to blissfully fly away and not look back. Right now either of those outcomes are possibilities, and which eventuality is actualized is up to you. But surely, concludes Aharon, we have enough bird blood on our hands already - why are you insisting on adding even more?
 
-This midrash about Moshe and Tzipporah and the *metzora* ceremony, unrelated on the surface but linguistically and thematically intertwined on a deeper level, is one way to approach the significance of the two live**^[91]{.underline}^** birds mandated by the Torah. The
-*mashal-nimshal* mapping can be summarized as follows:
+This midrash about Moshe and Tzipporah and the *metzora* ceremony, unrelated on the surface but linguistically and thematically intertwined on a deeper level, is one way to approach the significance of the two live**^[91]{.underline}^** birds mandated by the Torah. The *mashal-nimshal* mapping can be summarized as follows:
 
 - Aharon represents the Kohen who commands that two birds be taken while Moshe represents the one who actually performs the act of taking.**^[92]{.underline}^**
 
@@ -2053,71 +2064,61 @@ While the above interpretation certainly makes sense, it does not seem to be wha
 
 We can also understand the birds, not as two mutually exclusive possibilities, but rather as the unfolding of a story of purification told in order. Instead of the birds both representing Tzipporah (and her children) as we just described, perhaps the two birds both represent the same person, whose blood is first drawn in order to enable his redemption.
 
-The pesukim explain how the sprinkling of the first bird's blood is a purifying process that allows the *metzora* back into the camp. Whereas before the sprinkling the *metzora* was a condemned outcast, his symbolic bloodletting via the bird's death acts as a return ticket into the camp of G-d. Similarly, Tzipporah spilled the blood of a "bird" when she circumcised her son during the journey down to Egypt: *"Tzipporah took a rock and cut off the foreskin of her son, touched his feet, and said: You are a bridegroom of blood to me" (Shmot 4:25)*. This act caused the Hashem - understood by various aggadot to mean the Angel of Death, Destruction, Anger/Wrath, or Satan - to leave her family alone, not unlike to how spreading a lamb's blood on the lintel and doorposts acted as a sign to the Angel in Egypt to pass over the house and leaves its inhabitants unharmed. In the previous section we explained how according to Mechilta DeRabbi Yishmael this episode is referring to the
-*brit milah* of Gershom, who had never been circumcised due to Moshe's
-vow. Seen in this light, Tzipporah's actions for her "baby bird" had a redemptive quality because they rescued Gershom from the wickedness and evil of *Avodah Zarah* and allowed him entry under the wings of the Shechinah: freedom to fly over the open field as a free bird.
+The pesukim explain how the sprinkling of the first bird's blood is a purifying process that allows the *metzora* back into the camp. Whereas before the sprinkling the *metzora* was a condemned outcast, his symbolic bloodletting via the bird's death acts as a return ticket into the camp of G-d. Similarly, Tzipporah spilled the blood of a "bird" when she circumcised her son during the journey down to Egypt: *"Tzipporah took a rock and cut off the foreskin of her son, touched his feet, and said: You are a bridegroom of blood to me" (Shmot 4:25)*. This act caused the Hashem - understood by various aggadot to mean the Angel of Death, Destruction, Anger/Wrath, or Satan - to leave her family alone, not unlike to how spreading a lamb's blood on the lintel and doorposts acted as a sign to the Angel in Egypt to pass over the house and leaves its inhabitants unharmed. In the previous section we explained how according to Mechilta DeRabbi Yishmael this episode is referring to the *brit milah* of Gershom, who had never been circumcised due to Moshe's vow. Seen in this light, Tzipporah's actions for her "baby bird" had a redemptive quality because they rescued Gershom from the wickedness and evil of *Avodah Zarah* and allowed him entry under the wings of the Shechinah: freedom to fly over the open field as a free bird.
 
 This interpretation fits nicely with a detail of the *metzora* ritual not yet discussed: *"And he shall dip them and the live bird in the blood of the slaughtered bird" (Vayikra 14:6)*. Why did the bird who was permitted a return to the skies have to be dipped in the blood of its dead counterpart? Redemption can only be achieved through blood, freedom only realized through the sweat and tears of hardship and exile. The second bird is only set free after encountering the sacrificial blood required to allow its salvation to mature and come to fruition. So too, Gershom could only be purified and brought into the fold of his father's people after his mother released him from the bondage of his domineering, idolatrous grandfather.
 
-Bnai Yisrael experience a national redemption through the blood of
-*korban pesach* while Gershom merits a personal redemption through the
-blood of *brit milah*. These two mitzvot are closely related to one another, as both signify a rebirth and cleansing through the forming of a covenant sealed in blood. [The blood of *pesach* and the blood of
-*milah* are, in the eyes of the halachah and the midrash, inextricably
-intertwined,**^[93]{.underline}^** and both symbolize a redemptive process that leads to renewal.**^[94]{.underline}^**
+Bnai Yisrael experience a national redemption through the blood of *korban pesach* while Gershom merits a personal redemption through the blood of *brit milah*. These two mitzvot are closely related to one another, as both signify a rebirth and cleansing through the forming of a covenant sealed in blood. [The blood of *pesach* and the blood of *milah* are, in the eyes of the halachah and the midrash, inextricably intertwined,**^[93]{.underline}^** and both symbolize a redemptive process that leads to renewal.**^[94]{.underline}^**
 
-How did Yitro feel about his daughter circumcising Gershom in flagrant violation of his agreement with Moshe? Mechilta DeRabbi Yishmael is silent on this point, but the answer can be found in the pesukim themselves. Once Yitro heard about the redemption of *Yetziat Mitzrayim* he too was purified of his idolatry, confessing a belief in Hashem as
-*"greater than any other god" (Shmot 18:11)* and offering sacrifices of
-his own (Shmot 18:12). Surely even in the eyes of Mechilta DeRabbi Yishmael, Yitro must not have been angry at Tzipporah's actions, for he himself recognizes Hashem soon after Gershom's *brit milah* occurs.**^[95]{.underline}^** While the Torah attributes Yitro's declaration as a result of hearing about the miracles done in Egypt, perhaps the fact that his grandson had already been converted by his daughter had already opened his mind to the idea. A person's views can certainly be influenced and changed by the decisions and choices made by his or her descendants, so Tzipporah's decision to circumcise Gershom may have also planted the seed in Yitro's mind that eventually sprouted into an acceptance of Hashem and His people.
+How did Yitro feel about his daughter circumcising Gershom in flagrant violation of his agreement with Moshe? Mechilta DeRabbi Yishmael is silent on this point, but the answer can be found in the pesukim themselves. Once Yitro heard about the redemption of *Yetziat Mitzrayim* he too was purified of his idolatry, confessing a belief in Hashem as *"greater than any other god" (Shmot 18:11)* and offering sacrifices of his own (Shmot 18:12). Surely even in the eyes of Mechilta DeRabbi Yishmael, Yitro must not have been angry at Tzipporah's actions, for he himself recognizes Hashem soon after Gershom's *brit milah* occurs.**^[95]{.underline}^** While the Torah attributes Yitro's declaration as a result of hearing about the miracles done in Egypt, perhaps the fact that his grandson had already been converted by his daughter had already opened his mind to the idea. A person's views can certainly be influenced and changed by the decisions and choices made by his or her descendants, so Tzipporah's decision to circumcise Gershom may have also planted the seed in Yitro's mind that eventually sprouted into an acceptance of Hashem and His people.
 
 This is what Tanchuma HaKadum 11 meant when it taught that Tzipporah's essence was *"purifying her entire father's house like the blood of a bird."* By cutting her baby bird's foreskin and shedding his blood, she was purifying him from a life of vanity and emptiness to one full of meaning and purpose, from a life of exclusion outside the camp to one of inclusion under the Divine presence, just like the blood of a bird slaughtered and sprinkled to heal a *metzora*. Her redemptive actions had a domino effect, eventually purifying Yitro as well who, by bringing Tzipporah and his two circumcised children with him to the desert, is acknowledging their contribution to his conversion as an honorary member of Bnai Yisrael.
 
 **[Everlasting Life]{.underline}**
 
-There is another section of the Torah which contains all of the keywords found in the description of Tzipporah's banishment and by extension the
-*parsha* of *metzora* purification, the mitzvah of *shiluach haken*:
+There is another section of the Torah which contains all of the keywords found in the description of Tzipporah's banishment and by extension the *parsha* of *metzora* purification, the mitzvah of *shiluach haken*:
 
-*"If along the way you happen upon a bird's nest, in any tree or on the
-ground, with young chicks or eggs in it, and the mother is sitting over the young chicks or on the eggs, do not take the mother together with her young. You shall surely send the mother away and take only the young, so that it will be good for you and you will have a long life."**^[96]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 כִּ֣י יִקָּרֵ֣א קַן [צִפּ֣וֹר]{.underline} ׀ לְפָנֶ֡יךָ בַּדֶּ֜רֶךְ בְּכׇל עֵ֣ץ ׀ א֣וֹ עַל הָאָ֗רֶץ אֶפְרֹחִים֙ א֣וֹ בֵיצִ֔ים [וְהָאֵ֤ם]{.underline} רֹבֶ֙צֶת֙ עַל הָֽאֶפְרֹחִ֔ים א֖וֹ עַל הַבֵּיצִ֑ים לֹא [תִקַּ֥ח הָאֵ֖ם עַל הַבָּנִֽים]{.underline}׃ [שַׁלֵּ֤חַ תְּשַׁלַּח֙]{.underline} אֶת [הָאֵ֔ם]{.underline} וְאֶת הַבָּנִ֖ים תִּֽקַּֽח]{.underline}] [לָ֑ךְ לְמַ֙עַן֙ יִ֣יטַב לָ֔ךְ וְהַאֲרַכְתָּ֖ יָמִֽים׃**^[96]{.underline}^**
+</div>
+<div style="flex: 1;">
+"If along the way you happen upon a bird's nest, in any tree or on the ground, with young chicks or eggs in it, and the mother is sitting over the young chicks or on the eggs, do not take the mother together with her young. You shall surely send the mother away and take only the young, so that it will be good for you and you will have a long life."**^[96]{.underline}^**
+</div>
+</div>
 
-- Mother bird ([ציפור, האם]) = Moshe's wife ([ציפורה אשת משה])
+- Mother bird (ציפור, האם) = Moshe's wife (ציפורה אשת משה)
 
-- Children or eggs ([על הבנים]) = Moshe's children ([ואת שני בניה])
+- Children or eggs (על הבנים) = Moshe's children (ואת שני בניה)
 
-- Send the mother away ([שלח תשלח את האם]) = Tzipporah was sent away ([אחר שילוחיה])
+- Send the mother away (שלח תשלח את האם) = Tzipporah was sent away (אחר שילוחיה)
 
-- Taking the children or eggs ([ואת הבנים תקח לך]) = Yitro took Tzipporah and the children ([ויקח יתרו ... שני בניה])
+- Taking the children or eggs (ואת הבנים תקח לך) = Yitro took Tzipporah and the children (ויקח יתרו ... שני בניה)
 
-The parallel between Tzipporah's name and the word used to describe the mother bird along with other glaring similarities implies importance of this commandment to the mysterious story of Tzipporah and her children.
-As in both the story of Tzipporah and the laws regarding a *metzora* in need of purification, we find here mention of multiple birds, an act of taking, and an act of sending away. While the *peshat* of this mitzvah is obviously halachic in nature,**^[97]{.underline}^** this mitzvah can be interpreted using a similar methodology to the one applied by the
-*metzora* ceremony as a parable for the life story of Tzipporah and her
-children.
+The parallel between Tzipporah's name and the word used to describe the mother bird along with other glaring similarities implies importance of this commandment to the mysterious story of Tzipporah and her children. As in both the story of Tzipporah and the laws regarding a *metzora* in need of purification, we find here mention of multiple birds, an act of taking, and an act of sending away. While the *peshat* of this mitzvah is obviously halachic in nature,**^[97]{.underline}^** this mitzvah can be interpreted using a similar methodology to the one applied by the *metzora* ceremony as a parable for the life story of Tzipporah and her children.
 
 To understand why, one needs to ask: what is the purpose, the motivation, the rationale behind *shiluach haken*? The most straightforward answer is also the one most commonly found in the midrashic literature:
 
-*"'An ox or a sheep, you shall not slaughter it and its son on the same
-day' (Vayikra 22:28). Rabbi Berechya said in the name of Rabbi Levi, it says: 'A tzaddik knows the soul of his animal' (Mishlei 12:10), this is HaKadosh Baruch Hu, as it says in His Torah: 'Do not take the mother with her children' (Devarim 22:6)."**^[98]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וְשׁוֹר אוֹ שֶׂה אֹתוֹ וְאֶת בְּנוֹ לֹא תִשְׁחֲטוּ בְּיוֹם אֶחָד (ויקרא כב, כח), אָמַר רַבִּי בֶּרֶכְיָה בְּשֵׁם רַבִּי לֵוִי כְּתִיב (משלי יב, י): יוֹדֵעַ צַדִּיק נֶפֶשׁ בְּהֶמְתּוֹ, זֶה הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁכָּתוּב בְּתוֹרָתוֹ (דברים כב, ו): לֹא תִקַּח הָאֵם עַל הַבָּנִים:**^[98]{.underline}^**
+</div>
+<div style="flex: 1;">
+"'An ox or a sheep, you shall not slaughter it and its son on the same day' (Vayikra 22:28). Rabbi Berechya said in the name of Rabbi Levi, it says: 'A tzaddik knows the soul of his animal' (Mishlei 12:10), this is HaKadosh Baruch Hu, as it says in His Torah: 'Do not take the mother with her children' (Devarim 22:6)."**^[98]{.underline}^**
+</div>
+</div>
 
-*Shiluach haken* is meant to teach and instill mercy and compassion in
-us. Indeed, the midrash points us to another mitzvah, namely the prohibition to slaughter a mother and her kid on the same day, which is instructing a similar ethical lesson; other mitzvot, such as the humane nature of ritual slaughter, can be interpreted similarly.
+*Shiluach haken* is meant to teach and instill mercy and compassion in us. Indeed, the midrash points us to another mitzvah, namely the prohibition to slaughter a mother and her kid on the same day, which is instructing a similar ethical lesson; other mitzvot, such as the humane nature of ritual slaughter, can be interpreted similarly.
 
-A completely different rationale for this mitzvah is quoted in the commentary of Rabbeinu Bahaye,**^[99]{.underline}^** one that is Kabbalistic instead of intellectual, Zoharic instead of Maimonidean.
-This mitzvah is meant to embody, not mercy, but cruelty; through the cruelty displayed by the person performing the mitzvah, Divine mercy is aroused and increased in the world. In other words, separating a mother bird from her children who will befall harm is seen on the one hand as merciful, sparing the mother further pain, but on the other hand is brutish, as it causes the mother initial pain, and through that pain inflicted on the mother bird, the world as a whole will benefit from a cosmic realignment of the balance between compassion and justice.
+A completely different rationale for this mitzvah is quoted in the commentary of Rabbeinu Bahaye,**^[99]{.underline}^** one that is Kabbalistic instead of intellectual, Zoharic instead of Maimonidean. This mitzvah is meant to embody, not mercy, but cruelty; through the cruelty displayed by the person performing the mitzvah, Divine mercy is aroused and increased in the world. In other words, separating a mother bird from her children who will befall harm is seen on the one hand as merciful, sparing the mother further pain, but on the other hand is brutish, as it causes the mother initial pain, and through that pain inflicted on the mother bird, the world as a whole will benefit from a cosmic realignment of the balance between compassion and justice.
 
 This debate between the rational and mystical, between mercy and cruelty, mirrors the divergent midrashic opinions on why Moshe sent Tzipporah away in Mechilta DeRabbi Yishmael in **Note 81**. Rabbi Elazar HaModa'i argues that Moshe sent Tzipporah away with words after Aharon reprimanded him for endangering her; this act of sending the mother bird away was an act of kindness and concern on Moshe's part, to spare her from witnessing and being subject to, terrible suffering in Egypt. In contrast, Rabbi Yehoshua claims that Moshe sent Tzipporah away with a divorce document; although he does not state why, divorce is not usually done from a place of love and compassion for the other party. It could be argued that the outcome of sending Tzipporah away with a bill of divorce is similar in concept to the Zohar's reading that sending the mother bird away is actually meant to be intentionally unkind to her.
 
-*Shiluach haken* can be found towards the end of Sefer Devarim, which
-records Moshe's final address and parting words to Bnai Yisrael. At this point Moshe is acutely aware that he will not merit to lead the nation into Eretz Yisrael; his own death is imminent, and his successor Yehoshua has been selected. As Moshe delivers his speech, he reflects on what he has accomplished in his life, and in parallel confronts his own impending mortality. Gershom and Eliezer not being viable candidates for leadership weighs on him; he knows that with his death there will be no continuation of his crown, no children to take over for him in the Promised Land. Indeed, Moshe's parting words in Sefer Devarim are delivered six months after Aharon's death, where Moshe saw firsthand his brother's sons inherit from their father.
+*Shiluach haken* can be found towards the end of Sefer Devarim, which records Moshe's final address and parting words to Bnai Yisrael. At this point Moshe is acutely aware that he will not merit to lead the nation into Eretz Yisrael; his own death is imminent, and his successor Yehoshua has been selected. As Moshe delivers his speech, he reflects on what he has accomplished in his life, and in parallel confronts his own impending mortality. Gershom and Eliezer not being viable candidates for leadership weighs on him; he knows that with his death there will be no continuation of his crown, no children to take over for him in the Promised Land. Indeed, Moshe's parting words in Sefer Devarim are delivered six months after Aharon's death, where Moshe saw firsthand his brother's sons inherit from their father.
 
 Perhaps Moshe, looking back on his life and the role his children played in it, is riddled with guilt and regret. His sons were not a part of his destiny or his mission to free the Jewish people. They had been sent home before *Yetziat Mitzrayim*, were absent as G-d exalted Himself in all of His glory over Egypt. When Tzipporah was sent away, she took her children with her back to Midian. Gershom and Eliezers' mother was the deciding factor in their development, and even with Yitro's amenability to the Jewish cause and Tzipporah's heroic circumcision, their homeland and identity became Midian, through and through. Unlike Elazar and Itamar, they did not grow up surrounded by miracles and G-dliness; instead, they were raised in a land filled with idolatry, without a father figure to give them guidance and direction. In effect, Moshe realizes, his sending away Tzipporah and their children, even if done with noble intentions, meant that they would always be attached to their mother. Tzipporah's historical background and culture became the sole environmental presence in their lives.
 
-Moshe understands that the sacrifice he made regarding his own family, while for the larger good of Bnai Yisrael, came at a price. He does not wish this same fate on others, and believes that he can warn others based on his experience. He therefore conceals within the mitzvah of
-*shiluach haken* a warning for others; a bitter, resigned exhortation
-that others should not follow his example. Interpolating the words of Yitro taking Tzipporah and the boys onto the mitzvah of *shiluach haken*, it can be read instead as a personal cry from Moshe to Bnai Yisrael. "If you send away the mother bird, make sure to take the children with you"; if you send away your Tzipporah, your wife and the mother of your children, make sure to take your children, keep them an integral part of your life, don't let them slip away. Do not sacrifice at the altar your lineage, the best guarantee for a legacy that will carry on your teachings and values, for the sake of a personal calling.
-I had no choice, Moshe desperately announces, because G-d had other plans for me; but, avoid what I have suffered, and what I now have to confront in my final days, at all costs. If you have to send away the mother bird, make sure to take the children with you; don't let others take them instead.
+Moshe understands that the sacrifice he made regarding his own family, while for the larger good of Bnai Yisrael, came at a price. He does not wish this same fate on others, and believes that he can warn others based on his experience. He therefore conceals within the mitzvah of *shiluach haken* a warning for others; a bitter, resigned exhortation that others should not follow his example. Interpolating the words of Yitro taking Tzipporah and the boys onto the mitzvah of *shiluach haken*, it can be read instead as a personal cry from Moshe to Bnai Yisrael. "If you send away the mother bird, make sure to take the children with you"; if you send away your Tzipporah, your wife and the mother of your children, make sure to take your children, keep them an integral part of your life, don't let them slip away. Do not sacrifice at the altar your lineage, the best guarantee for a legacy that will carry on your teachings and values, for the sake of a personal calling. I had no choice, Moshe desperately announces, because G-d had other plans for me; but, avoid what I have suffered, and what I now have to confront in my final days, at all costs. If you have to send away the mother bird, make sure to take the children with you; don't let others take them instead.
 
 If you do this, Moshe concludes, "*it will be good for you and you will have a long life."* Many a commentator wondered why this seemingly trivial mitzvah contains a reward for long days, something rarely found explicitly in the Torah.**^[100]{.underline}^** What does Moshe mean here when he says that whoever observes the mitzvah will "have it good" and merit a "lengthening of days"?
 
