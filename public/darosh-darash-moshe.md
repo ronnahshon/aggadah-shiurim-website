@@ -637,18 +637,20 @@ As it often does, here Tanchuma Yelamdenu explicitly spells out the reason motiv
 
 If the Mishkan's primary purpose was as expiation for the sin of the golden calf as the aggadah declares, where does Betzalel fit into that process? He was called by name to head the construction of G-d's Tabernacle, and while one school of thought argues this designation was from the beginning of time, another approach is to see in the appointment of Betzalel - grandson of Hur Ben Hetzron - a reward to Hur for his actions during that infamous episode:
 
-*"'See, Hashem has called by name Betzalel Ben Uri Ben Hur'. Why does it
-mention Hur here? Because when Yisrael wanted to worship Avodah Zarah, Hur gave his life for HaKadosh Baruch Hu and did not let them until they stood up and killed him. HaKadosh Baruch Hu said to him, by your life I will pay you back. A parable: A king whose legions rebelled against him. His general got up and fought against them, saying: You are rebelling against the king. They stood up and killed him. The king then said: If he had given me money I would have to pay him back, how much more so that he has given his life over me. What shall I do for him? I will make all children that come from him great leaders. So too when Yisrael made the calf, Hur got up and gave his life over HaKadosh Baruch Hu, who said to him: By your life, all children that come from you - I shall increase their good name in the world, as it says: 'See, Hashem has called by name Betzalel', 'He is filled with the spirit of G-d'."***^[98]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 רְאוּ קָרָא ה' בְּשֵׁם בְּצַלְאֵל בֶּן אוּרִי בֶּן חוּר, מָה רָאָה לְהַזְכִּיר כָּאן חוּר, אֶלָּא בְּשָׁעָה שֶׁבִּקְּשׁוּ יִשְׂרָאֵל לַעֲבֹד עֲבוֹדַת כּוֹכָבִים נָתַן נַפְשׁוֹ עַל הַקָּדוֹשׁ בָּרוּךְ הוּא וְלֹא הִנִּיחָן, עָמְדוּ וַהֲרָגוּהוּ, אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא חַיֶּיךָ שֶׁאֲנִי פּוֹרֵעַ לְךָ. מָשָׁל לְמֶלֶךְ שֶׁמָּרְדוּ עָלָיו לִגְיוֹנוֹתָיו, עָמַד שַׂר הַצָּבָא שֶׁלּוֹ וְנִלְחַם עִמָּהֶם, אָמַר לָהֶם עַל הַמֶּלֶךְ אַתֶּם מוֹרְדִים, עָמְדוּ וְהָרְגוּ אוֹתוֹ. אָמַר הַמֶּלֶךְ אִלּוּ מָמוֹן נָתַן לִי לֹא הָיִיתִי צָרִיךְ לִפְרֹעַ לוֹ, עַל אַחַת כַּמָּה וְכַמָּה שֶׁנַּפְשׁוֹ נָתַן עָלַי, מָה אֲנִי עוֹשֶׂה לוֹ, אֶלָּא כָּל בָּנִים שֶׁיֵּצְאוּ מִמֶּנּוּ אֲנִי מַעֲמִידָם דֻּכָּסִים וְאִפַּרְכִּים. כָּךְ בְּשָׁעָה שֶׁעָשׂוּ יִשְׂרָאֵל הָעֵגֶל עָמַד חוּר וְנָתַן נַפְשׁוֹ עַל הַקָּדוֹשׁ בָּרוּךְ הוּא, אָמַר לוֹ חַיֶּיךָ כָּל בָּנִים הַיּוֹצְאִים מִמְּךָ אֲנִי מְגַדְּלָם שֵׁם טוֹב בָּעוֹלָם, שֶׁנֶּאֱמַר: רְאוּ קָרָא ה' בְּשֵׁם בְּצַלְאֵל, וַיְמַלֵּא אֹתוֹ רוּחַ אֱלֹהִים:**^[98]{.underline}^**
+</div>
+<div style="flex: 1;">
+"'See, Hashem has called by name Betzalel Ben Uri Ben Hur'. Why does it mention Hur here? Because when Yisrael wanted to worship Avodah Zarah, Hur gave his life for HaKadosh Baruch Hu and did not let them until they stood up and killed him. HaKadosh Baruch Hu said to him, by your life I will pay you back. A parable: A king whose legions rebelled against him. His general got up and fought against them, saying: You are rebelling against the king. They stood up and killed him. The king then said: If he had given me money I would have to pay him back, how much more so that he has given his life over me. What shall I do for him? I will make all children that come from him great leaders. So too when Yisrael made the calf, Hur got up and gave his life over HaKadosh Baruch Hu, who said to him: By your life, all children that come from you - I shall increase their good name in the world, as it says: 'See, Hashem has called by name Betzalel', 'He is filled with the spirit of G-d'."**^[98]{.underline}^**
+</div>
+</div>
 
 If the Mishkan is a direct response to the incident of the golden calf, who better to take the lead and be appointed in charge of its design than Betzalel, the grandson of Hur? Is that not an appropriate way to commemorate Hur's death and ensure atonement for all of Bnai Yisrael, which thereby fulfills Hur's mission of protecting the people from sin, albeit through *teshuva* rather than preventing the sin to begin with?**^[99]{.underline}^**
 
 Additionally, Hashem wished to show the people not only that He had forgiven them for the grievous sin of *Avodah Zarah*; He had forgiven them for the murder of His servant Hur as well. Having his grandson engineer the vehicle of His presence among the people, signifying His acceptance of their return to Him, demonstrates to Bnai Yisrael that through their contributions and enthusiasm for the Mishkan they have achieved atonement for Hur's gruesome death.
 
-Let us direct our attention to the end of Shmot Rabbah. How specifically does HaKadosh Baruch Hu promise to pay Hur back for his fidelity? By noticing Hur's offspring and being "*megadlam shem tov baolam"*, increasing their good name in the world. We see here the appearance of a
-*shem tov*, a good name, and the midrash is imparting the reward ensured
-by G-d: although Hur had been reviled by the people, his children and offspring will be beloved by Bnai Yisrael.
+Let us direct our attention to the end of Shmot Rabbah. How specifically does HaKadosh Baruch Hu promise to pay Hur back for his fidelity? By noticing Hur's offspring and being "*megadlam shem tov baolam"*, increasing their good name in the world. We see here the appearance of a *shem tov*, a good name, and the midrash is imparting the reward ensured by G-d: although Hur had been reviled by the people, his children and offspring will be beloved by Bnai Yisrael.
 
 However, the phrase "a good name", as discussed earlier in relation to the three crowns, can also mean the name of G-d, and symbolize His active presence and intervention in the world. If so, this underlines a powerful answer to the accusations of [צדיק ורע לו]. While Hur was being murdered at the bottom of Har Sinai, HaKadosh Baruch Hu was hidden, seemingly absent, unwilling to intervene and protect his loyal prince. His revenge and payback is therefore the complete opposite of *hester panim*: He personally calls Betzalel, grandson by name, something He rarely does, to highlight how He is involved, how He does care about the fates of His loved ones and pays them back, if not during their lives, then in the lives of their descendants.
 
@@ -656,78 +658,89 @@ We can therefore interpret the words of Shmot Rabbah to mean as follows: HaKados
 
 This idea is buttressed by the Kabbalistic teaching that after leaving his body, Hur's soul enclothed the soul of his father Kalev, and it was that which drove Kalev to act in a similar manner later on during the episode with the spies:
 
-*"The soul of Hur was bound up in the soul of Kalev. This is the secret
-of: 'My servant Kalev had another spirit with him' (Bemidbar 14:24) - the word for spirit has the same letters as Hur."***^[100]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 נשמתו של חור נתלבשה בנשמת כלב, זה סוד ועבדי כלב עקב היתה רוח אחרת עמו (במדבר יד, כד), רו"ח אותיות חור:**^[100]{.underline}^**
+</div>
+<div style="flex: 1;">
+"The soul of Hur was bound up in the soul of Kalev. This is the secret of: 'My servant Kalev had another spirit with him' (Bemidbar 14:24) - the word for spirit has the same letters as Hur."**^[100]{.underline}^**
+</div>
+</div>
 
 Not only were Kalev and Hur father and son, but Kalev carried on Hur's legacy by standing up against the other spies. Hur was taken unjustly, before his time, and never had the chance to be "laid to rest" or redeemed in any recognizable way. It is to this larger point that the midrash is hyper-attuned to, and seeks to understand the ramifications from a hashkafic perspective: How are we to make sense of Hur's untimely death in the face of such wanton tragedy? The parallel to Kalev Ben Yefuneh's actions, along with the noteworthy description of Kalev has having been possessed by a *"different spirit"* when he acted the way he did, leads Yalkut Reuveni to draw the natural conclusion: Hur was actually acting through Kalev, and this time his zealotry was rewarded: he was to survive, enter Eretz Canaan and inherit Hevron: the city where Avraham Yitzchak and Yaakov were buried (Breishit 23:19, 49:29), and the place where his descendant David was initially recognized and crowned as king over the tribe of Yehudah (Shmuel Bet 2:4). Although Hur's life was cut short by Bnai Yisrael at the sin of the golden calf, his legacy - indeed, his very soul**^[101]{.underline}^** - lived on through his father, one of only two people who outlived G-d's promise that Bnai Yisrael were destined to die in the desert.
 
-Although Hur was condemned to death because of his fidelity to HaKadosh Baruch Hu, in reality his essence outlived the rest of his generation.
-Kalev entering Eretz Yisrael represents Hashem fulfilling His promise to the Avot, and Kalev inheriting Hevron, the site of future Davidic rule, represents Hashem fulfilling His promise to the tribe of Yehudah.**^[102]{.underline}^** Hur, though he lay slain before Aharon, lived on in the metaphorical sense - and even the literal sense - beyond Aharon: while his convictions got him killed, they also enshrined him and ensured his legacy would continue. And this in turn, shows how HaKadosh Baruch Hu rewards His righteous servants and runs His world with justice and fairness, even if it is not something easily recognizable. Indeed, it is precisely because it is not readily apparent to the eye that the seeds of such blessing can be planted, to grow and blossom. Aharon saw Hur slaughtered before his eyes, yet it was with that which was "hidden from the eye"**^[103]{.underline}^** that Hur's blessing was able to come to fruition, to receive Divine repayment for his loyalty and receive everlasting life and a portion in HaKadosh Baruch Hu's chosen land.
+Although Hur was condemned to death because of his fidelity to HaKadosh Baruch Hu, in reality his essence outlived the rest of his generation. Kalev entering Eretz Yisrael represents Hashem fulfilling His promise to the Avot, and Kalev inheriting Hevron, the site of future Davidic rule, represents Hashem fulfilling His promise to the tribe of Yehudah.**^[102]{.underline}^** Hur, though he lay slain before Aharon, lived on in the metaphorical sense - and even the literal sense - beyond Aharon: while his convictions got him killed, they also enshrined him and ensured his legacy would continue. And this in turn, shows how HaKadosh Baruch Hu rewards His righteous servants and runs His world with justice and fairness, even if it is not something easily recognizable. Indeed, it is precisely because it is not readily apparent to the eye that the seeds of such blessing can be planted, to grow and blossom. Aharon saw Hur slaughtered before his eyes, yet it was with that which was "hidden from the eye"**^[103]{.underline}^** that Hur's blessing was able to come to fruition, to receive Divine repayment for his loyalty and receive everlasting life and a portion in HaKadosh Baruch Hu's chosen land.
 
 **[Like Children]{.underline}**
 
 Grandchildren are just as, if not more, precious to grandparents as their own children, a sentiment any grandparent can attest to.**^[104]{.underline}^** Children cause their parents much heartache and stress, while grandchildren are pure joy and enjoyment.**^[105]{.underline}^** While this emotional feeling is certainly meaningful, there is halachic debate as to whether this concept has any legal validity;**^[106]{.underline}^** and if so, whether can be applied to the mitzvah of procreation:
 
-*"It was taught: Rabbi Natan says, Beit Shammai say two boys are
-required to fulfill the mitzvah of procreation while Beit Hillel say a boy and a girl ...*
-
-*It was taught: Grandchildren are like children. Abaye wanted to
-derive from this that a person fulfills the mitzvah to procreate even if his children die if his son has a son, if his daughter has a daughter, and all the more so if his daughter has a son, but not if his son has a daughter. Rava said to him, we require: 'He formed the world to be inhabited' (Yishayahu 45:18), and here that stands i.e. a son who has a daughter and passes away, she can take his place in order to fulfill the mitzvah. Regardless, everyone agrees that two grandchildren from one child is not enough. But is it not? Did the Rabbis not say to Rav Sheshet, marry a woman and have sons, and he responded to them, the sons of my daughters are my sons indicating that one can fulfill the mitzvah to have a son and a daughter through grandchildren? There Rav Sheshet was pushing them off, for Rav Sheshet had become impotent from the lectures of Rav Huna which were very long and Rav Sheshet did not relieve himself.*
-
-*Rabbah said to Rava Bar Mari, where do we know that which the Rabbis
-said, that grandchildren are like children? If you will say from here: 'The girls are my daughters and the boys are my sons' (Breishit 31:43), then when it continues: 'And your flocks are my flocks' does it mean that as well? Rather, Lavan is saying that you acquired them from me; so too here regarding your children you acquired them from me.
-Rather, say from here: 'Afterwards Hetzron came to the daughter of Machir, the father of Gilad, and she gave birth to Seguv' (Divrei HaYamim Aleph 2:21), and it says: 'Out of Machir descended governors' (Shoftim 5:14), and it says: 'Yehuudah is my governor' (Tehillim 60:9) i.e. these governors, who were from the tribe of Yehudah, were also called the sons of Machir, who was from the tribe of Menashe; this is because they were the children of Machir's daughter and Hetzron, indicating that grandchildren are like children."***^[107]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 תַּנְיָא רַבִּי נָתָן אוֹמֵר בֵּית שַׁמַּאי אוֹמְרִים שְׁנֵי זְכָרִים וּשְׁתֵּי נְקֵבוֹת וּבֵית הִלֵּל אוֹמְרִים זָכָר וּנְקֵבָה ...
 
 בְּנֵי בָנִים הֲרֵי הֵם כְּבָנִים סְבַר אַבָּיֵי לְמֵימַר בְּרָא לִבְרָא וּבְרַתָּא לִבְרַתָּא וְכׇל שֶׁכֵּן בְּרָא לִבְרַתָּא אֲבָל בְּרַתָּא לִבְרָא לָא אֲמַר לֵיהּ רָבָא לָשֶׁבֶת יְצָרָהּ (ישעיה מה, יח) בָּעֲיָא וְהָא אִיכָּא דְּכוּלֵּי עָלְמָא מִיהַת תְּרֵי מֵחַד לָא וְלָא וְהָא אָמְרִי לֵיהּ רַבָּנַן לְרַב שֵׁשֶׁת נְסֵיב אִיתְּתָא וְאוֹלֵיד בְּנֵי וַאֲמַר לְהוּ בְּנֵי בְרַתִּי בְּנֵי נִינְהוּ הָתָם דַּחוֹיֵי קָמְדַחֵי לְהוּ דְּרַב שֵׁשֶׁת אִיעֲקַר מִפִּירְקֵיהּ דְּרַב הוּנָא.
 
 אֲמַר לֵיהּ רַבָּה לְרָבָא בַּר מָארִי מְנַָא הָא מִילְּתָא דַּאֲמוּר רַבָּנַן בְּנֵי בָנִים הֲרֵי הֵן כְּבָנִים אִילֵּימָא מִדִּכְתִיב הַבָּנוֹת בְּנוֹתַי וְהַבָּנִים בָּנַי (בראשית לא, מג) אֶלָּא מֵעַתָּה וְהַצֹּאן צֹאנִי הָכִי נָמֵי אֶלָּא דִּקְנֵית מִינַּאי הָכָא נָמֵי דִּקְנֵית מִינַּאי אֶלָּא מֵהָכָא וְאַחַר בָּא חֶצְרוֹן אֶל בַּת מָכִיר אֲבִי גִלְעָד וַתֵּלֶד לוֹ אֶת שְׂגוּב (דברי הימים א ב, כא) וּכְתִיב מִנִּי מָכִיר יָרְדוּ מְחוֹקְקִים (שופטים ה, יד) וּכְתִיב יְהוּדָה מְחוֹקְקִי (תהלים ס, ט):**^[107]{.underline}^**
+</div>
+<div style="flex: 1;">
+"It was taught: Rabbi Natan says, Beit Shammai say two boys are required to fulfill the mitzvah of procreation while Beit Hillel say a boy and a girl ...
+
+It was taught: Grandchildren are like children. Abaye wanted to derive from this that a person fulfills the mitzvah to procreate even if his children die if his son has a son, if his daughter has a daughter, and all the more so if his daughter has a son, but not if his son has a daughter. Rava said to him, we require: 'He formed the world to be inhabited' (Yishayahu 45:18), and here that stands i.e. a son who has a daughter and passes away, she can take his place in order to fulfill the mitzvah. Regardless, everyone agrees that two grandchildren from one child is not enough. But is it not? Did the Rabbis not say to Rav Sheshet, marry a woman and have sons, and he responded to them, the sons of my daughters are my sons indicating that one can fulfill the mitzvah to have a son and a daughter through grandchildren? There Rav Sheshet was pushing them off, for Rav Sheshet had become impotent from the lectures of Rav Huna which were very long and Rav Sheshet did not relieve himself.
+
+Rabbah said to Rava Bar Mari, where do we know that which the Rabbis said, that grandchildren are like children? If you will say from here: 'The girls are my daughters and the boys are my sons' (Breishit 31:43), then when it continues: 'And your flocks are my flocks' does it mean that as well? Rather, Lavan is saying that you acquired them from me; so too here regarding your children you acquired them from me. Rather, say from here: 'Afterwards Hetzron came to the daughter of Machir, the father of Gilad, and she gave birth to Seguv' (Divrei HaYamim Aleph 2:21), and it says: 'Out of Machir descended governors' (Shoftim 5:14), and it says: 'Yehuudah is my governor' (Tehillim 60:9) i.e. these governors, who were from the tribe of Yehudah, were also called the sons of Machir, who was from the tribe of Menashe; this is because they were the children of Machir's daughter and Hetzron, indicating that grandchildren are like children."**^[107]{.underline}^**
+</div>
+</div>
 
 All Jewish men are required to have at least two children, a boy and a girl,**^[108]{.underline}^** yet what if a man's children pass away during his lifetime: has he fulfilled his obligation? Grandchildren are in fact able to "replace" their children and enable their grandparents to perform this mitzvah under certain conditions.**^[109]{.underline}^** The source for this principle that grandchildren are considered like children should be a familiar one: Hetzron - son of Peretz, and grandson of Yehudah - had grandchildren who are considered as his own children by Divrei HaYamim Aleph. [Surely, then, the same principle would apply to Hetzron's own descendant, namely his son Hur: Just as Hetzron's grandsons are considered as his sons, Hur's grandson Betzalel should be considered as his own son. This perhaps strengthens the larger point that Hur was rewarded for his actions through his descendants: although technically it was Hur's grandson who received honor and was "called by name" because of Hur, Betzalel was in practice considered like Hur's own son. It other words: Hur's soul - indeed, his essential nature of zealousness and loyalty towards Hashem - enclothed his father Kalev, who was subsequently rewarded with entry to Eretz Canaan and an inheritance in Hevron the land of his forefathers; and Hur's good name passed onto his son/grandson Betzalel, who was subsequently honored as the main artisan of the Mishkan, meant to house G-d's presence in this world.
 
 Mishlei juxtaposes the concept of a male grandchild with that of a crown:
 
-*["]The crown of the elderly is their sons' sons, and the beauty
-of sons is their father."***^[110]{.underline}^**
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+עֲטֶ֣רֶת זְ֭קֵנִים בְּנֵ֣י בָנִ֑ים וְתִפְאֶ֖רֶת בָּנִ֣ים אֲבוֹתָֽם׃**^[110]{.underline}^**
+</div>
+<div style="flex: 1;">
+"The crown of the elderly is their sons' sons, and the beauty of sons is their father."**^[110]{.underline}^**
+</div>
+</div>
 
-[עֲטֶ֣רֶת זְ֭קֵנִים בְּנֵ֣י בָנִ֑ים וְתִפְאֶ֖רֶת בָּנִ֣ים
-אֲבוֹתָֽם׃**^[110]{.underline}^**
-
-This pasuk is applied to the righteous and demonstrates how just as Yaakov inherited the beauty of Avraham, Avraham was retroactively crowned by Yaakov.**^[111]{.underline}^** [This language of crowning adds yet another layer of depth to Hur's reward. Hur's crown was the crown of Kingship, and here we see that male grandchildren - considered like children - inherit the crowns of their grandparents.
-Hur's crown of leadership was realized by Betzalel being chosen to construct the Mishkan; in effect he retroactively, even in death, was both crowned through his offspring and passed his own crown dynastically onto his child, just as kings are expected to do in death.**^[112]{.underline}^** [Hur's spirit lived on through his father Kalev, and his crown was passed onto his "son" Betzalel; just as the midrash portrays him as the quintessential leader, both in pedigree and in performance, it also demonstrates how he is the quintessential model of someone who suffers but is rewarded in ways that are not immediately recognizable but, upon reflection and with the proper faith in the Divine order, become self-apparent.
+This pasuk is applied to the righteous and demonstrates how just as Yaakov inherited the beauty of Avraham, Avraham was retroactively crowned by Yaakov.**^[111]{.underline}^** [This language of crowning adds yet another layer of depth to Hur's reward. Hur's crown was the crown of Kingship, and here we see that male grandchildren - considered like children - inherit the crowns of their grandparents. Hur's crown of leadership was realized by Betzalel being chosen to construct the Mishkan; in effect he retroactively, even in death, was both crowned through his offspring and passed his own crown dynastically onto his child, just as kings are expected to do in death.**^[112]{.underline}^** [Hur's spirit lived on through his father Kalev, and his crown was passed onto his "son" Betzalel; just as the midrash portrays him as the quintessential leader, both in pedigree and in performance, it also demonstrates how he is the quintessential model of someone who suffers but is rewarded in ways that are not immediately recognizable but, upon reflection and with the proper faith in the Divine order, become self-apparent.
 
 **[Final Vengeance]{.underline}**
 
 We have seen so far the name Hur appear in two distinct contexts:
 
-- Shmot 17 and Shmot 24 in reference to Aharon's colleague and leader of Bnai Yisrael
-
-- Shmot 31, Divrei HaYamim Aleph 2, and many other places in reference to the son of Kalev Ben Hetzron and the grandfather of Betzalel
+1. Shmot 17 and Shmot 24 in reference to Aharon's colleague and leader of Bnai Yisrael
+2. Shmot 31, Divrei HaYamim Aleph 2, and many other places in reference to the son of Kalev Ben Hetzron and the grandfather of Betzalel
 
 The name Hur comes up in several other places in Tanach as well as people's names,**^[113]{.underline}^** though those references do not appear related and the aggadic literature does not attempt to consolidate them the same way it does in the other instances.**^[114]{.underline}^** There is, however, one other association with the word Hur that refers, not to a person, but to a thing:
 
-*"At the end of many days, the king hosted a banquet for seven days in
-the court of the king's palace garden for all the people who lived in the capital of Shushan, high and low alike. There were hangings of Hur, fine cotton and blue wool, caught up by cords of fine linen and purple wool to silver rods and alabaster columns; and there were couches of gold and silver on a pavement of marble, alabaster, mother-of-pearl, and mosaics. Royal wine was served in abundance, as befits a king, in golden chalices, chalices of varied design."***^[115]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 וּבִמְל֣וֹאת ׀ הַיָּמִ֣ים הָאֵ֗לֶּה עָשָׂ֣ה הַמֶּ֡לֶךְ לְכׇל הָעָ֣ם הַנִּמְצְאִים֩ בְּשׁוּשַׁ֨ן הַבִּירָ֜ה לְמִגָּ֧דוֹל וְעַד קָטָ֛ן מִשְׁתֶּ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּחֲצַ֕ר גִּנַּ֥ת בִּיתַ֖ן הַמֶּֽלֶךְ׃ ח֣וּר ׀ כַּרְפַּ֣ס וּתְכֵ֗לֶת אָחוּז֙ בְּחַבְלֵי ב֣וּץ וְאַרְגָּמָ֔ן עַל גְּלִ֥ילֵי כֶ֖סֶף וְעַמּ֣וּדֵי שֵׁ֑שׁ מִטּ֣וֹת ׀ זָהָ֣ב וָכֶ֗סֶף עַ֛ל רִֽצְפַ֥ת בַּהַט וָשֵׁ֖שׁ וְדַ֥ר וְסֹחָֽרֶת׃ וְהַשְׁקוֹת֙ בִּכְלֵ֣י זָהָ֔ב וְכֵלִ֖ים מִכֵּלִ֣ים שׁוֹנִ֑ים וְיֵ֥ין מַלְכ֛וּת רָ֖ב כְּיַ֥ד הַמֶּֽלֶךְ׃**^[115]{.underline}^**
+</div>
+<div style="flex: 1;">
+"At the end of many days, the king hosted a banquet for seven days in the court of the king's palace garden for all the people who lived in the capital of Shushan, high and low alike. There were hangings of Hur, fine cotton and blue wool, caught up by cords of fine linen and purple wool to silver rods and alabaster columns; and there were couches of gold and silver on a pavement of marble, alabaster, mother-of-pearl, and mosaics. Royal wine was served in abundance, as befits a king, in golden chalices, chalices of varied design."**^[115]{.underline}^**
+</div>
+</div>
 
 What does the word 'Hur' mean in this context? The same letters in Aramaic are a root that means *white*; specifically, pure white, like snow or sheep's wool.**^[116]{.underline}^** Indeed, that is how the Amora Shmuel understands the word Hur in Esther as well, while Rav deems it a cognate of a Hebrew root meaning *hole*:**^[117]{.underline}^**
 
-*"'Hur, fine cotton and blue' (Esther 1:6). What is Hur? Rav said, a
-fabric fashioned with lots of holes. Shmuel said, Achashverosh spread out for them carpets of white wool ... 'There was a man from Yehudah in the capital of Shushan' (Esther 2:5) ... Mordechai is called a Yehudi from the tribe of Yehudah, so apparently he was from Yehudah, yet he is called a Yemini from the tribe of Binyamin? Rav Nachman said, Mordechai was crowned with an honorary title. Rabbah Bar Bar Hanna said in the name of Rabbi Yehoshua Ben Levi, Mordechai's father was from Binyamin and his mother was from Yehudah."***^[118]{.underline}^**
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 (אסתר א, ו) חור כרפס ותכלת מאי חור רב אמר חרי חרי ושמואל אמר מילת לבנה הציע להם ... איש יהודי היה בשושן הבירה (אסתר ב, ה) \... קרי ליה יהודי אלמא מיהודה קאתי וקרי ליה ימיני אלמא מבנימין קאתי אמר רב נחמן מרדכי מוכתר בנימוסו היה אמר רבה בר בר חנה אמר רבי יהושע בן לוי אביו מבנימין ואמו מיהודה:**^[118]{.underline}^**
+</div>
+<div style="flex: 1;">
+"'Hur, fine cotton and blue' (Esther 1:6). What is Hur? Rav said, a fabric fashioned with lots of holes. Shmuel said, Achashverosh spread out for them carpets of white wool ... 'There was a man from Yehudah in the capital of Shushan' (Esther 2:5) ... Mordechai is called a Yehudi from the tribe of Yehudah, so apparently he was from Yehudah, yet he is called a Yemini from the tribe of Binyamin? Rav Nachman said, Mordechai was crowned with an honorary title. Rabbah Bar Bar Hanna said in the name of Rabbi Yehoshua Ben Levi, Mordechai's father was from Binyamin and his mother was from Yehudah."**^[118]{.underline}^**
+</div>
+</div>
 
 Hur is the first word on a long list of descriptive phrases intended to portray the lavishness of Achashverosh's feast. Additionally, the word Hur is somewhat unique in that the masoretic tradition has the first letter [ח] written larger than all the other letters. In general, large and small masoretic letters are subject to midrashic interpretation, and this [ח] should be no exception.**^[119]{.underline}^** The large [ח] which opens and begins the list of adjectives describing how grand and ostentatious the banquet was further emphasizes the sense of royalty and grandeur the party was meant to convey to all of its participants. Yet perhaps there is also another layer of meaning hidden here which ties the concepts of royalty, kingship, even gold - all prominent in Megillat Esther - to the original Hur, noble wearer of the crown of Kingship.
 
 As noted above, Mordechai is described as both a descendant of Binyamin and Yehudah. One solution offered is that Mordechai's *"father was from Binyamin and his mother was from Yehudah"*. His paternal lineage is provided by the text, making his connection to Binyamin indisputable. At the same time, the aggadah understands his mother as belonging to the tribe of Yehudah, the tribe of kingship and royalty. It is attempting to infuse an important Jewish leader with the force and authority of leadership that the tribe of Yehudah commands and connotes. In this respect, the midrash here in Megillah does to Mordechai's character what it did to Hur elsewhere: it connects someone who is clearly an important leader, but without any apparent connection to the paradigmatic tribe of leadership, to that very tribe, while still maintaining their connection to another important tribe through their second parent, namely the tribes of Binyamin and Levi respectively.
 
-The Talmud suggests another explanation for why Mordechai is described as an *ish yehudi*. He was not actually a descendant of the tribe of Yehudah on his mother's side; rather, the term *yehudi* is an epithet of honor and distinction. The language used to describe this is striking:
-*"Mordechai was crowned with an honorary title"*. This crowning was
-figurative in the sense that he was a man of distinction, renown and respect, rightfully earning a place in the canon of leadership, the domain of the tribe of Yehudah.
+The Talmud suggests another explanation for why Mordechai is described as an *ish yehudi*. He was not actually a descendant of the tribe of Yehudah on his mother's side; rather, the term *yehudi* is an epithet of honor and distinction. The language used to describe this is striking: *"Mordechai was crowned with an honorary title"*. This crowning was figurative in the sense that he was a man of distinction, renown and respect, rightfully earning a place in the canon of leadership, the domain of the tribe of Yehudah.
 
 What made Mordechai so deserving of this title, normally reserved for the kings of Yehudah? He refused to bow down to anyone - or anything - other than HaKadosh Baruch Hu. Mordechai was unwilling to prostrate himself before Haman,**^[120]{.underline}^** even at great personal risk. This reflects Hur's actions many generations earlier, when he also refused to participate in idolatry against the prevailing opinion of the time. These two men, separated by many hundreds of years, were both examples of decision-makers who refused to compromise their beliefs, and took the mantle of responsibility upon themselves in situations of potential uncertainty and catastrophe. Both were great leaders, both stood up to the Jewish masses and to Amalek, and both were eventually honored by their nation and by HaKadosh Baruch Hu.
 
