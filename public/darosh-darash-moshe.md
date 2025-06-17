@@ -2394,6 +2394,6 @@ The Talmud goes out of its way to insert wives into the story of Korach's rebell
 
 The danger of even speaking against someone you love, and with the right intentions, highlights just how dangerous *lashon hara* is, and how careful we have to be in exercising caution with the words we say. Our mouths are unique among the human organs, hidden behind two rows of defenses - teeth and lips - as a constant reminder of how carefully guarded they need to remain. To avoid the fate of a *metzora* placed in quarantine and watched by everyone else, we must be proactively vigilant and watch the words that we say. We must learn from the martyrdom of Miriam, and recognize that some grievances spoken in private can, in short order, lead to great and uncontrollable tragedy.
 
-**[תושלב״ע - תם ונשלם שבח לא-ל בורא עולם]{.underline}**
+**!תושלב״ע - תם ונשלם שבח לא-ל בורא עולם**
 
 
