@@ -705,14 +705,11 @@ Mishlei juxtaposes the concept of a male grandchild with that of a crown:
 </div>
 </div>
 
-This pasuk is applied to the righteous and demonstrates how just as Yaakov inherited the beauty of Avraham, Avraham was retroactively crowned by Yaakov.**^[111]{.underline}^** [This language of crowning adds yet another layer of depth to Hur's reward. Hur's crown was the crown of Kingship, and here we see that male grandchildren - considered like children - inherit the crowns of their grandparents. Hur's crown of leadership was realized by Betzalel being chosen to construct the Mishkan; in effect he retroactively, even in death, was both crowned through his offspring and passed his own crown dynastically onto his child, just as kings are expected to do in death.**^[112]{.underline}^** [Hur's spirit lived on through his father Kalev, and his crown was passed onto his "son" Betzalel; just as the midrash portrays him as the quintessential leader, both in pedigree and in performance, it also demonstrates how he is the quintessential model of someone who suffers but is rewarded in ways that are not immediately recognizable but, upon reflection and with the proper faith in the Divine order, become self-apparent.
+This pasuk is applied to the righteous and demonstrates how just as Yaakov inherited the beauty of Avraham, Avraham was retroactively crowned by Yaakov.**^[111]{.underline}^** This language of crowning adds yet another layer of depth to Hur's reward. Hur's crown was the crown of Kingship, and here we see that male grandchildren - considered like children - inherit the crowns of their grandparents. Hur's crown of leadership was realized by Betzalel being chosen to construct the Mishkan; in effect he retroactively, even in death, was both crowned through his offspring and passed his own crown dynastically onto his child, just as kings are expected to do in death.**^[112]{.underline}^** Hur's spirit lived on through his father Kalev, and his crown was passed onto his "son" Betzalel; just as the midrash portrays him as the quintessential leader, both in pedigree and in performance, it also demonstrates how he is the quintessential model of someone who suffers but is rewarded in ways that are not immediately recognizable but, upon reflection and with the proper faith in the Divine order, become self-apparent.
 
 **[Final Vengeance]{.underline}**
 
-We have seen so far the name Hur appear in two distinct contexts:
-
-1. Shmot 17 and Shmot 24 in reference to Aharon's colleague and leader of Bnai Yisrael
-2. Shmot 31, Divrei HaYamim Aleph 2, and many other places in reference to the son of Kalev Ben Hetzron and the grandfather of Betzalel
+We have seen so far the name Hur appear in two distinct contexts: (1) Shmot 17 and Shmot 24 in reference to Aharon's colleague and leader of Bnai Yisrael, and (2) Shmot 31, Divrei HaYamim Aleph 2, and many other places in reference to the son of Kalev Ben Hetzron and the grandfather of Betzalel.
 
 The name Hur comes up in several other places in Tanach as well as people's names,**^[113]{.underline}^** though those references do not appear related and the aggadic literature does not attempt to consolidate them the same way it does in the other instances.**^[114]{.underline}^** There is, however, one other association with the word Hur that refers, not to a person, but to a thing:
 
