@@ -227,17 +227,7 @@ const DaroshDarashMoshePage: React.FC = () => {
                 Table of Contents
               </h2>
               
-              {/* General Introduction */}
-              <div className="mb-4">
-                <button
-                  onClick={() => scrollToSection('general-introduction')}
-                  className={`block w-full text-left p-2 rounded hover:bg-biblical-brown/10 transition-colors ${
-                    activeSection === 'general-introduction' ? 'bg-biblical-brown/15 font-semibold' : ''
-                  }`}
-                >
-                  General Introduction
-                </button>
-              </div>
+
 
               {/* Chapters */}
               {tableOfContents.chapters.map((chapter) => (
@@ -264,9 +254,11 @@ const DaroshDarashMoshePage: React.FC = () => {
                           {part.title}
                         </button>
                         
-                        {/* Sections */}
+                        {/* Sections - Filter out Introduction sections */}
                         <div className="ml-4 mt-1">
-                          {part.sections.map((section) => (
+                          {part.sections
+                            .filter((section) => !section.title.toLowerCase().includes('introduction'))
+                            .map((section) => (
                             <button
                               key={section.id}
                               onClick={() => scrollToSection(section.id)}
