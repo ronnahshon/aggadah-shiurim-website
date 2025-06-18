@@ -4,8 +4,6 @@
 
 
 
-**[Notes for General Introduction]{.underline}**
-
 **1.** **Pesikta DeRav Kahana 3:8**
 <br/>
 <br/>
@@ -256,7 +254,7 @@ Nevertheless, the aggadic interpretation understands *emunah* as stemming from t
 <br/>
 <br/>
 
-*"'Then Moshe and Bnai Yisrael sang', 'They had faith in Hashem'. Because of this faith, they merited to inherit the land.Similarly, you find that in return for the faith that Avraham Avinu had in Hashem, he merited to inherit this world and the world to come, as it says: 'He had faith in Hashem, and He considered it to him for righteousness' (Breishit 15:6). Similarly: 'The nation had faith' (Shmot 4:31), and it says: 'Hashem preserves the faithful, and repays with extra those who are haughty' (Tehillim 31:24). And so too with Moshe: 'His hands were a symbol of faith until the sun set' (Shmot 17:12)."*
+*"'Then Moshe and Bnai Yisrael sang', 'They had faith in Hashem'. Because of this faith, they merited to inherit the land. Similarly, you find that in return for the faith that Avraham Avinu had in Hashem, he merited to inherit this world and the world to come, as it says: 'He had faith in Hashem, and He considered it to him for righteousness' (Breishit 15:6). Similarly: 'The nation had faith' (Shmot 4:31), and it says: 'Hashem preserves the faithful, and repays with extra those who are haughty' (Tehillim 31:24). And so too with Moshe: 'His hands were a symbol of faith until the sun set' (Shmot 17:12)."*
 <br/>
 <br/>
 
@@ -284,21 +282,25 @@ The Targum understands *emunah* as a reference to Moshe's faith in Hashem, and i
 <br/>
 <br/>
 
-
-
-**Part 1: Destined to Rule**
-
 **12.** **Shmot 24:13-14.**
 
 **13.** **Shmot 32:1-6.**
 
 **14.** **Shabbat 89a; see Rashi Shmot 32:1 d"h ki zeh moshe ha'ish**
+<br/>
+<br/>
 
 אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: מַאי דִּכְתִיב: ״וַיַּרְא הָעָם כִּי בֹשֵׁשׁ מֹשֶׁה״ אַל תִּקְרֵי ״בּוֹשֵׁשׁ״, אֶלָּא ״בָּאוּ שֵׁשׁ״. בְּשָׁעָה שֶׁעָלָה מֹשֶׁה לַמָּרוֹם אָמַר לָהֶן לְיִשְׂרָאֵל: לְסוֹף אַרְבָּעִים יוֹם בִּתְחִלַּת שֵׁשׁ אֲנִי בָּא. לְסוֹף אַרְבָּעִים יוֹם בָּא שָׂטָן וְעִירְבֵּב אֶת הָעוֹלָם. אָמַר לָהֶן: מֹשֶׁה רַבְּכֶם הֵיכָן הוּא? אָמְרוּ לוֹ: עָלָה לַמָּרוֹם. אָמַר לָהֶן: בָּאוּ שֵׁשׁ, וְלֹא הִשְׁגִּיחוּ עָלָיו. מֵת, וְלֹא הִשְׁגִּיחוּ עָלָיו. הֶרְאָה לָהֶן דְּמוּת מִטָּתוֹ, וְהַיְינוּ דְּקָאָמְרִי לֵיהּ לְאַהֲרֹן: ״כִּי זֶה מֹשֶׁה הָאִישׁ וְגוֹ׳״:
+<br/>
+<br/>
 
 *"Rabbi Yehoshua Ben Levi said, why does it say: 'The nation saw that Moshe delayed' (Shmot 32:1)? Don't read it as delayed, but rather as 'six passed'. When Moshe went up to the Heavens he said to Yisrael, I will come back at the end of forty days, at the beginning of the sixth hour. At the end of forty days Satan came and confused the world. He said to Bnai Yisrael: Where is Moshe your Rabbi? They said to him: He went up to heaven. He said to them: The sixth hour has come, but they ignored him. He said to them: He has died, but they ignored him. He showed them a vision of Moshe's bier, and this is what it means when they say to Aharon: 'For this man Moshe' (Shmot 32:1)."*
+<br/>
+<br/>
 
 **15.** Between Shmot 24:14 when Hur is last explicitly mentioned, and Shmot 32:1-6 when he is inexplicably absent, are Parshiyot Terumah, Tetzaveh and the beginning of Ki Tisa, all of which detail various halachot about the Mishkan and other matters. There are no narratives recording what happened at the bottom of Har Sinai during those 40 days when Moshe was receiving those mitzvot.
+<br/>
+<br/>
 
 **16.** **Vayikra Rabbah 10:3.**
 
@@ -307,154 +309,278 @@ The Targum understands *emunah* as a reference to Moshe's faith in Hashem, and i
 **18.** **Shmot Rabbah 41:7.**
 
 **19.** **Shir HaShirim Rabbah 6:11**
+<br/>
+<br/>
 
 דָּבָר אַחֵר אֶל גִּנַּת אֱגוֹז, אָמַר רֵישׁ לָקִישׁ מָה אֱגוֹז זֶה חָלָק, דִּתְנֵינַן רַבִּי שִׁמְעוֹן אוֹמֵר אַף בַּחֲלִיקֵי אֱגוֹזִים, וְכָל מִי שֶׁעוֹלֶה לְרֹאשׁוֹ וְאֵינוֹ נוֹתֵן דַּעְתּוֹ הֵיאַךְ יַעֲלֶה הוּא נוֹפֵל וּמֵת, וְנוֹטֵל שֶׁלּוֹ מִן הָאֱגוֹז, כָּךְ כָּל מִי שֶׁהוּא מַנְהִיג שְׂרָרָה עַל הַצִּבּוּר בְּיִשְׂרָאֵל וְאֵינוֹ נוֹתֵן דַּעְתּוֹ הֵיאַךְ הוּא מַנְהִיג אֶת יִשְׂרָאֵל, סוֹף שֶׁהוּא נוֹפֵל וְנוֹטֵל שֶׁלּוֹ מִתַּחַת יְדֵיהֶם, הֲדָא הוּא דִכְתִיב (ירמיה ב, ג): קֹדֶשׁ יִשְׂרָאֵל לַה׳ רֵאשִׁית תְּבוּאָתֹה כָּל אֹכְלָיו יֶאְשָׁמוּ וגו׳:
+<br/>
+<br/>
 
 *"Another idea: 'To the nut garden'. Reish Lakish said, just as a nut is smooth, as it was taught: Rabbi Shimon says, just like with the trees of nuts, that whoever goes up to its head and does not think about how he is going up, will fall and die and get his portion from the nut, so too whoever leads the community of Yisrael and does not think about how he should be leading Yisrael, will end up falling and getting his portion from them, as it says: 'Yisrael is holy to Hashem, the first crop, whoever eats from it will be held guilty' (Yirmiyahu 2:3)."*
 
 **20.** As noted above in **Note 17** Vayikra Rabbah was composed centuries earlier than Shmot Rabbah, which itself rewrote and reworked earlier midrashic traditions. Vayikra Rabbah is shorter, more cryptic; it aims to address the linguistic challenges of Shmot 32:1-6 and fill in the thematic gaps in the narrative. Shmot Rabbah is significantly more vivid, elaborating and sharpening the focus on Hur as a foil to Aharon in order to emphasize the message about what it means to be a leader in times of crisis.
 
 **21.** **Sanhedrin 74a**
+<br/>
+<br/>
 
 א״ר יוחנן משום ר״ש בן יהוצדק נימנו וגמרו בעליית בית נתזה בלוד כל עבירות שבתורה אם אומרין לאדם עבור ואל תהרג יעבור ואל יהרג חוץ מעבודת כוכבים וגילוי עריות ושפיכות דמים:
+<br/>
+<br/>
 
 *"Rabbi Yochanan said in the name of Rabbi Shimon Ben Yehotzadak, they counted and concluded in the attic of Beit Nitza in Lod: We do not tell a person to violate and die any sin in the Torah, except for idolatry, adultery and murder."*
 
 **22.** **Tanchuma Yelamdenu Tetzaveh 10.**
 
 **23.** Although Aharon's capacity as Kohen Gadol and the special clothes he merits to wear are mentioned before the sin of the golden calf in Shmot 28, many midrashim and mefarshim interpret that in a non-chronological order as a response to the sin, commanded only once the golden calf had already occurred. See **Note 90** later in the chpater.
+<br/>
+<br/>
 
 There are other explanations in the midrashic literature as to why Aharon merited the Kehunah Gedolah that has nothing to do with his leadership during the sin of the Golden Calf. In particular, one midrash argues that it was Moshe Rabbeinu who was originally supposed to lead as both the Kohen Gadol and the King of Yisrael, but due to his strong resistance at the burning bush the priesthood was taken from him and given to his brother:
+<br/>
+<br/>
 
 **Zevachim 102a**
+<br/>
+<br/>
 
 (שמות ד, יד) ויחר אף ה׳ במשה רבי יהושע בן קרחה אומר כל חרון אף שבתורה נאמר בו רושם וזה לא נאמר בו רושם ר״ש בן יוחאי אומר אף זה נאמר בו רושם שנאמר (שמות ד, יד) הלא אהרן אחיך הלוי והלא כהן הוא הכי קאמר אני אמרתי אתה כהן והוא לוי עכשיו הוא כהן ואתה לוי:
+<br/>
+<br/>
 
 *"'Hashem's anger flared against Moshe' (Shmot 4:14). Rabbi Yehoshua Ben Korcha says, every flaring of anger in the Torah is said with a lasting impression, except for here. Rabbi Shimon Bar Yochai says, even here there is a lasting impression, as it says: 'Is Aharon your brother the Levi' (Shmot 4:14) - was he not a Kohen? This is what it means to say: I said you are a Kohen and he is a Levi, but now he is a Kohen and you are a Levi."*
+<br/>
+<br/>
 
 **Vayikra Rabbah 11:6**
+<br/>
+<br/>
 
 רַבִּי תַּנְחוּם בְּשֵׁם רַבִּי יוּדָן תָּנֵי כָּל שִׁבְעַת יְמֵי הַמִּלּוּאִים הָיָה משֶׁה מְשַׁמֵּשׁ בִּכְהֻנָּה גְדוֹלָה וְלֹא שָׁרְתָה שְׁכִינָה עַל יָדוֹ, הֲדָא הוּא דִכְתִיב (ויקרא ט, כד): וַיַּרְא כָּל הָעָם וַיָּרֹנוּ וַיִּפְּלוּ עַל פְּנֵיהֶם, אָמַר רַב שְׁמוּאֵל בַּר נַחְמָן, כָּל שִׁבְעַת יְמֵי הַסְּנֶה הָיָה הַקָּדוֹשׁ בָּרוּךְ הוּא מְפַתֶּה אֶת משֶׁה שֶׁיֵּלֵךְ בִּשְׁלִיחוּתוֹ לְמִצְרַיִם, הֲדָא הוּא דִכְתִיב (שמות ד, י): גַּם מִתְּמוֹל גַּם מִשִּׁלְשֹׁם גַּם מֵאָז דַּבֶּרְךָ אֶל עַבְדֶּךָ, הֲרֵי שִׁשָּׁה, וּבַשְּׁבִיעִי אָמַר לוֹ (שמות ד, יג): שְׁלַח נָא בְּיַד תִּשְׁלָח, אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא, משֶׁה, אַתְּ אוֹמֵר שְׁלַח נָא בְּיַד תִּשְׁלָח, חַיֶּיךָ שֶׁאֲנִי צוֹרְרָה לְךָ בִּכְנָפֶיךָ, אֵימָתַי פָּרַע לוֹ, רַבִּי בֶּרֶכְיָה אָמַר רַבִּי לֵוִי וְרַבִּי חֶלְבּוֹ, רַבִּי לֵוִי אָמַר כָּל שִׁבְעַת יְמֵי אֲדָר הָיָה משֶׁה מְבַקֵּשׁ תְּפִלָּה וְתַחֲנוּנִים שֶׁיִּכָּנֵס לְאֶרֶץ יִשְׂרָאֵל, וּבַשְּׁבִיעִי אָמַר לוֹ (דברים ג, כז): כִּי לֹא תַעֲבֹר אֶת הַיַּרְדֵּן הַזֶּה. רַבִּי חֶלְבּוֹ אָמַר כָּל שִׁבְעַת יְמֵי הַמִּלּוּאִים הָיָה מְשַׁמֵּשׁ בִּכְהֻנָּה גְדוֹלָה וְכַסָּבוּר שֶׁלּוֹ הִיא, בַּשְּׁבִיעִי אָמַר לוֹ, לֹא שֶׁלְךָ הִיא אֶלָּא שֶׁל אַהֲרֹן אָחִיךָ הִיא, הֲדָא הוּא דִכְתִיב: וַיְהִי בַּיּוֹם הַשְּׁמִינִי:
+<br/>
+<br/>
 
 *"Rabbi Tanchum in the name of Rabbi Yudan taught, all seven days of the inauguration of the Mishkan Moshe acted as Kohen Gadol, but the Shechinah did not rest through his hand, as it says: 'The entire nation saw, and were happy, and fell on their faces' (Vayikra 9:24). Rav Shmuel Bar Nachman said, all seven days at the burning bush HaKadosh Baruch Hu was enticing Moshe to go on his mission to Egypt, as it says: 'Even yesterday even two days ago, even when you began speaking to your servant' (Shmot 4:10); this is six days, and on the seventh Moshe said to HaKadosh Baruch Hu: 'Please send someone else' (Shmot 4:13). HaKadosh Baruch Hu said to him, Moshe, you say 'please send someone else', by your life I will clip your wings. When did He pay him back? Rabbi Berechiah said, Rabbi Levi and Rabbi Chelbo argue. Rabbi Levi said, all seven days of Adar Moshe was praying and beseeching that he should get to enter Eretz Yisrael, and on the seventh day He said to him: 'You shall not cross this Yarden' (Devarim 3:27). Rabbi Chelbo said, all seven days of the inauguration Moshe acted as Kohen Gadol and thought that it belonged to him, and on the seventh day He said to him, it is not yours but rather your brother Aharon's, as it says: 'Behold, on the eighth day'."*
+<br/>
+<br/>
 
 A variant on this tradition gives Aharon more credit, attributing Aharon receiving the Kehunah as not just a negative result of Moshe's punishment for his recalcitrance, but also as a positive reward for Aharon's selflessness:
+<br/>
+<br/>
 
 **Shmot Rabbah 3:17**
+<br/>
+<br/>
 
 מַה חֲרוֹן אַף הָיָה שָׁם, שֶׁנִּטְלָה כְּהֻנָּה מִמּשֶׁה וְנִתְּנָה לְאַהֲרֹן. אָמְרוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה: הֲלֹא אַהֲרֹן אָחִיךָ הַלֵּוִי, וְכִי מֵאַחַר שֶׁאָמַר: אָחִיךָ, אֵינִי יוֹדֵעַ שֶׁהוּא לֵוִי, אֶלָּא אָמַר לוֹ רָאוּי הָיִיתָ לִהְיוֹת כֹּהֵן וְהוּא לֵוִי, וּלְפִי שֶׁאַתָּה מְסָרֵב עַל דְּבָרַי, תִּהְיֶה אַתָּה לֵוִי וְהוּא כֹהֵן, יָדַעְתִּי כִּי דַבֵּר יְדַבֵּר הוּא, לְפִי שֶׁאָמַרְתָּ: לֹא אִישׁ דְּבָרִים אָנֹכִי, לְכָךְ דַּבֵּר יְדַבֵּר הוּא, וּמַה שֶּׁאַתָּה סָבוּר שֶׁהוּא מֵצֵר לֹא כֵן אֶלָּא שָׂמֵחַ, שֶׁנֶּאֱמַר: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. אָמַר רַבִּי שִׁמְעוֹן בֶּן רַבִּי יוֹסֵי הַלֵּב שֶׁשָֹּׂמַח בִּגְדֻלַּת אָחִיו יִלְבַּשׁ אוּרִים וְתֻמִּים, שֶׁנֶּאֱמַר: וְהָיוּ עַל לֵב אַהֲרֹן:
+<br/>
+<br/>
 
 *"What flaring anger was there? The Kehunah was taken from Moshe and given to Aharon. The Rabbis of blessed memory say, 'Aharon your brother the Levi' - from the fact that it says 'your brother', don't I know that he was a Levi? Rather, this means that you Moshe were worthy to be a Kohen and he Aharon a Levi, but because you refuse My words, you will be Levi and he will be Kohen. 'I know that he can speak', for you said: 'I am not a man of words'; therefore he will speak on your behalf, and that which you reasoned that he is distressed about you, it is not so, for he is happy, as it says: 'He will see you and be happy in his heart'. Rabbi Shimon Ben Rabbi Yosi said, the heart which was happy in the greatness of his brother shall merit to wear the Urim VeTumim, as it says: 'They will be on Aharon's heart'."*
+<br/>
+<br/>
 
 **24.** **Shmot 31:1-5.**
 
 **25.** **Tanchuma Yelamdenu Vayakhel 5**
+<br/>
+<br/>
 
 רְאוּ מֶה עָשָׂה בְּצַלְאֵל, שֶׁנָּתַן הַקָּדוֹשׁ בָּרוּךְ הוּא בְּלִבּוֹ חָכְמָה, שֶׁנֶּאֱמַר: וָאֲמַלֵּא אֹתוֹ רוּחַ אֱלֹהִים בְּחָכְמָה וּבִתְבוּנָה וּבְדַעַת. (שמות לא, ג). בִּשְׁלֹשָׁה דְבָרִים אֵלּוּ בָּרָא הַקָּדוֹשׁ בָּרוּךְ הוּא עוֹלָמוֹ, שֶׁנֶּאֱמַר: ה׳ בְּחָכְמָה יָסַד אָרֶץ, כּוֹנֵן שָׁמַיִם בִּתְבוּנָה, בְּדַעְתּוֹ תְּהוֹמוֹת נִבְקָעוּ (משלי ג, יט-כ). וּבִשְׁלָשְׁתָּן עָשָׂה בְצַלְאֵל אֶת הַמִּשְׁכָּן. וְכֵן בֵּית הַמִּקְדָּשׁ בִּשְׁלָשְׁתָּן נִבְנָה, שֶׁנֶּאֱמַר: בֶּן אִשָּׁה אַלְמָנָה הוּא מִמַּטֵּה נַפְתָּלִי וְאָבִיו אִישׁ צֹרִי חֹרֵשׁ נְחֹשֶׁת וַיִּמָּלֵא אֶת הַחָכְמָה וְאת הַתְּבוּנָה וְאֶת הַדַּעַת (מלכים א ז, יד). וְכֵן לֶעָתִיד יִבָּנֶה בֵּית הַמִּקְדָּשׁ בִּשְׁלָשְׁתָּן, שֶׁנֶּאֱמַר: בְּחָכְמָה יִבָּנֶה בָּיִת וּבִתְבוּנָה יִתְכּוֹנָן, וּבְדַעַת חֲדָרִים יִמָּלְאוּ כָּל הוֹן יָקָר וְנָעִים (משלי כד ג, ד). הֱוֵי, וָאֲמַלֵּא אֹתוֹ רוּחַ אֱלֹהִים:
+<br/>
+<br/>
 
 *"See what Betzalel did, that HaKadosh Baruch Hu gave his heart wisdom, as it says: 'I have endowed him with a spirit of G-d, with wisdom, insight and knowledge' (Shmot 31:3). With these three things HaKadosh Baruch Hu created His world, as it says: 'Hashem established the earth with wisdom, set the heavens with insight, and split open the depths with His knowledge' (Mishlei 3:19-20). With these three Betzalel made the Mishkan. And the Beit HaMikdash was built with these three as well, as it says: 'The son of a widow from the tribe of Naftali, and his father was a man from Tzor, a carver of copper, and he was filled with wisdom, insight and knowledge' (Melachim Aleph 7:14). And so too in the future the Beit HaMikdash will be built with these three, as it says: 'The house will be built with wisdom and set with insight, and the rooms will be filled with all types of pleasing wealth with knowledge' (Mishlei 24:3-4). This is why it says: 'I filled Betzalel with the spirit of G-d.'"*
 
 **26.** **Berachot 55a**
+<br/>
+<br/>
 
 אָמַר רַבִּי יוֹחָנָן: שְׁלֹשָׁה דְּבָרִים מַכְרִיז עֲלֵיהֶם הַקָּדוֹשׁ בָּרוּךְ הוּא בְּעַצְמוֹ וְאֵלּוּ הֵן: רָעָב, וְשׂוֹבַע, וּפַרְנָס טוֹב. רָעָב דִּכְתִיב: ״כִּי קָרָא ה׳ לָרָעָב וְגוֹ׳״ (מלכים ב ח, א). שׂוֹבַע דִּכְתִיב: ״וְקָרָאתִי אֶל הַדָּגָן וְהִרְבֵּיתִי אֹתוֹ״ (יחזקאל לו, כט). פַּרְנָס טוֹב דִּכְתִיב: ״וַיֹּאמֶר ה׳ אֶל מֹשֶׁה לֵּאמֹר. רְאֵה קָרָאתִי בְשֵׁם בְּצַלְאֵל וְגוֹ׳״ (שמות לא, א-ב):
+<br/>
+<br/>
 
 *"Rabbi Yochanan said, HaKadosh Baruch Hu announced three things Himself, and they are: famine, plenty, and a good benefactor. Famine, as it says: 'For Hashem has declared a famine' (Melachim Bet 8:1). Plenty, as it says: 'I have declared regarding the grain, and I have made it plentiful' (Yehezkel 36:29). A good benefactor, as it says: 'Hashem spoke to Moshe, see that I have called by name Betzalel (Shmot 31:1-2).'"*
+<br/>
+<br/>
 
 **Midrash Aggadah to Shmot 31:2**
+<br/>
+<br/>
 
 מכאן אמרו רבותינו ז״ל אין ממנין פרנס על הציבור אלא אם כן הכריזו עליו לפני מלך מלכי המלכים מן השמים:
+<br/>
+<br/>
 
 *"From here our Rabbis said, benefactors are not appointed over the community unless it first has been announced before the King of Kings in Heaven."*
 
 **27.** **Berachot 55a**
+<br/>
+<br/>
 
 אָמַר רַב יְהוּדָה אָמַר רַב: יוֹדֵעַ הָיָה בְּצַלְאֵל לְצָרֵף אוֹתִיּוֹת שֶׁנִּבְרְאוּ בָּהֶן שָׁמַיִם וָאָרֶץ. כְּתִיב הָכָא: ״וַיְמַלֵּא אֹתוֹ רוּחַ אֱלֹהִים בְּחׇכְמָה וּבִתְבוּנָה וּבְדַעַת״, וּכְתִיב הָתָם: ״ה׳ בְּחׇכְמָה יָסַד אָרֶץ כּוֹנֵן שָׁמַיִם בִּתְבוּנָה״. וּכְתִיב: ״בְּדַעְתּוֹ תְּהוֹמוֹת נִבְקָעוּ״:
+<br/>
+<br/>
 
 *"Rav Yehudah said in the name of Rav, Betzalel knew how to combine the letters which were used to create the heavens and the earth. It says here: 'He filled him with the spirit of G-d, with wisdom, insight and knowledge', and it says there: 'Hashem established the earth with wisdom, set the heavens with insight, and split open the depths with His knowledge.'"*
 
 **28.** One solution to this question is to claim that Betzalel has been praised both above in Heaven and below on earth, symbolizing his ability to bridge between the earthly and spiritual realms. This praise is also evidence of his having been called by name from time immemorial:
+<br/>
+<br/>
 
 **Tanchuma Yelamdenu Vayera 5**
+<br/>
+<br/>
 
 וְאַף בְּצַלְאֵל נִשְׁתַּבַּח לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא וְנִשְׁתַּבַּח בָּעֶלְיוֹנִים וּבַתַּחְתּוֹנִים, שֶׁנֶּאֱמַר: רְאֵה קָרָאתִי בְשֵׁם בְּצַלְאֵל (שמות לה, ל). רְאֵה בָּעֶלְיוֹנִים, רְאוּ בַּתַּחְתּוֹנִים. הֱוֵי אוֹמֵר, וּמְצָא חֵן וְשֵׂכֶל טוֹב בְּעֵינֵי אֱלֹהִים וְאָדָם (משלי ג, ד):
+<br/>
+<br/>
 
 *"Betzalel is praised before HaKadosh Baruch Hu, and he is praised above and below, as it says: 'See, I have called Betzalel by name' (Shmot 35:5). See above, and see below. This is why it says: 'He i.e. Betzalel found favor and good sense in the eyes of G-d and man' (Mishlei 3:4)."*
 
 **29.** **Midrash Shocher Tov 139:5**
+<br/>
+<br/>
 
 מיום שברא הקב״ה לאדם הראשון כתב לו בספרו מה שהוא עתיד להעמיד ממנו עד שיחיו המתים. וכה קורא לפניו דור דור ודורשיו דור דור ופרנסיו דור דור וחכמיו דור דור ונביאיו דור דור וסופריו ותלמידיו עד שיחיו המתים. וכן הוא אומר (בראשית ה א) זה ספר תולדות אדם. וכן אמר ישעיה (ישעיה מט א) ה׳ מבטן קראני ממעי אמי הזכיר שמי. וכן הוא אומר (שם מא ד) מי פעל ועשה קורא הדורות מראש. רצה לומר מאדם הראשון:
+<br/>
+<br/>
 
 *"From the day that HaKadosh Baruch Hu created Adam HaRishon, He wrote in his book everyone who is destined to descend from him under the resurrection of the dead. He also read before Adam each generation and its seekers, benefactors, wise men, prophets, scribes and students until the resurrection of the dead. And similarly it says: 'This is the book of the genealogy of Adam' (Breishit 5:1), and Yishayahu said: 'Hashem called me from the stomach, from the intestines of my mother my name was recalled' (Yishayahu 49:1). Similarly it says: 'Who acted and did, who called the generations from the beginning' (Yishayahu 41:4), meaning from Adam HaRishon."*
+<br/>
+<br/>
 
 **Tanchuma Yelamdenu Ki Tisa 12**
+<br/>
+<br/>
 
 וַיְדַבֵּר ה׳ אֶל מֹשֶׁה לֵאמֹר, רְאֵה קָרָאתִי בְשֵׁם בְּצַלְאֵל (שמות לא, ב). אָמַר שְׁלֹמֹה: מַה שֶּׁהָיָה כְּבָר נִקְרָא שְׁמוֹ וְנוֹדָע אֲשֶׁר הוּא אָדָם (קהלת ו, י). זֶה שֶׁאָמַר הַכָּתוּב: מִי פָעַל וְעָשָׂה קֹרֵא הַדֹּרוֹת מֵרֹאשׁ (ישעיה מא, ד). אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא: מִשֶּׁהִתְקַנְתִּי מֵרֹאשׁ לַעֲשׂוֹת אֶת הַמִּשְׁכָּן, כְּבָר קָרָאתִי לוֹ שֵׁם וְנוֹדָע אֲשֶׁר הוּא אָדָם. שֶׁאָדָם הָרִאשׁוֹן מֻטָּל גֹּלֶם, הֶרְאָה לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא כָּל צַּדִּיק וְצַדִּיק שֶׁעוֹמֵד מִזַּרְעוֹ, יֵשׁ שֶׁתָּלוּי בְּרֹאשׁוֹ, וְיֵשׁ תָּלוּי בִּשְׂעָרוֹ, וְיֵשׁ בְּצַוָּארוֹ, וְיֵשׁ בִּשְׁתֵּי עֵינָיו, וְיֵשׁ בְּחָטְמוֹ, וְיֵשׁ בְּפִיו, וְיֵשׁ בְּאָזְנָיו, וְיֵשׁ בִּזְרוֹעוֹ ... וְאַף הֶרְאָה הַקָּדוֹשׁ בָּרוּךְ הוּא לְאָדָם, שֶׁאַבְרָהָם מַעֲמִיד מִמֶּנּוּ, וּבָנָיו יוֹרְדִין לְמִצְרַיִם וּמִשְׁתַּעְבְּדִים שָׁם ... בְּצַלְאֵל עוֹשֶׂה אֶת הַמִּשְׁכָּן. רְאֵה קָרָאתִי בְשֵׁם בְּצַלְאֵל, כְּבָר נִזְכַּר שְׁמוֹ וְנִקְרָא מִימוֹת אָדָם. הֱוֵי: מִי פָעַל וְעָשָׂה קֹרֵא הַדֹּרוֹת מֵרֹאשׁ:
+<br/>
+<br/>
 
 *"Hashem spoke to Moshe, see that I have called by name Betzalel' (Shmot 31:2). Shlomo said: 'That which was, its name was already called and it was known that he was Man' (Kohelet 6;10). This is as it says: 'Who acted and did, who called the generations from the beginning' (Yishayahu 41:4). HaKadosh Baruch Hu said, from the time I set to make the Mishkan, I had already called Betzalel's name and made known that he was Man i.e. Adam. For Adam HaRishon was hung as a golem, and HaKadosh Baruch Hu showed him every tzaddik destined to arise from his descendants. Some hung from Adam's head, some from his hair, some from his neck, some from his two eyes, some from his nostrils, some from his mouth, some from his ears, and some from his arms ... And HaKadosh Baruch Hu even showed Adam that Avraham would descend from him, and Avraham's children would go down to Egypt and be enslaved there ... and that Betzalel would make the Mishkan. 'See, I have called by name Betzalel' - his name was already mentioned and called from days of old. This is why it says: 'Who acted and did, who called the generations from the beginning.'"*
 
 **30.** The tension between Divine foreknowledge and human freedom of choice is a topic whose full breadth is far beyond the scope of what is discussed here. Suffice it to say that Rabbinic theology seems to embrace the contradiction without attempting to resolve it in any philosophically meaningful sense:
+<br/>
+<br/>
 
 **Pirkei Avot 3:15**
+<br/>
+<br/>
 
 רַבִּי עֲקִיבָא אוֹמֵר ... הַכֹּל צָפוּי, וְהָרְשׁוּת נְתוּנָה, וּבְטוֹב הָעוֹלָם נִדּוֹן. וְהַכֹּל לְפִי רֹב הַמַּעֲשֶׂה:
+<br/>
+<br/>
 
 *"Rabbi Akiva said ... Everything is foreknown, yet freedom of choice is granted. The world is judged with goodness, yet everything is in accordance with the majority of one's deeds."*
+<br/>
+<br/>
 
 Many Rishonim who lived in a world steeped in philosophical and logical inquiry were compelled to address this paradox, and arrive at various resolutions. Rambam, following in the spirit of Rabbi Akiva in Avot, takes the compatibilist approach, arguing that since knowledge for the Divine must involve the unity of the knowledge itself, the knower and the known, it is entirely beyond the sphere of human comprehension and does not pose any contradiction to our limited perception of free will:
+<br/>
+<br/>
 
 **Morah Nevuchim Part I Chapter 68**
+<br/>
+<br/>
 
 כבר ידעת פרסום זה המאמר אשר אמרוהו הפילוסופים באלוה ית׳ והוא אמרם שהוא השכל והמשכיל והמושכל ושאלו השלשה ענינים בו ית׳ הם ענין אחד אין רבוי בו. וכבר זכרנו אנחנו זה גם כן בחבורנו הגדול משנה תורה שזה פנת דתנו כמו שבארנו שם רצוני לומר היותו אחד לבד ולא יצורף אליו דבר אחר - רצוני לומר שאין דבר קדמון זולתו:
+<br/>
+<br/>
 
 *"You already are familiar with the well-known principle of the philosophers regarding G-d may He be blessed, namely that He is the knowledge, the knower, and the known. These three things are unified as one in Him, and there is no plurality to it. We have also mentioned this in our larger work, Mishneh Torah, and we have explained there that it is a fundamental principle of our religion, namely, that He is absolutely one, that nothing combines with Him, that is to say, there is no Eternal thing besides Him."*
 
 **31.** **Shmot Rabbah 40:2**
+<br/>
+<br/>
 
 קָרָאתִי בְשֵׁם בְּצַלְאֵל, אֵין כְּתִיב כָּאן, אֶלָּא רְאֵה קָרָאתִי, אַתָּה מוֹצֵא כְּשֶׁעָלָה משֶׁה לַמָּרוֹם הֶרְאָה לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא כָּל כְּלֵי הַמִּשְׁכָּן וְאָמַר לוֹ כָּךְ וְכָךְ עֲשֵׂה (שמות כה, לא): וְעָשִׂיתָ מְנֹרַת, (שמות כה, כג): וְעָשִׂיתָ שֻׁלְחָן, (שמות ל, א): וְעָשִׂיתָ מִזְבֵּחַ, כָּךְ כָּל מַעֲשֵׂה הַמִּשְׁכָּן. בָּא משֶׁה לֵירֵד סָבוּר שֶׁהוּא עוֹשֶׂה אוֹתוֹ, קָרָא לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא אָמַר לוֹ משֶׁה מֶלֶךְ עֲשִׂיתִיךָ אֵין דֶּרֶךְ הַמֶּלֶךְ לַעֲשׂוֹת דָּבָר, אֶלָּא גּוֹזֵר וַאֲחֵרִים עוֹשִׂים, אַף אַתָּה אֵין לְךָ רְשׁוּת לַעֲשׂוֹת דָּבָר אֶלָּא אֱמֹר לָהֶם וְהֵם עוֹשִׂין, וְלֹא אָמַר לוֹ לְמִי יֹאמַר, אָמַר משֶׁה לְמִי אֹמַר, אָמַר לוֹ אֲנִי מַרְאֶה לָךְ, וּמֶה עָשָׂה הַקָּדוֹשׁ בָּרוּךְ הוּא הֵבִיא לוֹ סִפְרוֹ שֶׁל אָדָם הָרִאשׁוֹן וְהֶרְאָה לוֹ כָּל הַדּוֹרוֹת שֶׁהֵן עֲתִידִין לַעֲמֹד מִבְּרֵאשִׁית עַד תְּחִיַּת הַמֵּתִים, דּוֹר וָדוֹר וּמְלָכָיו, דּוֹר וָדוֹר וּמַנְהִיגָיו, דּוֹר וָדוֹר וּנְבִיאָיו. אָמַר לוֹ כָּל אֶחָד וְאֶחָד הִתְקַנְתִּיו מֵאוֹתָהּ שָׁעָה, וְכֵן בְּצַלְאֵל מֵאוֹתָהּ שָׁעָה הִתְקַנְתִּיו, הֱוֵי: רְאֵה קָרָאתִי בְשֵׁם בְּצַלְאֵל:
+<br/>
+<br/>
 
 *"It does not say 'I have called by name Betzalel' but rather 'See, I have called'. You find that when Moshe went up to Heaven HaKadosh Baruch Hu shows him all the utensils of the Mishkan, and said to him do the following: 'Make a Menorah' (Shmot 25:31), 'Make a Shulchan' (Shmot 25:23), 'Make an altar' (Shmot 30:1), and similarly with all the components of the Mishkan. When Moshe was ready to descend he thought he was supposed to make the Mishkan. HaKadosh Baruch Hu called him and said to him; Moshe, I made you a king and it is not the way for a king to do anything himself, rather he decrees and others do for him. So too you do not have permission to do anything, rather say to them and they will do. But HaKadosh Baruch Hu did not tell Moshe who to tell, so Moshe said: Who should I tell? HaKadosh Baruch Hu said to Moshe: I will show you. What did HaKadosh Baruch Hu do? He brought Moshe the Book of Adam HaRishon and showed him all the generations that were destined to exist from creation until the resurrection of the dead; each generation with its kings, rulers and prophets. He said to him: Each of these I set to rule at that time i.e. creation, and so too Betzalel I set at that time. This is why it says; 'See, I have called by name Betzalel.''*
+<br/>
+<br/>
 
 **Pesikta Zutreta Shmot 35:30**
+<br/>
+<br/>
 
 ויאמר משה אל בני ישראל ראו קרא ה׳ בשם בצלאל. אמר להם, הקב״ה קראו ולא מדעתי מניתיו:
+<br/>
+<br/>
 
 *"Moshe said to Bnai Yisrael: 'See, Hashem called by name Betzalel'. He said to them, HaKadosh Baruch Hu called Betzalel, and he was appointed without my knowledge."*
 
 **32.** The version of this tradition recorded in Shmot Rabbah also contains a radical difference not found in the others: whereas Shocher Tov and Tanchuma Yelamdenu teach that HaKadosh Baruch Hu shares the Book with Adam HaRishon, this version has it being shared with Moshe Rabbeinu. This means that G-d revealed to Moshe the full story of human history at Har Sinai, each and every person who would be born and how everything would play out until the end of days. This takes the already-challenging Divine foreknowledge of such events and goes even further, arguing that a mortal man was given access to all the choices men would make for all time. Taking this aspect of Shmot Rabbah at face value potentially makes the question of human freedom of choice - at least all humans born after Moshe Rabbeinu was granted this knowledge at Har Sinai - more difficult, since the Maimonidean approach of Divine unity as a way to avoid the problem cannot be similarly applied to Moshe Rabbeinu.
+<br/>
+<br/>
 
 A similar question can be posed regarding the tradition that the Amora Shmuel had access to the same book, and through reading it knew that Ravina and Rav Ashi would compile the Talmud Bavli, even though that was only destined to occur several generations after Shmuel died:
+<br/>
+<br/>
 
 **Bava Metzia 85b-86a**
+<br/>
+<br/>
 
 הוה קא מצטער רבי למסמכיה ולא הוה מסתייעא מילתא א״ל לא לצטער מר לדידי חזי לי סיפרא דאדם הראשון וכתיב ביה שמואל ירחינאה חכים יתקרי ורבי לא יתקרי ואסו דרבי על ידו תהא רבי ור׳ נתן סוף משנה רב אשי ורבינא סוף הוראה וסימנך (תהלים עג, יז) עד אבוא אל מקדשי אל אבינה לאחריתם:
+<br/>
+<br/>
 
 *"Rabbi Yehuda HaNasi made efforts to ordain Shmuel but was unsuccessful. Shmuel said to him: The Master should not be upset about my refusal, as I know that I am not destined to be ordained. I myself saw the Book of Adam HaRishon, which says that Shmuel Yarchina'ah shall be called wise, but he shall not be called rabbi, and Rabbi Yehuda HaNasi shall be healed through him. I also saw written there: Rabbi Yehuda HaNasi and Rabbi Natan are the end of the Mishna i.e. the redactors of the Mishna, while Rav Ashi and Ravina are the end of instruction i.e. redactors of the Talmud. The sign for this: 'Until I entered into the sanctuary mikdashei of God, and considered avina their end' (Tehillim 73:17)."*
 
 **33.** HaKadosh Baruch Hu showing Moshe the past and future by displaying before him a physical manifestation of Adam HaRishon's Book of genealogy contained within it two miracles: (1) G-d pointing something out to Moshe - in this case, Betzalel's name - in the physical, worldly plane; and (2) G-d transmitting knowledge to Moshe that is outside the normal realm of human possibility to know.
+<br/>
+<br/>
 
 Another example of the first miracle is used to explain parallel textual difficulties regarding the construction of the Mishkan as a whole and the Menorah in particular:
+<br/>
+<br/>
 
 **Menachot 29a**
+<br/>
+<br/>
 
 תניא רבי יוסי ברבי יהודה אומר ארון של אש ושלחן של אש ומנורה של אש ירדו מן השמים וראה משה ועשה כמותם שנאמר (שמות כה, מ) וראה ועשה כתבניתם אשר אתה מראה בהר אלא מעתה (שמות כו, ל) והקמת את המשכן כמשפטו אשר הראית בהר הכי נמי הכא כתיב כמשפטו התם כתיב כתבניתם א״ר חייא בר אבא אמר ר׳ יוחנן גבריאל חגור כמין פסיקיא היה והראה לו למשה מעשה מנורה דכתיב וזה מעשה המנורה תנא דבי רבי ישמעאל שלשה דברים היו קשין לו למשה עד שהראה לו הקב״ה באצבעו ואלו הן מנורה וראש חדש ושרצים מנורה דכתיב (במדבר ח, ד) וזה מעשה המנורה וכו:
+<br/>
+<br/>
 
 *"It was taught, Rabbi Yosi said in the name of Rabbi Yehudah, an Aron of fire, a Shulchan of fire, and a Menorah of fire descended from Heaven, and Moshe saw them and did like them, as it says: 'See, and do according to their forms, as you were shown on the mountain' (Shmot 25:40). But then what about this: 'Set up the Mishkan according to its laws, as you were shown on the mountain' (Shmot 26:30) - does this mean to say that here too Moshe was shown a Mishkan of fire? No, because here it says 'according to its laws', while there it says 'according to their forms' implying an exact replica. Rabbi Chiya Bar Abba said in the name of Rabbi Yochanan, Gavriel the angel was girded with a belt and he showed Moshe the design of the Menorah, as it says: 'This is the design of the Menorah'. It was taught in the house of Rabbi Yishmael, three things were difficult for Moshe until HaKadosh Baruch Hu showed him them with His finger, and they are: Menora, Rosh Chodesh, and impure creeping animals. Menorah, as it says: 'And this is the design of the Menorah' (Bemidbar 8:4), etc."*
+<br/>
+<br/>
 
 **Shir HaShirim Rabbah 3:11; Bemidbar Rabbah 12:8; Pesikta DeRav Kahana 1:3**
+<br/>
+<br/>
 
 רַבִּי יְהוֹשֻׁעַ דְּסִכְנִין בְּשֵׁם רַבִּי לֵוִי אָמַר אַתְּ מוֹצֵא בְּשָׁעָה שֶׁאָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְמשֶׁה עֲשֵׂה לִי מִשְׁכָּן הָיָה לוֹ לְהַעֲמִיד אַרְבָּעָה קוּנְדָּסִין וְלִמְתֹּחַ הַמִּשְׁכָּן עֲלֵיהֶם וַהֲרֵי הוּא מִשְׁכָּן, אֲבָל הַקָּדוֹשׁ בָּרוּךְ הוּא לֹא עָשָׂה כֵן, אֶלָּא הֶעֱלָה אוֹתוֹ לְמַעְלָה וְהֶרְאָה אֵשׁ אֲדֻמָּה יְרֻקָּה שְׁחוֹרָה לְבָנָה, וְאָמַר לוֹ עֲשֵׂה לִי כָּזֶה, אָמַר לְפָנָיו רִבּוֹנוֹ שֶׁל עוֹלָם וְכִי מִנַיִן יֵשׁ לִי אֵשׁ שְׁחוֹרָה אֲדֻמָּה יְרֻקָּה וּלְבָנָה, אָמַר לוֹ (שמות כה, מ): בְּתַבְנִיתָם אֲשֶׁר אַתָּה מָרְאֶה בָּהָר ... רַבִּי בֶּרֶכְיָה בְּשֵׁם רַבִּי בְּצַלְאֵל לְמֶלֶךְ שֶׁנִּגְלָה לְבֶן בֵּיתוֹ בִּלְבוּשׁ נָאֶה שֶׁל מַרְגָּלִיטוֹן וְאָמַר לוֹ עֲשֵׂה לִי כָּמוֹהוּ, אָמַר לוֹ אֲדֹנִי הַמֶּלֶךְ וְכִי יָכוֹל אֲנִי לַעֲשׂוֹת כָּמוֹהוּ. כָּךְ אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמשֶׁה: עֲשֵׂה לִי מִשְׁכָּן, אָמַר לְפָנָיו רִבּוֹנוֹ שֶׁל עוֹלָם יָכוֹל אֲנִי לַעֲשׂוֹת כָּמוֹהוּ, אָמַר לוֹ: וּרְאֵה וַעֲשֵׂה, אָמַר לוֹ יָכוֹל אֲנִי לַעֲשׂוֹת כָּמוֹהוּ, אָמַר לֵיהּ: בְּתַבְנִיתָם, כְּשֵׁם שֶׁאַתָּה רוֹאֶה לְמַעְלָה עֲשֵׂה לְמַטָּה. עֲצֵי שִׁטִּים הַעֲמֵד אֵין כְּתִיב כָּאן, אֶלָּא עוֹמְדִים, כִּנְתוּנִים בְּאִיסְטְרַטֵיאָה שֶׁל מַעְלָה, וְאִם אַתְּ עוֹשֶׂה לָזֶה שֶׁל מַעְלָה לְמַטָּה אֲנִי מַנִּיחַ סִנְקְלֵיטוֹן שֶׁלִּי שֶׁל מַעְלָה וְיוֹרֵד וּמְצַמְצֵם שְׁכִינָתִי בֵּינֵיכֶם לְמַטָּה, כֵּיצַד, מַה לְּמַעְלָה שְׂרָפִים עוֹמְדִים, אַף לְמַטָּה עֲצֵי שִׁטִּים עוֹמְדִים. מַה לְּמַעְלָה כּוֹכָבִים, אַף לְמַטָּה כּוֹכָבִים. אָמַר רַבִּי חִיָּא בַּר אַבָּא מְלַמֵּד שֶׁהָיוּ קַרְסֵי זָהָב נִרְאִים בַּמִּשְׁכָּן כַּכּוֹכָבִים הַנִּרְאִים בָּרָקִיעַ:
+<br/>
+<br/>
 
 *"Rabbi Yehoshua from Sichnin said in the name of Rabbi Levi, you find that when HaKadosh Baruch Hu said to Moshe: Make for Me a Mishkan, Moshe should have just set up four pillars and spread out the Mishkan on them, and that would have been a Tabernacle. But HaKadosh Baruch Hu did not do this; rather He brought Moshe up high and showed him red, green, black and white fire, and said to Moshe: Make for Me like these. Moshe said to Him: Master of the Universe, do I have red, green, black and white fire that I can make it? He said to him: 'See, and do according to their forms, as you were shown on the mountain' (Shmot 25:40) ... Rabbi Berechiah said in the name of Rabbi Betzalel, to what is this comparable? To a king who was revealed to the son of his house in a beautiful garment of jewels, and said to him: Make for me like this. He said to him: My master the king, can I make one like it? Similarly when HaKadosh Baruch Hu said to Moshe: Make for Me a Mishkan, Moshe said to him: Master of the Universe, can I make one like it? He said to him: 'See, and do'. He said to him: Can I make one like it? He said to him: 'According to their design' - just as you saw above, make below. It does not say here 'Stand up cedar trees' but rather: 'Standing cedar wood', as though they are placed amongst the hosts up above. If you do like that which is above, below, I will leave My heavenly council above and descend and restrict My Shechinah amongst you, below. How? Just as above Seraphim are standing, so too below: 'Standing cedar wood'; just as above there are stars, so too below there are stars. Rabbi Chiya Bar Abba said, this teaches that there were gold hooks in the Mishkan that looked like stars in the sky."*
+<br/>
+<br/>
 
 Another example of the second miracle is repeated, albeit in a different context, when Moshe is at death's door at the entrance of Eretz Canaan. Just as Moshe was granted access to the generations before and after him at Har Sinai, so too HaKadosh Baruch Hu showed him all the events that transpired in the past as well as events that would transpire in the future:
+<br/>
+<br/>
 
 **Sifre Vezot HaBracha 357**
+<br/>
+<br/>
 
 עד הים האחרון - מלמד שהראהו פני כל המערב יושב על שלוותו, וחזר והראהו מציקים המחזיקים בו. ד״א אל תקרי עד הים האחרון אלא עד היום האחרון: מלמד שהראהו את כל העולם כולו, מיום שנברא עד יום שיחיו המתים ...
+<br/>
+<br/>
 
 בקעת יריחו - מלמד שהראהו גוג וכל המונו, שעתידים ליפול בבקעת יריחו. ד״א מה בקעה זו כמות שהיא, ושדה זרועה שעורים כמות שהיא - כך הראהו כל העולם כולו בבקעת יריחו:
+<br/>
+<br/>
 
 *"To the Mediterranean Sea - this teaches that HaKadosh Baruch Hu showed Moshe the entire west dwelling in serenity, and then He showed him the entire west under duress and being conquered. Another idea: Do not read it 'the Mediterranean Sea', but rather 'the last day' - this teaches that HaKadosh Baruch Hu showed Moshe the entire world, from the days it was created until the resurrection of the dead ...*
+<br/>
+<br/>
 
 *The valley of Yericho - this teaches that HaKadosh Baruch Hu showed Moshe Gog and his hordes, who in the future will fall in the valley of Yericho. Another idea: Just as in this valley one can see a field sown with wheat and a field sown with barley, so too He showed him the entire world, shrunken into the valley of Yericho."*
 
@@ -463,52 +589,96 @@ Another example of the second miracle is repeated, albeit in a different context
 **35.** While he was the oldest son from his mother Efrat's side, he was not the oldest from his father's side; Kalev had been previously married to Azuvah who had birthed him sons before his marriage to Efrat, and Divrei HaYamim Aleph 2 tell us of many other children born from Kalev's concubines as well.
 
 **36.** It follows that Aharon and Moshe were the same generation as Kalev and Efrat:
+<br/>
+<br/>
 
 !(images/media/image2.png){width="6.375in" height="3.589377734033246in"}
+<br/>
+<br/>
 
 The relationship between Moshe and Kalev Ben Hetzron was that of third cousins; Moshe and Betzalel were third cousins thrice removed.
+<br/>
+<br/>
 
 Moshe was 80 years old when the command to build the Mishkan was given, so having someone three generations below him in a separate branch of the family tree still be old enough to oversee the Mishkan's construction is certainly plausible on a *peshat* level. The Talmud will address this particular constraint by relying on a radical set of assumptions (see **Note 43**).
 
 **37.** This technique is colloquially referred to as the "Law of Conservation of Biblical Characters".
+<br/>
+<br/>
 
 In his comprehensive introduction to the Talmud, Rabbi Tzvi Hersh Chajes details the underlying motivation behind this common aggadic methodological tool:
+<br/>
+<br/>
 
 **Mevo HaTalmud 21**
+<br/>
+<br/>
 
 ומפני הסיבה אשר הקדמנו למעלה. שהיה אצלם יסוד מוסד בדרכי הדרוש לשבח מעשה הצדיקים בכל עוז, ולגנות ג״כ הרשעים בכל אופן האפשר. היה גם כן מדרכי הדרוש הנהוג אצלם. להכניס אנשים מתחלפים תחת שם אחד, אם מצאו שדומים זה לזה, רק באיזה תכונת הנפש ובכשרון המעשה, או שמצאו איזהו פעולות משני אנשים אשר דומים זה לזה, או אם יש דמיון קרוב בשמות בין אנשים מתחלפים, אזי היה הנקל להם, לעשות משני אלו איש אחד ...
+<br/>
+<br/>
 
 והכל נסתבב מן הכלל הראשי אשר היה להם ליסוד ולאבן פינה בענין הדרשות. דעל צדיק וחסיד הרשות להדורש לשבחו ולפארו בכל אופן האפשר, ובכל מקום שנתפרש במקרא קודש שבחו של צדיק אחד. היה להם לחוב לדרוש דרך אסמכתא ורמז להוסיף עליו גם מעלותיו של צדיק אחר, וליתן את האמור כזה, גם על זה. ועל ידי זה אנו מוצאים הצדיקים מקושטים בכל מעלה ומדה נכונה, ועל הרשע דרשו לרעה בכל מה שהיו יכולים לדרוש ולמדו סתום כאן מן המפורש לרשע אחר במקום אחר להראות כי איש רע עלול לכל ...
+<br/>
+<br/>
 
 דהנה בכ״מ יש תועלת עצום להכניס צדיקים שונים תחת שם אחר למען ליתן האמור בזה על זה, וא״כ היא תועלת עצום בהרבות בשבח מעשה הצדיקים ...
+<br/>
+<br/>
 
 עכ״פ הנך רואה דהדורש היה לו בכל עת כוונה מיוחדת לפעול על העם, ולעורר את לבבם הן ע״י הריבוי בשבח הצדיקים. או ע״י גנות הרשעים, או שאר ענין מוסרי או הנהגה טובה, היו המטרה לדרשותיו:
+<br/>
+<br/>
 
 *"And because of the reason we prefaced above, namely that the Rabbis had a set principle in the ways of exegesis to praise the deeds of tzaddikim with all of their strength and to disparage the wicked with all tools at their disposal, it was also common practice for them to gather multiple people under one name, if they found that these people were similar to one another, even if just by some spiritual characteristic or some admirable deed, or if the Rabbis found two actions done by two people that were similar to each other, or if there was some close similarity between the names of multiple people - then it was easy for them, to make two people into one man ...*
+<br/>
+<br/>
 
 *All this surround the general rule that the Rabbis had a core principle, a foundation rock, regarding aggadah, that permission is granted to the exegete to praise and glorify in every possible way a tzaddik or a chassid, and in every place where the holy text states the praise of some tzaddik there was an obligation to explain through reference and allusion, to add onto it more praiseworthy qualities of another tzaddik, and to give that which is said regarding one onto another, and because of this we find tzaddikim bedecked with every positive and proper character trait. For the wicked they interpreted to his detriment in every possible way, and they learned that which was hidden here from that which was made explicit there regarding somebody wicked, to show that a bad person is bad for all ...*
+<br/>
+<br/>
 
 *See that in many places there is a great advantage to gather different tzaddikim under a different name in order to give that which is said regarding one onto another, and if so it is a great benefit in increasing the praise of the deeds of the righteous ...*
+<br/>
+<br/>
 
 *In any case you see that the exegete had at all times the specific intent to influence the nation, to stir their hearts whether through increasing the praise of tzaddikim or through increasing the disparagement of the wicked, or any other ethical or moral idea - this was the purpose of their interpretations."*
 
 **38.** Betzalel himself is a perfect example of this phenomenon: the midrash attributes six separate names to him, completely disregarding the simple meaning of the lineages in Divrei HaYamim and using the names listed there as indicative of Betzalel's role in bringing Bnai Yisrael and HaKadosh Baruch Hu together:
+<br/>
+<br/>
 
 **Tanchuma Yelamdenu Ki Tisa 13**
+<br/>
+<br/>
 
 בְּצַלְאֵל נִקְרָא לוֹ שִׁשָּׁה, וְאַתָּה מְיַחֵס וּבָא מִשִּׁבְטוֹ שֶׁל יְהוּדָה בְּדִבְרֵי הַיָּמִים, שֶׁנֶּאֱמַר: וּבְנֵי יְהוּדָה פֶּרֶץ חֶצְרוֹן וְכַרְמִי וְחוּר וְשׁוֹבָל (דה״א ד, א) ... וּרְאָיָה בֶן שׁוֹבָל הֹלִיד אֶת יַחַת, וְיַחַת הֹלִיד אֶת אֲחוּמַי וְאֶת לָהַד, אֵלֶּה מִשְׁפְּחוֹת הַצָּרְעָתִי (דה״א ד, ב). בְּצַלְאֵל, שֵׁם שֶׁקָּרְאָה לוֹ אִמּוֹ אֻמָּתוֹ. וְהַקָּדוֹשׁ בָּרוּךְ הוּא קָרָא לוֹ חֲמִשָּׁה, עַל שְׁמוֹ שֶׁל מִשְׁכָּן שֶׁל אַהֲבָה. רְאָיָה, שֶׁהֶרְאָה הַקָּדוֹשׁ בָּרוּךְ הוּא לְכָל יִשְׂרָאֵל שֶׁהוּא מְתֻקָּן מִבְּרֵאשִׁית לַעֲשׂוֹת אֶת הַמִּשְׁכָּן. בֶּן שׁוֹבָל, שֶׁהוּא בָּא לְהַעֲמִידוֹ. יַחַת, שֶׁנָּתַן חִתִּיתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא עַל יִשְׂרָאֵל. אֲחוּמַי, שֶׁאִחָה אֶת יִשְׂרָאֵל לְהַקָּדוֹשׁ בָּרוּךְ הוּא. לָהַד, שֶׁהֶעֱמִיד הוֹד וְהָדָר בַּמִּשְׁכָּן שֶׁהָיָה הֲדָרָן שֶׁל יִשְׂרָאֵל. וְרַבִּי אַדָּא בַּר חִיָּא אָמַר: לָהַד, שֶׁהַדַּל שֶׁבַּשְּׁבָטִים מִדַּבֵּק לוֹ בַּמִּשְׁכָּן. וְאֵיזֶה? וְאִתּוֹ אָהֳלִיאָב בֶּן אֲחִיסָמָךְ לְמַטֵּה דָן (שמות לח, כג):
+<br/>
+<br/>
 
 *"Betzalel had six different names. He came from the tribe of Yehudah as his lineage in Divrei HaYamim confirms, as it says: 'The sons of Yehudah: Peretz, Hetzron, Karmi, Hur and Shoval' (Divrei HaYamim Aleph 4:1). 'Ra'aya son of Shoval gave birth to Yachat, Yachat gave birth to Achumai and Lahad - these are the Tzar'ati families' (Divrei HaYamim Aleph 4:2). Betzalel was the name that his mother originally gave him. In addition, HaKadosh Baruch Hu called him another five names, based on the name of His Mishkan, out of love. (1) Ra'aya, because HaKadosh Baruch Hu showed all of Yisrael that Betzalel was predestined from creation to make the Mishkan. (2) Son of Shoval, because he came to establish the Mishkan. (3) Yacht, because he gave a cleansing of HaKadosh Baruch Hu before all of Yisrael. (4) Achumai, because he united Yisrael with HaKadosh Baruch Hu. (5) Lahad, because he established glory and beauty in the Mishkan, which was the beauty of Yisrael. Rabbi Ada Bar Chiya said, Lahad, because the poorest of the tribes cleaved to him in building the Mishkan. Which was this? 'With him was Oholiav son of Achisamach from the tribe of Dan' (Shmot 38:23)."*
+<br/>
+<br/>
 
 Divrei HaYamim contains ample material for this style of analysis, to the point where the Rabbis felt that *"Divrei HaYamim was only given in order to expound"*. The exhaustive, and oftentimes confusing, lineages delineated in Divrei HaYamim are not meant to be taken at face value, but rather are supposed to be interpreted exegetically. Unlike most books in Tanach where in Rabbinic parlance there are multiple layers of understanding, in particular both *peshat* and *derash* which can and should coexist, Divrei HaYamim is not a work that lends itself to a *peshat* level of understanding.
+<br/>
+<br/>
 
 One of the more striking examples of this can be found in a discussion of Moshe Rabbeinu's ten names:
+<br/>
+<br/>
 
 רַבִּי סִימוֹן בְּשֵׁם רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי וְרַבִּי חָמָא אֲבוּהָ דְּרַבִּי הוֹשַׁעְיָא בְּשֵׁם רַב, אָמְרֵי, לֹא נִתַּן דִּבְרֵי הַיָּמִים אֶלָּא לִדָּרֵשׁ, (דברי הימים א ד, יח): וְאִשְׁתּוֹ הַיְּהֻדִיָּה יָלְדָה אֶת יֶרֶד אֲבִי גְדוֹר וגו׳, וְאִשְׁתּוֹ הַיְּהֻדִיָּה, זוֹ יוֹכֶבֶד, וְכִי מִשִּׁבְטוֹ שֶׁל יְהוּדָה הָיְתָה וַהֲלוֹא מִשִּׁבְטוֹ שֶׁל לֵוִי הָיְתָה וְלָמָּה נִקְרָא שְׁמָהּ יְהֻדִיָּה, עַל שֵׁם שֶׁהֶעֱמִידָה יְהוּדִים בָּעוֹלָם. יָלְדָה אֶת יֶרֶד, זֶה משֶׁה ...
+<br/>
+<br/>
 
 וְאֵלֶּה בְּנֵי בִּתְיָה בַת פַּרְעֹה (דברי הימים א ד, יח), רַבִּי יְהוֹשֻׁעַ דְּסִכְנִין בְּשֵׁם רַבִּי לֵוִי אָמַר לָהּ הַקָּדוֹשׁ בָּרוּךְ הוּא לְבִתְיָה בַּת פַּרְעֹה, משֶׁה לֹא הָיָה בְּנֵךְ וּקְרָאתוֹ בְּנֵךְ, אַף אַתְּ לֹא אַתְּ בִּתִּי וַאֲנִי קוֹרֵא אוֹתָךְ בִּתִּי, שֶׁנֶּאֱמַר: אֵלֶּה בְּנֵי בִּתְיָה, בַּת יָהּ. (דברי הימים א ד, יח): אֲשֶׁר לָקַח לו מָרֶד, זֶה כָּלֵב. רַבִּי אַבָּא בַּר כַּהֲנָא וְרַבִּי יְהוּדָה בַּר סִימוֹן חַד אָמַר זֶה מָרַד בַּעֲצַת מְרַגְּלִים וְזוֹ מָרְדָה בַּעֲצַת אָבִיהָ, יָבוֹא מוֹרֵד וְיִקַּח אֶת הַמּוֹרָדֶת. וְחַד אָמַר זֶה הִצִּיל אֶת הַצֹּאן וְזוֹ הִצִּילָה אֶת הָרוֹעֶה. עֲשָׂרָה שֵׁמוֹת נִקְרְאוּ לוֹ לְמשֶׁה...:
+<br/>
+<br/>
 
 *״Rabbi Simon in the name of Rabbi Yehoshua Ben Levi, and Rabbi Chama the father of Rabbi Hoshaya in the name of Rav, said, Divrei HaYamim was only given in order to expound. 'His wife the Jewess gave birth to Yered Avigdor, etc.' (Divrei HaYamim Aleph 4:18). 'His wife the Jewess' - this is Yocheved. But was she from the tribe of Yehudah? Was she not from the tribe of Levi; why is she called a Jewess i.e. from the tribe of Yehudah? Because she brought Jews into the world. How so? She gave birth to Yered - this is Moshe ...*
+<br/>
+<br/>
 
 *'These are the children of Bitya, daughter of Pharaoh (Divrei HaYamim Aleph 4:18). Rabbi Yehoshua from Sichnin said in the name of Rabbi Levi, HaKadosh Baruch Hu said to Bitya, daughter of Pharaoh: Moshe was not your son, yet you called him your son; so too you are not My daughter, yet I shall call you My daughter, as it says: 'These are the children of Bitya' - the daughter of Yah. 'Who Mered took as a wife' (Divrei HaYamim Aleph 4:18) - this is Kalev. Rabbi Abba Bar Kahana and Rabbi Yehudah Bar Simon. One said Kalev is called Mered because he rebelled against the advice of the spies and she rebelled against her father's decree; let the rebel come and marry the rebel. The other said Kalev is called Mered because he saved the flock Yisrael and she saved the shepherd Moshe. Moshe had ten different names ...."*
 
@@ -519,8 +689,12 @@ One of the more striking examples of this can be found in a discussion of Moshe 
 **41.** As Yehudah's great-grandson, Kalev Ben Hetzron was indisputably from the tribe of Yehudah, and given that he was the same generation as Moshe and Aharon it is entirely reasonable that he was alive and a leader in his own right at the same time.
 
 **42.** **Ibn Ezra to Shmot 31:2 d"h re'eh**
+<br/>
+<br/>
 
 ועל דרך הפשט כלב בן יפונה איננו כלב בן חצרון בראיות גמורות. והמשכילים יבינו:
+<br/>
+<br/>
 
 *"By way of peshat, Kalev Ben Yefuneh and Kalev Ben Hetzron are not the same; there is indisputable evidence that this is so. Those with intellect will understand."*
 
@@ -529,93 +703,157 @@ One of the more striking examples of this can be found in a discussion of Moshe 
 **44.** **Sanhedrin 69b; Yalkut Shimoni on Torah Remez 413.**
 
 **45.** **Shoftim 1:12-13**
+<br/>
+<br/>
 
 וַיֹּ֣אמֶר כָּלֵ֔ב אֲשֶׁר יַכֶּ֥ה אֶת קִרְיַת סֵ֖פֶר וּלְכָדָ֑הּ וְנָתַ֥תִּי ל֛וֹ אֶת עַכְסָ֥ה בִתִּ֖י לְאִשָּֽׁה׃ וַֽיִּלְכְּדָהּ֙ עׇתְנִיאֵ֣ל בֶּן קְנַ֔ז אֲחִ֥י כָלֵ֖ב הַקָּטֹ֣ן מִמֶּ֑נּוּ וַיִּתֶּן ל֛וֹ אֶת עַכְסָ֥ה בִתּ֖וֹ לְאִשָּֽׁה׃
+<br/>
+<br/>
 
 *"Kalev said, whoever strikes Kiryat Sefer and conquers it - I will give him my daughter Achsah in marriage. Otniel Ben Kenaz conquered it - he was Kalev's younger brother - and Kalev gave Achsah his daughter to Otniel as a wife."*
 
 **46.** **Temurah 16a.**
+<br/>
+<br/>
 
 Kalev was the son of Hetzron, but once Hetzron died his widow remarried a man named Kenaz who then became Kalev's stepfather. It follows that Kalev and Otniel, who was Kenaz's son from a different woman, were maternal half-brothers:
+<br/>
+<br/>
 
 **Rashi to Temurah 16a d"h horgei dekenaz**
+<br/>
+<br/>
 
 ועתניאל אחיו מן האם:
+<br/>
+<br/>
 
 *"Otniel was Kalev's blood brother from his mother."*
+<br/>
+<br/>
 
 This explanation fits nicely with the inconsistencies between sources. Kalev was raised by Kenaz but was not his actual son, so mentioning him in the context of the spies was less relevant than referring to Kalev using an appellation that teaches something about his righteousness.
 
 **47.** **Sotah 11b-12a.**
 
 **48.** **Shmot Rabbah 1:13**
+<br/>
+<br/>
 
 מִי הָיוּ הַמְיַלְּדוֹת, רַב אָמַר כַּלָּה וַחֲמוֹתָהּ, יוֹכֶבֶד וֶאֱלִישֶׁבַע בַּת עֲמִינָדָב. רַבִּי שְׁמוּאֵל בַּר נַחְמָן אָמַר, אִשָּׁה וּבִתָּהּ, יוֹכֶבֶד וּמִרְיָם.
+<br/>
+<br/>
 
 *"Who were the midwives? Rav said, a mother-in-law and daughter-in-law, Yocheved and Elisheva Bat Aminadav. Rabbi Shmuel Bar Nachman said, a woman and her daughter, Yocheved and Miriam."*
+<br/>
+<br/>
 
 The question of which Amora held which opinion in the previous passage from Sotah is further complicated based on this (see above **Note 47**). The dispute there is between Rav and Shmuel; one held the houses were a reference to Aharon and Moshe while the other held they were a reference to David and his descendants. Here Rav holds that the midwives Shifra and Pu'ah were in fact Yocheved and Elisheva. Elisheva has strong ties to Aharon: according to Shmot 6:23 she was his wife, though ostensibly only after this episode, as Aharon was a mere three years old when Moshe was born, which is after Pharaoh's decree was declared and the midwives were active. But, she also has strong ties to the royal Davidic monarchy: her father Aminadav and brother Nahshon were David's direct partneral ancestors. Therefore, Rav's opinion in this midrash could theoretically work with either explanation for what the houses provided to the midwives were.
+<br/>
+<br/>
 
 However, it seems more reasonable to claim that Rav should be matched with the opinion that the houses were *Kehunah* and *Levayah* i.e. Aharon and Moshe. This is because the second opinion attributed to Rabbi Shmuel Bar Nachman argues that the second midwife was Miriam and not Elisheva; this naturally matches the opinion from Sotah that the houses were a reference to the Davidic dynasty, since - as the Talmud explains - David came from Miriam. Since Rav argues against this identification of the second midwife here, presumably he is the one who held the midwives received houses of *Kehunah* and *Levayah*, as Elisheva birthed the first generation of Kohanim while Yocheved was herself Levi's daughter and birthed Moshe the Levite.
+<br/>
+<br/>
 
 It is worth noting a slightly different version of the midrashic tradition found in Sotah recorded in Shmot Rabbah. It ascribes kingship to Moshe in addition to David, and gives Miriam the house of wisdom instead of kingship directly:
+<br/>
+<br/>
 
 **Shmot Rabbah 48:4**
+<br/>
+<br/>
 
 (שמות א, כא): וַיַּעַשׂ לָהֶם בָּתִּים, וּמָה הָיוּ הַבָּתִּים, בֵּית הַכְּהֻנָּה וּבֵית הַמַּלְכוּת. יוֹכֶבֶד נָטְלָה כְּהֻנָּה וּמַלְכוּת, אַהֲרֹן כֹּהֵן גָּדוֹל, משֶׁה מֶלֶךְ, שֶׁנֶּאֱמַר (דברים לג, ה): וַיְהִי בִישֻׁרוּן מֶלֶךְ. וּמִרְיָם נָטְלָה חָכְמָה, שֶׁהֶעֱמִידָה בְּצַלְאֵל, וְיָצָא מִמֶּנּוּ דָּוִד שֶׁהָיָה מֶלֶךְ, שֶׁנֶּאֱמַר (דברי הימים א ב, יט): וַתֵּלֶד לוֹ אפרת אֶת חוּר, וּכְתִיב (שמואל א יז, יב): וְדָוִד בֶּן אִישׁ אֶפְרָתִי, שֶׁבָּא מִן מִרְיָם שֶׁנִּקְרֵאת אֶפְרָת:
+<br/>
+<br/>
 
 *"'He made houses for them' (Shmot 1:21). What were these houses? Kehunah and Malchut. Yocheved took Kehunah and Malchut: Aharon was the Kohen Gadol, and Moshe was the king, as it says: 'There was a king in Yeshurun' (Devarim 33:5). Miriam took wisdom, and produced Betzalel, and David the king came from him, as it says: 'Efrat gave birth to Hur' (Divrei HaYamim Aleph 2:19), and it says: 'David was an Efrati' (Shmuel Aleph 17:12), because he came from Miriam who was called Efrat."*
+<br/>
+<br/>
 
 **Tanchuma HaKadum Vayakhel 5**
+<br/>
+<br/>
 
 נטלה מרים שכרה, חכמה, שנאמר הן יראת ה׳ היא חכמה (איוב כח, כח), העמיד ממנה בצלאל שהיה חכם, ואמלא אותו רוח א-לקים (שמות לא, ב):
+<br/>
+<br/>
 
 *"Miriam took her reward: wisdom, as it says: 'See, fear of Hashem is wisdom' (Iyov 28:28). She produced Betzalel who was wise as it says: 'I filled him with the spirit of G-d' (Shmot 31:2)."*
 
 **49.** **Shmot Rabbah 1:17**
+<br/>
+<br/>
 
 וַיְהִי כִּי יָרְאוּ הַמְיַלְּדֹת וגו׳, רַב וְלֵוִי, חַד אָמַר בָּתֵּי כְּהֻנָּה וּבָתֵּי לְוִיָּה. וְחַד אָמַר בָּתֵּי מַלְכוּת. בָּתֵּי כְּהֻנָּה וּלְוִיָּה מִמּשֶׁה וְאַהֲרֹן, בָּתֵּי מַלְכוּת מִמִּרְיָם, לְפִי שֶׁדָּוִד בָּא מִמִּרְיָם ... וַיִּקַּח לוֹ כָלֵב אֶת אֶפְרָת (דברי הימים א ב, יט), זוֹ מִרְיָם, לָמָּה נִקְרָא שְׁמָהּ אֶפְרָת, שֶׁפָּרוּ וְרָבוּ יִשְׂרָאֵל עַל יָדֶיהָ:
+<br/>
+<br/>
 
 *"'Because the midwives feared'. Rav and Levi, one said houses of Kehunah and Levayah, while one said houses of Malchut. Kehunah and Levayah from Moshe and Aharon; houses of Malchut from Miriam, because David came from Miriam ... 'Kalev took Efrat' (Divrei HaYamim Aleph 2:19) - this is Miriam, and why was she called Efrat? Because Yisrael increased and multiplied through her for as midwife she saved the male babies."*
 
 **50.** There is a glaring issue with the midrash's assertion that David descended from Efrat, wife of Kalev and mother of Hur. Hetzron had three sons: Yerachmiel, Ram and Kalev (Divrei HaYamim Aleph 2:9), and David was a direct descendant of Ram:
+<br/>
+<br/>
 
 **Rut 4:18-22**
+<br/>
+<br/>
 
 וְאֵ֙לֶּה֙ תּוֹלְד֣וֹת פָּ֔רֶץ פֶּ֖רֶץ הוֹלִ֥יד אֶת חֶצְרֽוֹן׃ וְחֶצְרוֹן֙ הוֹלִ֣יד אֶת רָ֔ם וְרָ֖ם הוֹלִ֥יד אֶת עַמִּֽינָדָֽב׃ וְעַמִּֽינָדָב֙ הוֹלִ֣יד אֶת נַחְשׁ֔וֹן וְנַחְשׁ֖וֹן הוֹלִ֥יד אֶת שַׂלְמָֽה׃ וְשַׂלְמוֹן֙ הוֹלִ֣יד אֶת בֹּ֔עַז וּבֹ֖עַז הוֹלִ֥יד אֶת עוֹבֵֽד׃ וְעֹבֵד֙ הוֹלִ֣יד אֶת יִשָׁ֔י וְיִשַׁ֖י הוֹלִ֥יד אֶת דָּוִֽד׃
+<br/>
+<br/>
 
 *"This is the line of Peretz: Peretz birthed Hetzron. Hetzron birthed Ram, and Ram birthed Aminadav. Aminadav birthed Nahshon, and Nahshon birthed Salmon. Salmon birthed Boaz, and Boaz birthed Oved. Oved birthed Yishai, and Yishai birthed David."*
+<br/>
+<br/>
 
 David came from Ram son of Hetzron, not Kalev son of Hetzron. So how could the midrash claim that David came from Miriam? She may have been related as a cousin, but could not have been a direct ancestor. Maharsha struggles with this question as well, and offers a far-fetched suggestion:
+<br/>
+<br/>
 
 **Chidushei Aggadot to Sotah 11b d"h vaya'as lahem batim**
+<br/>
+<br/>
 
 אך מה שאמר דכלב היה איש מרים ומהם יצא דוד צ״ע דהא יחוסו של דוד מרם בן חצרון בספר רות וד״ה ומתוך הכתובים נראה דכלב לאו היינו רם דג׳ בנים היו לו לחצרון ירחמיאל ורם וכלוב דהיינו כלב כדמוכחי קראי דד״ה ויש ליישב דאחד מיוצאי בני רם נשא אשה מיוצאי בני כלב ולא היה דוד ממשפחת כלב אלא מצד אם אלא שחשיבות מרים עשה זאת שנקראו אפרתים וק״ל:
+<br/>
+<br/>
 
 *"That which is said, that Kalev was Miriam's husband and David descended from them - this requires further analysis, for David's lineage came from Ram Ben Hetzron based on Rut and Divrei HaYamim, and from the pesukim it seems that Kalev and Ram were not the same person, for Hetzron had three children: Yerachmiel, Ram and Keluvai, who is Kalev as the pesukim in Divrei HaYamim demonstrate. And it is possible to reply that one of the descendants of Ram married one of the descendants of Kalev, and that David was therefore not from the family of Kalev except on his mother's side. But even so, because of Miriam's importance it led to them being called Efratites."*
 
 **51.** We can expand the family tree from **Note 36** to include relationships uncovered and elucidated by the midrash:
+<br/>
+<br/>
 
 !(images/media/image3.png){width="6.44204615048119in" height="3.6302088801399823in"}
 
 **52.** **Tanchuma Yelamdenu Ki Tisa 13**
+<br/>
+<br/>
 
 וַהֲרֵי אֵין חֶצְרוֹן אֶלָּא בֶּן בְּנוֹ שֶׁל יְהוּדָה הָיָה, דִּכְתִיב: וַיִּהְיוּ בְנֵי פֶרֶץ חֶצְרֹן וְחָמוּל
 (בראשית מו, יב) ... מִשֶּׁמֵּת חֶצְרוֹן, בָּא כָּלֵב אֶל אֶפְרָת, זוֹ מִרְיָם, שֶׁפָּרוּ וְרָבוּ יִשְׂרָאֵל עַל יָדֶיהָ. וּכְתִיב: וַתָּמָת עֲזוּבָה וַיִּקַח לוֹ כָלֵב אֶת אֶפְרָת וַתֵּלֶד לוֹ אֶת חוּר, וְחוּר הוֹלִיד אֶת אוּרִי, וְאוּרִי הוֹלִיד אֶת בְּצַלְאֵל (דה״א ב, יט, כ):
+<br/>
+<br/>
 
 *"Hetzron was Yehudah's grandson, as it says: 'The children of Peretz were Hetzron and Hamul' (Breishit 46:12) ... When Hetzron died, Kalev came to Efrat - this is Miriam, since Yisrael increased and multiplied through her. And it says: 'Azuvah died, and Kalev took Efrat i.e. Miriam and she gave birth to Hur, and Hur gave birth to Uri, and Uri gave birth to Betzalel' (Divrei HaYamim Aleph 2:19-20)."*
+<br/>
+<br/>
 
 **53.** **Pirkei DeRabbi Eliezer 45.**
 
 **54.** **Bemidbar Rabbah 16:2**
+<br/>
+<br/>
 
 וַיָּבֹאוּ עַד נַחַל אֶשְׁכֹּל (במדבר יג, כג), לֹא רָצוּ לִטֹּל מִפֵּרוֹת אֶרֶץ יִשְׂרָאֵל אִלּוּלֵי כָּלֵב שֶׁשָּׁלַף אֶת הַזַּיִן וַיָּרָץ לִפְנֵיהֶם וְאָמַר לָהֶם אִם אֵין אַתֶּם נוֹטְלִים אוֹ אַתֶּם הוֹרְגִים אוֹתִי אוֹ אֲנִי הוֹרֵג אֶתְכֶם לֹא הָיוּ נוֹטְלִים, לְפִיכָךְ (יהושע יד, ט): אִם לֹא הָאָרֶץ אֲשֶׁר דָּרְכָה רַגְלְךָ בָּהּ לְךָ תִהְיֶה:
+<br/>
+<br/>
 
 *"'They came to Nachal Eshkol' (Bemidbar 13:23). They didn't want to take from the fruits of Eretz Yisrael, and had Kalev not pulled his sword and ran before them and said: If you don't take it, either you will have to kill me or I will kill you - they would not have taken it. This is why;' If not the land which your foot tread on shall be yours' (Yehoshua 14:9)*
-
-
-
-**Part 2: The Three Crowns**
+<br/>
+<br/>
 
 **55.** By way of comparison, the Talmud notes that Elisheva was particularly well-connected and had five noble relatives which gave her reason to be joyous:
 
@@ -881,8 +1119,6 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 *"'A name is better than good oil' (Kohelet 7:1). Good oil descends, while a good name ascends. Good oil is temporary, while a good name is eternal. Good oil finishes, while a good name never finishes. Good oil costs money, while a good name is free. Good oil is applicable for the living, while a good name is applicable for the living and the dead. Good oil is for the rich, while a good name is for the poor and the rich alike. Good oil goes from the entrance to the main hall, while a good name goes from one end of the world to the other."*
 
 
-
-**Part 3: Divine Justice**
 
 **91.** **Berachot 55a**
 
@@ -1460,8 +1696,6 @@ Moshe died eleven months after Mei Merivah on the seventh of the eleventh month 
 
 
 
-**Part 1: Two Instead of Four**
-
 **143.** **Sanhedrin 52a.**
 
 **144.** **Sotah 12a.**
@@ -1896,8 +2130,6 @@ Aharon was the primary cause of Hashem's anger by the Golden Calf, which led to 
 
 
 
-**Part 2: Delayed Punishment**
-
 **180.** **Rashi to Shmot 24:11 d"h ve'el atzilei bnai yisrael**
 
 הֵם נָדָב וַאֲבִיהוּא וְהַזְּקֵנִים:
@@ -2165,8 +2397,6 @@ Case 4 is indisputably the highest level of prophecy, and the level at which man
 **210.** Chiddushei Geonim Ein Yaakov Yevamot 49b d"h matzati megillat yuchsin.
 
 
-
-**Part 3: The Missing Layer**
 
 **211.** **Shmot 16:1-2, 5-7.**
 
@@ -2611,8 +2841,6 @@ A later midrash reframes this Tannaitic discussion as a dispute between the prop
 While HaKadosh Baruch Hu initially declares that Bnai Yisrael are his children only when they are loyal to Him, Moshe convinces Him that parents love their children unconditionally, and even the wayward child, no matter how far he has strayed, must still be considered family.
 
 
-
-**Part 1: Gershom & Eliezer**
 
 **259.** **Shmot 6:20**
 
@@ -3065,8 +3293,6 @@ The midrash considers Moshe's nephews to be like his own sons. This idea does le
 
 
 
-**Part 2: Tzipporah**
-
 **316.** **Rut Rabbah 2:5**
 
 רַבִּי מֵאִיר הָיָה דּוֹרֵשׁ שֵׁמוֹת. רַבִּי יְהוֹשֻׁעַ בֶּן קָרְחָה הָיָה דוֹרֵשׁ שֵׁמוֹת. וְשֵׁם הָאִישׁ אֱלִימֶלֶךְ, שֶׁהָיָה אוֹמֵר אֵלַי תָבוֹא מַלְכוּת. וְשֵׁם אִשְׁתּוֹ נָעֳמִי, שֶׁהָיוּ מַעֲשֶׂיהָ נָאִים וּנְעִימִים. וְשֵׁם שְׁנֵי בָנָיו מַחְלוֹן וְכִלְיוֹן, מַחְלוֹן, שֶׁנִּמְחוּ מִן הָעוֹלָם. וְכִלְיוֹן, שֶׁכָּלוּ מִן הָעוֹלָם:
@@ -3390,8 +3616,6 @@ To summarize: *makat bechorot* happened on the 15th of Nissan. The most straight
 **348.** Similarly, if a person honors his parents by observing their teachings and living according to their values, that will ensure his own children, who grow up seeing how their father respects his parents, will do the same regarding his own teachings and values. This is why this same reward is also found by the mitzvah of *kibud av v'em*: it too ensures *arichut yamim*. This explanation removes the question which bothered the midrashim in **Note 100**; once we understand *arichut yamim* as a consequence and not a reward, its applicability to both honoring one's parents and educating your children becomes readily apparent.
 
 
-
-**Part 3: Miriam**
 
 **349.** **Bemidbar 12:1-16.**
 
