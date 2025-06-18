@@ -1198,7 +1198,7 @@ In this sense separating the second passage from the first removes the need Rash
 
 !(images/media/image4.png){width="4.451983814523184in" height="4.494792213473316in"}
 
-**82b.** While satisfying, the midrash by no means feels bound by any time constraint confining the issuance of these crowns to a single period of Jewish history, as **Note 67.** demonstrates. There are even opinions which directly assign Moshe and Aharon to the crowns of Torah and Kehunah, but then assign the crowns of Malchut and Shem Tov to David and Avraham respectively:
+**83.** While satisfying, the midrash by no means feels bound by any time constraint confining the issuance of these crowns to a single period of Jewish history, as **Note 67.** demonstrates. There are even opinions which directly assign Moshe and Aharon to the crowns of Torah and Kehunah, but then assign the crowns of Malchut and Shem Tov to David and Avraham respectively:
 <br/>
 <br/>
 
@@ -1212,7 +1212,7 @@ In this sense separating the second passage from the first removes the need Rash
 
 *"He listed out four great things because we have four crowns: Torah, Kehunah, Malchut and a good name (Avot 4:13). In each great thing of these four great things, someone lowered himself. Avraham had the crown of a good name, as it says: 'I shall make your name great' (Breishit 12:2), and similarly in Kohelet Rabbah 6, that because of this it is called a crown of a good name, and even so Avraham lowered himself. Moshe had the crown of Torah, Aharon the crown of Kehunah and David the crown of Malchut, and all of them lowered themselves. This is why Hashem desired them, for: 'I am with the lowly' (Yishayahu 57:15)."*
 
-**83.** The notion that Moshe, Aharon and Hur received crowns when they were unified agrees with the midrashic tradition that all of Bnai Yisrael received crowns as Har Sinai, the place where they were all also united as one:
+**84.** The notion that Moshe, Aharon and Hur received crowns when they were unified agrees with the midrashic tradition that all of Bnai Yisrael received crowns as Har Sinai, the place where they were all also united as one:
 <br/>
 <br/>
 
@@ -1254,7 +1254,7 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 
 *"Rabbi Simai expounded, when Yisrael preceded 'we will do' with 'we will listen', 600,000 ministering angels came and tied two crowns on each and every one of Yisrael, one crown for 'we will do' and one crown for 'we will listen'. Once Yisrael sinned, 1,200,000 angels of destruction came down and removed them, as it says: 'Bnai Yisrael were stripped of their crowns from Har Chorev i.e. Har Sinai' (Shmot 33:6). Rabbi Chama BeRabbi Chaninan says, at Chorev they put the crowns on, and at Chorev they removed them. At Chorev they put on, as was just said; at Chorev they removed them, as it says: 'Bnai Yisrael were stripped.' Rabbi Yochanan says, Moshe merited to receive all of them, and took them, as it says in the next pasuk: 'Moshe took the tent' (Shmot 33:7). Reish Lakish says, in the future HaKadosh Baruch Hu will return the crowns to us, as it says: 'And the captured of Hashem will return, and come to Tzion in gladness, and with an eternal happiness on their heads' (Yishayahu 35:10) - a happiness which used to be on their heads."*
 
-**84.** **Malbim to Shmot 17:12 d"h veaharon vehur tamchu**
+**85.** **Malbim to Shmot 17:12 d"h veaharon vehur tamchu**
 <br/>
 <br/>
 
@@ -1264,15 +1264,15 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 
 *"Their goals in supporting Moshe's hands and staying on top of the hill were the unification of Yisrael and the unification of Hashem, may He Be Blessed."*
 
-**85.** The crown names are replaced with the actual names of their respective owners during the battle against Amalek; the arrangement echoes the physical description given of how they were situated atop the hill as Yehoshua and the people were fighting below:
+**86.** The crown names are replaced with the actual names of their respective owners during the battle against Amalek; the arrangement echoes the physical description given of how they were situated atop the hill as Yehoshua and the people were fighting below:
 <br/>
 <br/>
 
 !(images/media/image5.png){width="3.4791666666666665in" height="3.414886264216973in"}
 
-**86.** **Tehillim 133:1-3.**
+**87.** **Tehillim 133:1-3.**
 
-**87.** **Tanna DeVei Eliyahu Rabbah 13:16**
+**88.** **Tanna DeVei Eliyahu Rabbah 13:16**
 <br/>
 <br/>
 
@@ -1282,7 +1282,7 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 
 *"Another idea: 'Behold how good'. A person does good deeds in his youth, and then gets older and doubles his good deeds - about him it says: 'Behold how good'. Another idea: A person reads Torah Nevi'im and Ketuvim in his youth, and then gets older and doubles his deeds and learns Mishnah and Midrash, halachot and aggadot - about him it says: 'Behold how good'. Another idea: If someone sits and learns with his fellow, about them it says: 'Behold how good.'"*
 
-**88.** **Tanchuma HaKadum Shmot 24**
+**89.** **Tanchuma HaKadum Shmot 24**
 <br/>
 <br/>
 
@@ -1292,9 +1292,9 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 
 *"'Go meet Moshe in the desert' (Shmot 4:27). This is as it says: 'If only you were my brother' (Shir HaShirim 8:1). Yisrael say to HaKadosh Baruch Hu, 'If only you were my brother' - which brother? You find that from the beginning of the world until today brothers hand each other. Kayin hated Hevel and killed him, as it says: 'Kayin stood against his brother Hevel and killed him' (Breishit 4:8). Yishmael hated Yitzchak, as it says: 'Sarah saw the son of Hagar the Egyptian that was born to Avraham playing' (Breishit 21:9), and there is no playing other than seeking to kill, as it says: 'Let the youths stand up before us and play' (Shmuel Bet 2:14). Esav hated Yaakov, as it says: 'Esav said in his heart' (Breishit 27;41). The tribes hated Yosef, as it says: 'They hated him' (Breishit 37:4). So like which brother? Yisrael said, like Moshe and Aharon, as it says: 'Behold how good and how pleasant it is when brothers sit together' (Tehillim 133:1), because they loved one another, and were dear to one another. For when Moshe took the kingship and Aharon took the Kehunah Gedolah, they were not jealous of one another, but rather were happy, each for the greatness of the other."*
 
-**89.** This concept is explored in depth in **Chapters II** and **III**.
+**90.** This concept is explored in depth in **Chapters II** and **III**.
 
-**90.** The *mizmor* also makes reference to good oil in pasuk 2, which reminds us of Kohelet's declaration that a good name is better than good oil; in particular, while this particular good oil is described as descending down Aharon's beard, the Good Name is up above Aharon and the other two crowns:
+**91.** The *mizmor* also makes reference to good oil in pasuk 2, which reminds us of Kohelet's declaration that a good name is better than good oil; in particular, while this particular good oil is described as descending down Aharon's beard, the Good Name is up above Aharon and the other two crowns:
 <br/>
 <br/>
 
@@ -1308,7 +1308,7 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 
 *"'A name is better than good oil' (Kohelet 7:1). Good oil descends, while a good name ascends. Good oil is temporary, while a good name is eternal. Good oil finishes, while a good name never finishes. Good oil costs money, while a good name is free. Good oil is applicable for the living, while a good name is applicable for the living and the dead. Good oil is for the rich, while a good name is for the poor and the rich alike. Good oil goes from the entrance to the main hall, while a good name goes from one end of the world to the other."*
 
-**91.** **Berachot 55a**
+**92.** **Berachot 55a**
 <br/>
 <br/>
 
@@ -1318,7 +1318,7 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 
 *"Rabbi Shmuel Bar Nachmani says in the name of Rabbi Yonatan, Betzalel was named based on his wisdom. At the time when HaKadosh Baruch Hu said to Moshe, go tell Betzalel: 'Make for Me a Mishkan, Aron and utensils', Moshe went and switched the order and said to Betzalel: 'Make an Aron, utensils and Mishkan'. He said to him, Moshe Rabbeinu, the way of the world is that a person builds a house and after that he puts all the utensils inside it, and you tell me: 'Make an Aron, utensils and Mishkan' - the utensils that I make, where should I put them? Maybe HaKadosh Baruch Hu said to you: 'Make for Me a Mishkan, Aron and utensils'? Moshe said to Betzalel: Maybe you were in the shadow of E-l, and that is how you knew."*
 
-**92.** **Ramban to Vayikra 8:2 d"h kach et aharon**
+**93.** **Ramban to Vayikra 8:2 d"h kach et aharon**
 <br/>
 <br/>
 
@@ -1328,7 +1328,7 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 
 *"This section was said seven days before the Mishkan was erected, because there is no chronological order to the Torah - this is Rashi's explanation. Yet why would we distort the words of the living G-d ... Rather, it is correct to say that Moshe was commanded to erect the Mishkan on the 23rd of Adar, and he erected it, and when the Mishkan stood on its foundations Hashem Yitbarach called to him from between the Keruvim ... and according to the straightforward way of understanding, Moshe was commanded to build the Mishkan before the incident with the calf, and afterwards when HaKadosh Baruch Hu was appeased and had promised that He would allow His presence to dwell among Bnai Yisrael, Moshe knew on his own that the command to build the Mishkan was still in effect ... and so all the sections are in their proper order."*
 
-**93.** **Rashi to Pesachim 6b d"h ein mukdam ume'uchar batorah**
+**94.** **Rashi to Pesachim 6b d"h ein mukdam ume'uchar batorah**
 <br/>
 <br/>
 
@@ -1338,11 +1338,11 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 
 *"The Torah was not stringent on the order of what came earlier or later, and the sections that were said first in actuality - the Torah preceded them with those that were later."*
 
-**94.** **Rashi to Shmot 31:18 d"h vayiten el moshe.**
+**95.** **Rashi to Shmot 31:18 d"h vayiten el moshe.**
 
-**95.** **Tanchuma Yelamdenu Terumah 8.**
+**96.** **Tanchuma Yelamdenu Terumah 8.**
 
-**96.** There are countless examples of later midrashic works (defined as having been redacted sometime after the 8th-9th century CE) borrowing from earlier works and expanding on them; aggadic works such as Tanchuma Yelamdenus' common practice of stating the "moral of the story", the central idea behind what a midrash is trying to teach or allude to, in situations where older versions of the same midrash are less straightforward, is a subset of this larger phenomenon. For example, there is a concept derived from several examples in Tanach that when the community is in a state of distress, a person should be in distress with the community even if he personally is not affected:
+**97.** There are countless examples of later midrashic works (defined as having been redacted sometime after the 8th-9th century CE) borrowing from earlier works and expanding on them; aggadic works such as Tanchuma Yelamdenus' common practice of stating the "moral of the story", the central idea behind what a midrash is trying to teach or allude to, in situations where older versions of the same midrash are less straightforward, is a subset of this larger phenomenon. For example, there is a concept derived from several examples in Tanach that when the community is in a state of distress, a person should be in distress with the community even if he personally is not affected:
 <br/>
 <br/>
 
@@ -1404,7 +1404,7 @@ Contrast this with Tanchuma Yelamdenu, written and published hundreds of years l
 
 Note this explanation is different from one we perhaps assumed was underpinning these midrashim, namely that empathy is an important virtue, and a person should actively relate to, and show solidarity with, his fellows going through hardship. That idea, while compelling, is never actually given by the midrash, and Tanchuma Yelamdenu actually offers a different reason instead, though of course it does not negate the former's validity as well.
 
-**97.** **Shmot 32:10, 14**
+**98.** **Shmot 32:10, 14**
 <br/>
 <br/>
 
@@ -1414,9 +1414,9 @@ Note this explanation is different from one we perhaps assumed was underpinning 
 
 *"Now leave Me be, and My anger will flare against them and consume them, and I will make you i.e. Moshe into a great nation ... and Hashem repented of the evil He had said He would do to His nation."*
 
-**98.** **Shmot Rabbah 48:3; Tanchuma Yelamdenu Vayakhel 4.**
+**99.** **Shmot Rabbah 48:3; Tanchuma Yelamdenu Vayakhel 4.**
 
-**99.** **Chizkuni to Shmot 31:2 d"h betzalel ben uri ben hur**
+**100.** **Chizkuni to Shmot 31:2 d"h betzalel ben uri ben hur**
 <br/>
 <br/>
 
@@ -1426,9 +1426,9 @@ Note this explanation is different from one we perhaps assumed was underpinning 
 
 *"Betzalel Ben Uri Ben Hur. The grandfather of Betzalel is mentioned, unlike by Oholiav Ben Achisamach, because Hur was killed during the incident of the calf, and the construction of the Mishkan came to atone for that sin. This is why Hur is mentioned in connection with it."*
 
-**100.** Yalkut Reuveni Parshat Shelach. This work is a compilation of earlier Kabbalistic teachings compiled and edited by Rabbi Reuven HaKohen in the 17th century CE.
+**101.** Yalkut Reuveni Parshat Shelach. This work is a compilation of earlier Kabbalistic teachings compiled and edited by Rabbi Reuven HaKohen in the 17th century CE.
 
-**101.** The concept of *gilgul*, or transmigration of souls, can be found in medieval Kabbalah, though its usage is systematized and greatly expanded upon in later Cordoveran and Lurianic Kabbalah respectively, as a solution to the age-old question of *tzaddik vera lo*, how come bad things happen to good people. Here Yalkut Reuveni argues that Hur was reincarnated in some sense in the essence of his father Kalev to explain how he did in fact receive a reward from Above, even though it is not apparent to one who looks purely at the world of material things.
+**102.** The concept of *gilgul*, or transmigration of souls, can be found in medieval Kabbalah, though its usage is systematized and greatly expanded upon in later Cordoveran and Lurianic Kabbalah respectively, as a solution to the age-old question of *tzaddik vera lo*, how come bad things happen to good people. Here Yalkut Reuveni argues that Hur was reincarnated in some sense in the essence of his father Kalev to explain how he did in fact receive a reward from Above, even though it is not apparent to one who looks purely at the world of material things.
 <br/>
 <br/>
 
@@ -1446,7 +1446,7 @@ There is precedence for associating Hur with transmigration; none other than the
 
 *"The explanation of the calf is written in the book of gilgulim. Aharon has the same letters as Haran, and know that he was the gilgul of Adam HaRishon who worshiped Avodah Zarah. Therefore in order to fix this he returned in the gilgul of Aharon with an Aleph. But even this was not enough to fix it, for he had to let himself be killed when the Erev Rav said to him to make the calf for Avodah Zarah - he should have given his life, but he did not do so because he saw Hur slaughtered before him. Hur was also from Adam HaRishon, and Nachor the brother of Avraham. And so Haran reincarnated as Aharon and Nachor reincarnated as Hur, and Aharon reasoned that Hur's murder should have been enough to fix the sin of Avodah Zarah."*
 
-**102.** Ramban gives a lengthy, detailed explanation as to how the promise of Yehudah's kingship is contained within Yaakov's blessing to Yehudah on his deathbed:
+**103.** Ramban gives a lengthy, detailed explanation as to how the promise of Yehudah's kingship is contained within Yaakov's blessing to Yehudah on his deathbed:
 <br/>
 <br/>
 
@@ -1476,7 +1476,7 @@ This idea has precedent in the Talmud as well:
 
 *"We do not appoint kings except through a horn. Shaul and Yehu were appointed through a pitcher, because their kingships were temporary; David and Shlomo were appointed through a horn, because their kingships were permanent. We do not appoint Kohanim as kings. Rabbi Yudan Antodruyah said, as it says: 'The scepter shall not depart from Yehudah' (Breishit 48:10)."*
 
-**103.** **Bava Metzia 42a**
+**104.** **Bava Metzia 42a**
 <br/>
 <br/>
 
@@ -1486,7 +1486,7 @@ This idea has precedent in the Talmud as well:
 
 *"Rabbi Yitzchak said, blessing is not found except with something that is hidden from the eye, as it says: 'Hashem shall command blessing for you in your hidden things' (Devarim 28:8). It was taught in the house of Rabbi Yishmael, blessing is not found except with something that the eye has not control over, as it says: Hashem shall command blessing for you in your hidden things.'"*
 
-**104.** A grandparent's love extends to the grandchild, but not further:
+**105.** A grandparent's love extends to the grandchild, but not further:
 <br/>
 <br/>
 
@@ -1500,7 +1500,7 @@ This idea has precedent in the Talmud as well:
 
 *"'Now swear to me in the name of G-d, that you will not deal falsely with me, my son or my grandson' (Breishit 21:23). This is how far a father's concern goes for his descendant i.e. until his grandson."*
 
-**105.** **Ketubot 50a**
+**106.** **Ketubot 50a**
 <br/>
 <br/>
 
@@ -1510,7 +1510,7 @@ This idea has precedent in the Talmud as well:
 
 *"'And if you see your son's sons, there will be peace in Yisrael' (Tehillim 128:6). Rabbi Yehoshua Ben Levi says, once your children have children of their own, there will be peace in Yisrael."*
 
-**106.** **Talmud Yerushalmi Gittin 5:3**
+**107.** **Talmud Yerushalmi Gittin 5:3**
 <br/>
 <br/>
 
@@ -1520,9 +1520,9 @@ This idea has precedent in the Talmud as well:
 
 *"What is the law regarding the sons of sons? Rabbi Mana says, sons of sons are considered like sons. Rabbi Yosi says, sons of sons are not considered like sons."*
 
-**107.** **Yevamot 62a-b.**
+**108.** **Yevamot 62a-b.**
 
-**108.** **Mishneh Torah, Hilchot Ishut 15:4**
+**109.** **Mishneh Torah, Hilchot Ishut 15:4**
 <br/>
 <br/>
 
@@ -1556,7 +1556,7 @@ This idea has precedent in the Talmud as well:
 
 *"If a man has a boy and a girl he has fulfilled the mitzvah of procreation, as long as the son is not a eunuch and the daughter is not barren. If he has a boy and girl but they die, and if they leave behind sons, he has still fulfilled the mitzvah of procreation."*
 
-**109.** There is some debate about if the sons of daughters are considered like sons. Abaye in Yevamot 62b (see above **Note 107**) held that sons of daughters are surely considered like sons, and on this point Rava agreed with him albeit for his own reasons. Abaye does not posit a source for this opinion, but seems to derive it as a *kal vachomer* from the case of sons of sons:
+**110.** There is some debate about if the sons of daughters are considered like sons. Abaye in Yevamot 62b (see above **Note 107**) held that sons of daughters are surely considered like sons, and on this point Rava agreed with him albeit for his own reasons. Abaye does not posit a source for this opinion, but seems to derive it as a *kal vachomer* from the case of sons of sons:
 <br/>
 <br/>
 
@@ -1652,9 +1652,9 @@ Talmud Yerushalmi Gittin 5:3               No                             No    
 
 Regardless, for our purposes of applying this concept to Hur and Betzalel it is a case of the son's son, and so Betzlalel can be considered like Hur's son according to virtually all opinions.
 
-**110.** **Mishlei 17:6.**
+**111.** **Mishlei 17:6.**
 
-**111.** **Tanchuma Yelamdenu Toldot 4**
+**112.** **Tanchuma Yelamdenu Toldot 4**
 <br/>
 <br/>
 
@@ -1664,7 +1664,7 @@ Regardless, for our purposes of applying this concept to Hur and Betzalel it is 
 
 *"'These are the offspring of Yitzchak, Avraham gave birth to Yitzchak. This is as it says: 'The crown of the elderly is their sons' sons, and the beauty of sons is their father' (Mishlei 17:6). The righteous are crowned with their sons' sons, and their sons are crowned by their fathers. How so? Avraham was crowned in Yaakov's merit ... We see that fathers are crowned because of their sons. But how do we know that sons are crowned because of their fathers? When Yaakov went out from Lavan and Lavan chased after him, HaKadosh Baruch Hu revealed Himself to Lavan on the way and said to him: 'Guard yourself from saying anything to Yaakov, good or bad' (Breishit 31:24). When they began to argue with each other, what did Yaakov say to Lavan: 'Were it not for the G-d of my father, the G-d of Avraham and the fear of Yitzchak, being with me' (Breishit 31:42). So, Avraham's merit saved Yaakov. Also, Yitzchak was crowned by Avraham, and Avraham was crowned by Yitzchak."*
 
-**112.** This idea ties nicely with the aggadic contention that the Mishkan was commanding as a response to the sin of the golden calf, meaning it was only after Hur was killed that Betzalel was called by name to lead the construction effort. Betzalel was only able to inherit the throne of Kingship once his grandfather - considered like a father - Hur had died. A clear support for this idea is that a similar sentiment is expressed by HaKadosh Baruch Hu when asked by David - ultimate inheritor of the crown of Kingship - why his reign could not last any longer:
+**113.** This idea ties nicely with the aggadic contention that the Mishkan was commanding as a response to the sin of the golden calf, meaning it was only after Hur was killed that Betzalel was called by name to lead the construction effort. Betzalel was only able to inherit the throne of Kingship once his grandfather - considered like a father - Hur had died. A clear support for this idea is that a similar sentiment is expressed by HaKadosh Baruch Hu when asked by David - ultimate inheritor of the crown of Kingship - why his reign could not last any longer:
 <br/>
 <br/>
 
@@ -1694,7 +1694,7 @@ The concept of being "called by name" - as Betzalel was - is also juxtaposed to 
 
 *"Ben Azzai says, by your name they shall call you, and in your place they shall seat you, and from your own they shall give you. A person does not touch that which is set for his fellow, and one reign does not overlap with another by even a hairsbreadth."*
 
-**113.** Hur is listed as one of the five Midianite kings killed in battle against Bnai Yisrael:
+**114.** Hur is listed as one of the five Midianite kings killed in battle against Bnai Yisrael:
 <br/>
 <br/>
 
@@ -1737,11 +1737,11 @@ Hur is also mentioned as the ancestor of a governor in Jerusalem while the first
 
 *"Next to them, Rephaiah Ben Hur, chief of half the district of Jerusalem, repaired the wall."*
 
-**114.** Hur, one of the five kings of Midian, was killed in the 40th year of Bnai Yisrael's travels in the desert, and while it is feasible his life overlapped with that of Hur from the 1st year, it is impossible to equate a powerful king of Midian with the crown prince of the tribe of Yehudah. The other two references to Hur is as an ancestor, though the descendants of Hur described in Melachim Aleph and Nehemiah lived 480 and nearly 900 years after the Hur of golden calf fame respectively. Even if the case could be made, little seems gainable from a midrashic perspective by equating the occurrences of Hur from these references.
+**115.** Hur, one of the five kings of Midian, was killed in the 40th year of Bnai Yisrael's travels in the desert, and while it is feasible his life overlapped with that of Hur from the 1st year, it is impossible to equate a powerful king of Midian with the crown prince of the tribe of Yehudah. The other two references to Hur is as an ancestor, though the descendants of Hur described in Melachim Aleph and Nehemiah lived 480 and nearly 900 years after the Hur of golden calf fame respectively. Even if the case could be made, little seems gainable from a midrashic perspective by equating the occurrences of Hur from these references.
 
-**115.** **Esther 1:5-7.**
+**116.** **Esther 1:5-7.**
 
-**116.** **Daniel 7:9**
+**117.** **Daniel 7:9**
 <br/>
 <br/>
 
@@ -1751,7 +1751,7 @@ Hur is also mentioned as the ancestor of a governor in Jerusalem while the first
 
 *"As I looked on, thrones were set in place, and the Ancient of Days took His seat. His garment was like white snow, and the hair of His head was like lamb's wool. His throne was tongues of flame; its wheels were of blazing fire."*
 
-**117.** **Yishayahu 11:8**
+**118.** **Yishayahu 11:8**
 <br/>
 <br/>
 
@@ -1761,11 +1761,11 @@ Hur is also mentioned as the ancestor of a governor in Jerusalem while the first
 
 *"A baby shall play over a viper's hole, and an infant shall pass his hand over an adder's den."*
 
-**118.** **Megillah 12a.**
+**119.** **Megillah 12a.**
 
-**119.** For another example of this phenomenon, see **Part III Note 45**.
+**120.** For another example of this phenomenon, see **Part III Note 45**.
 
-**120.** Mordechai is also described as unifying the Name of HaKadosh Baruch Hu through his actions, a description associated with the unification of the four crowns at the battle of Amalek:
+**121.** Mordechai is also described as unifying the Name of HaKadosh Baruch Hu through his actions, a description associated with the unification of the four crowns at the battle of Amalek:
 <br/>
 <br/>
 
@@ -1779,7 +1779,7 @@ Hur is also mentioned as the ancestor of a governor in Jerusalem while the first
 
 *"'Yehudi' (Esther 2:5). Why was Mordechai called a 'Yehudi' - was he not from Binyamin? Because he unified the name of HaKadosh Baruch Hu before all people in the world, as it says: 'Did not bow down and did not prostrate' (Esther 3:2)."*
 
-**121.** **Megillah 12a**
+**122.** **Megillah 12a**
 <br/>
 <br/>
 
@@ -1789,7 +1789,7 @@ Hur is also mentioned as the ancestor of a governor in Jerusalem while the first
 
 *"Rabbi Shimon Bar Yochai's students asked him: Why did the enemies of Yisrael i.e. a euphemism for Yisrael of that generation deserve destruction? He said to them: You tell me. They said to him: Because they partook in the feast of that wicked one Achashverosh."*
 
-**122.** **Chiddushei Aggadot on Megillah 12a d"h kirtzon**
+**123.** **Chiddushei Aggadot on Megillah 12a d"h kirtzon**
 <br/>
 <br/>
 
@@ -1799,7 +1799,7 @@ Hur is also mentioned as the ancestor of a governor in Jerusalem while the first
 
 *"It appears to be like the Targum interprets: 'To do according to the will of the men of Beit Yisrael and the will of the men of every other nation and people'. From the fact that it says 'every man' in hyperbolic language, they said that the text attached the rest of Yisrael on Mordechai, since his will was not to eat or drink anything forbidden, for Mordechai himself surely did not benefit whatsoever from that feast. And similarly the text attached the rest of the nations on Haman, since his will was to eat all the foods available at the feast."*
 
-**123.** **Daniel 1:8**
+**124.** **Daniel 1:8**
 <br/>
 <br/>
 
@@ -1821,7 +1821,7 @@ Hur is also mentioned as the ancestor of a governor in Jerusalem while the first
 
 *"Daniel through that he had been set aside for idol worship, and that the king wished for him to violate his religious beliefs, and that the food and wine that had been set aside for him were from idolatrous sacrifices and libations, and indeed there are mefarshim who interpret the phrase 'pat bag' as bread that was brought for the sake of idol worship."*
 
-**124.** **Pesikta Rabbati 13**
+**125.** **Pesikta Rabbati 13**
 <br/>
 <br/>
 
@@ -1831,7 +1831,7 @@ Hur is also mentioned as the ancestor of a governor in Jerusalem while the first
 
 *"When Shaul became king HaKadosh Baruch Hu said, the seed of Amalek shall not fall except through the hand of one of Rachel's offspring. Similarly you find in Rephidim that Amalek fell at the hand of Yehoshua, as it says: 'Yehoshua weakened Amalek' (Shmot 17:13). HaKadosh Baruch Hu said: This tribe shall always be ready to exact vengeance from Amalek. How do we know this? From what it says in the Navi: 'Out of Ephraim are those whose roots are in Amalek, after Binyamin' (Shoftim 5:14) ... Another idea: What does 'out of Ephraim' mean? From the days of Yaakov Avinu this tribe was destined to exact vengeance from Esav ... after that: 'And Rachel and Yosef' were placed last in Yaakov's camp (Breishit 33:2). Yaakov said: If they kill all the boys and only the son of Rachel is left, I will be saved by his hand: 'And the remaining camp shall be a refuge' (Breishit 32:9). Why? Because the children of Rachel had been appointed to exact vengeance from this evil seed: 'Out of Ephraim are those whose roots are in Amalek.'"*
 
-**125.** **Pesikta Rabbati 12:1**
+**126.** **Pesikta Rabbati 12:1**
 <br/>
 <br/>
 
@@ -1861,7 +1861,7 @@ Rachel and Yosef were strategically selected by Yaakov to go last in order to ma
 
 In the future, it was Esav's grandson Amalek who specifically attacked the rear of Bnai Yisrael's camp, attempting to thwart Yaakov's desperate ploy to protect his loved ones, the most vulnerable of his family units. Because of this, it is fitting that Amalek be routed time and again throughout Jewish history by the descendants of Rachel. Specifically, it is just for Amalek to be defeated at the hands of a descendant of Binyamin, who at the time of Esav's meeting with Yaakov had not yet been born; it was not even the weak one that Amalek would have targeted who ended up defeating him, but the one who did not even yet exist.
 
-**126.** Another example is David's war with Amalek, during which he wipes them out completely save for 400 Amalekites who manage to escape on camelback:
+**127.** Another example is David's war with Amalek, during which he wipes them out completely save for 400 Amalekites who manage to escape on camelback:
 <br/>
 <br/>
 
@@ -1913,7 +1913,7 @@ Additionally, the language used to describe David is reminiscent of Kalev Ben Ye
 
 *"'A lion roars, who does not fear?' (Amos 3:8). This is as it says: 'Walk after Hashem like a roaring lion' (Hoshea 11:10). Rabbi Simon says, a parable: as a king goes into his palace, his matron hears him and out of fear makes room for him and shudders. If a matron is so fearful, what will the maidservants and slaves do? So too when HaKadosh Baruch Hu revealed Himself to give the Torah to Yisrael, they heard His voices and died, as it says: 'My soul left Me as He spoke' (Shir HaShirim 5:6). If this is the case with Yisrael, how much more so with idol worshippers ... Rabbi Abbahu says in the name of Rabbi Yochanan, when HaKadosh Baruch Hu gave the Torah, no bird chirped or took flight, no ox lowed, no Ofanim flew, no Seraphim said 'holy holy', the sea did not move, the creations did not speak. Rather, the world was utterly silent, as the voice went out: 'I am Hashem your G-d' (Shmot 20:2). Similarly it says: 'Hashem spoke these words to your entire assembly, a great voice that did not continue' (Devarim 5:19) ... When HaKadosh Baruch Hu spoke on Har Sinai, the whole world was silent, so that the creations would know that there is nothing other than Him, and He said: 'I am Hashem your G-d' (Shmot 20:1)."*
 
-**128.** There is an approach in the Talmud recorded in the name of Rav which understands eating and drinking here to be a metaphor for basking in the Shechinah's countenance. Understood this way, the nobility beholding G-d and then "eating and drinking" denotes something positive and metaphorical: as a result of having seen G-d directly, the nobles had the special opportunity to benefit from a heightened level of Divine glory; Rav even compares what Moshe and his companions experienced to the World to Come, *Olam HaBa*, a state entirely spiritual and devoid of worldly corruption.
+**129.** There is an approach in the Talmud recorded in the name of Rav which understands eating and drinking here to be a metaphor for basking in the Shechinah's countenance. Understood this way, the nobility beholding G-d and then "eating and drinking" denotes something positive and metaphorical: as a result of having seen G-d directly, the nobles had the special opportunity to benefit from a heightened level of Divine glory; Rav even compares what Moshe and his companions experienced to the World to Come, *Olam HaBa*, a state entirely spiritual and devoid of worldly corruption.
 <br/>
 <br/>
 
@@ -2014,7 +2014,7 @@ Yishayah
 
 As Rabbi Hoshayah notes, there is no mention of the nobles bringing any food with them to the top of Har Sinai, which raises the question according to the approach of Ramban and Ibn Ezra that the feast should be taken literally to mean a physical feast. However, one could simply respond that from the fact that the nobility feasted we can infer that they brought the food up with them, despite the Torah not mentioning it explicitly beforehand.
 
-**129.** **Megillah 19b**
+**130.** **Megillah 19b**
 <br/>
 <br/>
 
@@ -2026,7 +2026,7 @@ As Rabbi Hoshayah notes, there is no mention of the nobles bringing any food wit
 <br/>
 <br/>
 
-**130.** **Shmot 20:15-16**
+**131.** **Shmot 20:15-16**
 <br/>
 <br/>
 
@@ -2036,7 +2036,7 @@ As Rabbi Hoshayah notes, there is no mention of the nobles bringing any food wit
 
 *"The nation saw the voices and torches and the voice of the Shofar and the mountain smoking. The nation was afraid, and trembled, and they stood from afar. And they said to Moshe, you speak with us and we will hear, but don't let G-d speak with us, lest we perish from the encounter."*
 
-**131.** Both Gideon the judge, son of Yoash, and Manoah, father of Shimshon the judge, thought they were going to die for this very reason. They were both mistaken and corrected, ostensibly because they had each seen an angel of G-d and not G-d Himself:
+**132.** Both Gideon the judge, son of Yoash, and Manoah, father of Shimshon the judge, thought they were going to die for this very reason. They were both mistaken and corrected, ostensibly because they had each seen an angel of G-d and not G-d Himself:
 <br/>
 <br/>
 
@@ -2066,9 +2066,9 @@ As Rabbi Hoshayah notes, there is no mention of the nobles bringing any food wit
 
 Apparently man can outlive an encounter with an angel of G-d, but it is important to note that such an encounter was enough to strike horror in the heart of a warrior like Gideon. Clearly, one who actually does see G-d should not be able to survive, as noted above.
 
-**132.** See **Part I** Notes **87** and **88** for another example of this phenomenon.
+**133.** See **Part I** Notes **87** and **88** for another example of this phenomenon.
 
-**133.** **Shabbat 88a**
+**134.** **Shabbat 88a**
 <br/>
 <br/>
 
@@ -2090,7 +2090,7 @@ Apparently man can outlive an encounter with an angel of G-d, but it is importan
 
 *"This episode happened before the Ten Commandments, and on the fourth of Sivan he was told to go up (Shabbat 88)."*
 
-**134.** **Mechilta DeRabbi Yishmael Shmot 19:10**
+**135.** **Mechilta DeRabbi Yishmael Shmot 19:10**
 <br/>
 <br/>
 
@@ -2159,7 +2159,7 @@ It follows that there are opinions which place Shmot 24 on four different dates:
 - 6th of Sivan - Simple reading of Rabbi Yosi BeRabbi Yehudah in the Mechilta
 - 7th of Sivan - Ramban to Shmot 24:1 in his reading of Rabbi Yosi BeRabbi Yehudah, Chizkuni to Devarim 9:9, Targum Yonatan to Shmot 24:1
 
-**135.** There is, however, a purported allusion to Har Sinai more generally. The midrash identifies four additional names for Har Sinai, two of which are mentioned in Tehillim:
+**136.** There is, however, a purported allusion to Har Sinai more generally. The midrash identifies four additional names for Har Sinai, two of which are mentioned in Tehillim:
 <br/>
 <br/>
 
@@ -2197,7 +2197,7 @@ It follows that there are opinions which place Shmot 24 on four different dates:
 
 *"Rav Hisda and Rabbah son of Rav Huna said together, what is Har Sinai? A mountain from which hatred came down on the nations of the world ... and what was the mountain's actual name? Horev. And this argues with Rabbi Abahu, for Rabbi Abahu said, its name was Har Sinai. Why was it called Har Horev? Because destruction came down on the nations of the world because of it."*
 
-**136.** Aside from the fact that both stories occurred on the same mountain geographically, both stories refer to a period of forty days and forty nights preceding a theophanic revelation atop the mountain. Both also take care to mention eating and drinking before those forty days and nights began, perhaps in preparation for the superhuman task ahead.
+**137.** Aside from the fact that both stories occurred on the same mountain geographically, both stories refer to a period of forty days and forty nights preceding a theophanic revelation atop the mountain. Both also take care to mention eating and drinking before those forty days and nights began, perhaps in preparation for the superhuman task ahead.
 <br/>
 <br/>
 
@@ -2247,13 +2247,13 @@ This concept of going forty days and nights in conjunction with encountering G-d
 
 While technical differences between these three episodes should be noted - for example, Moshe's forty days and nights were during his time on Har Sinai with G-d, unlike Eliyahu and the cattle where it was during the journey to Har Sinai - the larger thematic similarity of abstaining from food and drink, a period of forty days and nights, Har Sinai, and an encounter with G-d is what the midrashim are emphasizing.
 
-**137.** **Vayikra 10:1-3.**
+**138.** **Vayikra 10:1-3.**
 
-**138.** **Bemidbar 11:1-4, 10-11, 16-17, 24-25, 30.**
+**139.** **Bemidbar 11:1-4, 10-11, 16-17, 24-25, 30.**
 
-**139.** **Bemidbar 20:9-13.**
+**140.** **Bemidbar 20:9-13.**
 
-**140.** Bnai Yisrael left Har Sinai on the twentieth of the second month Iyyar, roughly two weeks shy of one year after the incident described in Shmot 24. They then traveled for three days before arriving and resting in the desert of Paran on the twenty-third of the second month Iyyar, and it was there that a new set of seventy elders was appointed:
+**141.** Bnai Yisrael left Har Sinai on the twentieth of the second month Iyyar, roughly two weeks shy of one year after the incident described in Shmot 24. They then traveled for three days before arriving and resting in the desert of Paran on the twenty-third of the second month Iyyar, and it was there that a new set of seventy elders was appointed:
 <br/>
 <br/>
 
@@ -2267,7 +2267,7 @@ While technical differences between these three episodes should be noted - for e
 
 *"In the second year, in the second month on the twentieth of the month, the cloud lifted from atop the Mishkan of testimony. Bnai Yisrael journeyed on their journeys from the desert of Sinai, and the cloud rested in the desert of Paran ... Bnai Yisrael traveled from the mountain of G-d i.e. Har Sinai a distance of three days, and the ark of the covenant of Hashem journeyed before them a distance of three days to scout out a place for them to rest."*
 
-**141.** Aharon died four months after Mei Merivah on the first of the fifth month of Av:
+**142.** Aharon died four months after Mei Merivah on the first of the fifth month of Av:
 <br/>
 <br/>
 
@@ -2297,7 +2297,7 @@ Moshe died eleven months after Mei Merivah on the seventh of the eleventh month 
 
 *"It was taught elsewhere, Moshe died on the seventh of Adar and was born on the seventh of Adar. How do we know he died on the seventh of Adar? As it says: 'Moshe the servant of Hashem did there ... Bnai Yisrael cried over Moshe at Arvot Moav for thirty days ... and after the death of Moshe the servant of Hashem ... Moshe My servant is dead; now you Yehoshua get up and cross ... 'Pass through the camp and command the nation saying, prepare your things, for in three days you will cross the Yarden ... the nation went up from the Yarden on the tenth of the first month.' Subtract thirty three days, and retroactively you learn that Moshe died on the seventh of Adar."*
 
-**142.** **Shmot 17:1-7**
+**143.** **Shmot 17:1-7**
 <br/>
 <br/>
 
@@ -2307,11 +2307,11 @@ Moshe died eleven months after Mei Merivah on the seventh of the eleventh month 
 
 *"All the assembly of Bnai Yisrael journeyed from the desert of Sin on their journeys at the command of Hashem, and they encamped in Rephidim; there was no water for the nation to drink. The nation fought with Moshe and said, give us water and we shall drink. Moshe said to them, why are you fighting with me? Why are you challenging Hashem? But the nation was parched there and in need of water, and the nation complained about Moshe and said, why did Moshe take us out of Egypt just to kill me, my children and my cattle from thirst? Moshe cried out to Hashem and said, what can I do for this nation? A little more and they will stone me. Hashem said to Moshe, go before the nation and take with you from the elders of Yisrael, and take the staff which you struck the river with in your hand and go. I will stand before you there on the rock in Horev, and you shall strike the rock and water will come out of it, and the nation shall drink. Moshe did so before the eyes of the elders of Yisrael. That place was named Masa U'Merivah because of the fight of Bnai Yisrael, and because they challenged Hashem and said, is Hashem in our midst or not?"*
 
-**143.** **Sanhedrin 52a.**
+**144.** **Sanhedrin 52a.**
 
-**144.** **Sotah 12a.**
+**145.** **Sotah 12a.**
 
-**145.** **Pirkei DeRabbi Eliezer 42**
+**146.** **Pirkei DeRabbi Eliezer 42**
 <br/>
 <br/>
 
@@ -2321,7 +2321,7 @@ Moshe died eleven months after Mei Merivah on the seventh of the eleventh month 
 
 *"Rabbi Reuven said, everything follows the head i.e. the first instance."*
 
-**146.** This idea can also be found in Hashem's opening words to Yirmiyahu:
+**147.** This idea can also be found in Hashem's opening words to Yirmiyahu:
 <br/>
 <br/>
 
@@ -2351,7 +2351,7 @@ Light filling the room as Moshe was born indicates that he too was selected and 
 
 *"The Jews had light, gladness, joy and honor. Rabbi Yehudah said, light is Torah, as it says: 'For the mitzvah is a lamp and the Torah is light' (Mishlei 6:23)."*
 
-**147.** Although the day of Nadav and Avihus' death was the first time fire is described as having *descended* from Heaven down to earth, Divine fire from Heaven actually does appear earlier in the Torah:
+**148.** Although the day of Nadav and Avihus' death was the first time fire is described as having *descended* from Heaven down to earth, Divine fire from Heaven actually does appear earlier in the Torah:
 <br/>
 <br/>
 
@@ -2377,9 +2377,9 @@ Light filling the room as Moshe was born indicates that he too was selected and 
 
 *"'And his offering' is written with an extra vav. Why? Because of the six things which were first brought into the world on that day: (1) The first time the Shechinah rested in Yisrael, as it says: 'Make for Me a sanctuary and I shall dwell among them' (Shmot 25:8); (2) The first time there were princes; (3) The first time Birkat Kohanim was recited, as it says: 'Aharon raised his hands towards the nation and blessed them' (Vayikra 9:22); (4) The first time the camp of the Shechinah was cordoned off; (5) The first time the prohibition of bamot was in force, as it says: 'Be careful lest you offer your offerings' (Devarim 12:13); (6) The first time first descended from Heaven, as it says: 'Fire went out from before Hashem and consumed the altar' (Vayikra 9:24)."*
 
-**148.** **Shmot 3:2-3.**
+**149.** **Shmot 3:2-3.**
 
-**149.** The midrash notes this point and expands on it, also arguing that the color and direction of Heavenly flames are different from those in this world:
+**150.** The midrash notes this point and expands on it, also arguing that the color and direction of Heavenly flames are different from those in this world:
 <br/>
 <br/>
 
@@ -2397,9 +2397,9 @@ Light filling the room as Moshe was born indicates that he too was selected and 
 
 The claim that Divine flames branch upward is consistent with Abba Yosi Ben Dostai's description in **Note 18** of the flames as two streams exiting the Kodesh Kodashim, splitting into four, and entering Nadav and Avihus' nostrils from underneath.
 
-**150.** The opinion that Nadav and Avihus' clothes remained unburned is not Abba Yosi Ben Dostai's opinion directly but rather inferred by the Talmud as the opinion of the Tanna Kamma based on his agreement with Abba Yosi Ben Dostai. Nevertheless, for simplicity's sake we will refer to this as Abba Yosi Ben Dostai's opinion.
+**151.** The opinion that Nadav and Avihus' clothes remained unburned is not Abba Yosi Ben Dostai's opinion directly but rather inferred by the Talmud as the opinion of the Tanna Kamma based on his agreement with Abba Yosi Ben Dostai. Nevertheless, for simplicity's sake we will refer to this as Abba Yosi Ben Dostai's opinion.
 
-**151.** See the summary of each opinion in the table below.
+**152.** See the summary of each opinion in the table below.
 
 ----------------- ----------------- ----------------- -----------------
 **Opinion**       **Clothes**        **Body**          **Soul**
@@ -2414,7 +2414,7 @@ Abba Yosi Ben Dostai
 
 Note: Clothes Not Consumed and Soul Burnt are not mentioned in the Talmud but inferred by applying kal vachomer to each respective opinion.
 
-**152.** **Vayikra 10:4-5.**
+**153.** **Vayikra 10:4-5.**
 <br/>
 <br/>
 
@@ -2424,7 +2424,7 @@ Note: Clothes Not Consumed and Soul Burnt are not mentioned in the Talmud but in
 
 *"Moshe called out to Mishael and Eltzafan, the sons of Uzziel who was the uncle of Aharon, and said to them: Come close and take your brethren from before the Kodesh HaKodashim outside of the camp. They came close and carried them by their cloaks outside of the camp as Moshe had spoken."*
 
-**153.** Tosafot, Sanhedrin 52a d"h hahee sereifah mamash havei. The passage in Niddah he quotes brings an example to confirm this is the halachah for a burnt corpse:
+**154.** Tosafot, Sanhedrin 52a d"h hahee sereifah mamash havei. The passage in Niddah he quotes brings an example to confirm this is the halachah for a burnt corpse:
 <br/>
 <br/>
 
@@ -2438,7 +2438,7 @@ Note: Clothes Not Consumed and Soul Burnt are not mentioned in the Talmud but in
 
 *"Rabbi Yitzchak from Gadla'ah said in the name of Rabbi Shabtai, a dead person who is burnt but his form i.e. skeleton is intact, is impure. Once it happened and the Rabbis ruled impure all large openings under the same roof but ruled pure all small openings."*
 
-**154.** **Bemidbar 9:6**
+**155.** **Bemidbar 9:6**
 <br/>
 <br/>
 
@@ -2464,9 +2464,9 @@ Of course, another way to resolve this would be to say that Abba Yosi Ben Dostai
 
 *"Who were they? Rabbi Yishmael said, they were the bearers of Yosef's coffin. Rabbi Akiva said, they were Mishael and Eltzafan, who had become impure due to Nadav and Avihu. Rabbi Yitzchak said, if they had been the bearers of Yosef's coffin they would have had enough time to become pure, and if they were Mishael and Eltzafan they would have had enough time to become pure. Rather who were they? People who had become impure because of a corpse on the road which must be buried."*
 
-**155.** **Sifra, Shemini Mechilta DeMilu'im 2.**
+**156.** **Sifra, Shemini Mechilta DeMilu'im 2.**
 
-**156.** Perhaps Rabbi Eliezer inserts an angel into the narrative as his tribute to the methodology used above about using the first flame from above as a case study for all future flames. The Torah informs us that "*an angel of Hashem appeared to Moshe in a blazing fire from within the bush"* (see **Note 22**), so Divine flames seem to be accompanied by angels at their centers:
+**157.** Perhaps Rabbi Eliezer inserts an angel into the narrative as his tribute to the methodology used above about using the first flame from above as a case study for all future flames. The Torah informs us that "*an angel of Hashem appeared to Moshe in a blazing fire from within the bush"* (see **Note 22**), so Divine flames seem to be accompanied by angels at their centers:
 <br/>
 <br/>
 
@@ -2480,7 +2480,7 @@ Of course, another way to resolve this would be to say that Abba Yosi Ben Dostai
 
 *"In the flame of a fire i.e. in the heart of a fire, similar to: 'Heart of the heavens" (Devarim 4:11)."*
 
-**157.** This perception of Rabbi Eliezer as inclined to the spiritual and supernatural explanation, as opposed to Rabbi Akiva who favors more realistic, earthly depictions, finds an echo in the well-known controversy surrounding the holiday of Sukkot and what it is meant to commemorate:
+**158.** This perception of Rabbi Eliezer as inclined to the spiritual and supernatural explanation, as opposed to Rabbi Akiva who favors more realistic, earthly depictions, finds an echo in the well-known controversy surrounding the holiday of Sukkot and what it is meant to commemorate:
 <br/>
 <br/>
 
@@ -2494,7 +2494,7 @@ Of course, another way to resolve this would be to say that Abba Yosi Ben Dostai
 
 *"'For I i.e. Hashem placed Bnai Yisrael in Sukkot' (Vayikra 23:43). Rabbi Eliezer says, these were clouds of glory. Rabbi Akiva says, these were actual booths."*
 
-**158.** It follows that the argument between Rabbis Eliezer and Akiva, and between Rabbi Elazar and Abba Yosi Ben Dostai, regarding the punishment inflicted upon Nadav and Avihu is at its core an argument about the nature of their sin, and that inherent in their debate is the principle that HaKadosh Baruch Hu metes out judgment measure for measure; the nature of their death is indicative of the nature of their crime.
+**159.** It follows that the argument between Rabbis Eliezer and Akiva, and between Rabbi Elazar and Abba Yosi Ben Dostai, regarding the punishment inflicted upon Nadav and Avihu is at its core an argument about the nature of their sin, and that inherent in their debate is the principle that HaKadosh Baruch Hu metes out judgment measure for measure; the nature of their death is indicative of the nature of their crime.
 <br/>
 <br/>
 
@@ -2512,7 +2512,7 @@ This principle is a core belief of Rabbinic theology, so much so that it has exi
 
 *"Rabbi Simon said in the name of Rabbi Shimon Ben Abba, all the rules regarding punishment were nullified except for the rule of 'measure for measure'. Rav Huna said in the name of Rabbi Yosi, from the beginning of creation HaKadosh Baruch Hu saw that by the measure which one uses to measure others, that is how he will be measured."*
 
-**159.** **Vayikra Rabbah 20:8**
+**160.** **Vayikra Rabbah 20:8**
 <br/>
 <br/>
 
@@ -2522,9 +2522,9 @@ This principle is a core belief of Rabbinic theology, so much so that it has exi
 
 *"Bar Kappara said in the name of Rabbi Yirmiyah Bar Elazar, the sons of Aharon died because of four things: coming close, offering, foreign fire, and that they did not seek one another's advice."*
 
-**160.** **Vayikra Rabbah 20:9.**
+**161.** **Vayikra Rabbah 20:9.**
 
-**161.** **Sanhedrin 52a**
+**162.** **Sanhedrin 52a**
 <br/>
 <br/>
 
@@ -2534,7 +2534,7 @@ This principle is a core belief of Rabbinic theology, so much so that it has exi
 
 *"Moshe and Aharon were walking on their way, and Nadav and Avihu were walking behind them, and all of Yisrael behind them. Nadav said to Avihu, when will these two old men die and you and I will lead the generation? HaKadosh Baruch Hu said to them, we'll see who buries whom. Rav Papa said, this is as people say: there are many old camels loaded with the skins of young camels."*
 
-**162.** We are told that Nadav and Avihu had no children by the Torah not, as one would perhaps expect, in the context of their deaths, but rather following the detailed counting of Bnai Yisrael in the desert:
+**163.** We are told that Nadav and Avihu had no children by the Torah not, as one would perhaps expect, in the context of their deaths, but rather following the detailed counting of Bnai Yisrael in the desert:
 <br/>
 <br/>
 
@@ -2633,9 +2633,9 @@ Another linguistic curiosity our midrash addresses is the Torah's need to tell u
 
 *"Nadav and Avihu died before Hashem in the desert of Sinai when they brought a foreign fire before Hashem, and they were killed was because they, in their arrogance, chose not to have any sons; Elazar and Itamar were made priests during the lifetime of their father Aharon."*
 
-**163.** **Pesikta Rabbati 47:1.**
+**164.** **Pesikta Rabbati 47:1.**
 
-**164.** **Bava Batra 16b**
+**165.** **Bava Batra 16b**
 <br/>
 <br/>
 
@@ -2706,7 +2706,7 @@ As an aside, this custom to serve lentils at a house of mourning is preserved as
 
 *"For lentils do not have a mouth, just like a mourner who has no mouth."*
 
-**165.** **Zevachim 115b**
+**166.** **Zevachim 115b**
 <br/>
 <br/>
 
@@ -2756,7 +2756,7 @@ Silence is not only praiseworthy for the mourner himself: family and friends who
 
 *"Rav Papa said, the reward for going to a mourner's house is on account of silence i.e. silence is the best form of comfort for a mourner."*
 
-**166.** While the midrash does not make this exact argument, it does see in Aharon's silence a sign of comfort:
+**167.** While the midrash does not make this exact argument, it does see in Aharon's silence a sign of comfort:
 <br/>
 <br/>
 
@@ -2782,7 +2782,7 @@ Silence is not only praiseworthy for the mourner himself: family and friends who
 
 *"Aharon was comforted in the sanctification of Hashem's name that their deaths enabled."*
 
-**167.** Alongside a myriad of other motivations, the midrash's unapologetic declaration that HaKadosh Baruch Hu kills children for the sins of their fathers - namely Nadav and Avihus' deaths for Aharon's participation in the sin of the Golden Calf - is an explanation into what is meant when the Torah records the following:
+**168.** Alongside a myriad of other motivations, the midrash's unapologetic declaration that HaKadosh Baruch Hu kills children for the sins of their fathers - namely Nadav and Avihus' deaths for Aharon's participation in the sin of the Golden Calf - is an explanation into what is meant when the Torah records the following:
 <br/>
 <br/>
 
@@ -2864,9 +2864,9 @@ It is not unlikely that polemical undertones underlie this discussion as well, a
 
 The full theological implications of this idea along with how the interplay between Jewish and Christian thought influences midrashic opinion are beyond the scope of this sefer.
 
-**168.** **Bemidbar 17:9-15.**
+**169.** **Bemidbar 17:9-15.**
 
-**169.** Moshe's seemingly magical, superhuman intuition is attributed by one tradition to the magical and superhuman. When Moshe ascended Har Sinai to receive the Torah, the Talmud records a debate between the angels and him over the merits of mankind as its recipients. After Moshe bested the angels each of them gave him a gift, including the Angel of Death:
+**170.** Moshe's seemingly magical, superhuman intuition is attributed by one tradition to the magical and superhuman. When Moshe ascended Har Sinai to receive the Torah, the Talmud records a debate between the angels and him over the merits of mankind as its recipients. After Moshe bested the angels each of them gave him a gift, including the Angel of Death:
 <br/>
 <br/>
 
@@ -2880,7 +2880,7 @@ The full theological implications of this idea along with how the interplay betw
 
 *"Immediately after Moshe bested the angels each one of them became an admirer of his and gave him something, as it says: 'You ascended to the heavens, you captured spoils, you took gifts on account of man' (Tehillim 68:19) - as a reward for your being called a man, you took gifts. Even the Angel of Death gave him something, as it says: 'Aharon placed the incense and atoned for the nation' (Bemidbar 17:12), and it says: 'He stood between the dead and the living' (Bemidbar 17:13) - if Moshe had not been told by the Angel of Death, how could he have known what to do?"*
 
-**170.** Another, related question is the nature of this plague that spread among the nation: what kind of plague was it? The description reminds us of the behavior of some virus or contagion, which raises the question of why incense should have been useful in stopping it:
+**171.** Another, related question is the nature of this plague that spread among the nation: what kind of plague was it? The description reminds us of the behavior of some virus or contagion, which raises the question of why incense should have been useful in stopping it:
 <br/>
 <br/>
 
@@ -2938,11 +2938,11 @@ A similar debate could be had regarding the laws of *tzara'at*, often mistransla
 
 *"It was taught, four are considered as dead: (1) A poor person, (2) A metzora, (3) A blind person, (4) Someone without children. A poor person, as it says: 'All the people died'. A metzora, as it says: 'Do not let her be as a dead person'. A blind person, as it says: 'In the darkness I have sat you like those who have died forever'. Someone without children, as it says: 'Give me children, and if not I am as one who is dead.'"*
 
-**171.** **Tanchuma Yelamdenu, Tzav 9.**
+**172.** **Tanchuma Yelamdenu, Tzav 9.**
 
-**172.** **Midrash Aggadah, Bemidbar 17:11.**
+**173.** **Midrash Aggadah, Bemidbar 17:11.**
 
-**173.** This is a common theme taken up by later prophets such as Shmuel and Yishayahu:
+**174.** This is a common theme taken up by later prophets such as Shmuel and Yishayahu:
 <br/>
 <br/>
 
@@ -2984,7 +2984,7 @@ A related tradition implicitly acknowledges the pagan undertones of the Torah's 
 
 *"Our Rabbis said, two things were holy and great but mankind thought they were harsh, and in order not to have them bear a bad name it was written about them great praise and blessing, and they are incense and the Aron. Incense: so that a person should not say incense is harsh because Nadav and Avihu died from it, and because the assembly of Korach were burned from it, and because Uzziyahu became a metzora from it - HaKadosh Baruch Hu wrote a great thing regarding incense, that through it Yisrael were saved, as it says: 'Aharon took the incense as Moshe had commanded and Aharon ran towards the assembly' ... to teach you that it is not incense and Aron that kill, but rather sin that kills."*
 
-**174.** A similar idea is expressed in the adage *I created the evil inclination; I created the Torah as an antidote to it*:
+**175.** A similar idea is expressed in the adage *I created the evil inclination; I created the Torah as an antidote to it*:
 <br/>
 <br/>
 
@@ -3000,11 +3000,11 @@ A related tradition implicitly acknowledges the pagan undertones of the Torah's 
 <br/>
 <br/>
 
-**175.** **See Vayikra Rabbah 20:10 quoted in **Note 36**.**
+**176.** **See Vayikra Rabbah 20:10 quoted in **Note 36**.**
 
-**176.** This foil in motivation actually parallels a foil in action: while Nadav and Avihu brought non-holy fire into a holy place, Aharon is being asked to bring a holy fire out to a non-holy place. While both acts are forbidden, the difference between them also creates a conceptual distance between the behavior of Aharon compared to his sons.
+**177.** This foil in motivation actually parallels a foil in action: while Nadav and Avihu brought non-holy fire into a holy place, Aharon is being asked to bring a holy fire out to a non-holy place. While both acts are forbidden, the difference between them also creates a conceptual distance between the behavior of Aharon compared to his sons.
 
-**177.** The theme of fire sent from Heaven to those who sin against G-d appears several times in the Torah:
+**178.** The theme of fire sent from Heaven to those who sin against G-d appears several times in the Torah:
 <br/>
 <br/>
 
@@ -3029,7 +3029,7 @@ Korach's 250 followers were not only also consumed by fire but are even describe
 
 *"And a fire went out from Hashem and consumed the 250 men, the bringers of incense."*
 
-**178.** The first example of a plague that goes out from before Hashem and kills Bnai Yisrael in response to their angering Him was in relation to the Golden Calf. There Aharon's name is mentioned in conjunction with the plague:
+**179.** The first example of a plague that goes out from before Hashem and kills Bnai Yisrael in response to their angering Him was in relation to the Golden Calf. There Aharon's name is mentioned in conjunction with the plague:
 <br/>
 <br/>
 
@@ -3071,7 +3071,7 @@ Korach's 250 followers were not only also consumed by fire but are even describe
 
 Aharon was the primary cause of Hashem's anger by the Golden Calf, which led to a plague that killed the people; it is fitting that Aharon is therefore the one to save the people from a similar plague.
 
-**179.** This thematic connection is summarized nicely by the midrash:
+**180.** This thematic connection is summarized nicely by the midrash:
 <br/>
 <br/>
 
@@ -3085,7 +3085,7 @@ Aharon was the primary cause of Hashem's anger by the Golden Calf, which led to 
 
 *"It is as Moshe said: 'And Hashem was angry enough with Aharon to destroy him' (Devarim 9:20). Aharon was destined to bury his four sons, but Moshe prayed on his behalf, as it says: 'So I prayed on Aharon's behalf at that time' (Ibid). Moshe stood between the living and the dead from among Aharon's sons; and Aharon stood between the dead and the living from among Bnai Yisrael."*
 
-**180.** **Rashi to Shmot 24:11 d"h ve'el atzilei bnai yisrael**
+**181.** **Rashi to Shmot 24:11 d"h ve'el atzilei bnai yisrael**
 <br/>
 <br/>
 
@@ -3155,9 +3155,9 @@ This point is emphasized by Rav Hirsch in the context of a later group of sevent
 
 This question of why Moshe and Aharon are assumed to be excluded from *atzilei bnai yisrael* will be revisited later in this **Part**.
 
-**181.** **Targum Yonatan to Shmot 24:9-11.**
+**182.** **Targum Yonatan to Shmot 24:9-11.**
 
-**182.** **Pirkei DeRabbi Eliezer 48**
+**183.** **Pirkei DeRabbi Eliezer 48**
 <br/>
 <br/>
 
@@ -3167,7 +3167,7 @@ This question of why Moshe and Aharon are assumed to be excluded from *atzilei b
 
 *"Rabbi Akiva says, the taskmasters of Pharaoh would strike Yisrael to make double the amount of bricks, as it says: 'And the amount of the bricks, which they made before you shall still extract from them' (Shmot 5:8). The Egyptians did not give straw to Yisrael, as it says: 'Straw was not given to your servants' (Shmot 5:16), and Yisrael would cut the straw in the desert and carry it on their donkeys and wives and sons and grandsons and daughters. The straw of the wilderness would pierce their heels and blood would flow and mingle with the mortar. Rachel, the granddaughter of Methuselah, was pregnant, and as she was treading the mortar with her husband she miscarried and the fetus got mixed in with the mortar. Her cry rose up before the Throne of Glory, and that very night Michael the angel descended and brought the brick with its mortar before the Throne of Glory, and that very night HaKadosh Baruch Hu descended and struck the firstborn of Egypt, as it says: 'And it came to pass at midnight that the Hashem struck all the firstborn' (Shmot 12:29)."*
 
-**183.** **Peirush Yonatan to Targum Yonatan Shmot 24:11 d"h teminaya le'ashlamuta**
+**184.** **Peirush Yonatan to Targum Yonatan Shmot 24:11 d"h teminaya le'ashlamuta**
 <br/>
 <br/>
 
@@ -3177,7 +3177,7 @@ This question of why Moshe and Aharon are assumed to be excluded from *atzilei b
 
 *"This means the eighth day of the consecration, as Targum Yonatan translates elsewhere as well."*
 
-**184.** This table summarizes the different perspectives on this question. Of course, the source listed for each one is merely a sample and not exhaustive:
+**185.** This table summarizes the different perspectives on this question. Of course, the source listed for each one is merely a sample and not exhaustive:
 
 ----------------- ----------------- ----------------- -----------------
 Source     Was it because   *Was it Nadav   If so, was the
@@ -3197,11 +3197,11 @@ Pesikta Rabbati         No                No                \- 47:1
 *\* This is not made explicit in Targum Yonatan but is clearly his
 intent, as will be seen shortly.*
 
-**185.** **Midrash Tanchuma Yelamdenu Beha'alotcha 16.**
+**186.** **Midrash Tanchuma Yelamdenu Beha'alotcha 16.**
 
-**186.** **Pesikta DeRav Kahana 26:9.**
+**187.** **Pesikta DeRav Kahana 26:9.**
 
-**187.** **Vayikra 9:22-24**
+**188.** **Vayikra 9:22-24**
 <br/>
 <br/>
 
@@ -3223,11 +3223,11 @@ intent, as will be seen shortly.*
 
 *"A fire went out from before Hashem and consumed the offering and fats from the altar; the entire nation saw and praised Him, and fell on their faces."*
 
-**188.** It is possible to argue that even according to the opinion that the food and drink was consumed in a joyous way the nobles did know their fate: perhaps their celebratory behavior was in gratitude to G-d sparing their lives in that moment and allowing them more time, even while - at the same time - acknowledging it was a suspension, not an abrogation, of punishment.
+**189.** It is possible to argue that even according to the opinion that the food and drink was consumed in a joyous way the nobles did know their fate: perhaps their celebratory behavior was in gratitude to G-d sparing their lives in that moment and allowing them more time, even while - at the same time - acknowledging it was a suspension, not an abrogation, of punishment.
 
-**189.** **Bemidbar Rabbah 2:23.**
+**190.** **Bemidbar Rabbah 2:23.**
 
-**190.** **Shmot Rabbah 32:2-3**
+**191.** **Shmot Rabbah 32:2-3**
 <br/>
 <br/>
 
@@ -3237,10 +3237,10 @@ intent, as will be seen shortly.*
 
 *"Another idea: 'Behold I am sending My angel before you (Shmot 23:20). HaKadosh Baruch Hu said to Yisrael, if you are worthy I Myself shall be your messenger the way I led you in the desert, as it says: 'Hashem went before them during the day' (Shmot 13:21). Now that you are not worthy, I am giving you over to a messenger, as it says: ''Behold I am sending My angel before you.' When were Bnai Yisrael given over to a messenger? When they worshiped idols."*
 
-**191.** Perhaps Nadav and Avihu brought fire because they were responding to the fire which descended onto the altar (Vayikra 9:24) and consumed the offerings. They reasoned: since we saw Him, ten months have elapsed and we have not felt His presence. He has finally revealed Himself; we shall seize the opportunity and not let Him slip away again.
+**192.** Perhaps Nadav and Avihu brought fire because they were responding to the fire which descended onto the altar (Vayikra 9:24) and consumed the offerings. They reasoned: since we saw Him, ten months have elapsed and we have not felt His presence. He has finally revealed Himself; we shall seize the opportunity and not let Him slip away again.
 And He has returned to us with a fire from above; we shall return to Him with a fire from below.
 
-**192.** **Maharsha, Zevachim 115b d"h amar hakadosh baruch hu**
+**193.** **Maharsha, Zevachim 115b d"h amar hakadosh baruch hu**
 <br/>
 <br/>
 
@@ -3254,7 +3254,7 @@ And He has returned to us with a fire from above; we shall return to Him with a 
 
 This concept of strict justice for His righteous ones will be discussed further below.
 
-**193.** **Bemidbar 10:33-34**
+**194.** **Bemidbar 10:33-34**
 <br/>
 <br/>
 
@@ -3264,7 +3264,7 @@ This concept of strict justice for His righteous ones will be discussed further 
 
 *"Bnai Yisrael journeyed from the mountain of Hashem for three days, and the Aron of Hashem's covenant journeyed before them a distance of three days, to search out a resting place for them. The cloud of Hashem was above them during the day when they journeyed from the camp."*
 
-**194.** Similar to Nadav and Avihu, the elders are similarly beloved by Hashem and due of this are deserving of honor even in the time to come:
+**195.** Similar to Nadav and Avihu, the elders are similarly beloved by Hashem and due of this are deserving of honor even in the time to come:
 <br/>
 <br/>
 
@@ -3278,7 +3278,7 @@ This concept of strict justice for His righteous ones will be discussed further 
 
 *"Rabbi Akiva said, why are Bnai Yisrael compared to a bird? Just as a bird cannot fly without wings, so too yisrael cannot survive without its elders. Great is old age: if people are old they are beloved before HaKadosh Baruch Hu, but if they are young they are made insignificant by youth. Rabbi Shimon Bar Yochai taught, in several places we find that HaKadosh Baruch Hu gave honor to the elders: by the bush, as it says: 'Go gather the elders of Yisrael' (Shmot 3:16); by Sinai, as it says: 'He said to Moshe ascend to Hashem \... and the seventy elders of Yisrael' (Shmot 24:1); by the Ohel Moed, as it says: 'Moshe called to Aharon, his sons and the elders' (Vayikra 9:1). And in the time to come it will also be so, as it says: 'Because Hashem Tzeva'ot will be crowned in Har Tzion and Yerushalayim, and for the elders there will be honor' (Yishayahu 24:23)."*
 
-**195.** **Pesikta Rabbati 47:2**
+**196.** **Pesikta Rabbati 47:2**
 <br/>
 <br/>
 
@@ -3288,7 +3288,7 @@ This concept of strict justice for His righteous ones will be discussed further 
 
 *"'They saw you in holiness', as it says: 'He did not send His hand against the nobles of Bnai Yisrael. They saw G-d, and ate and drank' (Shmot 24:11). What is: 'To see Your strength and honor'? Aharon said, Yisrael, who are regular, saw You at the Sea and at Sinai, and were not struck down; I, who has permission before You in the Mishkan and the entrance of the Ohel Moed about which it says 'You shall not leave' (Vayikra 8:33); 'Warn Yisrael that the stranger who comes close will die' (Bemidbar 1:31) - my sons went in: 'To see Your strength and honor.'"*
 
-**196.** This exegetical technique predates Rabbinic aggadah historically: angels abound in apocryphal, non-canon works written during the period of the second Beit HaMikdash, oftentimes with a similar goal in mind. In fact, a striking example can be found with the Tanach itself when comparing two versions of the same story:
+**197.** This exegetical technique predates Rabbinic aggadah historically: angels abound in apocryphal, non-canon works written during the period of the second Beit HaMikdash, oftentimes with a similar goal in mind. In fact, a striking example can be found with the Tanach itself when comparing two versions of the same story:
 <br/>
 <br/>
 
@@ -3346,9 +3346,9 @@ Divrei HaYamim replaces G-d with Satan as the being who brings death to the land
 
 For another example of an angelic being being inserted into a narrative that has G-d Himself carrying out a death sentence, see **Part II**'s discussion regarding who came to threaten Moshe's family on his way down to Egypt.
 
-**197.** **Sanhedrin 38b.**
+**198.** **Sanhedrin 38b.**
 
-**198.** Metatron himself was punished with sixty fiery lashes by the Heavenly tribunal for misleading Elisha Ben Avuyah - the famous heretic Acher - into discarding his monotheism and believing in the authority of a second god:
+**199.** Metatron himself was punished with sixty fiery lashes by the Heavenly tribunal for misleading Elisha Ben Avuyah - the famous heretic Acher - into discarding his monotheism and believing in the authority of a second god:
 <br/>
 <br/>
 
@@ -3362,7 +3362,7 @@ For another example of an angelic being being inserted into a narrative that has
 
 *"'Acher cut down the saplings' in reference to his rejecting Judaism after entering the orchard. Regarding him the pasuk says: 'Do not let your mouth lead your flesh astray' (Kohelet 5:5). How so? He saw Metatron, who was given permission to sit and write the merits of Yisrael, and said: there is a tradition that above there is no sitting, no competition, no turning one's back, and no lethargy yet here Metatron remains sitting. Perhaps, Heaven forbid, there are two powers. Because of this they removed Metatron and whipped him with sixty fiery lashes, and said to him, why did you not stand before him? After this Metatron was given permission to erase the merits of Acher, and a Bat Kol went out and said: 'Return wayward sons' (Yirmiyahu 3:22) - everyone except for Acher."*
 
-**199.** It is appropriate to note here that there is a trend in various midrashim which, when confronted with an uncomfortable anthropomorphism of HaKadosh Baruch Hu, rather than sidestepping or explaining away the said description, instead embrace it unapologetically. One prominent advocate of this approach is the Amora Rabbi Abahu, who is quoted in both the Talmud Bavli and Yerushalmi along with other midrashic works as ascribing human features - specifically the body of an old man - to the Creator. He goes so far as to grant the wicked king Sanheriv the privilege of an audience with an anthropomorphized G-d:
+**200.** It is appropriate to note here that there is a trend in various midrashim which, when confronted with an uncomfortable anthropomorphism of HaKadosh Baruch Hu, rather than sidestepping or explaining away the said description, instead embrace it unapologetically. One prominent advocate of this approach is the Amora Rabbi Abahu, who is quoted in both the Talmud Bavli and Yerushalmi along with other midrashic works as ascribing human features - specifically the body of an old man - to the Creator. He goes so far as to grant the wicked king Sanheriv the privilege of an audience with an anthropomorphized G-d:
 <br/>
 <br/>
 
@@ -3416,9 +3416,9 @@ This approach could be utilized to provide an alternative explanation for who ca
 
 To mitigate somewhat the theologically disturbing implications of Rabbi Abahu's teachings, it is possible to interpret his statements as metaphorical, or as describing visions instead of reality. Sanheriv did not actually speak with G-d as an old man, Shimon HaTzaddik was not actually accompanied by G-d as an old man dressed in white on Yom Kippur; these were either parables or dreams, but not meant to be taken literally. This approach can then be extended to the proposed interpretation of Shmot 24:1 as well: G-d appeared as an old man to Moshe, not in reality, but in a prophetic revelation, an anthropomorphism of the Divine but one that remains confined to the non-physical world.
 
-**200.** **Tur HaAroch Shmot 24:1 d"h ve'el moshe amar.**
+**201.** **Tur HaAroch Shmot 24:1 d"h ve'el moshe amar.**
 
-**201.** While we don't know how old Elazar and Itamar were, and although they were the two youngest brothers, it cannot be that they too young to ascend Har Sinai with their older siblings, for we find that Moshe commanded them after Nadav and Avihus' deaths - a mere ten months later - to abstain from certain mourning rituals, thereby indicating a certain maturity:
+**202.** While we don't know how old Elazar and Itamar were, and although they were the two youngest brothers, it cannot be that they too young to ascend Har Sinai with their older siblings, for we find that Moshe commanded them after Nadav and Avihus' deaths - a mere ten months later - to abstain from certain mourning rituals, thereby indicating a certain maturity:
 <br/>
 <br/>
 
@@ -3432,11 +3432,11 @@ To mitigate somewhat the theologically disturbing implications of Rabbi Abahu's 
 
 *"Moshe said to Aharon and to Elazar and Itamar his sons, you shall not uncover your heads or rent your garments so that you shall not die and have anger strike the entire assembly. Your brothers Beit Yisrael will cry for the burning that Hashem has burned. Additionally, from the entrance of the Ohel Moed you shall not leave lest you die, for the anointing oil of Hashem is upon you. Aharon, Elazar and Itamar did as Moshe commanded."*
 
-**202.** The premise that Hashem knowingly commanded Nadav and Avihu to come up, even though it would lead to their deaths, while sparing their brothers for the sake of the Kehunah seems arbitrary and callous, and it raises many other questions, such as: If He wanted to spare the Kehunah, could He not have called them up but simply remained hidden and not revealed Himself to *atzilei bnai yisrael*? Why was that revelation even necessary, given the ripple effect of death and mourning it caused? The full implications of these comments made by the Tur are beyond the scope of this Sefer.
+**203.** The premise that Hashem knowingly commanded Nadav and Avihu to come up, even though it would lead to their deaths, while sparing their brothers for the sake of the Kehunah seems arbitrary and callous, and it raises many other questions, such as: If He wanted to spare the Kehunah, could He not have called them up but simply remained hidden and not revealed Himself to *atzilei bnai yisrael*? Why was that revelation even necessary, given the ripple effect of death and mourning it caused? The full implications of these comments made by the Tur are beyond the scope of this Sefer.
 
-**203.** **Breishit 5:23-24.**
+**204.** **Breishit 5:23-24.**
 
-**204.** Targum Yonatan Breishit 5:23-24. Metatron's career as a teacher is attested to by the Talmud:
+**205.** Targum Yonatan Breishit 5:23-24. Metatron's career as a teacher is attested to by the Talmud:
 <br/>
 <br/>
 
@@ -3466,9 +3466,9 @@ Hanoch is one of two people in Tanach mentioned as having gone up to Heaven aliv
 
 *"'My witness is in Heaven, and My attestor is on high' (Iyov 16:19) - My witness (84) has the same numerical calculation as Hanoch (84), and My attestor (325) has the same numerical calculation as this is Metatron (326) but the principle of Im HaKollel allows you to be off by one and it still to be considered equivalent. HaKadosh Baruch Hu took one from before the generation of the flood and one from after the generation of the flood, meaning Hanoch and Pinchas i.e. Eliyahu, and He elevated them to Heaven to bear witness for Him. He chose Hanoch for he was the seventh generation from Adam HaRishon, and HaKadosh Baruch Hu desires the sevenths, similar to how Moshe was the seventh generation from Avraham, and regarding him it says: 'Moshe ascended to G-d' (Shmot 19:3)."*
 
-**205.** Hanoch is the subject of much apocryphal speculation, in particular the books Enoch I, II, III, but as these works are not considered canon and were not included in the Tanach they fall outside the scope of midrashic analysis.
+**206.** Hanoch is the subject of much apocryphal speculation, in particular the books Enoch I, II, III, but as these works are not considered canon and were not included in the Tanach they fall outside the scope of midrashic analysis.
 
-**206.** Acher cutting the saplings as a result of Metatron is part of a larger narrative around mystical experience, the famous story of four Rabbis who entered paradise:
+**207.** Acher cutting the saplings as a result of Metatron is part of a larger narrative around mystical experience, the famous story of four Rabbis who entered paradise:
 <br/>
 <br/>
 
@@ -3498,20 +3498,20 @@ There is another set of parallels that run through these stories of mystical uni
 
 Metatron is shown to be nothing more than a servant of the one true G-d and lashed with fire for his failure. Perhaps his being struck with fire is punishment not just for leading Elisha astray, but also for failing the initiates of Shmot 24; just as Nadav, Avihu and the seventy elders are struck down with fire as punishment, so too Metatron has punishment meted out through the medium of fire. What he was able to avoid in life as the flawed human being Hanoch, he succumbs to as an archangel, failing his mission to help the leaders reach the level he was granted millenia earlier.
 
-**207.** **Yevamot 49a-b.**
+**208.** **Yevamot 49a-b.**
 
-**208.** **Maharsha Yevamot 49b d"h moshe rabcha amar.**
+**209.** **Maharsha Yevamot 49b d"h moshe rabcha amar.**
 
-**209.** This table summarizes the different levels of prophecy according
+**210.** This table summarizes the different levels of prophecy according
 to Maharsha, both from the aspect of the Divine (back vs face) and from the aspect of the prophet (obscure vs clear):
 
 -------------------------- ----------------------- ---------------------
 **-**                 **His Back**           **His Face**
 
-**Obscure Looking Glass    ***127.** "They saw the  ***128.** "I saw Hashem
+**Obscure Looking Glass    ***128.** "They saw the  ***129.** "I saw Hashem
 (not Moshe)**        G-d of Yisrael" (Shmot  sitting on a throne" 24:1)*            (Yishayahu 6:1)*
 
-**Transparent Looking     ***129.** "I shall pass   ***130.** "Man cannot
+**Transparent Looking     ***130.** "I shall pass   ***131.** "Man cannot
 Glass (Moshe)**       all My goodness before  see My face and live" you" (Shmot 33:19)*      (Shmot 33:20)*
 -------------------------- ----------------------- ---------------------
 <br/>
@@ -3525,13 +3525,13 @@ Case 4 is indisputably the highest level of prophecy, and the level at which man
 - Case 4 > Case 2 < Case 3 > Case 1
 - Case 4 > Case 2 = Case 3 > Case 1
 
-**210.** **Chiddushei Geonim Ein Yaakov Yevamot 49b d"h matzati megillat yuchsin.**
+**211.** **Chiddushei Geonim Ein Yaakov Yevamot 49b d"h matzati megillat yuchsin.**
 
-**211.** **Shmot 16:1-2, 5-7.**
+**212.** **Shmot 16:1-2, 5-7.**
 
-**212.** **Bemidbar 20:1-3, 7-13.**
+**213.** **Bemidbar 20:1-3, 7-13.**
 
-**213.** **Midrash Aggadah Bemidbar 20:12**
+**214.** **Midrash Aggadah Bemidbar 20:12**
 <br/>
 <br/>
 
@@ -3541,7 +3541,7 @@ Case 4 is indisputably the highest level of prophecy, and the level at which man
 
 *"I said to you that you should speak to the rock in My name and she would give her water. If you had done this, I would have been sanctified before the eyes of Bnai Yisrael and they would have feared Me, for they would have said: if this rock does His will, how much more so must we. But since you did not do this, therefore you shall not bring the assembly into Eretz Yisrael."*
 
-**214.** **Shabbat 55b**
+**215.** **Shabbat 55b**
 <br/>
 <br/>
 
@@ -3551,7 +3551,7 @@ Case 4 is indisputably the highest level of prophecy, and the level at which man
 
 *"It was taught, Rabbi Shimon Ben Elazar says, Moshe and Aharon died due to their sin, as it says: 'Because you did not believe in Me' - had you believed in Me, it still would not have been time for you to leave this world."*
 
-**215.** Just as the sin of Nadav and Avihu is not clear from the text - and a whole host of possible reasons why they were deserving of death are offered in the aggadic literature - so too the sin of Moshe and Aharon at Mei Merivah gets special attention in the midrashim. One aggadic position asserts that Moshe's fate to die before entering Eretz Canaan was determined even before he was chosen to redeem Bnai Yisrael, when he was an Egyptian fugitive on the run from Pharaoh's sword:
+**216.** Just as the sin of Nadav and Avihu is not clear from the text - and a whole host of possible reasons why they were deserving of death are offered in the aggadic literature - so too the sin of Moshe and Aharon at Mei Merivah gets special attention in the midrashim. One aggadic position asserts that Moshe's fate to die before entering Eretz Canaan was determined even before he was chosen to redeem Bnai Yisrael, when he was an Egyptian fugitive on the run from Pharaoh's sword:
 <br/>
 <br/>
 
@@ -3585,11 +3585,11 @@ Another tradition lists six sins that Moshe committed, and has Hashem using them
 
 *"HaKadosh Baruch Hu said to Moshe, there are six sins found with you: paraphrased you did not want to be the redeemer of Bnai Yisrael, you questioned My ability to redeem them, you forced My hand to perform a miracle during the rebellion of Korach, Mei Merivah, and attacking Bnai Yisrael's pure motives for wanting to stay on the east side of the Yarden and assuming negative ones instead."*
 
-**216.** See **Introduction to Part 2** and **Note 54** there.
+**217.** See **Introduction to Part 2** and **Note 54** there.
 
-**217.** There certainly seems to be the proper motivation and support for supposing that Moshe and Aharon were included in the appellation *atzilei bnai yisrael*, not the least of which is that at no point during the Torah's description of the revelation is there any reference to division or separation between members of the group listed out by name in Shmot 24:1; to infer that in reality there were two groups goes against, if nothing else, the simplest understanding of the *peshat*. Why Tanchuma Yelamdenu goes through great lengths in its analysis but stops short of extending its assumptions to Moshe and Aharon remains baffling to me, though we will attempt to explain the problems with this methodological extension that may lie behind Rabbi Tanchuma's hesitation below.
+**218.** There certainly seems to be the proper motivation and support for supposing that Moshe and Aharon were included in the appellation *atzilei bnai yisrael*, not the least of which is that at no point during the Torah's description of the revelation is there any reference to division or separation between members of the group listed out by name in Shmot 24:1; to infer that in reality there were two groups goes against, if nothing else, the simplest understanding of the *peshat*. Why Tanchuma Yelamdenu goes through great lengths in its analysis but stops short of extending its assumptions to Moshe and Aharon remains baffling to me, though we will attempt to explain the problems with this methodological extension that may lie behind Rabbi Tanchuma's hesitation below.
 
-**218.** **Shmot 40:17**
+**219.** **Shmot 40:17**
 <br/>
 <br/>
 
@@ -3611,11 +3611,11 @@ Another tradition lists six sins that Moshe committed, and has Hashem using them
 
 *"'Hashem spoke to Moshe saying, on the first day of the first month you shall set up the Mishkan, the Ohel Moed, and you shall place there, etc. and you shall bring the table, etc.' (Shmot 40:2-3). The seven days of consecration began on the 23rd of Adar and they were completed on the first of Nisan."*
 
-**219.** **Bemidbar 11:26-29.**
+**220.** **Bemidbar 11:26-29.**
 
-**220.** **Sanhedrin 17a.**
+**221.** **Sanhedrin 17a.**
 
-**221.** The Torah relates that Mei Merivah occurred in the first month of Nisan, and the midrash informs us that it was the fortieth year on the first of the month:
+**222.** The Torah relates that Mei Merivah occurred in the first month of Nisan, and the midrash informs us that it was the fortieth year on the first of the month:
 <br/>
 <br/>
 
@@ -3725,7 +3725,7 @@ Alternatively, perhaps Targum Yerushalmi is not reflecting backward in time fort
 
 Mei Merivah condemned Moshe and Aharon to die in the wilderness and not lead the people into Eretz Canaan; exactly one year later to the day the nation entered the land without Moshe and Aharon. How ironic that the date Moshe and Aharon were officially sentenced to death was the very same date, 39 years prior, that they had first learned of their fate. And how ironic that the people entered into the Promised Land under the command of Yehoshua on that same date exactly one year later.
 
-**222.** There is a notable instance where Moshe is described by the Torah as getting angry during that interim period between Bemidbar 11 and Bemidbar 20:
+**223.** There is a notable instance where Moshe is described by the Torah as getting angry during that interim period between Bemidbar 11 and Bemidbar 20:
 <br/>
 <br/>
 
@@ -3739,9 +3739,9 @@ Mei Merivah condemned Moshe and Aharon to die in the wilderness and not lead the
 
 *"Moshe was very angry and he said to Hashem, do not pay any attention to their offering. I have not taken a single donkey from them, nor wronged them in any way."*
 
-**223.** Moshe does protest the decision, as is made clear by his own admission in Devarim 3:23-26 and elaborated upon by many of the midrashim, in particular Devarim Rabbah 11 and Midrash Petirat Moshe.
+**224.** Moshe does protest the decision, as is made clear by his own admission in Devarim 3:23-26 and elaborated upon by many of the midrashim, in particular Devarim Rabbah 11 and Midrash Petirat Moshe.
 
-**224.** Unlike the rest of *atzilei bnai yisrael*, Moshe and Aharon did not immediately die at Mei Merivah. Nevertheless, their sentencing was a fulfillment of *bikerovai ekadesh*, similar to that of Nadav and Avihu:
+**225.** Unlike the rest of *atzilei bnai yisrael*, Moshe and Aharon did not immediately die at Mei Merivah. Nevertheless, their sentencing was a fulfillment of *bikerovai ekadesh*, similar to that of Nadav and Avihu:
 <br/>
 <br/>
 
@@ -3767,7 +3767,7 @@ Mei Merivah condemned Moshe and Aharon to die in the wilderness and not lead the
 
 *"He was sanctified through Bnai Yisrael because Moshe and Aharon died on their account, for when HaKadosh Baruch Hu does strict justice with His holy ones He becomes feared and sanctified by His creations, as it says: 'G-d is fearsome from His holy ones' (Tehillim 68:36), and it says: 'I will be sanctified through My close ones' (Vayikra 10:3)."*
 
-**225.** **Shmot Rabbah 9:10**
+**226.** **Shmot Rabbah 9:10**
 <br/>
 <br/>
 
@@ -3777,7 +3777,7 @@ Mei Merivah condemned Moshe and Aharon to die in the wilderness and not lead the
 
 *"'Hashem said to Moshe, say to Aharon' (Shmot 7:19). Rabbi Tanchum said, why were the waters not struck by Moshe? HaKadosh Baruch Hu said to him, the waters which protected you when you were thrown into the Nile - it is not proper for them to be afflicted by you. By your life they will be afflicted only through Aharon."*
 
-**226.** The midrash emphasizes this point by noting that just as Moshe was redeemed through water, he had also been destined to be punished by water since the days of Avraham Avinu:
+**227.** The midrash emphasizes this point by noting that just as Moshe was redeemed through water, he had also been destined to be punished by water since the days of Avraham Avinu:
 
 **Bemidbar Rabbah 19:14**
 <br/>
@@ -3817,9 +3817,9 @@ Even the idolatrous astrologers advising Pharaoh on how to defeat Bnai Yisrael k
 
 *"'Throw them into the Nile' (Shmot 1:22). Why did Pharaoh decree to throw them into the Nile? Because the astrologers saw that Yisrael's savior would be punished through water, and they assumed that meant he would drown in water; yet it actually meant that he was sentenced to death on account of the well of water, as it says: 'Because you did not believe in Me' (Bemidbar 20:12)."*
 
-**227.** The idea that Moshe striking the rock twice led to his death as a result of it being a consequence of his viewing the Divine throne 40 years prior also fits nicely with the warning Rabbi Akiva gives his colleagues not to call out for 'water, water' during their ascent to the Heavenly throne in **Note 80**. Perhaps the emphasis on water being repeated hearkens back to Moshe's downfall at Har Sinai drinking inappropriately during a similar mystical journey, and then being punished for it through "double water".
+**228.** The idea that Moshe striking the rock twice led to his death as a result of it being a consequence of his viewing the Divine throne 40 years prior also fits nicely with the warning Rabbi Akiva gives his colleagues not to call out for 'water, water' during their ascent to the Heavenly throne in **Note 80**. Perhaps the emphasis on water being repeated hearkens back to Moshe's downfall at Har Sinai drinking inappropriately during a similar mystical journey, and then being punished for it through "double water".
 
-**228.** As a matter of fact, no one in the group was more beloved than Moshe - and by extension, Aharon - and his death is described as a source of pain before HaKadosh Baruch Hu:
+**229.** As a matter of fact, no one in the group was more beloved than Moshe - and by extension, Aharon - and his death is described as a source of pain before HaKadosh Baruch Hu:
 <br/>
 <br/>
 
@@ -3845,7 +3845,7 @@ Even the idolatrous astrologers advising Pharaoh on how to defeat Bnai Yisrael k
 
 *"It was difficult before HaKadosh Baruch Hu, the fact that He punished Moshe with death. He said, when Moshe was alive, even when Bnai Yisrael make Me angry and I seek to destroy them, Moshe stands and lays out before Me and begs for mercy on their behalf, as it says: 'Please forgive this nation's sin', and it says: 'Hashem said I have forgiven as your have said', and it says: 'He sought to destroy them were it not for Moshe His chosen one'. Now that Moshe has died, who will stand and beg for mercy on their behalf?"*
 
-**229.** One difficulty with this entire approach is precisely this point: Moshe asks HaKadosh Baruch Hu to show him His glory after Matan Torah had already occurred. If Moshe had been part of *atzilei bnai yisrael*, why did he need to ask G-d for this - hadn't Moshe already seen His glory? There are several ways to respond to this objection, for example that by "glory" Moshe was not requesting to see G-d but rather to understand His ways on some level. Yet perhaps this was one of the reasons the midrash chose not to include Moshe and Aharon in the category of *atzilei bnai yisrael*.
+**230.** One difficulty with this entire approach is precisely this point: Moshe asks HaKadosh Baruch Hu to show him His glory after Matan Torah had already occurred. If Moshe had been part of *atzilei bnai yisrael*, why did he need to ask G-d for this - hadn't Moshe already seen His glory? There are several ways to respond to this objection, for example that by "glory" Moshe was not requesting to see G-d but rather to understand His ways on some level. Yet perhaps this was one of the reasons the midrash chose not to include Moshe and Aharon in the category of *atzilei bnai yisrael*.
 <br/>
 <br/>
 
@@ -3855,7 +3855,7 @@ Another reason why the aggadah chose to avoid implicating Moshe may include the 
 
 Another potential issue with this approach will be dealt with in the next section.
 
-**230.** **Pesikta DeRav Kahana 25:1.** A similar version of this midrash is recounted in the Talmud:
+**231.** **Pesikta DeRav Kahana 25:1.** A similar version of this midrash is recounted in the Talmud:
 <br/>
 <br/>
 
@@ -3881,7 +3881,7 @@ Another potential issue with this approach will be dealt with in the next sectio
 
 *"In Eruvin 22a it sounds like the wicked should get removed from Olam HaBa, yet in Sanhedrin 111a it sounds like it's for the righteous. And we can say and differentiate such that when they have no intention of repenting it is for bad, but if they will do teshuva in the end it is for the good."*
 
-**231.** This discussion echoes a midrash which, while discussing the creation of the world, gives us a glimpse into the internal dialogue of HaKadosh Baruch Hu:
+**232.** This discussion echoes a midrash which, while discussing the creation of the world, gives us a glimpse into the internal dialogue of HaKadosh Baruch Hu:
 <br/>
 <br/>
 
@@ -3915,11 +3915,11 @@ This argument between Moshe and G-d echoes the debate between G-d and the prophe
 
 There is much more to say about this concept of the need to balance peace and truth. The essential point is that the Rabbis recognize the tension, but also the necessity, of having both attributes being baked into the creation and into the ongoing governance of mankind's behavior.
 
-**232.** **Yevamot 121b; Bava Kamma 50b.**
+**233.** **Yevamot 121b; Bava Kamma 50b.**
 
-**233.** **Otzar HaMidrashim, Derashot Al Moshe Rabbeinu, Deresh LePetirat Moshe Rabbeinu.**
+**234.** **Otzar HaMidrashim, Derashot Al Moshe Rabbeinu, Deresh LePetirat Moshe Rabbeinu.**
 
-**234.** **Sotah 13b**
+**235.** **Sotah 13b**
 <br/>
 <br/>
 
@@ -3941,7 +3941,7 @@ There is much more to say about this concept of the need to balance peace and tr
 
 *"Moshe announced to those arguing with him: 'You have taken too much upon yourselves, children of Levi'. HaKadosh Baruch Hu is extremely strict with His tzaddikim like a hair's breadth, and so He punished accordingly."*
 
-**235.** Avodah Zarah 17b-18a. A variant of this midrash concludes with a conversation between the Romans and a philosopher missing from the Talmud's version:
+**236.** Avodah Zarah 17b-18a. A variant of this midrash concludes with a conversation between the Romans and a philosopher missing from the Talmud's version:
 <br/>
 <br/>
 
@@ -3955,9 +3955,9 @@ There is much more to say about this concept of the need to balance peace and tr
 
 *"A philosopher stood up against the consul who had issued the decree against Rabbi Haninah and his family and said to him, do not let it get to your head that you burned the Torah, for from the time you left she returned to her Father's house. The consul said to him, tomorrow your fate will be like theirs i.e. you will die. He said to him, you have given me great news: tomorrow my portion will be with those in Olam Haba."*
 
-**236.** **Rashi Avodah Zarah 18a d"h lehitalmed avad.**
+**237.** **Rashi Avodah Zarah 18a d"h lehitalmed avad.**
 
-**237.** This is attested to even in the early days of Moshe's life. The first action he actively takes which the Torah tells us about in the killing of an Egyptian taskmaster:
+**238.** This is attested to even in the early days of Moshe's life. The first action he actively takes which the Torah tells us about in the killing of an Egyptian taskmaster:
 <br/>
 <br/>
 
@@ -3975,7 +3975,7 @@ There is much more to say about this concept of the need to balance peace and tr
 
 The midrash, perhaps motivated by a wariness of ascribing such an act to the greatest prophet who ever lived, distances Moshe from the visceral nature of the deed by ascribing to him knowledge of the Holy Name instead.
 
-**238.** **Tanchuma Yelamdenu Shmot 8:4**
+**239.** **Tanchuma Yelamdenu Shmot 8:4**
 <br/>
 <br/>
 
@@ -3985,9 +3985,9 @@ The midrash, perhaps motivated by a wariness of ascribing such an act to the gre
 
 *"How do you learn that Moshe was in Pharaoh's palace for less than twenty years? When the two Hebrews were fighting each other, one of them said to Moshe: 'Who made you a man', meaning you are still not a man. This teaches that Moshe was less than twenty years old at the time."*
 
-**239.** **Devarim Rabbah 11:5.**
+**240.** **Devarim Rabbah 11:5.**
 
-**240.** **Vayikra 24:10-12**
+**241.** **Vayikra 24:10-12**
 <br/>
 <br/>
 
@@ -4021,7 +4021,7 @@ Ironically, Moshe - the very person who killed the blasphemer's Egyptian father 
 
 וַיְדַבֵּ֣ר מֹשֶׁה֮ אֶל בְּנֵ֣י יִשְׂרָאֵל֒ וַיּוֹצִ֣יאוּ אֶת הַֽמְקַלֵּ֗ל אֶל מִחוּץ֙ לַֽמַּחֲנֶ֔ה וַיִּרְגְּמ֥וּ אֹת֖וֹ אָ֑בֶן וּבְנֵֽי יִשְׂרָאֵ֣ל עָשׂ֔וּ כַּֽאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת מֹשֶֽׁה׃
 
-**241.** The midrash notes the significance of Moshe's painful struggle and eventual acceptance, not just for Moshe himself on a personal level, but also as an precedent for all people:
+**242.** The midrash notes the significance of Moshe's painful struggle and eventual acceptance, not just for Moshe himself on a personal level, but also as an precedent for all people:
 <br/>
 <br/>
 
@@ -4035,7 +4035,7 @@ Ironically, Moshe - the very person who killed the blasphemer's Egyptian father 
 
 *"You also find by the master of all prophets Moshe Rabbeinu, may peace be upon him, who said at the end of his praise: 'The Rock, His ways are perfect' (Devarim 32:4). That all the residents of the world should not say, since Moshe was judged with the attribute of judgment and not allowed to Eretz Yisrael, that chas v'shalom He does not judge fairly. Rather: 'The Rock, His ways are perfect.'"*
 
-**242.** This pasuk is also found echoed in the teachings of another Rabbi Haninah, presumably Bar Hama:
+**243.** This pasuk is also found echoed in the teachings of another Rabbi Haninah, presumably Bar Hama:
 <br/>
 <br/>
 
@@ -4065,9 +4065,9 @@ It follows that Rabbi Haninah was a big advocate for belief in HaKadosh Baruch H
 
 *"Rabbi Haninah said, learn from this that the seal of HaKadosh Baruch Hu is 'truth'."*
 
-**243.** **Yalkut Shimoni on Torah Remez 764.**
+**244.** **Yalkut Shimoni on Torah Remez 764.**
 
-**244.** **Malbim Bemidbar 20:13 d"h heima mei merivah**
+**245.** **Malbim Bemidbar 20:13 d"h heima mei merivah**
 <br/>
 <br/>
 
@@ -4077,7 +4077,7 @@ It follows that Rabbi Haninah was a big advocate for belief in HaKadosh Baruch H
 
 *"Because of this Aharon was also punished, as it says: 'You shall speak to the rock'. This command was also given to Aharon, and if Aharon had spoken to the rock it would have also given forth water through speech alone. This would have prevented the fight that Bnai Yisrael then had with Hashem afterwards when they said there was no miracle at all."*
 
-**245.** While the story of Rabbi Haninah includes a third family member - his daughter - and the story of Meir Merivah has no additional character, perhaps the fact that Meir Merivah occurred on the heels of Miriam's death - as explained in **Note 95** - lends itself to drawing a parallel between Miriam and Rabbi Haninah's daughter. Although Miriam is unanimously described by the midrashim as righteous and there is no hint of here engaging in any promiscuous behavior, there is an obvious parallel between the "touch" of sin that Rabbi Haninah's daughter was guilty of with the flirtatious officers of Rome, and the "touch" of sin that Miriam exhibited when speaking *lashon hara* about Moshe and his marital status. Both involved normalizing and even encouraging gossip and scandalous talk, both revolved around the sexual relationship between men and women, and both furthered - each in their own distinct way - the degradation of the purity and holiness of Jewish behavior.
+**246.** While the story of Rabbi Haninah includes a third family member - his daughter - and the story of Meir Merivah has no additional character, perhaps the fact that Meir Merivah occurred on the heels of Miriam's death - as explained in **Note 95** - lends itself to drawing a parallel between Miriam and Rabbi Haninah's daughter. Although Miriam is unanimously described by the midrashim as righteous and there is no hint of here engaging in any promiscuous behavior, there is an obvious parallel between the "touch" of sin that Rabbi Haninah's daughter was guilty of with the flirtatious officers of Rome, and the "touch" of sin that Miriam exhibited when speaking *lashon hara* about Moshe and his marital status. Both involved normalizing and even encouraging gossip and scandalous talk, both revolved around the sexual relationship between men and women, and both furthered - each in their own distinct way - the degradation of the purity and holiness of Jewish behavior.
 <br/>
 <br/>
 
@@ -4087,7 +4087,7 @@ Additionally Moshe and Aharon were excessively punished for their "touch" of sin
 
 **Hor HaHar -** הר ההר
 
-**246.** **Bemidbar Rabbah 15:12**
+**247.** **Bemidbar Rabbah 15:12**
 <br/>
 <br/>
 
@@ -4097,7 +4097,7 @@ Additionally Moshe and Aharon were excessively punished for their "touch" of sin
 
 *"'Arise my love, my fair one, and come away' (Shir HaShirim 2:13). This should be interpreted as HaKadosh Baruch Hu saying to Knesset Yisrael Behold! The time for redemption has arrived."*
 
-**247.** **Bava Batra 17a**
+**248.** **Bava Batra 17a**
 <br/>
 <br/>
 
@@ -4123,9 +4123,9 @@ Additionally Moshe and Aharon were excessively punished for their "touch" of sin
 
 The second phrase actually equals 1,051 here. Kitzur Ba'al HaTurin regularly employs the principle known as *'Im HaKollel'* which allows the sums to be off by one and still be considered equal to each other.
 
-**248.** Moshe's own death was not witnessed by any other human being, and G-d Himself attended to his burial (Devarim 34:5-6). Theoretically Aharon could have also died and been buried in a similar fashion.
+**249.** Moshe's own death was not witnessed by any other human being, and G-d Himself attended to his burial (Devarim 34:5-6). Theoretically Aharon could have also died and been buried in a similar fashion.
 
-**249.** The text informs us that Moshe did as Hashem commanded, and the midrash adds that he did not hesitate despite the difficulty involved:
+**250.** The text informs us that Moshe did as Hashem commanded, and the midrash adds that he did not hesitate despite the difficulty involved:
 <br/>
 <br/>
 
@@ -4151,9 +4151,9 @@ The second phrase actually equals 1,051 here. Kitzur Ba'al HaTurin regularly emp
 
 *"'Moshe did as Hashem commanded him' (Bemidbar 20:27). This teaches you that even though HaKadosh Baruch Hu said to Moshe a harsh decree regarding Aharon, Moshe did not delay in performing it."*
 
-**250.** The Torah records that the entire nation wept for Aharon for thirty days (Bemidbar 20:29). While we can assume that Moshe was included in that broader, national mourning, we would still expect some hint of an additional, personal response.
+**251.** The Torah records that the entire nation wept for Aharon for thirty days (Bemidbar 20:29). While we can assume that Moshe was included in that broader, national mourning, we would still expect some hint of an additional, personal response.
 
-**251.** **Sifra Tzav Mechilta DeMilu'im 6**
+**252.** **Sifra Tzav Mechilta DeMilu'im 6**
 <br/>
 <br/>
 
@@ -4167,7 +4167,7 @@ The second phrase actually equals 1,051 here. Kitzur Ba'al HaTurin regularly emp
 
 This midrash provides a halachic, as opposed to an aggadic, explanation: Moshe's role was functional rather than emotional, and he was needed in order to continue the duties performed until that point. Note that Sifra as a work deals with halachic midrash; it only tangentially discusses aggadah, and even then it tends to stay close to a halachic interpretation as this example shows.
 
-**252.** **Bemidbar Rabbah 19:19**
+**253.** **Bemidbar Rabbah 19:19**
 <br/>
 <br/>
 
@@ -4181,7 +4181,7 @@ This midrash provides a halachic, as opposed to an aggadic, explanation: Moshe's
 
 See previous note. This explanation does not contradict that given by the Sifra; indeed, the two can even be seen as complementary. Nevertheless its approach is unquestionably aggadic rather than halachic in nature.
 
-**253.** **Midrash Petirat Aharon 2-3**
+**254.** **Midrash Petirat Aharon 2-3**
 <br/>
 <br/>
 
@@ -4199,7 +4199,7 @@ See previous note. This explanation does not contradict that given by the Sifra;
 
 *Moshe said to Aharon: Now, if only my death could be like your death, for when you die I will bury you, but when I die I will not have a brother to bury me; when you die, your sons will inherit your place, but when I die others will inherit my honor. Moshe appeased Aharon with words, and Aharon went up onto the bed, and HaKadosh Baruch Hu took his soul."*
 
-**254.** **Yalkut Shimoni on Torah Remez 787**
+**255.** **Yalkut Shimoni on Torah Remez 787**
 <br/>
 <br/>
 
@@ -4209,7 +4209,7 @@ See previous note. This explanation does not contradict that given by the Sifra;
 
 *"When Moshe saw the honor and praise that Aharon received - that his bier was placed at the height of the world, and HaKadosh Baruch Hu and the angels surrounded him and eulogized him greatly - he immediately sat and cried, and said: Woe is me that I am left alone. When Miriam died, no one from Yisrael came to us save for me, Aharon and his sons. We stood before her bier and cried over her, and eulogized her and buried her. When Aharon died, his sons and I dealt with him and stood before his bier. What will be for me, who will stand over me at the hour of death? I don't have a father or a son or a brother or a sister left - who will cry over me? At that time HaKadosh Baruch Hu answered him and said: Do not be afraid, for I Myself will stand over you and bury you with great honor, as it says: 'He buried him in the valley' (Devarim 34:6) ... and Moshe was appeased."*
 
-**255.** **Targum Yerushalmi Bemidbar 20:29; Chizkuni Bemidbar 20:29 d"h vayir'u kol ha'eidah**
+**256.** **Targum Yerushalmi Bemidbar 20:29; Chizkuni Bemidbar 20:29 d"h vayir'u kol ha'eidah**
 <br/>
 <br/>
 
@@ -4219,7 +4219,7 @@ See previous note. This explanation does not contradict that given by the Sifra;
 
 *״And the entire congregation saw Moshe come down from the height of the mountain, with his garments torn and ash upon his head, and he was crying and saying: Woe to me, for you my brother Aharon! The pillar of the prayers of Bnai Yisrael, who made atonement for them every year on Yom Kippur. At that time Bnai Israel believed that Aharon was dead, and the entire congregation of Bnai Israel cried for Aharon for thirty days."*
 
-**256.** **Pirkei DeRabbi Eliezer 17**
+**257.** **Pirkei DeRabbi Eliezer 17**
 <br/>
 <br/>
 
@@ -4229,7 +4229,7 @@ See previous note. This explanation does not contradict that given by the Sifra;
 
 *"When they ascended to Hor HaHar all the tribes of Yisrael were judging and saying: Moshe and Elazar left Aharon on Hor HaHar and came down by themselves. They did not believe that Aharon had died. What did HaKadosh Baruch Hu do? He took Aharon's coffin and passed it over the camp of Yisrael, and all of Yisrael saw Aharon's coffin flying in the air and they believed that Aharon had died, and the men, women and children performed kindness towards him. Why? Because Aharon pursued peace and loved peace, and used to pass through the camp of Yisrael every day and make peace between man and wife, and man and his fellow. This is why they did kindness to him, as it says: 'The entire house of Yisrael cried for Aharon for thirty days' (Bemidbar 20:29)."*
 
-**257.** **Sifre Nitzavim 305**
+**258.** **Sifre Nitzavim 305**
 <br/>
 <br/>
 
@@ -4243,7 +4243,7 @@ See previous note. This explanation does not contradict that given by the Sifra;
 
 Beyond addressing the linguistic difficulty of "seeing" here, this midrash is also noticing an important thematic parallel. The previous generation "saw" that Moshe had not come down from Har Sinai as expected, and aggressively accosted Aharon with disastrous results (Shmot 32:1-6). Here again the people see that someone did not come down from a mountain, though this time the roles are reversed: it is Aharon who went up and never returned while Moshe received the ire of the people. Also, just as the "seeing" of Aharon is taken here to mean a literal seeing of Aharon's death, the Talmud similarly understands that Bnai Yisrael saw Moshe's bier. The difference is that while Aharon had actually died and his body was suspended miraculously by G-d, by the Golden Calf an illusion of Moshe's body was conjured up by Satan in an attempt to confuse the people.
 
-**258.** HaKadosh Baruch Hu is - as it were, *keveyachol* - can also be considered family to Moshe, indeed to every Jew, for the following reason: The Talmud teaches that HaKadosh Baruch Hu is a partner in the creation of man along with his father and mother, and as such can be considered a parent to every person:
+**259.** HaKadosh Baruch Hu is - as it were, *keveyachol* - can also be considered family to Moshe, indeed to every Jew, for the following reason: The Talmud teaches that HaKadosh Baruch Hu is a partner in the creation of man along with his father and mother, and as such can be considered a parent to every person:
 <br/>
 <br/>
 
@@ -4293,7 +4293,7 @@ A later midrash reframes this Tannaitic discussion as a dispute between the prop
 
 While HaKadosh Baruch Hu initially declares that Bnai Yisrael are his children only when they are loyal to Him, Moshe convinces Him that parents love their children unconditionally, and even the wayward child, no matter how far he has strayed, must still be considered family.
 
-**259.** **Shmot 6:20**
+**260.** **Shmot 6:20**
 <br/>
 <br/>
 
@@ -4323,15 +4323,15 @@ Assuming Amram was so young is tenous at best, yet in truth we know from elsewhe
 
 *"The Rabbis taught: Seven people spanned the whole history of the world. Methuselah saw Adam, Shem saw Methuselah, Yaakov saw Shem, Amram saw Yaakov, Achiyah HaShiloni saw Amram, Eliyahu saw Achiyah HaShiloni, and Eliyahu is still alive. But did Achiyah HaShiloni see Amram? Is it not written: 'Not a man was left from them except for Kalev Ben Yefuneh and Yehoshua Bin Nun' (Bemidbar 26:65)? Rav Hamnuna said, this decree excluded the tribe of Levi, as it says: 'Your carcasses will fall in this wilderness, and all those who were counted among you, according to your whole number, from twenty years old and upward' (Bemidbar 14:29). This means to specify whoever has a count of twenty years old and upward, excluding the tribe of Levi whose count is thirty years old and upward."*
 
-**260.** **Shmot 18:1-4.**
+**261.** **Shmot 18:1-4.**
 
-**261.** **Tanchuma Yelamdenu Pinchas 11.**
+**262.** **Tanchuma Yelamdenu Pinchas 11.**
 
-**262.** **Shmot 4:19-28.**
+**263.** **Shmot 4:19-28.**
 
-**263.** **Nedarim 31b.**
+**264.** **Nedarim 31b.**
 
-**264.** HaKadosh Baruch Hu revealed Pharaoh's response in Egypt to Moshe at the burning bush, so presumably He also knew at the burning bush what would transpire before Moshe reached Egypt as well:
+**265.** HaKadosh Baruch Hu revealed Pharaoh's response in Egypt to Moshe at the burning bush, so presumably He also knew at the burning bush what would transpire before Moshe reached Egypt as well:
 <br/>
 <br/>
 
@@ -4347,7 +4347,7 @@ Assuming Amram was so young is tenous at best, yet in truth we know from elsewhe
 <br/>
 <br/>
 
-**265.** Ibn Ezra, quoting Rav Shmuel Bar Chofni, puts forth a similar argument:
+**266.** Ibn Ezra, quoting Rav Shmuel Bar Chofni, puts forth a similar argument:
 <br/>
 <br/>
 
@@ -4385,9 +4385,9 @@ This idea can, however, be countered by noting that the Torah often uses names b
 
 *"Does the Torah write a pasuk in reference to the future? Yes, as it says: 'The third river in Gan Eden was Chidekel, which is the one that goes east of Ashur' (Breishit 2:14), and Rav Yosef taught: Ashur is Seleucia. Did this exist when the Torah was written? Of course not. Rather, it was destined in the future to be called that."*
 
-**266.** Rabban Gamliel and Rabbi Yehudah appear to disagree about who the object of the phrase *"He sought to kill him"* is. Moshe being consumed by Anger and Wrath would indicate that Rabbi Yehudah held Moshe is the object, though it is also possible to argue that even according to Rabbi Yehudah the uncircumcised child is HaKadosh Baruch Hu's initial target, though as the crisis escalates it is Moshe who ends up swallowed from head to foot.
+**267.** Rabban Gamliel and Rabbi Yehudah appear to disagree about who the object of the phrase *"He sought to kill him"* is. Moshe being consumed by Anger and Wrath would indicate that Rabbi Yehudah held Moshe is the object, though it is also possible to argue that even according to Rabbi Yehudah the uncircumcised child is HaKadosh Baruch Hu's initial target, though as the crisis escalates it is Moshe who ends up swallowed from head to foot.
 
-**267.** There are other questions which lurk underneath the surface of these pesukim, which are not directly addressed by these midrashim. If, as Shmot Rabbah suggests and Ibn Ezra spells out, the son in question was baby Eliezer before he had been given a name, it would be reasonable to conclude that he was a newborn, perhaps even eight days old, which would explain why they were punished for neglecting to fulfill the mitzvah of *brit milah*. If so, that would imply that Moshe took his wife and children on a journey down to Egypt immediately after Tzipporah had given birth. How did she feel about this? How could she - and her baby - have been physically up for the journey?
+**268.** There are other questions which lurk underneath the surface of these pesukim, which are not directly addressed by these midrashim. If, as Shmot Rabbah suggests and Ibn Ezra spells out, the son in question was baby Eliezer before he had been given a name, it would be reasonable to conclude that he was a newborn, perhaps even eight days old, which would explain why they were punished for neglecting to fulfill the mitzvah of *brit milah*. If so, that would imply that Moshe took his wife and children on a journey down to Egypt immediately after Tzipporah had given birth. How did she feel about this? How could she - and her baby - have been physically up for the journey?
 <br/>
 <br/>
 
@@ -4397,11 +4397,11 @@ Perhaps the episode of Shmot 4:24-26 is hinting to us, through the roles Moshe a
 
 Moshe wins the argument, mounting them on the donkey almost against their own will, yet this teaches us that prioritizing between conflicting personal and communal demands extracts a heavy toll: when Moshe doesn't immediately circumcise Eliezer, the tables abruptly turn: Moshe stops in the hotel, delaying circumcising Eliezer due to the travails of the journey, which leads Tzipporah to ask Moshe can delay the fulfillment of a mitzvah - is it not the will of his Creator, and no time can be wasted? Moshe's zeal backfires on him, to the point that he is rendered inactive, paralyzed by his uncertainty and the strength of Tzipporah's argument. It is she, not him, who has the clarity of mind and upper hand to save the family, thereby demonstrating to Moshe the importance of caring for one's family. It is this idea which plagues Moshe throughout his life, culminating in his taking Aharon and Elazar up to Hor HaHar immediately upon being commanded, a foil for his not taking his own son and circumcising him to save his own family from danger.
 
-**268.** See our analysis of Shmot Rabbah's embellishment of Vayikra Rabbah's earlier development of Hur's actions at *cheit ha'eigel* in **Part 1**.
+**269.** See our analysis of Shmot Rabbah's embellishment of Vayikra Rabbah's earlier development of Hur's actions at *cheit ha'eigel* in **Part 1**.
 
-**269.** **Shmot Rabbah 5:8.**
+**270.** **Shmot Rabbah 5:8.**
 
-**270.** Moshe had not undergone a natural circumcision, but had been born circumcised along with other *tzaddikim* from the early days of human and Jewish history:
+**271.** Moshe had not undergone a natural circumcision, but had been born circumcised along with other *tzaddikim* from the early days of human and Jewish history:
 <br/>
 <br/>
 
@@ -4415,7 +4415,7 @@ Moshe wins the argument, mounting them on the donkey almost against their own wi
 
 *"Noach is one of seven who was born circumcised. Adam HaRishon was born circumcised, Shet his son was born circumcised, as it says: 'He was born in his likeness in his image' (Breishit 5:3). Noach was born circumcised, as it says: 'He was perfect in his generations' (Breishit 6:9). Yaakov was born circumcised, as it says: 'Yaakov was a perfect man' (Breishit 5:27). Yosef was born circumcised, as it says: 'These are the generations of Yaakov Yosef' (Breishit 37:2), since he was similar to his father. Moshe was born circumcised, as it says: 'She saw that he was good' (Shmot 2:2). And Iyov was born circumcised, as it says: 'He was a perfect and straight man' (Iyov 1:8)."*
 
-**271.** According to one opinion cited by Chizkuni, the word *"feet"* here should actually be understood as a euphemism for the baby's member, in which case there is no need to identify the owner:
+**272.** According to one opinion cited by Chizkuni, the word *"feet"* here should actually be understood as a euphemism for the baby's member, in which case there is no need to identify the owner:
 <br/>
 <br/>
 
@@ -4429,7 +4429,7 @@ Moshe wins the argument, mounting them on the donkey almost against their own wi
 
 *"This is a euphemism for the circumcision i.e. the member, similar to: 'He had not attended to his member' (Shmuel Bet 19:25). You have to rephrase this pasuk to mean 'Tzipporah took a rock, and she touched the rock to the member of the boy and cut of the foreskin of the boy.'"*
 
-**272.** Rashi appears to combine these two traditions together by having an unnamed angel swallow Moshe from his head to his thighs, then swallow him again from his feet to his *brit milah*:
+**273.** Rashi appears to combine these two traditions together by having an unnamed angel swallow Moshe from his head to his thighs, then swallow him again from his feet to his *brit milah*:
 <br/>
 <br/>
 
@@ -4443,15 +4443,15 @@ Moshe wins the argument, mounting them on the donkey almost against their own wi
 
 *"The angel became like a snake and swallowed Moshe from his head to his thighs, and then returned and swallowed him from his feet to that place his member."*
 
-**273.** See Ibn Ezra in Note **21** above, Rav Saadia Gaon, Rabbeinu Chananel, and Ramban to these pesukim.
+**274.** See Ibn Ezra in Note **21** above, Rav Saadia Gaon, Rabbeinu Chananel, and Ramban to these pesukim.
 
-**274.** **Mechilta DeRabbi Yishmael Yitro 1.**
+**275.** **Mechilta DeRabbi Yishmael Yitro 1.**
 
-**275.** **Targum Yonatan on Shmot 4:24-26.**
+**276.** **Targum Yonatan on Shmot 4:24-26.**
 
-**276.** The phrase אלמלא מקרא כתוב אי אפשר לאומרו appears throughout the Talmud (Berachot 32a, Rosh HaShanah 17b, Megillah 21a, Sotah 13b, etc.) to indicate something too controversial to suggest were it not stated explicitly in the text. Here we are extending this principle to the world of midrashic interpretation: instead of Rabbinic incredulity at some pasuk's radical content, we are incredulous of this midrash's radical description of Moshe Rabbeinu.
+**277.** The phrase אלמלא מקרא כתוב אי אפשר לאומרו appears throughout the Talmud (Berachot 32a, Rosh HaShanah 17b, Megillah 21a, Sotah 13b, etc.) to indicate something too controversial to suggest were it not stated explicitly in the text. Here we are extending this principle to the world of midrashic interpretation: instead of Rabbinic incredulity at some pasuk's radical content, we are incredulous of this midrash's radical description of Moshe Rabbeinu.
 
-**277.** **Bemidbar 30:3**
+**278.** **Bemidbar 30:3**
 <br/>
 <br/>
 
@@ -4473,7 +4473,7 @@ Moshe wins the argument, mounting them on the donkey almost against their own wi
 
 *"When you make a vow to Hashem your G-d, do not delay in fulfilling it, for Hashem your G-d will require it of you, and you will incur sin. Whereas, if you refrain from making a vow, you will not incur any sin. You must fulfill the words that cross your lips, and do that which you vow to Hashem your G-d, having made the promise with your own mouth."*
 
-**278.** **Mishnah Shevuot 3:8**
+**279.** **Mishnah Shevuot 3:8**
 <br/>
 <br/>
 
@@ -4515,7 +4515,7 @@ The halachah states that purposeful violation of this mitzvah receives lashes, w
 
 *"The fact that it uses the name E-lohim teaches that Yitro heard that G-d came against Moshe with the attribute of strict justice to kill him over the fact that he hadn't circumcised his son, as it says: 'Hashem met him and sought to kill him' (Shmot 4:24). Yitro heard that Moshe had been saved from this."*
 
-**279.** **Bava Metzia 16a**
+**280.** **Bava Metzia 16a**
 <br/>
 <br/>
 
@@ -4557,7 +4557,7 @@ Chizkuni and Ha'amek Davar use this concept to explain why Yaakov insisted Esav 
 
 If this *halacha* applies regarding the sale of a birthright sometime in the future, surely it should apply regarding the birth of a firstborn sometime in the future. See Or HaChaim's comments to this pasuk at length.
 
-**280.** If a person makes a vow he later regrets, he is permitted to think of creative ways to avoid their initially intended outcome while still technically keeping the words of his vow. Having Tzipporah do the circumcision would accomplish this:
+**281.** If a person makes a vow he later regrets, he is permitted to think of creative ways to avoid their initially intended outcome while still technically keeping the words of his vow. Having Tzipporah do the circumcision would accomplish this:
 <br/>
 <br/>
 
@@ -4591,7 +4591,7 @@ This approach assumes that women are permitted to perform a *brit milah*, a ques
 
 Based on this, a rather technical way to understand Tzipporah's role in the story is to argue that Moshe held like Rav, that a woman cannot perform a *brit milah*, and therefore he remained trapped in his vow with her father. Tzipporah, however, acted based on the opinion of Rabbi Yochanan, that a woman is considered like a naturally circumcised person, and as such she is allowed to circumcise as well.
 
-**281.** Anyone who declares a vow is considered sinful and wicked, even if he actually does fulfill that vow:
+**282.** Anyone who declares a vow is considered sinful and wicked, even if he actually does fulfill that vow:
 <br/>
 <br/>
 
@@ -4649,7 +4649,7 @@ Fascinatingly, the language used by Mechilta DeRabbi Yishmael borrows directly f
 
 The Torah views Esav swearing away his personal birthright negatively. By employing the same exact language Mechilta DeRabbi Yishmael urges us to take issue with Moshe's swearing away his right to the firstborn as well.
 
-**282.** The simplest reading of the phrase *"vayoel moshe"* is that Moshe agreed to dwell with Yitro as opposed to moving elsewhere with his new bride. That reading can be maintained even if the force of the agreement was an oath rather than something more informal:
+**283.** The simplest reading of the phrase *"vayoel moshe"* is that Moshe agreed to dwell with Yitro as opposed to moving elsewhere with his new bride. That reading can be maintained even if the force of the agreement was an oath rather than something more informal:
 <br/>
 <br/>
 
@@ -4663,7 +4663,7 @@ The Torah views Esav swearing away his personal birthright negatively. By employ
 
 *"'You have begun' (Devarim 3:24). You released me from my vow when You said to me: Go redeem My nation Bnai Yisrael from the land of Egypt. I said before you that I cannot for I had already sworn to Yitro that I would not leave him, as it says: 'Moshe swore to dwell with the man Yitro' (Shmot 2:21), and there is no language of ho'alah except for swearing, as it says: 'Shaul swore (Shmuel Aleph 14:24).'"*
 
-**283.** See the prophecy Rivka receives about the twins struggling in her womb, and Rashi's insistence that a midrashic interpretation must be relied upon:
+**284.** See the prophecy Rivka receives about the twins struggling in her womb, and Rashi's insistence that a midrashic interpretation must be relied upon:
 <br/>
 <br/>
 
@@ -4689,7 +4689,7 @@ The Torah views Esav swearing away his personal birthright negatively. By employ
 
 *"You must admit that this pasuk says 'interpret me', for it does not disclose what this struggle is and why it says 'if so, why do I exist'. Our Rabbis (Breishit Rabbah 63:6) interpreted this as referring to running; when Rivka passed entrances of Torah of Shem and Ever, Yaakov ran and squirmed to exit, but when Rikva passed entrances of Avodah Zarah, Esav squirmed to exit. Another idea (Yalkut Shimoni on Torah Remez 111): They were struggling with each other and fighting on how to divide up the inheritance of two worlds."*
 
-**284.** This concept is not only confined to sibling rivalry, where one is chosen and the other is rejected. The midrash also notes that within a specific person's life he can go through periods of "chosenness" and "rejection":
+**285.** This concept is not only confined to sibling rivalry, where one is chosen and the other is rejected. The midrash also notes that within a specific person's life he can go through periods of "chosenness" and "rejection":
 <br/>
 <br/>
 
@@ -4715,17 +4715,17 @@ The Torah views Esav swearing away his personal birthright negatively. By employ
 
 *"This is as it says: 'Praiseworthy is he who is chosen and comes close' (Tehillim 65:5) - praiseworthy is he who HaKadosh Baruch Hu chose, even if He did not bring him close, and praiseworthy is he who He brought close, even if He did not choose him ... Rabbi Nehemiah in the name of Rabbi Shmuel Bar Rav Yitzhak said, not every close one is close, and not every far one is far. There are those who are chosen, rejected and then come close, and there are those who are chosen, rejected and then do not come close \...."*
 
-**285.** **Devarim 30:15-20.**
+**286.** **Devarim 30:15-20.**
 
-**286.** There is an important nuance worth emphasizing here, namely that death and evil await those who do not listen to G-d more generally, not just those who serve idols. While it is true that the most blatant and egregious example of rejecting G-d is *Avodah Zarah*, long life is reserved for those who cleave to Hashem and denied those who do not. Even someone who is not an idol worshiper per se, but who disobeys G-d's command, will still fall under the category of someone whose *"heart turns away and does not listen"*.
+**287.** There is an important nuance worth emphasizing here, namely that death and evil await those who do not listen to G-d more generally, not just those who serve idols. While it is true that the most blatant and egregious example of rejecting G-d is *Avodah Zarah*, long life is reserved for those who cleave to Hashem and denied those who do not. Even someone who is not an idol worshiper per se, but who disobeys G-d's command, will still fall under the category of someone whose *"heart turns away and does not listen"*.
 <br/>
 <br/>
 
 Understood in this light, the familial divide between brothers can be extended from Sefer Breishit not only to Moshe's children, but to Aharon's children as well. Aharon had four sons, two of whom were killed by G-d and two of whom were spared. The reason given for the death of Nadav and Avihu is that they brought a *"foreign fire which Hashem had not commanded" (Vayikra 10:1)*. Traditions differ on the exact nature of their sin, but the indisputable fact is that they violated the injunction to *"listen to His voice"*. Aharon - like Adam, Avraham, Yitzchak and Yosef - sees his children split down the middle: the younger half listen to G-d's voice and receive greatness; the older half are drawn to idolatrous practice and punished by G-d. See our notes to **Part II** on Nadav and Avihus' death.
 
-**287.** Although Adam HaRishon also had a third son named Shet, the larger point regarding the story of Kayin and Hevel (Breishit 4:1-15) remains.
+**288.** Although Adam HaRishon also had a third son named Shet, the larger point regarding the story of Kayin and Hevel (Breishit 4:1-15) remains.
 
-**288.** **Bava Batra 16b**
+**289.** **Bava Batra 16b**
 <br/>
 <br/>
 
@@ -4735,7 +4735,7 @@ Understood in this light, the familial divide between brothers can be extended f
 
 *"Rabbi Yochanan said, that wicked one Esav violated five sins on that day when Avraham died: He slept with an engaged maiden, committed murder, denied G-d's existence, denied the resurrection of the dead, and spurned the birthright."*
 
-**289.** The rationales given behind each child's name lends support to this idea as well:
+**290.** The rationales given behind each child's name lends support to this idea as well:
 <br/>
 <br/>
 
@@ -4753,7 +4753,7 @@ Understood in this light, the familial divide between brothers can be extended f
 
 The description for Gershom relates to being a *"stranger in a foreign land"* while Eliezer's name relates to *"the G-d of my father"*. Gershom is the child of strange foreigners; Eliezer is the child of G-d.
 
-**290.** Divrei HaYamim Aleph 23:13-17. In particular, Shevu'el was in charge of the treasury:
+**291.** Divrei HaYamim Aleph 23:13-17. In particular, Shevu'el was in charge of the treasury:
 <br/>
 <br/>
 
@@ -4767,13 +4767,13 @@ The description for Gershom relates to being a *"stranger in a foreign land"* wh
 
 *"Shevu'el son of Gershom son of Moshe was in charge of the treasury."*
 
-**291.** **Shoftim 18:30-31.**
+**292.** **Shoftim 18:30-31.**
 
-**292.** **Shir HaShirim Rabbah 2:5.**
+**293.** **Shir HaShirim Rabbah 2:5.**
 
-**293.** **Yerushalmi Berachot 9:2.**
+**294.** **Yerushalmi Berachot 9:2.**
 
-**294.** The first word in Sefer Vayikra (ויקרא) is written with a small א according to Masoretic tradition. Vayikra Rabbah contrasts the words ויקרא - He called to Moshe - with the word ויקר - He appeared to Bilam - to teach the superiority of Yisrael's prophets over the nations' prophets in general. Tanna DeVei Eliyahu Rabbah applies the same concept to the individual prophets themselves, deriving Moshe's prophetic superiority over Bilam from the additional א. Kitzur Ba'al HaTurim explicitly notes that the small א is what lends this word to such a comparison:
+**295.** The first word in Sefer Vayikra (ויקרא) is written with a small א according to Masoretic tradition. Vayikra Rabbah contrasts the words ויקרא - He called to Moshe - with the word ויקר - He appeared to Bilam - to teach the superiority of Yisrael's prophets over the nations' prophets in general. Tanna DeVei Eliyahu Rabbah applies the same concept to the individual prophets themselves, deriving Moshe's prophetic superiority over Bilam from the additional א. Kitzur Ba'al HaTurim explicitly notes that the small א is what lends this word to such a comparison:
 <br/>
 <br/>
 
@@ -4811,7 +4811,7 @@ The description for Gershom relates to being a *"stranger in a foreign land"* wh
 
 *"The Aleph of 'vayikra' is small, for Moshe did not want to write in the Torah 'vayikra' but rather 'vayiker', like what it says regarding Bilam, as if Hashem did not appear to him except by chance. HaKadosh Baruch Hu told Moshe to keep the Aleph for his honor, so Moshe wrote it small."*
 
-**295.** **Sanhedrin 10:2**
+**296.** **Sanhedrin 10:2**
 <br/>
 <br/>
 
@@ -4821,7 +4821,7 @@ The description for Gershom relates to being a *"stranger in a foreign land"* wh
 
 *"Three kings and four commoners have no share in the World to Come. The three kings are: Yeravam, Achav and Menashe. Rabbi Yehudah says: Menashe has a share in the World to Come, as it says: 'And he prayed to Him, and He received his entreaty, He heard his supplication and He brought him back to Jerusalem to his kingdom" (Divrei HaYamim Bet 33:13). They said to him: HaKadosh Baruch Hu restored Menashe to his kingdom, but He did not restore him to life in the World to Come. The four commoners are: Bilam, Doeg, Achitophel and Geichazi."*
 
-**296.** In a similar vein, one midrash teaches that Korach's lineage only goes back to Levi because Yaakov asked his name not be associated with the wickedness of his descendants:
+**297.** In a similar vein, one midrash teaches that Korach's lineage only goes back to Levi because Yaakov asked his name not be associated with the wickedness of his descendants:
 <br/>
 <br/>
 
@@ -4851,7 +4851,7 @@ Yaakov asked that his name not be included in reference to Korach, but in the Ta
 
 *"One may act for a person's benefit in his absence, but one may not act for a person's disadvantage in his absence."*
 
-**297.** An entirely different approach to this question than the one our midrash develops can be found in Seder Olam Rabbah, which understands the last several chapters of Sefer Shoftim to have occurred chronologically at the beginning of the Sefer, namely right after Yehoshua died. The reason why these stories are recorded at the end of Sefer Shoftim - even though they actually happened centuries earlier - is to preserve Bnai Yisrael's honor, for it would not be fitting to open Sefer Shoftim with tales such as Micha's idol or the concubine of Givah:
+**298.** An entirely different approach to this question than the one our midrash develops can be found in Seder Olam Rabbah, which understands the last several chapters of Sefer Shoftim to have occurred chronologically at the beginning of the Sefer, namely right after Yehoshua died. The reason why these stories are recorded at the end of Sefer Shoftim - even though they actually happened centuries earlier - is to preserve Bnai Yisrael's honor, for it would not be fitting to open Sefer Shoftim with tales such as Micha's idol or the concubine of Givah:
 <br/>
 <br/>
 
@@ -4869,7 +4869,7 @@ Yaakov asked that his name not be included in reference to Korach, but in the Ta
 
 Based on these calculations the incident of Micha's idol happened 28 + 40 - 8 = roughly 60 years after Moshe's death. It is certainly plausible for his grandson to have been alive and active at that time.
 
-**298.** See Melachim Aleph 13 in its entirety. Why this particular *navi* deceives a man of G-d and leads him to his death is not at all
+**299.** See Melachim Aleph 13 in its entirety. Why this particular *navi* deceives a man of G-d and leads him to his death is not at all
 clear from the pesukim. Radak notes that aside from Yonatan and Amaziah there are some other possibilities offered by the Rabbis:
 <br/>
 <br/>
@@ -4884,9 +4884,9 @@ clear from the pesukim. Radak notes that aside from Yonatan and Amaziah there ar
 
 *"Targum Yonatan translates this as: 'One elderly false prophet' inserting the word 'false' which does not exist in the pasuk. There are versions which also include: 'And his name was Micha', and similarly in the words of Chazal it was Micha, though some said it was Amaziah Kohen Beit El, some said it was Iddo HaNavi, and some said it was Yonatan Ben Gershom. His first home was Shomron, as it says regarding Yoshiyahu: 'The prophet who came from Shomron' (Melachim Bet 23:18); he then came to Beit El and settled there."*
 
-**299.** We can suggest the parallel between their lives extends even further. Gershom started as a Kohen for *avodah zarah* in the tradition of his grandfather Yitro; similarly, Yehonatan started as a Kohen for the tribe of Dan, also for *avodah zarah*. Gershom then - albeit against his will - flips to service of G-d via the circumcision administered by Tzipporah; Yehonatan too returns to G-d "with all of his heart and all of his soul" as the name Shevu'el suggests. And finally, when Gershom is sent back to Midian, he reverts back to his old ways in service of idolatry, as evidenced by his absence in the story of Moshe's succession; Yehonatan's spiritual correction is also temporary, as he too ends up as a wicked *navi sheker*. Both father and son begin their lives serving evil, find redemption, only to slide back into oblivion, or perhaps, as found in the midrashim in **Note 40**: both Gershom and Yehonatan were chosen, then rejected, then tragically unable to come close again.
+**300.** We can suggest the parallel between their lives extends even further. Gershom started as a Kohen for *avodah zarah* in the tradition of his grandfather Yitro; similarly, Yehonatan started as a Kohen for the tribe of Dan, also for *avodah zarah*. Gershom then - albeit against his will - flips to service of G-d via the circumcision administered by Tzipporah; Yehonatan too returns to G-d "with all of his heart and all of his soul" as the name Shevu'el suggests. And finally, when Gershom is sent back to Midian, he reverts back to his old ways in service of idolatry, as evidenced by his absence in the story of Moshe's succession; Yehonatan's spiritual correction is also temporary, as he too ends up as a wicked *navi sheker*. Both father and son begin their lives serving evil, find redemption, only to slide back into oblivion, or perhaps, as found in the midrashim in **Note 40**: both Gershom and Yehonatan were chosen, then rejected, then tragically unable to come close again.
 
-**300.** **Yirmiyahu 31:29**
+**301.** **Yirmiyahu 31:29**
 <br/>
 <br/>
 
@@ -4896,7 +4896,7 @@ clear from the pesukim. Radak notes that aside from Yonatan and Amaziah there ar
 
 *"Parents have eaten sour grapes and the teeth of their children will be blunted."*
 
-**301.** A fascinating parallel exists in the aggadic discussion surrounding Pinchas, Aharon's grandson. He too is mentioned at the end of Sefer Shoftim as still being alive:
+**302.** A fascinating parallel exists in the aggadic discussion surrounding Pinchas, Aharon's grandson. He too is mentioned at the end of Sefer Shoftim as still being alive:
 <br/>
 <br/>
 
@@ -4934,9 +4934,9 @@ This is perhaps the primary motivation behind the famous midrashic tradition equ
 
 To summarize: two distinct pesukim at the end of Sefer Shoftim indicate that both Moshe's grandson and Aharon's grandson each lived respectively for over 500 years.
 
-**302.** **Melachim Aleph 18:21-22.**
+**303.** **Melachim Aleph 18:21-22.**
 
-**303.** Asa became King of *Malchut Yehudah* in the 20th year of Yeravam Ben Nevat, King of Yisrael, and he reigned for 41 years (Melachim Aleph 15:9). Achav became King of *Malchut Yisrael* in the 38th year of Asa, King of Yehudah, and he reigned for 22 years (Melachim Aleph 16:29). Let us assume the largest possible gap in years between the story of the old prophet which happened during Yeravam's reign (Melachim Aleph 13:1) and the story of Eliyahu on Har HaCarmel which happened during Achav's reign (Melachim Aleph 18:20). This means:
+**304.** Asa became King of *Malchut Yehudah* in the 20th year of Yeravam Ben Nevat, King of Yisrael, and he reigned for 41 years (Melachim Aleph 15:9). Achav became King of *Malchut Yisrael* in the 38th year of Asa, King of Yehudah, and he reigned for 22 years (Melachim Aleph 16:29). Let us assume the largest possible gap in years between the story of the old prophet which happened during Yeravam's reign (Melachim Aleph 13:1) and the story of Eliyahu on Har HaCarmel which happened during Achav's reign (Melachim Aleph 18:20). This means:
 <br/>
 <br/>
 
@@ -4948,7 +4948,7 @@ To summarize: two distinct pesukim at the end of Sefer Shoftim indicate that bot
 
 The largest possible gap in years between the two stories is less than 80 years. Surely if Rabbi Shmuel Bar Nachman believes that Yehonatan lived from the beginning of the *Shoftim* period to when Yeravam was in power - a timeframe of several hundred years - appending another 80 years maximum to his life should not pose any concern.
 
-**304.** The theme of two animal sacrifices who begin as equals but whose destinies then diverge, with one for Hashem and one for *Avodah Zarah*, is made explicit by the midrash. This concept finds its most well-known source in the Yom Kippur service (Vayikra 16:8), and the fates of Gershom and Eliezer also fit into this trope:
+**305.** The theme of two animal sacrifices who begin as equals but whose destinies then diverge, with one for Hashem and one for *Avodah Zarah*, is made explicit by the midrash. This concept finds its most well-known source in the Yom Kippur service (Vayikra 16:8), and the fates of Gershom and Eliezer also fit into this trope:
 <br/>
 <br/>
 
@@ -4978,9 +4978,9 @@ The largest possible gap in years between the two stories is less than 80 years.
 
 Like the two goats on Yom Kippur, the two bulls on Har HaCarmel, and the dedication of Gershom and Eliezer, the *metzora* purification rite requires two identical birds; one is slaughtered while one is set free over the open field. This connection is further developed below.
 
-**305.** Yonatan lived and operated in the Kingdom of Yisrael, first serving the tribe of Dan (see **Note 48**) whose inheritance lay to the north, and eventually settling in Beit El (see **Note 55**), which was found in the Shomron. It is only natural that he would attend a monumental confrontation between his cousin and the prophets of Ba'al in a direct challenge to the region's king.
+**306.** Yonatan lived and operated in the Kingdom of Yisrael, first serving the tribe of Dan (see **Note 48**) whose inheritance lay to the north, and eventually settling in Beit El (see **Note 55**), which was found in the Shomron. It is only natural that he would attend a monumental confrontation between his cousin and the prophets of Ba'al in a direct challenge to the region's king.
 
-**306.** **Melachim Bet 2:11**
+**307.** **Melachim Bet 2:11**
 <br/>
 <br/>
 
@@ -4990,7 +4990,7 @@ Like the two goats on Yom Kippur, the two bulls on Har HaCarmel, and the dedicat
 
 *"Behold, they were walking and talking, and a chariot of fire and horses of fire appeared and separated between them, and Eliyahu went up in a whirlwind to Heaven."*
 
-**307.** **Melachim Bet 13:20-21**
+**308.** **Melachim Bet 13:20-21**
 <br/>
 <br/>
 
@@ -5000,11 +5000,11 @@ Like the two goats on Yom Kippur, the two bulls on Har HaCarmel, and the dedicat
 
 *"Elisha died and was buried. Raiding bands of Moav came to the land the following year. It happened that people were burying a man, and when they saw the raiding band they threw the man into the grave of Elisha. The man touched the bones of Elisha, and came to life; and stood up on his legs."*
 
-**308.** **Sanhedrin 47a.**
+**309.** **Sanhedrin 47a.**
 
-**309.** **Rashi, Sanhedrin 47a d"h vayehi vayakom al raglav.**
+**310.** **Rashi, Sanhedrin 47a d"h vayehi vayakom al raglav.**
 
-**310.** **Melachim Aleph 13:31**
+**311.** **Melachim Aleph 13:31**
 <br/>
 <br/>
 
@@ -5014,7 +5014,7 @@ Like the two goats on Yom Kippur, the two bulls on Har HaCarmel, and the dedicat
 
 *"After the false prophet buried the true prophet he said to his sons, when I die, bury me in the grave where the man of G-d is buried; place my bones next to his."*
 
-**311.** **Melachim Bet 23:17-18**
+**312.** **Melachim Bet 23:17-18**
 <br/>
 <br/>
 
@@ -5024,7 +5024,7 @@ Like the two goats on Yom Kippur, the two bulls on Har HaCarmel, and the dedicat
 
 *"Yoshiyahu said, what is this marker that I see? The people of the city said to him, that is the grave of the man of G-d who came from Yehudah and prophesied these things which you have done on the altar of Beit El. He said, leave him, no one shall touch his bones; and they left his bones along with the bones of the false prophet who came from Shomron."*
 
-**312.** Although the Talmud quotes a teaching which states that the man came back to life only to die again shortly thereafter, if we assume instead that he did "go back to his house" it could be that after his resurrection that false prophet lived again only to die once more at some point between the death of Elisha and the reign of Yoshiyahu; upon his second death he was buried, presumably by his children's descendants, in the grave of the true prophet as he had originally commanded.
+**313.** Although the Talmud quotes a teaching which states that the man came back to life only to die again shortly thereafter, if we assume instead that he did "go back to his house" it could be that after his resurrection that false prophet lived again only to die once more at some point between the death of Elisha and the reign of Yoshiyahu; upon his second death he was buried, presumably by his children's descendants, in the grave of the true prophet as he had originally commanded.
 <br/>
 <br/>
 
@@ -5042,11 +5042,11 @@ Maharsha wonders how this false prophet, wicked as he was, could have been burie
 
 *"And we can suggest that the false prophet only said: 'Place my bones near his bones' after his flesh would have already decomposed, since at that point the wicked are atoned for and can be buried near the righteous, as it is taught in a Mishnah Sanhedrin 45b: 'If the flesh has decomposed, they clean off the bones and bury the wicked who was killed by Beit Din in his ancestral plot', as the Talmud explains. But regarding Elisha, that false prophet was buried there immediately after his death."*
 
-**313.** This redemptive arc for Moshe's legacy, as realized through his grandson, provides an alternative answer to the problem raised in the previous note (**Note 67**). The reason why Yonatan was not allowed to be buried with Elisha, but was allowed to be buried with Iddo, is not because the flesh hadn't yet decomposed when his bones touched those of Elisa but had when they were lain next to Iddo's - as Maharsha suggests - bur rather because Yonatan himself had undergone a transformation: when Elisha died he was still a wicked *navi sheker*, and as such could not be buried alongside him; but perhaps his physical resurrection also represents a spiritual awakening, a reformation and repentance. After nearly a thousand years, Eliyahu's stinging remarks on Har HaCarmel pierced his cousin's heart; Eliyahu's blessing literally and figuratively brought him "back to life". After living hundreds of years and dying in the same generation as his cousin, Shevu'el finally overcame the shadow of Yonatan, the false prophet became a true servant of G-d, returning to Hashem with 100% conviction, no longer oscillating back and forth between two worlds. Perhaps that is why he was permitted, finally, to rest alongside the bones of a true prophet of G-d: we bury a tzaddik alongside another tzaddik.
+**314.** This redemptive arc for Moshe's legacy, as realized through his grandson, provides an alternative answer to the problem raised in the previous note (**Note 67**). The reason why Yonatan was not allowed to be buried with Elisha, but was allowed to be buried with Iddo, is not because the flesh hadn't yet decomposed when his bones touched those of Elisa but had when they were lain next to Iddo's - as Maharsha suggests - bur rather because Yonatan himself had undergone a transformation: when Elisha died he was still a wicked *navi sheker*, and as such could not be buried alongside him; but perhaps his physical resurrection also represents a spiritual awakening, a reformation and repentance. After nearly a thousand years, Eliyahu's stinging remarks on Har HaCarmel pierced his cousin's heart; Eliyahu's blessing literally and figuratively brought him "back to life". After living hundreds of years and dying in the same generation as his cousin, Shevu'el finally overcame the shadow of Yonatan, the false prophet became a true servant of G-d, returning to Hashem with 100% conviction, no longer oscillating back and forth between two worlds. Perhaps that is why he was permitted, finally, to rest alongside the bones of a true prophet of G-d: we bury a tzaddik alongside another tzaddik.
 
-**314.** See our notes to **Part IV** for an aggadic explication of this episode (Bemidbar 25:1-15).
+**315.** See our notes to **Part IV** for an aggadic explication of this episode (Bemidbar 25:1-15).
 
-**315.** Although Moshe did not teach his own sons Torah, he did teach Elazar and Itamar:
+**316.** Although Moshe did not teach his own sons Torah, he did teach Elazar and Itamar:
 <br/>
 <br/>
 
@@ -5064,7 +5064,7 @@ Maharsha wonders how this false prophet, wicked as he was, could have been burie
 
 The midrash considers Moshe's nephews to be like his own sons. This idea does lessen somewhat the immense weight of Moshe's despair described in Yalkut Shimoni, for after all he did have sons - albeit not biological ones - that carried his Torah on after him. This also explains why Moshe had to be present at Hor HaHar; it is fitting for Moshe to present his "son" Elazar with the *Kehunah Gedolah*.
 
-**316.** **Rut Rabbah 2:5**
+**317.** **Rut Rabbah 2:5**
 <br/>
 <br/>
 
@@ -5074,7 +5074,7 @@ The midrash considers Moshe's nephews to be like his own sons. This idea does le
 
 *"Rabbi Meir and Rabbi Yehoshua Ben Karcha used to interpret names. For example: 'The man's name was Elimelech' (Rut 1:2) - he used to say, kingship will come to me. 'His wife's name was Naomi' - her deeds were nice and pleasant. 'And the names of his two sons were Machlon and Kilion' - Machlon, because he was erased from the world, and Kilion, because he disappeared from the world."*
 
-**317.** **Breishit Rabbah 37:7**
+**318.** **Breishit Rabbah 37:7**
 <br/>
 <br/>
 
@@ -5084,7 +5084,7 @@ The midrash considers Moshe's nephews to be like his own sons. This idea does le
 
 *"Rabbi Yosi and Rabban Shimon Ben Gamliel. Rabbi Yosi says, the first ones were familiar with their lineages and used to take out their names for the sake of the event, but we do not know our lineages and so we take out our names for the sake of our forefathers. Rabbi Shimon Ben Gamliel says, the first ones used to receive ru'ach hakodesh and so they used to take out their names for the sake of the event, but we do not receive ru'ach hakodesh and so we take out our names for the sake of our forefathers."*
 
-**318.** See Berachot 7b and Maharsha's comments there for the source of this idea:
+**319.** See Berachot 7b and Maharsha's comments there for the source of this idea:
 <br/>
 <br/>
 
@@ -5142,7 +5142,7 @@ This idea is greatly expanded upon in later mystical and Kabbalistic works; it i
 
 *"Whatever HaKadosh Baruch Hu brings into the world, its name has to do with its essence as it says: 'Whatever Adam called each animal's soul, that was its name' (Breishit 2:19)."*
 
-**319.** **Yoma 83b**
+**320.** **Yoma 83b**
 <br/>
 <br/>
 
@@ -5152,9 +5152,9 @@ This idea is greatly expanded upon in later mystical and Kabbalistic works; it i
 
 *"Rabbi Meir, Rabbi Yehudah and Rabbi Yosi were walking along the road. Rabbi Meir interpreted names, but Rabbi Yehudah and Rabbi Yosi did not interpret names. When they got to their destination, they sought out a place to stay ... In the end, Rabbis Yehudah and Yosi learned from this and also interpreted names."*
 
-**320.** Indeed, this could be the *peshat* understanding of Moshe's conspicuous absence in the story - not that he was swallowed up by Satan or some angelic messenger, and not that he was bound by an oath which prevented him from intervening, but simply that he was too shocked to respond quickly enough in that moment.
+**321.** Indeed, this could be the *peshat* understanding of Moshe's conspicuous absence in the story - not that he was swallowed up by Satan or some angelic messenger, and not that he was bound by an oath which prevented him from intervening, but simply that he was too shocked to respond quickly enough in that moment.
 
-**321.** **Pesikta Zutreta to Shmot 4:25**
+**322.** **Pesikta Zutreta to Shmot 4:25**
 <br/>
 <br/>
 
@@ -5164,7 +5164,7 @@ This idea is greatly expanded upon in later mystical and Kabbalistic works; it i
 
 *"'Tzipporah took a rock' (Shmot 4:25) - she was agile like a bird and able to act quickly."*
 
-**322.** **Shmot 2:16-20**
+**323.** **Shmot 2:16-20**
 <br/>
 <br/>
 
@@ -5186,11 +5186,11 @@ This idea is greatly expanded upon in later mystical and Kabbalistic works; it i
 
 *"'Yitro said to his daughters: And where is Moshe?' (Shmot 2:20). Immediately Tzipporah ran like a bird and brought him to them."*
 
-**323.** **Tanchuma HaKadum Shmot 11.**
+**324.** **Tanchuma HaKadum Shmot 11.**
 
-**324.** **Shmot Rabbah 5:19.**
+**325.** **Shmot Rabbah 5:19.**
 
-**325.** The Torah makes no explicit mention of this significant gap in time between Moshe's first unsuccessful attempt to set Bnai Yisrael free and the onset of the 10 plagues. Ramban convincingly argues that the narrative regarding the additional workload placed on the slaves and the dialogue between Pharaoh and the Jewish officers actually took a long time to play out. This explains why the officers suddenly become the focus in Shmot 5:10-19: Moshe had returned to Midian, so they are the de facto leaders left in charge of handling the fallout from Pharaoh's new decree. It also underscores their bitter, possibly threatening reaction upon seeing Moshe and Aharon (Shmot 5:20-21):
+**326.** The Torah makes no explicit mention of this significant gap in time between Moshe's first unsuccessful attempt to set Bnai Yisrael free and the onset of the 10 plagues. Ramban convincingly argues that the narrative regarding the additional workload placed on the slaves and the dialogue between Pharaoh and the Jewish officers actually took a long time to play out. This explains why the officers suddenly become the focus in Shmot 5:10-19: Moshe had returned to Midian, so they are the de facto leaders left in charge of handling the fallout from Pharaoh's new decree. It also underscores their bitter, possibly threatening reaction upon seeing Moshe and Aharon (Shmot 5:20-21):
 <br/>
 <br/>
 
@@ -5220,11 +5220,11 @@ This idea is greatly expanded upon in later mystical and Kabbalistic works; it i
 
 *In the midrash it says: 'The taskmasters of the people and their officers went out' (Shmot 5:10). Once this decree was made Moshe went back to Midian and waited there for six months, and Aharon remained behind in Egypt. At that time Moshe also returned his wife and children to Midian (Shmot Rabbah 5:19). They also said: 'The officers met Moshe and Aharon' (Shmot 5:20) - after six months, HaKadosh Baruch Hu appeared to Moshe in Midian and said to him: 'Go return to Egypt' (Shmot 4:19). Moshe came from Midian and Aharon was in Egypt, and the officers of Yisrael met them when they were leaving Pharaoh's presence."*
 
-**326.** **Mechilta DeRabbi Yishmael 18:2.**
+**327.** **Mechilta DeRabbi Yishmael 18:2.**
 
-**327.** Alternatively, it could have been the first time Aharon and Moshe ever met face-to-face. We are not told of Moshe interacting with his biological family at any point between 3 months when Yocheved placed him in the river and when he fled to Midian in his youth.
+**328.** Alternatively, it could have been the first time Aharon and Moshe ever met face-to-face. We are not told of Moshe interacting with his biological family at any point between 3 months when Yocheved placed him in the river and when he fled to Midian in his youth.
 
-**328.** **Mechilta DeShirah 15:3**
+**329.** **Mechilta DeShirah 15:3**
 <br/>
 <br/>
 
@@ -5234,11 +5234,11 @@ This idea is greatly expanded upon in later mystical and Kabbalistic works; it i
 
 *"A maidservant experienced at the sea what even Yechezkel Ben Buzi did not merit to experience."*
 
-**329.** *Yetziat Mitzrayim* was surely a transformational experience spiritually and a foundational experience politically, so the fact that Tziporrah and her children were not present (and that Aharon's children were) may have been another contributing factor to Moshe's childrens' religious decline into irrelevance. See previous **Part**.
+**330.** *Yetziat Mitzrayim* was surely a transformational experience spiritually and a foundational experience politically, so the fact that Tziporrah and her children were not present (and that Aharon's children were) may have been another contributing factor to Moshe's childrens' religious decline into irrelevance. See previous **Part**.
 
-**330.** Moshe had originally fled to Midian in his youth because he had killed an Egyptian taskmaster and was afraid of the royal death sentence pronounced upon him (Shmot 2:15). Knowing this was a source of concern, Hashem assured him before his return that *"all the people seeking your life are dead" (Shmot 4:19)*. It is reasonable to assume that Moshe's direct hand in increasing the burden on the people, and the subsequent attack hurled at him by the Jewish officers that *"May Hashem look at you and judge, because you have made our smell abhorrent in the eyes of Pharaoh and his servants" (Shmot 5:21)*, was interpreted by him as a threat against his life. It is possible the midrash is drawing this parallel as well: Midian is not only conceptually the place Moshe takes refuge from his past failure; it is also literally the place Moshe takes refuge when he is afraid for his life.
+**331.** Moshe had originally fled to Midian in his youth because he had killed an Egyptian taskmaster and was afraid of the royal death sentence pronounced upon him (Shmot 2:15). Knowing this was a source of concern, Hashem assured him before his return that *"all the people seeking your life are dead" (Shmot 4:19)*. It is reasonable to assume that Moshe's direct hand in increasing the burden on the people, and the subsequent attack hurled at him by the Jewish officers that *"May Hashem look at you and judge, because you have made our smell abhorrent in the eyes of Pharaoh and his servants" (Shmot 5:21)*, was interpreted by him as a threat against his life. It is possible the midrash is drawing this parallel as well: Midian is not only conceptually the place Moshe takes refuge from his past failure; it is also literally the place Moshe takes refuge when he is afraid for his life.
 
-**331.** Moshe asks Yitro permission to return to Egypt to see how his brothers are faring; there is no indication that he explained to Yitro or anyone else - including Tzipporah - his true reason for going:
+**332.** Moshe asks Yitro permission to return to Egypt to see how his brothers are faring; there is no indication that he explained to Yitro or anyone else - including Tzipporah - his true reason for going:
 <br/>
 <br/>
 
@@ -5256,7 +5256,7 @@ This idea is greatly expanded upon in later mystical and Kabbalistic works; it i
 
 If Tzipporah did not know Moshe's true purpose in descending to Egypt, then when Aharon told Moshe: *"Now you are adding these to the distress"* (see **Note 80**), it could be that this was the first time Tzipporah heard about the oppression in Egypt. One can imagine her confusion, and anger, at Moshe for hiding the state of affairs of his people and his reason for going down; perhaps Moshe sent Tzipporah back as a response to her reaction upon discovering his true intentions and her subsequent refusal to endanger herself or their children in Egypt.
 
-**332.** This phenomenon of "seeing is believing" is also used by the midrash to explain why Moshe broke the *luchot* upon his descent from Har Sinai and witnessing the people dancing before the golden calf. Although he had been told informed by HaKadosh Baruch Hu at the top of Har Sinai that the people were sinning, he tried to excuse their behavior; only once he descended and saw it firsthand was he overcome with anger and broke the *luchot*:
+**333.** This phenomenon of "seeing is believing" is also used by the midrash to explain why Moshe broke the *luchot* upon his descent from Har Sinai and witnessing the people dancing before the golden calf. Although he had been told informed by HaKadosh Baruch Hu at the top of Har Sinai that the people were sinning, he tried to excuse their behavior; only once he descended and saw it firsthand was he overcome with anger and broke the *luchot*:
 <br/>
 <br/>
 
@@ -5282,9 +5282,9 @@ If Tzipporah did not know Moshe's true purpose in descending to Egypt, then when
 
 *"And if you want to ask, why didn't Moshe make his kal vachomer from Korban Pesach right away, when HaKadosh Baruch Hu said to him 'go down for the people you brought out of Egypt have become corrupted' etc.? And we can explain based on that which is said in the midrash: 'Is it possible that Moshe did not believe HaKadosh Baruch Hu when he said to him etc.? Rather, this is meant to teach Yisrael that even if a person hears something from a single trustworthy source, it is forbidden for him to accept that testimony and make a judicial case based on it since two witnesses are required. Ba'al Ikkarim 4:15 explained that a thing which is seen by the eyes distresses a man much more than knowledge. A man is much more moved from that which is felt by the senses than by something which becomes based on what is known intellectually to be true. See also all the other mefarshim."*
 
-**333.** **Vayikra 14:1-8.**
+**334.** **Vayikra 14:1-8.**
 
-**334.** Egypt is referred to by Shlomo HaMelech as analogous to an iron smelting pot:
+**335.** Egypt is referred to by Shlomo HaMelech as analogous to an iron smelting pot:
 <br/>
 <br/>
 
@@ -5326,7 +5326,7 @@ An iron smelting pot is actually an earthenware utensil that refines metals heat
 
 *"Just as silver and gold are refined in a smelting pot, so too Bnai Yisrael were refined in Egypt by hard work."*
 
-**335.** **Mishnah Negaim 14:5**
+**336.** **Mishnah Negaim 14:5**
 <br/>
 <br/>
 
@@ -5336,7 +5336,7 @@ An iron smelting pot is actually an earthenware utensil that refines metals heat
 
 *"With regard to the two birds: the mitzvah is that they should be identical in appearance, in size and in price, and they must be purchased at the same time."*
 
-**336.** In addition to the other examples discussed shortly, an interesting emphasis is made in the pesukim around the idea of life, *chayim*. Both birds are required to be *chayot*, and the water used to catch the slaughtered bird's blood is also required to be *chayim*. Naturally the concept of life is one which also relates to a mother bird, since motherhood is intrinsically tied to the idea of life. A proof of this is found early on the Torah when Adam named his wife Chava owing to her being the "mother of all things that are living":
+**337.** In addition to the other examples discussed shortly, an interesting emphasis is made in the pesukim around the idea of life, *chayim*. Both birds are required to be *chayot*, and the water used to catch the slaughtered bird's blood is also required to be *chayim*. Naturally the concept of life is one which also relates to a mother bird, since motherhood is intrinsically tied to the idea of life. A proof of this is found early on the Torah when Adam named his wife Chava owing to her being the "mother of all things that are living":
 <br/>
 <br/>
 
@@ -5362,7 +5362,7 @@ An iron smelting pot is actually an earthenware utensil that refines metals heat
 
 *"Rabbi Simon said: 'Mother of all life' - the mother of all things that are living."*
 
-**337.** The Kohen must make the official declaration, but anyone can fulfill the mitzvah to take the birds. In our case, Aharon is the one declaring while Moshe - a Levite - is doing the taking:
+**338.** The Kohen must make the official declaration, but anyone can fulfill the mitzvah to take the birds. In our case, Aharon is the one declaring while Moshe - a Levite - is doing the taking:
 <br/>
 <br/>
 
@@ -5437,7 +5437,7 @@ As an aside, there is a *machloket* in Torat Kohanim (Sifra) about whether a non
 
 *"Anyone. And even according to the Tanna in Torat Kohanim i.e. Rabbi's opinion in Sifra that the slaughtering must be done by a Kohen specifically, in any case it doesn't have to be the same Kohen who has the power to see the affliction and purify it. Rather, the mitzvah is that any Kohen can slaughter."*
 
-**338.** Regarding the halachic connection, these are the only two positive mitzvot which carry *karet* as punishment for not performing them, and an uncircumcised person is forbidden from partaking in the *korban pesach.* Additionally, accordingly to one aggadic tradition the delicious smell of the *korban pesach* was even used by HaKadosh Baruch Hu to entice Bnai Yisrael into accepting circumcisions:
+**339.** Regarding the halachic connection, these are the only two positive mitzvot which carry *karet* as punishment for not performing them, and an uncircumcised person is forbidden from partaking in the *korban pesach.* Additionally, accordingly to one aggadic tradition the delicious smell of the *korban pesach* was even used by HaKadosh Baruch Hu to entice Bnai Yisrael into accepting circumcisions:
 <br/>
 <br/>
 
@@ -5463,7 +5463,7 @@ As an aside, there is a *machloket* in Torat Kohanim (Sifra) about whether a non
 
 *"Our Rabbis said: Yisrael did not want to get circumcised in Egypt, for all of them had foregone the mitzvah of brit milah except for the tribe of Levi, as it says: 'And Moshe said of Levi, merit Your Urim V'Tumim ... for they observed Your words and kept Your covenant' (Devarim 33:8-9), in Egypt. HaKadosh Baruch Hu wanted to redeem them but they didn't have enough merit. What did HaKadosh Baruch Hu do? He called to Moshe and said to him: Go circumcise them. Some say, Yehoshua was there and he circumcised them, as it says: 'Circumcise Bnai Yisrael again, a second time" (Yehoshua 5:2). Many of them did not want to be circumcised, so HaKadosh Baruch Hu said that they should do the korban pesach. Once Moshe had done the korban pesach, HaKadosh Baruch Hi commanded the four winds of the world that blow in Gan Eden from the winds in Gan Eden, and they went and cleaved to that korban pesach, as it says: 'Wake up, North wind, and come, South wind" (Shir HaShirim 4:16), and its smell wafted the distance of 40 days. All of Yisrael gathered before Moshe and said to him: Please let us eat from your korban pesach - for they were tired from the smells. HaKadosh Baruch Hu would then say: If you are not circumcised you cannot eat, as it says: 'Hashem said to Moshe and Aharon, this is the law of the Pesach' (Shmot 12:43). Immediately Bnai Yisrael gave themselves over to be circumcised, and the paschal blood mixed with the blood of circumcision. HaKadosh Baruch Hu passed over and took every person and kissed him and blessed him, as it says: 'I passed by you and say you wallowing in your blood' (Yechezkel 16:6) - you shall live because of the paschal blood, you shall live because of the blood of circumcision."*
 
-**339.** The redemptive nature of *brit milah* is also comparable to the slaughtering of the *korban pesach* - and by extension, the slaughtering of the bird for a *metzora* - in another way: just as a dead animal cannot come back to life, circumcision is (unless drastic measures is taken) an irreversible procedure, forever ensuring that the circumcised will be free from the afflictions of *Avodah Zarah*:
+**340.** The redemptive nature of *brit milah* is also comparable to the slaughtering of the *korban pesach* - and by extension, the slaughtering of the bird for a *metzora* - in another way: just as a dead animal cannot come back to life, circumcision is (unless drastic measures is taken) an irreversible procedure, forever ensuring that the circumcised will be free from the afflictions of *Avodah Zarah*:
 <br/>
 <br/>
 
@@ -5477,7 +5477,7 @@ As an aside, there is a *machloket* in Torat Kohanim (Sifra) about whether a non
 
 *"'The Kohen shall command, and he will slaughter one of the birds' (Vayikra 14:5). Why slaughter one and spare one? To tell you that just as the slaughtered one cannot return, so too the afflictions of tzara'at cannot return."*
 
-**340.** Yitro's arrival in the desert happened less than two years after Gershom was circumcised. This can be calculated based on adding together the time which elapsed between (a) Gershom's circumcision and *makat bechorot*, and (b) *makat bechorot* and Yitro's arrival.
+**341.** Yitro's arrival in the desert happened less than two years after Gershom was circumcised. This can be calculated based on adding together the time which elapsed between (a) Gershom's circumcision and *makat bechorot*, and (b) *makat bechorot* and Yitro's arrival.
 <br/>
 <br/>
 
@@ -5563,9 +5563,9 @@ To summarize: *makat bechorot* happened on the 15th of Nissan. The most straight
 
 !(images/media/image6.png){width="5.5270494313210845in" height="1.7447922134733158in"}
 
-**341.** **Devarim 22:6-7.**
+**342.** **Devarim 22:6-7.**
 
-**342.** The Talmud sees halachic significance in the word choice of *tzippor* as opposed to *'of*, which does not contradict other, aggadic motivations for using *tzippor* specifically:
+**343.** The Talmud sees halachic significance in the word choice of *tzippor* as opposed to *'of*, which does not contradict other, aggadic motivations for using *tzippor* specifically:
 <br/>
 <br/>
 
@@ -5579,9 +5579,9 @@ To summarize: *makat bechorot* happened on the 15th of Nissan. The most straight
 
 *"An impure bird is exempt from being sent. How do we know this? Rabbi Yitzchak said, the pasuk says: 'If you come across a bird's nest'. 'Of' indicates pure and impure, while regarding 'Tzippor' we find that pure birds are called tzippor while impure birds are not called tzippor."*
 
-**343.** **Vayikra Rabbah 27:11.**
+**344.** **Vayikra Rabbah 27:11.**
 
-**344.** **Rabbeinu Bahaye Devarim 22:7 d"h shaliah teshalah et ha'em**
+**345.** **Rabbeinu Bahaye Devarim 22:7 d"h shaliah teshalah et ha'em**
 <br/>
 <br/>
 
@@ -5591,7 +5591,7 @@ To summarize: *makat bechorot* happened on the 15th of Nissan. The most straight
 
 *"But there is another opinion i.e. the Kabbalistic one found in Tikkunei HaZohar 23a, namely that in the fulfillment of this mitzvah there is an awakening of mercy for the entire world, and it is because when he sends away the mother she is distressed and worried about the destruction of her nest and being separated from her children, and she is distressed and goes and wants to kill herself, and from her great distress the angel who is appointed over the birds asks for mercy from HaKadosh Baruch Hu, and then HaKadosh Baruch Hu, about whom it is written: 'His mercy is on all of His creations' (Tehillim 145:9), draws down the influence of mercy among all those who are in distress and in need of mercy, and is merciful upon them. Which is to say, that whoever fulfills this mitzvah and sends the mother away, that is the reason that mercy is awakened for the whole world, and it is good for him regarding them, and this is what it means when it says: 'So that it will be good for you, and so that you shall have a lengthening of days', a lengthening of days due to this mercy which is drawn down."*
 
-**345.** Only two other mitzvot guarantee long life as a reward: the need to have fair weights (Devarim 25:13-16) and the injunction to honor one's parents (Shmot 20:11; Devarim 5:15). One midrashic explanation for this revolves around the tension between the simplicity and ease of fulfilling *shiluach haken* compared to the difficulty in honoring one's parents:
+**346.** Only two other mitzvot guarantee long life as a reward: the need to have fair weights (Devarim 25:13-16) and the injunction to honor one's parents (Shmot 20:11; Devarim 5:15). One midrashic explanation for this revolves around the tension between the simplicity and ease of fulfilling *shiluach haken* compared to the difficulty in honoring one's parents:
 <br/>
 <br/>
 
@@ -5617,7 +5617,7 @@ To summarize: *makat bechorot* happened on the 15th of Nissan. The most straight
 
 *"If the reward for shiluach haken is a long life, the reward for a mitzvah which requires loss and effort and livelihood - how much more so. This is why HaKadosh Baruch Hu did not reveal the reward of those who do mitzvot in the Torah, so that Yisrael would do them on their own, in order to increase reward. As was taught similarly (Avot 1:3): Do not be like slaves who serve their master to receive a reward, but rather be like slaves who serve their master not in order to receive a reward."*
 
-**346.** **Yalkut Shimoni on Nach Remez 31**
+**347.** **Yalkut Shimoni on Nach Remez 31**
 <br/>
 <br/>
 
@@ -5627,7 +5627,7 @@ To summarize: *makat bechorot* happened on the 15th of Nissan. The most straight
 
 *"The last blessing was even greater than the first, as it says: 'On the eighth day he sent the nation ... and they went to their tents' (Melachim Aleph 8:66) - they found their wives were pure. 'Happy' that they had enjoyed the radiance of the Shechinah, 'of good heart' because each and every one's wife became pregnant with a male child, 'for all the good' that a Bat Kol went out and said to them: You are all welcome into the World to Come."*
 
-**347.** **Chessed L'Avraham, Ma'ayan 2 Sha'ar 63**
+**348.** **Chessed L'Avraham, Ma'ayan 2 Sha'ar 63**
 <br/>
 <br/>
 
@@ -5637,11 +5637,11 @@ To summarize: *makat bechorot* happened on the 15th of Nissan. The most straight
 
 *"And with the word 'and guard you' in Birkat Kohanim, he must have intention for the blessing that G-d, may He be blessed, should give children to Yisrael, for there is no greater protection for a man to ensure his name is not erased from Yisrael than children, and with children he will be guarded from all evil."*
 
-**348.** Similarly, if a person honors his parents by observing their teachings and living according to their values, that will ensure his own children, who grow up seeing how their father respects his parents, will do the same regarding his own teachings and values. This is why this same reward is also found by the mitzvah of *kibud av v'em*: it too ensures *arichut yamim*. This explanation removes the question which bothered the midrashim in **Note 100**; once we understand *arichut yamim* as a consequence and not a reward, its applicability to both honoring one's parents and educating your children becomes readily apparent.
+**349.** Similarly, if a person honors his parents by observing their teachings and living according to their values, that will ensure his own children, who grow up seeing how their father respects his parents, will do the same regarding his own teachings and values. This is why this same reward is also found by the mitzvah of *kibud av v'em*: it too ensures *arichut yamim*. This explanation removes the question which bothered the midrashim in **Note 100**; once we understand *arichut yamim* as a consequence and not a reward, its applicability to both honoring one's parents and educating your children becomes readily apparent.
 
-**349.** **Bemidbar 12:1-16.**
+**350.** **Bemidbar 12:1-16.**
 
-**350.** The pesukim refer to Moshe's wife as the Cushite and do not mention Tzipporah by name. According to traditional midrashic sources this Cushite woman is identical with Tzipporah, and her name is concealed to teach positive qualities about her by association:
+**351.** The pesukim refer to Moshe's wife as the Cushite and do not mention Tzipporah by name. According to traditional midrashic sources this Cushite woman is identical with Tzipporah, and her name is concealed to teach positive qualities about her by association:
 <br/>
 <br/>
 
@@ -5699,11 +5699,11 @@ There is also a tradition that the Cushite woman was actually not Tzipporah but 
 
 This, however, appears to be a later tradition. The overwhelming midrashic consensus equates the Cushite woman with Tzipporah.
 
-**351.** **Devarim 24:8-9.**
+**352.** **Devarim 24:8-9.**
 
-**352.** See **Note 97** on the time that elapsed between the onset of the ten plagues and Yitro's arrival at Har Sinai.
+**353.** See **Note 97** on the time that elapsed between the onset of the ten plagues and Yitro's arrival at Har Sinai.
 
-**353.** **Rashi on Bemidbar 10:12 d"h bemidbar paran**
+**354.** **Rashi on Bemidbar 10:12 d"h bemidbar paran**
 <br/>
 <br/>
 
@@ -5741,7 +5741,7 @@ This, however, appears to be a later tradition. The overwhelming midrashic conse
 
 See also Rashbam's comments in depth where he resolves these problematic pesukim in an entirely different way.
 
-**354.** The stories of Miriam and the spies are juxtaposed not only because they happened one after the other, but also because they both revolve around *lashon hara*, first on an individual level and then on a national level:
+**355.** The stories of Miriam and the spies are juxtaposed not only because they happened one after the other, but also because they both revolve around *lashon hara*, first on an individual level and then on a national level:
 <br/>
 <br/>
 
@@ -5795,15 +5795,15 @@ This idea that Miriam was punished first so that there would be precedent to pun
 
 *"'And Chatzerot'. If Miriam, who only spoke ill about her younger brother, was punished so severely in the desert - someone who speaks against someone greater than him, how much more so."*
 
-**355.** The next event recorded in the Torah after Korach's rebellion is Miriam's death and the sin of *Mei Merivah* (Bemidbar 20:1) which happened in the 40th year, so Korach's rebellion could theoretically have occurred anytime between year 2 and year 40.
+**356.** The next event recorded in the Torah after Korach's rebellion is Miriam's death and the sin of *Mei Merivah* (Bemidbar 20:1) which happened in the 40th year, so Korach's rebellion could theoretically have occurred anytime between year 2 and year 40.
 
-**356.** **Tanchuma Yelamdenu Korach 4.**
+**357.** **Tanchuma Yelamdenu Korach 4.**
 
-**357.** **Devarim 1:1-2.**
+**358.** **Devarim 1:1-2.**
 
-**358.** **Rashi to Devarim 1:1 d"h vechatzerot.**
+**359.** **Rashi to Devarim 1:1 d"h vechatzerot.**
 
-**359.** **Rashi to Devarim 1:1 d"h eleh hadevarim**
+**360.** **Rashi to Devarim 1:1 d"h eleh hadevarim**
 <br/>
 <br/>
 
@@ -5813,7 +5813,7 @@ This idea that Miriam was punished first so that there would be precedent to pun
 
 *"Because these are words of rebuke and Moshe listed here all the places where Bnai Yisrael angered HaMakom, therefore the words were hidden and they are recounted with veiled hints out of regard for Yisrael's honor."*
 
-**360.** **Rashi to Devarim 1:2 d"h achad asar yom mechorev**
+**361.** **Rashi to Devarim 1:2 d"h achad asar yom mechorev**
 <br/>
 <br/>
 
@@ -5823,7 +5823,7 @@ This idea that Miriam was punished first so that there would be precedent to pun
 
 *"Moshe said to Bnai Yisrael: See what you have caused. There is no route from Chorev to Kadesh Barnea as short as the way via Har Seir, and even that is a journey of eleven days. You, however, traversed it in only three days. How do we know this? For Bnai Yisrael journeyed from Chorev on the twentieth of Iyyar, as it says: 'In the second year, in the second month on the twentieth of the month, the cloud rose from atop the Mishkan of the testimony. Bnai Yisrael journeyed on their journeys, from Midbar Sinai, and the cloud rested in Midbar Paran' (Bemidbar 10:11-12), and on the twenty ninth of Sivan they sent out the spies from Kadesh Barnea which lasted an interval of 40 days (Taanit 29a). Deduct from these the thirty days they spent at Kivrot HaTa'avah where they ate the meat for 'a month of days', and deduct an additional seven days they spent at Chatzerot for Miriam to be quarantined there - it follows that in three days they traversed all that way. To such an extent did the Shechinah exert Herself to hasten your coming to the land of Canaan, but because you became degenerate, HaKadosh Baruch Hu made you travel around Har Seir for forty years."*
 
-**361.** Yet we have no account of Bnai Yisrael as a whole angering HaKadosh Baruch Hu there; only Miriam and Aharon acted wrongfully and aroused G-d's wrath at Chatzerot, which disqualifies it as a candidate for this list:
+**362.** Yet we have no account of Bnai Yisrael as a whole angering HaKadosh Baruch Hu there; only Miriam and Aharon acted wrongfully and aroused G-d's wrath at Chatzerot, which disqualifies it as a candidate for this list:
 <br/>
 <br/>
 
@@ -5853,9 +5853,9 @@ This idea that Miriam was punished first so that there would be precedent to pun
 
 *And it should not be asked, why would it not be easier to explain Chatzerot as a reference to Miriam, namely that she angered HaMakom and spoke against her brothers as the Torah states explicitly, and not as a reference to Korach's rebellion where there is doubt whether it even happened in Chatzerot or somewhere else, for we can say that because Miriam's sin is the sin of an individual it might not be appropriate to count it with the national rebukes which are for sins of the many."*
 
-**362.** See for example Bemidbar Rabbah 16:6 in the earlier note quoted above.
+**363.** See for example Bemidbar Rabbah 16:6 in the earlier note quoted above.
 
-**363.** Chizkuni attempts to brush off the dramatic implications of Rashi's comment by claiming he meant to say that Korach's rebellion happened while Bnai Yisrael were traveling near Chatzerot, not while they were encamped in it:
+**364.** Chizkuni attempts to brush off the dramatic implications of Rashi's comment by claiming he meant to say that Korach's rebellion happened while Bnai Yisrael were traveling near Chatzerot, not while they were encamped in it:
 <br/>
 <br/>
 
@@ -5873,7 +5873,7 @@ This idea that Miriam was punished first so that there would be precedent to pun
 
 We will not follow this approach but take Rashi at face value, and assume that he meant that Korach's rebellion did in fact happen while Bnai Yisrael were in Chatzerot itself.
 
-**364.** **Bemidbar 9:17-23**
+**365.** **Bemidbar 9:17-23**
 <br/>
 <br/>
 
@@ -5883,7 +5883,7 @@ We will not follow this approach but take Rashi at face value, and assume that h
 
 *"Whenever the cloud rose up from on top of the tent, only then would Bnai Yisrael journey; and in a place where the cloud would rest, that was where Bnai Yisrael encamped. By the word of Hashem Bnai Yisrael journeyed, and by the word of Hashem they encamped, for all the days that the cloud rested they encamped. If the cloud spent many days on the Mishkan, Bnai Yisrael kept the charge of Hashem, and did not journey. There were times when the cloud was on the Mishkan for just a few days; by the word of Hashem they journeyed, and by the word of Hashem they encamped. There were even times when the cloud was from evening to morning, and in the morning the cloud rose and Bnai Yisrael journeyed, or if it was day and night, and then the cloud rose, and they journeyed. Or two days, or a month, or a year - however long the cloud was resting on the Mishkan, Bnai Yisrael encamped and did not journey, and when it rose they journeyed. By the word of Hashem they encamped, and by the word of Hashem they journeyed, they kept the charge of Hashem, by the word of Hashem at the hands of Moshe."*
 
-**365.** **Seforno to Bemidbar 12:15 d"h veha'am lo nasa**
+**366.** **Seforno to Bemidbar 12:15 d"h veha'am lo nasa**
 <br/>
 <br/>
 
@@ -5893,7 +5893,7 @@ We will not follow this approach but take Rashi at face value, and assume that h
 
 *"Even though the cloud removed itself from the tent, and even though it says: 'And when the cloud raised up from atop the Mishkan Bnai Yisrael would journey on all of their journeys' (Shmot 40:36) - still in this case Bnai Yisrael did not journey because they recognized that the cloud did not rise except to distance the one afflicted with tzara'at.'*
 
-**366.** For Chazal, this principle of Divine justice is an important theological cornerstone and can be found in many places throughout the aggadah.
+**367.** For Chazal, this principle of Divine justice is an important theological cornerstone and can be found in many places throughout the aggadah.
 <br/>
 <br/>
 
@@ -5911,13 +5911,13 @@ Not only does HaKadosh Baruch Hu pay man back based on his actions - not allowin
 
 *"This means to say, the general principle of payments is middah keneged middah, and it applies whether for good or for bad. But, there is an additional benefit for good that extra reward is paid on top of the middah measured for a man, as explained here, in that Miriam only watched Moshe for a short time but the people waited for seven days until she returned."*
 
-**367.** **Mishnah Sotah 1:9.**
+**368.** **Mishnah Sotah 1:9.**
 
-**368.** **Yalkut Shimoni on Torah Remez 742.**
+**369.** **Yalkut Shimoni on Torah Remez 742.**
 
-**369.** **Tanchuma Yelamdenu Tzav 13.**
+**370.** **Tanchuma Yelamdenu Tzav 13.**
 
-**370.** While one opinion states that Moshe only separated from Tzipporah because HaKadosh Baruch Hu had commanded him to, another opinion argues that Moshe actually came to this decision on his own, and afterwards received Divine approval:
+**371.** While one opinion states that Moshe only separated from Tzipporah because HaKadosh Baruch Hu had commanded him to, another opinion argues that Moshe actually came to this decision on his own, and afterwards received Divine approval:
 <br/>
 <br/>
 
@@ -5931,7 +5931,7 @@ Not only does HaKadosh Baruch Hu pay man back based on his actions - not allowin
 
 *"Moshe separated himself from his wife and his thought agreed with the thought of HaMakom He agreed. How? Moshe said: if Yisrael, who were only commanded to sanctify themselves one time and it was only in order to receive the Aseret HaDibrot from Har Sinai - about them HaKadosh Baruch Hu said to me: 'Go to the nation and sanctify them today and tomorrow' (Shmot 19:10). I, who should be ready to receive it every day at every moment, and I don't know when He will speak with me, whether during the day or at night - how much more so should I sanctify myself by separating from my wife? And his thought agreed with the thought of HaMakom. Rabbi Yehudah Ben Beteirah says: Moshe did not separate from his wife except because he was told to by G-d, as it says: 'I speak to him mouth to mouth' (Bemidbar 12:8). Mouth to mouth I told him to separate himself from his wife, and he separated. There are those who say similarly, that Moshe did not separate from his wife except because he was told to by G-d, as it says: 'Go say to them, go back to your tents' (Devarim 5:28), and it says after that: 'You Moshe stand here with Me'. Moshe turned back and separated from Tzipporah, and his thought agreed with the thought of HaMakom."*
 
-**371.** **Sifre Bemidbar 99**
+**372.** **Sifre Bemidbar 99**
 
 מנין היתה מרים יודעת שפירש משה מפריה ורביה? אלא שראתה צפורה שאינה מתקשטת בתכשיטי נשים. אמרה לה: מה לך שאין את מתקשטת בתכשיטי נשים? אמרה לה: אין אחיך מקפיד בדבר. לכך ידעה מרים, ואמרה לאחיה, ושניהם דברו בו. והרי דברים ק״ו: ומה מרים, שלא נתכוונה לדבר באחיה לגנאי אלא לשבח, ולא למעט מפריה ורביה אלא לרבות, בינה לבין עצמה - כך נענשה; המתכוון לדבר בחברו לגנאי ולא לשבח, ולמעט מפריה ורביה ולא לרבות, בינו לבין אחרים ולא בינו לבין עצמו - על אחת כמה וכמה:
 <br/>
@@ -5939,9 +5939,9 @@ Not only does HaKadosh Baruch Hu pay man back based on his actions - not allowin
 
 *"How did Miriam know that Moshe had separated from procreation? She saw that Tzipporah was not adorned herself with the ornaments of women. She said to her: What's happened to you that you aren't adorning yourself with the ornaments of women? She said to her: Your brother does not care about it. That is how Miriam knew, and she told her brother Aharon, and the two of them spoke against Moshe about it. And these things are a kal vachomer: If Miriam, who did not intend to speak ill about her brother but rather for good intent, and not to reduce procreation but rather to increase it, and she only spoke with herself and Aharon, and even so she was punished with tzara'at - someone who intends to speak ill against his fellow and not for good intent, and to reduce procreation and not to increase it, and gossips amongst others and not with himself, how much more so."*
 
-**372.** **Shmot 15:20-21.**
+**373.** **Shmot 15:20-21.**
 
-**373.** The full aggadah can be pieced together by combining the following two separate Talmudic accounts:
+**374.** The full aggadah can be pieced together by combining the following two separate Talmudic accounts:
 <br/>
 <br/>
 
@@ -5967,7 +5967,7 @@ Not only does HaKadosh Baruch Hu pay man back based on his actions - not allowin
 
 *"It was taught: Amram was a great man in his generation. When he saw that the wicked Pharaoh had said: 'Any boy that is born shall be thrown into the river', he said: we are toiling for nothing. He stood up and divorced his wife, and everyone stood up and divorced their wives. His daughter Miriam said to him; Abba, your decree is harsher than Pharaoh's. Pharaoh only decreed against the boys, and you decreed against the boys and the girls. Also, Pharaoh only decreed in this world, but you decreed in this world and the next. Pharaoh is wicked, so there is doubt if his decree will be fulfilled or not, but you are righteous so it is certain that your decree will be fulfilled, as it says: 'You shall also decree a thing, and it shall be established unto you' (Iyov 22:28). Amram stood up and remarried his wife, and everyone stood up and remarried their wives. 'And Amram' took a wife' - it should have said 'returned' since he was remarrying her? Rav Yehudah Bar Zevina said: Amram performed an act of marriage for her as if it was the first time. He sat her on a throne, and Aharon and Miriam danced before her, and angels said: 'A joyful mother of children' (Tehillim 113:9)."*
 
-**374.** This midrashic account, aside from resolving several other textual and thematic discrepancies, could perhaps be used to provide an unconventional explanation as to why Aharon was chosen to be Kohen while Moshe was not. Miriam and Aharon were born before Amram and Yocheved divorced, while Moshe was born after they remarried. There is a Torah prohibition for a man to remarry a woman he had previous divorced if she had married somebody else in the interim:
+**375.** This midrashic account, aside from resolving several other textual and thematic discrepancies, could perhaps be used to provide an unconventional explanation as to why Aharon was chosen to be Kohen while Moshe was not. Miriam and Aharon were born before Amram and Yocheved divorced, while Moshe was born after they remarried. There is a Torah prohibition for a man to remarry a woman he had previous divorced if she had married somebody else in the interim:
 <br/>
 <br/>
 
@@ -6025,7 +6025,7 @@ Differentiating Moshe from Aharon based on Yocheved's status is therefore not a 
 
 *"Rabbi Eliezer said, whoever divorces his first wife, even the altar sheds tears about him ... Rav Yehudah taught his son Rav Yitzchak, a man does not find peace of mind except with his first wife, as it says: 'May your source be blessed and be joyful with the wife of your youth' (Mishlei 5:18)."*
 
-**375.** This is consistent with the midrashic description of Miriam as a competent midwife who saved and cared for babies from the ripe young age of five years old:
+**376.** This is consistent with the midrashic description of Miriam as a competent midwife who saved and cared for babies from the ripe young age of five years old:
 <br/>
 <br/>
 
@@ -6039,9 +6039,9 @@ Differentiating Moshe from Aharon based on Yocheved's status is therefore not a 
 
 *"Who were the midwives Shifra and Pu'ah? Rav said: A daughter-in-law and her mother-and-law, Yocheved and Elisheva the daughter of Aminadav. Rabbi Shmuel Bar Nachman said: A woman and her daughter, Yocheved and Miriam. And Miriam was only five years old ... Pu'ah: She squirted wine into a baby's mouth after it came out of its mother ... Alternatively, Pu'ah: She would cause the newborn to cry after it was declared a stillborn."*
 
-**376.** The idea to separate as a result of Pharaoh's decree to kill baby boys was Amram's idea in the midrash. Presumably his wife Yocheved was not in favor, a conclusion which makes sense given that she was Shifra - the other midwife - and therefore dedicated to saving babies and subverting Pharaoh's decree. Miriam/Pu'ah had followed in her honorable mother's footsteps, and perhaps she was afraid that Moshe had followed in their father Amram's footsteps, which was motivating his belief that - like his father before him - divorcing his wife was both an admirable and necessary course of action.
+**377.** The idea to separate as a result of Pharaoh's decree to kill baby boys was Amram's idea in the midrash. Presumably his wife Yocheved was not in favor, a conclusion which makes sense given that she was Shifra - the other midwife - and therefore dedicated to saving babies and subverting Pharaoh's decree. Miriam/Pu'ah had followed in her honorable mother's footsteps, and perhaps she was afraid that Moshe had followed in their father Amram's footsteps, which was motivating his belief that - like his father before him - divorcing his wife was both an admirable and necessary course of action.
 
-**377.** **Kallah Rabbati 3:4**
+**378.** **Kallah Rabbati 3:4**
 <br/>
 <br/>
 
@@ -6055,11 +6055,11 @@ Differentiating Moshe from Aharon based on Yocheved's status is therefore not a 
 
 This could be another reason why Miriam is referred to as: *'A prophet, Aharon's sister' (Shmot 15:20)* and not as Moshe's sister. Her prophecy had to do with unification, birth and deliverance, ideas that Aharon also understood and related to but that Moshe was ironically disconnected from.
 
-**378.** This can also explain why Miriam felt a deep sense of kinship with her sister-in-law Tzipporah. Tzipporah, the paradigmatic mother bird, not only protected her children but Moshe as well: she circumcised their son and saved Moshe from destruction. Miriam, too, had watched Moshe as a three month old baby from afar, hovering and making sure that he was safe. Both Miriam and Tzipporah were women who cared about Moshe and wanted to protect him from danger.
+**379.** This can also explain why Miriam felt a deep sense of kinship with her sister-in-law Tzipporah. Tzipporah, the paradigmatic mother bird, not only protected her children but Moshe as well: she circumcised their son and saved Moshe from destruction. Miriam, too, had watched Moshe as a three month old baby from afar, hovering and making sure that he was safe. Both Miriam and Tzipporah were women who cared about Moshe and wanted to protect him from danger.
 
-**379.** **Tanchuma Yelamdenu Ki Teitzei 9.**
+**380.** **Tanchuma Yelamdenu Ki Teitzei 9.**
 
-**380.** There is a striking echo between this pasuk (Bemidbar 16:14) and the language in Megillah 14a quoted in the note above where Miriam's father Amram *"hit her in the head"* because of Miriam's foolish conviction in her beliefs; perhaps this Gemara is picking up on this pasuk and hinting at the parallelism we are drawing here.
+**381.** There is a striking echo between this pasuk (Bemidbar 16:14) and the language in Megillah 14a quoted in the note above where Miriam's father Amram *"hit her in the head"* because of Miriam's foolish conviction in her beliefs; perhaps this Gemara is picking up on this pasuk and hinting at the parallelism we are drawing here.
 <br/>
 <br/>
 
@@ -6077,7 +6077,7 @@ It is interesting to note that a nearly identical midrashic tradition is found i
 
 *When they threw him into the river, her mother stood up and hit her on the head, and said to her: Daughter, where is your prophecy? This is why it says: 'His sister stood from a distance to see what would happen' (Shmot 2:4), meaning, to know what would be the end of her prophecy."*
 
-**381.** Korach uses the emotions triggered by Miriam's distress to foment rebellion in the desert, the end result of which was a plague leaving tens of thousands dead:
+**382.** Korach uses the emotions triggered by Miriam's distress to foment rebellion in the desert, the end result of which was a plague leaving tens of thousands dead:
 <br/>
 <br/>
 
@@ -6099,9 +6099,9 @@ It is interesting to note that a nearly identical midrashic tradition is found i
 
 *"Bnai Yisrael said to Moshe: We are perishing, we are lost, we are all lost. Anyone who comes near the Mishkan of Hashem dies - will we ever stop perishing?"*
 
-**382.** **Bemidbar Rabbah 18:20.**
+**383.** **Bemidbar Rabbah 18:20.**
 
-**383.** King Uzziyahu of Yehudah was also stricken with *tzara'at*, albeit for arrogance instead of *lashon hara*. The midrash notes that like Korach, Uzziyahu was challenging the authority of the *Kehunah* and was punished for it. This further underlines the connection drawn between Korach's rebellion and *tzara'at*:
+**384.** King Uzziyahu of Yehudah was also stricken with *tzara'at*, albeit for arrogance instead of *lashon hara*. The midrash notes that like Korach, Uzziyahu was challenging the authority of the *Kehunah* and was punished for it. This further underlines the connection drawn between Korach's rebellion and *tzara'at*:
 <br/>
 <br/>
 
@@ -6115,7 +6115,7 @@ It is interesting to note that a nearly identical midrashic tradition is found i
 
 *"'Let the house of Aharon say' (Tehillim 118:3). What did I do for them against anyone that stood against them? Korach and his supporters stood, and the earth swallowed them up. Uzziyahu stood and sought to burn incense, and his forehead broke out with tzara'at."*
 
-**384.** This tradition can also be found in the Talmud:
+**385.** This tradition can also be found in the Talmud:
 <br/>
 <br/>
 
@@ -6145,7 +6145,7 @@ The language of this midrash pays tribute to that of the passage dealing with th
 
 *"Hashem spoke to Moshe, saying: Speak to Bnai Yisrael and said to them: A man whose wife has gone astray and acted unfaithfully against him. And a man slept with her carnally, but her husband did not know, and she kept a secret that she had been defiled, and there was no witness and she had not been forced. And a spirit of jealousy overtakes him and he is jealous over his wife, and she has been defiled; or a spirit of jealousy overtakes him and he is jealous of his wife, and she has not been defiled. And the man shall bring his wife before the Kohen etc."*
 
-**385.** **Sanhedrin 109b-110a**
+**386.** **Sanhedrin 109b-110a**
 <br/>
 <br/>
 
@@ -6171,7 +6171,7 @@ The language of this midrash pays tribute to that of the passage dealing with th
 
 *It is regarding this that it is written: 'The wisdom of women builds her house' (Mishlei 14:1) - this refers to the wife of On: 'but folly tears it down with her own hands' - this refers to the wife of Korach."*
 
-**386.** This accusation against Moshe secluding himself with other people's wives was able to grow legs and promulgate throughout the nation, at least in part, because Moshe had long ago removed his tent and planted it "outside of the camp" (Shmot 33:7). His tent being secluded and removed from everyone else surely made it easier to speculate on what went on in his private quarters. This phenomenon parallels what happens to Miriam as punishment for her lashon hara since she is also shut off "outside of the camp" (Bemidbar 12:15). We are told that part of the explanation for why Moshe moved the Ohel Moed outside the camp was because Hashem spoke to him there face-to-face:
+**387.** This accusation against Moshe secluding himself with other people's wives was able to grow legs and promulgate throughout the nation, at least in part, because Moshe had long ago removed his tent and planted it "outside of the camp" (Shmot 33:7). His tent being secluded and removed from everyone else surely made it easier to speculate on what went on in his private quarters. This phenomenon parallels what happens to Miriam as punishment for her lashon hara since she is also shut off "outside of the camp" (Bemidbar 12:15). We are told that part of the explanation for why Moshe moved the Ohel Moed outside the camp was because Hashem spoke to him there face-to-face:
 <br/>
 <br/>
 
