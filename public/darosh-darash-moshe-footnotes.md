@@ -1337,7 +1337,7 @@ Apparently man can outlive an encounter with an angel of G-d, but it is importan
 
 *"This episode happened before the Ten Commandments, and on the fourth of Sivan he was told to go up (Shabbat 88)."*
 
-**134** **Mechilta DeRabbi Yishmael Shmot 19:10**
+**134.** **Mechilta DeRabbi Yishmael Shmot 19:10**
 
 כיון שראה שקבלו עליהם נטל הדם וזרק על העם, שנאמר (שמות כד, ח) ויקח משה את הדם ויזרק על העם. אמר להם, הרי אתם קשורים ענובים תפוסים, מחר בואו וקבלו עליכם המצות כולן. ר׳ יוסי בר׳ יהודה אומר, בו ביום נעשו כל המעשים:
 
@@ -3379,7 +3379,7 @@ To summarize: *makat bechorot* happened on the 15th of Nissan. The most straight
 
 *"The last blessing was even greater than the first, as it says: 'On the eighth day he sent the nation ... and they went to their tents' (Melachim Aleph 8:66) - they found their wives were pure. 'Happy' that they had enjoyed the radiance of the Shechinah, 'of good heart' because each and every one's wife became pregnant with a male child, 'for all the good' that a Bat Kol went out and said to them: You are all welcome into the World to Come."*
 
-**347. Chessed L'Avraham, Ma'ayan 2 Sha'ar 63**
+**347.** **Chessed L'Avraham, Ma'ayan 2 Sha'ar 63**
 
 ובמלת וישמרך צריך לכוון לברכה שיתן האל יתברך בנים לישראל, שאין לך שמירה לאדם שלא ימחה שמו מישראל אלא בבנים, ובבנים נשמר מכל רע: (חסד לאברהם מעיין ב שער סג):
 
