@@ -448,11 +448,6 @@ const DaroshDarashMoshePage: React.FC = () => {
                     {/* Sections within Chapter */}
                     {chapter.sections.map((section) => (
                       <div key={section.id} className="mb-6">
-                        {/* Section Header */}
-                        <h4 className="text-md font-semibold text-biblical-brown mb-3 pl-2 border-l-2 border-biblical-brown/30">
-                          {section.title}
-                        </h4>
-                        
                         {/* Footnotes within Section */}
                         {section.footnotes.map((footnote) => (
                           <div key={footnote.number} className="mb-6 ml-4 relative">
