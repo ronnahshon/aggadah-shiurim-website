@@ -454,17 +454,26 @@ const DaroshDarashMoshePage: React.FC = () => {
                         
                         {/* Footnotes within Section */}
                         {section.footnotes.map((footnote) => (
-                          <div
-                            key={footnote.number}
-                            id={`footnote-${chapterContext}-${footnote.number}`}
-                            className="mb-6 ml-4 p-4 bg-white/80 rounded-lg shadow-md border-2 border-biblical-brown/20 transition-colors duration-500"
-                          >
-                            <div
-                              className="text-sm text-biblical-brown/90 leading-relaxed"
-                              dangerouslySetInnerHTML={{
-                                __html: `<strong>${footnote.number}.</strong> ${cleanMarkdownFormatting(footnote.content)}`
-                              }}
-                            />
+                          <div key={footnote.number} className="mb-6 ml-4 relative">
+                            {/* Footnote Number - Above Container */}
+                            <div 
+                              id={`footnote-${chapterContext}-${footnote.number}`}
+                              className="mb-2 ml-2"
+                            >
+                              <span className="inline-block px-3 py-1 bg-biblical-brown text-white text-sm font-bold rounded-t-md border-2 border-biblical-brown/20 border-b-0">
+                                {footnote.number}
+                              </span>
+                            </div>
+                            
+                            {/* Footnote Content Container */}
+                            <div className="p-4 bg-white/80 rounded-lg rounded-tl-none shadow-md border-2 border-biblical-brown/20 transition-colors duration-500">
+                              <div
+                                className="text-sm text-biblical-brown/90 leading-relaxed"
+                                dangerouslySetInnerHTML={{
+                                  __html: cleanMarkdownFormatting(footnote.content)
+                                }}
+                              />
+                            </div>
                           </div>
                         ))}
                       </div>
