@@ -856,285 +856,485 @@ David came from Ram son of Hetzron, not Kalev son of Hetzron. So how could the m
 <br/>
 
 **55.** By way of comparison, the Talmud notes that Elisheva was particularly well-connected and had five noble relatives which gave her reason to be joyous:
+<br/>
+<br/>
 
 **Zevachim 102a**
+<br/>
+<br/>
 
 חמש שמחות היתה אלישבע יתירה על בנות ישראל, יבמה מלך אישה כהן גדול בנה סגן בן בנה משוח מלחמה ואחיה נשיא שבט:
+<br/>
+<br/>
 
 *"Elisheva had five happinesses over the rest of the daughters of Yisrael: (1) Her brother-in-law Moshe was a king, (2) Her husband Aharon was a Kohen Gadol, (3) Her son Elazar was a deputy Kohen, (4) Her grandson Pinchas was an army general, (5) Her brother Nahshon was a prince of a tribe i.e. Yehudah."*
+<br/>
+<br/>
 
 A similar list could be construction for Hur: (1) His uncle Moshe was a king, (2) His other uncle Aharon was a Kohen Gadol, (3) His grandson was Betzalel architect of the Mishkan, (4) His mother Miriam was a prophetess, (5) His father Kalev was a prince of a tribe:
+<br/>
+<br/>
 
 **Bemidbar 34:18-19**
+<br/>
+<br/>
 
 וְנָשִׂ֥יא אֶחָ֛ד נָשִׂ֥יא אֶחָ֖ד מִמַּטֶּ֑ה תִּקְח֖וּ לִנְחֹ֥ל אֶת הָאָֽרֶץ׃ וְאֵ֖לֶּה שְׁמ֣וֹת הָאֲנָשִׁ֑ים לְמַטֵּ֣ה יְהוּדָ֔ה כָּלֵ֖ב בֶּן יְפֻנֶּֽה׃
+<br/>
+<br/>
 
 *"One prince for each tribe shall be taken to inherit the Land. These are their names: from the tribe of Yehudah, Kalev Ben Yefuneh."*
 
 **56.** **Bava Batra 110a**
+<br/>
+<br/>
 
 אמר רבא: הנושא אשה צריך שיבדוק באחיה שנאמר ויקח אהרן את אלישבע בת עמינדב אחות נחשון (שמות ו כ״ג). ממשמע שנאמר בת עמינדב איני יודע שאחות נחשון היא, מה תלמוד לומר אחות נחשון, מכאן שהנושא אשה צריך שיבדוק באחיה.
 תנא: רוב בנים דומין לאחי האם:
+<br/>
+<br/>
 
 *"Rava said, whoever marries a woman must check her brothers first, as it says: 'Aharon took Elisheva daughter of Aminadav, sister of Nahshon as a wife' (Shmot 6:23). From the fact that it tells us 'daughter of Aminadav', don't I know that she was Nahshon's sister - why does it say 'sister of Nahshon'? Learn from here that whoever marries a woman must check her brothers first. It was taught: Most sons are similar to their mother's brothers."*
+<br/>
+<br/>
 
 Kalev married Miriam, sister to Aharon and Moshe. If Kalev had checked the brothers of his potential wife before marrying her, he would not have been disappointed: Aharon and Moshe are, after all, model brothers-in-law to have. Since "most sons are similar to their mother's brothers", odds were that Hur was destined to be similar to Aharon and Moshe. Therefore, when Kalev married Miriam he was ensuring that his son would be similar to his two uncles.
+<br/>
+<br/>
 
 **57.** This concept is explored in depth in **Parts II** and **III**.
 
 **58.** **Shmot Rabbah 34:2.**
 
 **59.** **Rashi to Shmot 25:24 d"h zer zahav**
+<br/>
+<br/>
 
 סִימָן לְכֶתֶר מַלְכוּת, שֶׁהַשֻּׁלְחָן שֵׁם עֹשֶׁר וּגְדֻלָּה, כְּמוֹ שֶׁאוֹמְרִים שֻׁלְחַן מְלָכִים:
+<br/>
+<br/>
 
 *"It is a symbol for the crown of Malchut, since the table is an emblem of wealth and greatness, as may be seen from the fact that people speak of one's 'royal table' when they wish to state one is exceedingly wealthy."*
 
 **60.** **Tanchuma Yelamdenu Tetzaveh 14**
+<br/>
+<br/>
 
 וְעָשִׂיתָ מִזְבֵּחַ מִקְטַר קְטֹרֶת (שמות ל, א). מַהוּ קְטֹרֶת? ק׳ קְדֻשָּׁה, ט׳ טָהֳרָה, ר׳ רַחֲמִים, ת׳ תִּקְוָה. אַמָּה אָרְכּוֹ וְאַמָּה רָחְבּוֹ וְגוֹ׳ וְאַמָּתַיִם קֹמָתוֹ. מָה עִסְקוֹ שֶׁל מִזְבַּח הַקְּטֹרֶת? כֵּיוָן שֶׁעָשׂוּ אוֹתוֹ מַעֲשֶׂה, בִּקֵּשׁ הַקָּדוֹשׁ בָּרוּךְ הוּא לְכַלּוֹתָן, עָמַד מֹשֶׁה בִּקֵּשׁ עֲלֵיהֶם רַחֲמִים, כְּמָה שֶׁנֶּאֱמַר: וַיְחַל מֹשֶׁה אֶת פְּנֵי ה׳ (שמות לב, יא). וְנֶחְבַּט בַּקַּרְקַע עַד שֶׁנִּתְרַצָּה לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא, שֶׁנֶּאֱמַר: וַיִּנָּחֶם ה׳ עַל הָרָעָה (שמות לב, יד). אָמַר מֹשֶׁה: רִבּוֹנוֹ שֶׁל עוֹלָם, הֲרֵי כְּבָר נִתְרַצִּיתָ. מִי מוֹדִיעַ לְבָאֵי עוֹלָם שֶׁאַתָּה נִתְרַצִּיתָ לְיִשְׂרָאֵל. אָמַר לוֹ: וְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם (שמות כה, ח), וְיִהְיוּ מַקְרִיבִין לִי קָרְבָּנוֹת בְּתוֹכוֹ, וַאֲנִי אֲקַבֵּל מֵהֶם:
+<br/>
+<br/>
 
 *"'You shall make a Mizbeach HaKetoret' (Shmot 30:1). What is ketoret i.e. incense? K = holiness, T = purity, R = mercy, T = hope. It was a cubit long, a cubit wide, and two cubits high. What was the purpose of this Mizbeach HaKetoret? Since Bnai Yisrael committed that act i.e. the golden calf, HaKadosh Baruch Hu sought to destroy them, so Moshe stood up and sought mercy for them, as it says: 'Moshe pleaded before Hashem' (Shmot 32:11). He planted himself in the ground until HaKadosh Baruch Hu listened to him, as it says: 'Hashem repented from the evil He said He would do to His nation' (Shmot 32:14). Moshe said: Master of the Universe, You may have forgiven, but who will tell everyone who comes into the world that You have forgiven Yisrael? He said to him: 'They shall make for me a Mikdash and I shall dwell within them' (Shmot 25:8), and they will bring before Me sacrifices within it, and I will accept them."*
 
 **61.** **Rashi to Shmot 24:12 d"h et luchot ha'even**
+<br/>
+<br/>
 
 כָּל שֵׁשׁ מֵאוֹת וּשְׁלֹשׁ עֶשְׂרֵה מִצְווֹת בִּכְלַל עֲשֶׂרֶת הַדִּבְּרוֹת הֵן, וְרַבֵּנוּ סְעַדְיָה פֵּרֵשׁ בָּאַזְהָרוֹת שֶׁיָּסַד לְכָל דִּבּוּר וְדִבּוּר מִצְווֹת הַתְּלוּיוֹת בּוֹ:
+<br/>
+<br/>
 
 *"All 613 mitzvot are included in the ten commandments. Rabbeinu Saadia Gaon specified in the work that he composed all the mitzvot dependent on each and every commandment."*
+<br/>
+<br/>
 
 **Berachot 5a**
+<br/>
+<br/>
 
 אָמַר רַבִּי לֵוִי בַּר חָמָא, אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ, מַאי דִּכְתִיב ״וְאֶתְּנָה לְךָ אֶת לֻחֹת הָאֶבֶן וְהַתּוֹרָה וְהַמִּצְוָה אֲשֶׁר כָּתַבְתִּי לְהוֹרֹתָם״ (שמות כד, יב). ״לֻחֹת״ אֵלּוּ עֲשֶׂרֶת הַדִּבְּרוֹת, ״תּוֹרָה״ זֶה מִקְרָא, ״וְהַמִּצְוָה״ זוֹ מִשְׁנָה, ״אֲשֶׁר כָּתַבְתִּי״ אֵלּוּ נְבִיאִים וּכְתוּבִים, ״לְהוֹרוֹתָם״ זֶה תַּלְמוּד, מְלַמֵּד שֶׁכּוּלָּם נִתְּנוּ לְמֹשֶׁה מִסִּינַי:
+<br/>
+<br/>
 
 *"Rabbi Levi Bar Hama said in the name of Rabbi Shimon Ben Lakish, why does it says: 'I gave you the stone tablets, and the Torah, and the mitzvah, which I wrote to instruct Bnai Yisrael' (Shmot 24:12)? 'Tablets' are the ten commandments; Torah is the Written Torah; mitzvah is Mishnah; which I wrote is Nevi'im and Ketuvim; to instruct is Talmud; this teaches that all of them were given to Moshe at Sinai."*
 
 **62.** **Yoma 72b**
+<br/>
+<br/>
 
 אָמַר רַבִּי יוֹחָנָן, שְׁלֹשָׁה זֵירִים הֵן: שֶׁל מִזְבֵּחַ, וְשֶׁל אָרוֹן, וְשֶׁל שֻׁלְחָן. שֶׁל מִזְבֵּחַ - זָכָה אַהֲרֹן וּנְטָלוֹ. שֶׁל שֻׁלְחָן - זָכָה דָּוִד וּנְטָלוֹ. שֶׁל אָרוֹן - עֲדַיִין מוּנָּח הוּא, כָּל הָרוֹצֶה לִיקַּח - יָבֹא וְיִקַּח. שְׁמָּא תֹּאמַר פָּחוּת הוּא, תַּלְמוּד לוֹמַר: ״בִּי מְלָכִים יִמְלוֹכוּ״ (משלי ח, טו). רַבִּי יוֹחָנָן רָמֵי. כְּתִיב: ״זָר״, וְקָרֵינַן ״זֵיר״. זָכָה - נַעֲשֵׂית לוֹ זֵיר, לֹא זָכָה - זָרָה הֵימֶנּוּ:
+<br/>
+<br/>
 
 *"Rabbi Yochanan said, there are three crowns: The Altar, the Aron, and the Shulchan. The Altar - Aharon merited and took it. The Shulchan - David merited and took it. The Aron - it is laid out, and whoever wants to take it can come and take it. And lest you say it is lesser because of this, it says: 'Through me i.e. Torah kings will reign' (Mishlei 8:15). Rabbi Yochanan raised a contradiction: It is written 'stranger' but read 'crown'? If a person is worthy, they can be made for him into a crown, but if not, a stranger."*
 
 **63.** This debate is referred to as יש אם למקרא או יש אם למסורת. See Sanhedrin 4b in particular for a lengthy discussion on the topic.
 
 **64.** **Rabbeinu Bachya to Bemidbar 11:15 d"h ve'im kacha at oseh li**
+<br/>
+<br/>
 
 כי בספר תורה שאינו מנוקד יוכל האדם לקרוא ... כי האותיות כשאינן מנוקדות סובלות כמה כוונות ומתחלקות לכמה ניצוצות, ומפני זה נצטוינו שלא לנקוד ספר תורה כי משמעות כל מלה ומלה לפי הנקוד ואין משמעותה עם הנקוד כי אם ענין אחד, ובלתי נקוד יוכל האדם להבין בה כמה ענינים נפלאים רבים ונכבדים והבן זה, תצטרך אותו בהרבה מקומות, כגון ... (שמות ב׳:ה׳) ותשלח את אמתה ותקחה, שהוא לשון שפחה, ואנו יכולים לקרוא אמתה, מלשון (דברים ג׳:י״א) באמת איש, וכן הבינו אותה רז״ל במדרש שאמרו אשתרבובי אשתרבב, ורבים זולתם:
+<br/>
+<br/>
 
 *"Because a Sefer Torah is not vowelized, a person can read in various ways ... for the letters which are not vowelized can tolerate many different interpretations and can be split into multiple sparks, and because of this it was commanded not to vowelize a Sefer Torah, for the meaning of every word is based on the vowelization, and if a word is vowelized its meaning is only in one sense, but without vowels a person can understand from it multiple great and wondrous ideas. Understand this, for you will need it in many places. For example ... 'She sent her maidservant out and took it' (Shmot 2:5), where it means a maidservant, but we could also read it as 'her arm' where it means: 'In the arm length of a man' (Devarim 3:11), and this is how the Rabbis understood it in the midrash (Sotah 12b) when they said: 'It became much longer'. And there are many other examples as well."*
 
 **65.** Many examples of this method abound in the Rabbinic literature. For example:
+<br/>
+<br/>
 
 **Berachot 7b**
+<br/>
+<br/>
 
 וְאָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַי: מוּתָּר לְהִתְגָּרוֹת בִּרְשָׁעִים בָּעוֹלָם הַזֶּה, שֶׁנֶּאֱמַר: ״עֹזְבֵי תוֹרָה יְהַלְלוּ רָשָׁע וְשֹׁמְרֵי תוֹרָה יִתְגָּרוּ בָם״ (משלי כח, ד). תַּנְיָא נָמֵי הָכִי, רַבִּי דּוֹסְתַּאי בְּרַבִּי מָתוּן אוֹמֵר: מוּתָּר לְהִתְגָּרוֹת בִּרְשָׁעִים בָּעוֹלָם הַזֶּה, שֶׁנֶּאֱמַר: ״עֹזְבֵי תוֹרָה יְהַלְלוּ רָשָׁע״ וְגוֹ׳ ... אִינִי?! וְהָאָמַר רַבִּי יִצְחָק: אִם רָאִיתָ רָשָׁע שֶׁהַשָּׁעָה מְשַׂחֶקֶת לוֹ אַל תִּתְגָּרֶה בּוֹ, שֶׁנֶּאֱמַר: ״יָחִילוּ דְרָכָיו בְּכָל עֵת״ (תהלים י, ה) ... וְאִיבָּעֵית אֵימָא: הָא וְהָא, בְּרָשָׁע שֶׁהַשָּׁעָה מְשַׂחֶקֶת לוֹ, וְלָא קַשְׁיָא, הָא, בְּצַדִּיק גָּמוּר, הָא, בְּצַדִּיק שֶׁאֵינוֹ גָמוּר. דְּאָמַר רַב הוּנָא: מַאי דִּכְתִיב, ״לָמָּה תַבִּיט בּוֹגְדִים תַּחֲרִישׁ בְּבַלַּע רָשָׁע צַדִּיק מִמֶּנּוּ״ (חבקוק א, יג), וְכִי רָשָׁע בּוֹלֵעַ צַדִּיק? וְהָא כְּתִיב: ה׳ לֹא יַעַזְבֶנּוּ בְיָדוֹ (תהלים לז, לג), וּכְתִיב: ״לֹא יְאֻנֶּה לַצַּדִּיק כָּל אָוֶן״ (משלי יב, כא). אֶלָּא: צַדִּיק מִמֶּנּוּ בּוֹלֵעַ, צַדִּיק גָּמוּר אֵינוֹ בּוֹלֵעַ:
+<br/>
+<br/>
 
 *"Rabbi Yochanan said in the name of Rabbi Shimon Bar Yochai, it is permitted to provoke the wicked in this world and not be afraid, as it says: 'Those who abandon Torah will praise wickedness, but those who keep Torah shall fight them' (Mishlei 28:4). It was taught similarly, Rabbi Dostai BeRabbi Mattun said, it is permitted to provoke the wicked in this world and not be afraid, as it says: 'Those who abandon Torah will praise wickedness, but those who keep Torah shall fight them' ... But is this so? Does Rabbi Yitzchak not say, if you see that a wicked person is having his hour, do not provoke him, as it says: 'His ways prosper at all times' (Tehillim 10:5)? ... If you want, you can say that both are referring to a wicked person who is having his hour, and still it is not a contradiction: the first is referring to somebody completely righteous, while the second is referring to somebody who is not completely righteous, as Rav Huna said, why does it say: 'Why do You look on those who deal treacherously and hold Your peace, when the wicked swallows the man more righteous than he' (Habbakuk 1:13) - does the wicked swallow the righteous? Does it not say: 'Hashem will not leave the righteous in the hand of the wicked' (Tehillim 37:33), and: 'No harm shall befall the righteous' (Mishlei 12:21)? Rather, the wicked man swallows the man more righteous than him, but he does not swallow someone who is completely righteous."*
 
 **66.** Though Rabbi Shimon Bar Yochai does not allude to it, Torah's primacy can also be understood from the fact that the Aron is the first of the utensils commanded (Shmot 25:10-16), and it was the only utensil whose location geographically was in the *kodesh hakodashim*, the most hallowed and holy section of the Mishkan.
 
 **67.** There are other versions of the three crowns found in various aggadic works. For example, in one place Torah is swapped for the birthright of the firstborn, while in another it is replaced with holiness:
+<br/>
+<br/>
 
 **Tanchuma Yelamdenu Vayechi 9**
+<br/>
+<br/>
 
 שלשה כתרים היו בידך, כהונה מלכות ובכורה:
+<br/>
+<br/>
 
 *"There are three crowns in your hand: Kehunah, Malchut and the birthright of the firstborn."*
+<br/>
+<br/>
 
 **Vayikra Rabbah 24:2**
+<br/>
+<br/>
 
 אָמַר רַבִּי יוּדָן כְּתִיב: וְאַתָּה מָרוֹם, רוֹמְמוּת אַתָּה נוֹהֵג בְּעוֹלָמֶךָ, נָתַתָּ כְּהֻנָּה לְאַהֲרֹן לְעוֹלָם (במדבר יח, יט): בְּרִית מֶלַח הִוא, נָתַתָּ מַלְכוּת לְדָוִד לְעוֹלָם, שֶׁנֶּאֱמַר (דברי הימים ב יג, ה): הֲלֹא לָכֶם לָדַעַת כִּי ה׳ אֱלֹהֵי יִשְׂרָאֵל נָתַן מַמְלָכָה. נָתַתָּ קְדֻשָּׁה לְיִשְׂרָאֵל לְעוֹלָם, שֶׁנֶּאֱמַר: קְדשִׁים תִּהְיוּ (ויקרא יט, ב):
+<br/>
+<br/>
 
 *"Rabbi Yudan said, it is written: 'You are raised up' - this means You practice raising up in Your world. You gave Kehunah to Aharon forever, as it says: 'It is a covenant of salt' (Bemidbar 18:19). You gave Malchut to David forever, as it says: 'Do you not know that Hashem the G-d of Yisrael gave dominion' (Divrei HaYamim Bet 13:5). And You gave holiness to Yisrael forever, as it says: 'You shall be holy (Vayikra 19:2).'"*
 
 **68.** **Mishnah Horayot 3:8**
+<br/>
+<br/>
 
 כֹּהֵן קוֹדֵם לְלֵוִי, לֵוִי לְיִשְׂרָאֵל, יִשְׂרָאֵל לְמַמְזֵר, וּמַמְזֵר לְנָתִין, וְנָתִין לְגֵר, וְגֵר לְעֶבֶד מְשֻׁחְרָר. אֵימָתַי, בִּזְמַן שֶׁכֻּלָּן שָׁוִין. אֲבָל אִם הָיָה מַמְזֵר תַּלְמִיד חָכָם וְכֹהֵן גָּדוֹל עַם הָאָרֶץ, מַמְזֵר תַּלְמִיד חָכָם קוֹדֵם לְכֹהֵן גָּדוֹל עַם הָאָרֶץ:
+<br/>
+<br/>
 
 *"Kohen precedes Levi, Levi precedes Yisrael, Yisrael precedes a bastard, a bastard precedes a Natin, a Natin precedes a convert, and a convert precedes a freed servant. When is this the case? When they are all equal in knowledge and wisdom. But if the bastard was a scholar while the Kohen Gadol was an ignoramus: a bastard scholar precedes an ignorant Kohen Gadol."*
+<br/>
+<br/>
 
 **Tosefta Horayot 2:8**
+<br/>
+<br/>
 
 חכם קודם למלך ישראל מת חכם אין לנו כיוצא בו מת מלך ישראל כל ישראל ראוים למלכות:
+<br/>
+<br/>
 
 *"A scholar precedes the King of Yisrael, for if a scholar dies there is no one like him to replace him while if the King of Yisrael dies - all of Yisrael are worthy of Malchut."*
 
 **69.** **Ta'anit 22b**
+<br/>
+<br/>
 
 אמר רבי שמואל בר נחמני אמר רבי יונתן: מפני מה נענש יאשיהו מפני שהיה לו לימלך בירמיהו ולא נמלך:
+<br/>
+<br/>
 
 *"Rabbi Shmuel Bar Nahmani said in the name of Rabbi Yonatan, why was Yoshiyahu punished by dying at the hands of Pharaoh Necho? Because he should have consulted with Yirmiyahu and did not consult with him."*
 
 **70.** **Haggai 1:12-14**
+<br/>
+<br/>
 
 וישמע זרבבל  בן שלתיאל ויהושע בן יהוצדק הכהן הגדול וכל שארית העם בקול ה אלקיהם ועל דברי חגי הנביא כאשר שלחו ה אלקיהם וייראו העם מפני ה ויאמר חגי מלאך ה במלאכות ה לעם לאמר אני אתכם נאם ה ויער ה את רוח זרבבל בן שלתיאל פחת יהודה ואת רוח יהושע בן יהוצדק הכהן הגדול ואת רוח כל שארית העם ויבאו ויעשו מלאכה בבית ה צ-באות אלקיהם:
+<br/>
+<br/>
 
 *"Zerubavel Ben Shealtiel, Yehoshua Ben Yehotzadak the Kohen Gadol and all that were left of the nation of Hashem their G-d listened to His voice and to the words of Haggai the prophet which Hashem their G-d sent to them; the nation was afraid before Hashem. Haggai the messenger of Hashem said to the nation, saying: I am with you, says Hashem. Hashem roused the spirit of Zerubavel Ben Sheltiel the governor of Yehudah, and Yehoshua Ben Yehotzadak the Kohen Gadol, and the spirits of all that were left of the nation, and they came and performed the work on the house of Hashem Tzeva'ot their G-d."*
 
 **71.** **Sotah 13a.**
 
 **72.** **Rashi to Sotah 13a d"h shloshim veshisha ketarim**
+<br/>
+<br/>
 
 י״ב נשיאים דישמעאל וכ״ג אלופים נמנו בעשו:
+<br/>
+<br/>
 
 *"These thirty-six crowns corresponded to the twelve princes of Yishmael and the twenty-three chieftains of Esav and one more for the sons of Keturah."*
 
 **73.** An even more radical suggestion would be to argue that not only is the second passage not commenting directly on the first, but that the two are not even in agreement and actually record conflicting traditions on the number of crowns present on Yaakov's coffin and who they belonged to. Although Rashi attempts to explain how the 36 crowns match up with the sons of Esav, Yishmael and Keturah, there are chronological issues with his idea:
+<br/>
+<br/>
 
 **Rashash to Sotah 13a d"h shloshim veshisha ketarim**
+<br/>
+<br/>
 
 עיין רש״י. וקשה דהא האלופים השניים עדיין לא היו אז בעולם דהם היו אחר מיתת הדור האחרון בשמנה המלכים בימי שאול ...:
+<br/>
+<br/>
 
 *"See Rashi. And his explanation is difficult, for there were chieftains of Esav that were not yet in the world, for they came into existence after the death of the last generation of the eight kings, in the days of Shaul ...."*
+<br/>
+<br/>
 
 In this sense separating the second passage from the first removes the need Rashi was motivated by to tie the numbers together, and instead the passage as a whole can be approached as two distinct teachings about the number of crowns on Yaakov's coffin, the first of which believes that three groups of adversaries hung crowns - presumably four, one for each group in addition to Yosef's own crown, though the number is not specified - while the second believes that it was the remaining brothers who hung crowns, three for each one and totaling 36 including Yosef's own three crowns.
 
 **74.** A similar idea can perhaps be found in a teaching regarding the death of another tzaddik: Chizkiyahu, King of Yehudah. At his death there were 36,000 people, and according to Tosafot the number 36 is derived from the word *'lo'*, meaning him i.e. Chizkiyahu himself. This is parallel to the 36 crowns placed on Yaakov's coffin and all symbolizing brotherly unity under him i.e. Yaakov himself, and the word '*lo'* is even used regarding Yaakov's death just as it is for Chizkiyahu:
+<br/>
+<br/>
 
 **Breishit 50:12**
+<br/>
+<br/>
 
 וַיַּעֲשׂ֥וּ בָנָ֖יו ל֑וֹ כֵּ֖ן כַּאֲשֶׁ֥ר צִוָּֽם׃
+<br/>
+<br/>
 
 *"Yaakov's sons did for him as he had commanded them."*
+<br/>
+<br/>
 
 **Bava Kamma 17a**
+<br/>
+<br/>
 
 ת״ר וכבוד עשו לו במותו (דברי הימים ב לב, לג) זה חזקיה מלך יהודה שיצאו לפניו שלשים וששה אלף חלוצי כתף דברי רבי יהודה א״ל רבי נחמיה והלא לפני אחאב עשו כן אלא שהניחו ס״ת על מטתו ואמרו קיים זה מה שכתוב בזה:
+<br/>
+<br/>
 
 *"The Rabbis taught: 'They afforded Chizkiyahu honor in his death' (Divrei HaYamim Bet 32:33). This is Chikiyahu, King of Yehudah, for 36,000 bare-shouldered men went out before him. Rabbi Nehemiah said to him, did they not also go out before Achav who was wicked? Rather, they placed a Sefer Torah on his bier and said: This one the king fulfilled that which was written in this one the Sefer Torah."*
+<br/>
+<br/>
 
 **Tosafot to Bava Kamma 17a d"h shloshim veshisha elef**
+<br/>
+<br/>
 
 לו בגימטריא הכי הוי:
+<br/>
+<br/>
 
 *"The word for 'him' in Hebrew is 'lo', which in Gematria is equal to 36."*
 
 **75.** **Pirkei Avot 4:13.**
 
 **76.** An expanded midrashic exposition of Pirkei Avot adds onto Rabbi Shimon Bar Yochai's teaching by combining it with Rabbi Yochanan's opinion that the greatness of Torah comes from its democratic nature:
+<br/>
+<br/>
 
 **Avot DeRabbi Natan 1:41**
+<br/>
+<br/>
 
 רבי שמעון אומר ג׳ כתרים הם אלו הן. כתר תורה. וכתר כהונה. וכתר מלכות. וכתר שם טוב עולה על גביהן. כתר כהונה כיצד אפילו נותן כסף וזהב שבעולם אין נותנין לו כתר כהונה שנאמר והיתה לו ולזרעו אחריו ברית כהנת עולם (במדבר כ״ה י״ג). כתר מלכות אפילו נותן כל כסף וזהב שבעולם אין נותנין לו כתר מלכות שנאמר ודוד עבדי נשיא להם לעולם (יחזקאל ל״ז כ״ה). אבל כתר תורה אינו כן. עמלה של תורה כל הרוצה ליטול יבא ויטול שנאמר הוי כל צמא לכו למים (ישעיה נ״ה א׳):
+<br/>
+<br/>
 
 *"Rabbi Shimon Bar Yochai said, there are three crowns: a crown of Torah, a crown of Kehunah and a crown of Malchut; and the crown of a good name supersedes them all. The crown of Kehunah: even if one were to give all the silver and gold in the world, they would not give him the crown of Kehunah, as it says: 'It will be for him and his descendants after him a priestly covenant forever' (Bemidbar 25:13). The crown of Malchut: even if one were to give all the silver and gold in the world, they would not give him the crown of Kehunah, as it says: 'David my servant will rule over them forever' (Yechezkel 37:25). But the crown of Torah is not this way; rather, whoever wants it can come take it, as it says: 'Whoever is thirsty, let them go to the water' (Yishayahu 55:1)."*
 
 **77.** **Kohelet Rabbah 7:1**
+<br/>
+<br/>
 
 אָמַר רַבִּי שִׁמְעוֹן בֶּן יוֹחָאי, חָבִיב שֵׁם טוֹב מֵאֲרוֹן הַבְּרִית, שֶׁאֲרוֹן הַבְּרִית לֹא הָלַךְ אֶלָּא שְׁלשָׁה יָמִים, שֶׁנֶּאֱמַר (במדבר י, לג): וַאֲרוֹן בְּרִית ה׳ נֹסֵעַ לִפְנֵיהֶם. וְשֵׁם טוֹב הוֹלֵךְ מִסּוֹף הָעוֹלָם וְעַד סוֹפוֹ, מְנָא לָן, מִדָּוִד, שֶׁנֶּאֱמַר (דברי הימים א יד, יז): וַיֵּצֵא שֵׁם דָּוִיד בְּכָל הָאֲרָצוֹת וַה׳ נָתַן אֶת פַּחְדּוֹ עַל כָּל הַגּוֹיִם, חָבִיב שֵׁם טוֹב מִכְּהֻנָּה וּמַלְכוּת, שֶׁכְּהֻנָּה וּמַלְכוּת בָּטְלוּ, וְשֵׁם טוֹב לֹא בָּטֵל:
+<br/>
+<br/>
 
 *"Rabbi Shimon Bar Yochai said, a good name is more beloved than the Aron, because the Aron only travels for three days, as it says: 'The Aron of Hashem traveled before them for three days' (Bemidbar 10:33), while a good name travels from one end of the world to the other. How do we know this? From David, as it says: 'David's name went out to all the lands, and Hashem instilled a fear of him in all the nations' (Divrei HaYamim Aleph 14:17). A good name is more beloved than Kehunah and Malchut, for both Kehunah and Malchut have ceased while a good name has not and never will cease."*
 
 **78.** **Rabbi Ovadiah MiBartenura to Pirkei Avot 4:13 d"h v eketer shem tov**
+<br/>
+<br/>
 
 מי שיש בידו מעשים טובים ושמועתו טובה מחמת מעשיו, לא מצינו לו כתר בתורה שיהיו חייבים לנהוג בו כבוד, והוא עולה על גבי כולן, שכל השלשה כתרים צריכים לו:
+<br/>
+<br/>
 
 *"Whoever has in his hand good deeds, and his reputation is good because of his deeds - about such a person we do not find a crown in the Torah that have to give him honor, but rather he supersedes them all, for all three of the crowns need him."*
 
 **79.** According to the Zohar, HaKadosh Baruch Hu's name is actually the Torah itself, and they are, in their true, undifferentiated essence, one and the same:
+<br/>
+<br/>
 
 **Zohar 2:90b**
+<br/>
+<br/>
 
 תָּאנֵי ר׳ אֶלְעָזָר, בְּאִלֵּין עֶשֶׂר אֲמִירָן, אִתְגְּלִיפוּ כָּל פִּקּוּדֵי אוֹרַיְיתָא ... הָא אוֹרַיְיתָא שְׁמָא דְּקוּדְשָׁא בְּרִיךְ הוּא הֲוִי, מַה שְּׁמָא דְּקוּדְשָׁא בְּרִיךְ הוּא אִתְגְּלִיף בְּעֶשֶׂר אֲמִירָן, אוּף אוֹרַיְיתָא אִתְגְּלִיפָא בְּעֶשֶׂר אֲמִירָן. אִלֵּין עֶשֶׂר אֲמִירָן אִינּוּן שְׁמָא דְּקוּדְשָׁא בְּרִיךְ הוּא. וְאוֹרַיְיתָא כֹּלָּא שְׁמָא חַד הֲוֵי, שְׁמָא קַדִּישָׁא דְּקוּדְשָׁא בְּרִיךְ הוּא מַמָּשׁ ... ר׳ יוֹסִי אָמַר, בְּקוּדְשָׁא בְּרִיךְ הוּא מַמָּשׁ זָכֵי, (ס׳׳א וכנסת ישראל) דְּהָא הוּא וּשְׁמֵיהּ חַד הוּא, בְּרִיךְ שְׁמֵיהּ לְעָלַם וּלְעָלְמֵי עָלְמִין אָמֵן:
+<br/>
+<br/>
 
 *"Rabbi Elazar taught: With these ten sayings i.e. the Ten Commandments all the commands of the Torah were engraved ... the Torah is the name of HaKadosh Baruch Hu: just as the name of HaKadosh Baruch Hu was engraved with ten sayings, so too the Torah was engraved with ten sayings. These ten sayings are therefore the name of HaKadosh Baruch Hu. And the Torah is all one name, the holy Name of HaKadosh Baruch Hu ... Rabbi Yosi said, they actually merited HaKadosh Baruch Hu Himself, because He and His name are unified. Blessed is His name for ever and ever, Amen."*
 
 **80.** **Zechariah 14:9**
+<br/>
+<br/>
 
 וְהָיָ֧ה יְהֹוָ֛ה לְמֶ֖לֶךְ עַל כׇּל הָאָ֑רֶץ בַּיּ֣וֹם הַה֗וּא יִהְיֶ֧ה יְהֹוָ֛ה אֶחָ֖ד וּשְׁמ֥וֹ אֶחָֽד׃
+<br/>
+<br/>
 
 *"And Hashem will be king over all the land; on that day Hashem and His Name will be one."*
 
 **81.** **Mechilta DeRabbi Yishmael 17:10**
+<br/>
+<br/>
 
 רבי אלעזר המודעי אומר: כשבא עמלק להזיק את ישראל מתחת כנפי אביהם שבשמים, אמר משה לפני הקדוש ברוך הוא: רבונו של עולם! בניך שאתה עתיד לפזרן תחת רוחות השמים, שנאמר: ״כי בארבע רוחות השמים״ וגו׳ (זכריה ב י), רשע זה בא לכלן מתחת כנפיך, ספר תורה שנתת להם מי יקרא בו? ר׳ אלעזר המודעי אומר: אימתי יאבד שמן של אלו? בשעה שתעקר עבודה זרה היא ועובדיה ויהא המקום יחידי בעולם ותהי מלכותו לעולם ולעולמי עולמים, באותה שעה ״ויצא ה׳ ונלחם בגוים ההם״, ״והיה ה׳ למלך״ וגו׳ (זכריה יד ג; זכריה יד ט); ״תרדוף באף ותשמידם״ (איכה ג סו). ר׳ נתן אומר, לא בא המן אלא זכר לדורות, שנאמר: ״וימי הפורים האלה לא יעברו״ וגו׳ (אסתר ט כח):
+<br/>
+<br/>
 
 *"Rabbi Elazar HaModa'i says, when Amalek came to harm Yisrael from under the wings of their Father in Heaven, Moshe said before HaKadosh Baruch Hu: Master of the Universe, your sons who you are going to disperse across the four winds of the heavens, as it says: 'For with four winds of the heavens' (Zechariah 2:10) - this wicked one is coming to destroy them from under Your wings. The Sefer Torah that You gave them - who will read from it? Rabbi Elazar HaModa'i says, when will Amalek's name be wiped out? When Avodah Zarah and her worshippers will be uprooted; then there will be a singular place in the world, and His kingdom will be for ever and ever. At that time: 'Hashem will go out and fight against those nations' (Zechariah 14:3), 'And Hashem will be king' (Zechariah 14:9), 'Chase them with anger and destroy them' (Eicha 3:66). Rabbi Natan says, Haman did not come into the world except to cause a remembrance for all generations, as it says: 'These days of Purim shall not cease' (Esther 9:28)."*
 
 **82.** As infinity is not an actual number - and infinite height cannot be represented visually - here it is represented pictorially as a cloud that encompasses and engulfs the other three numbers:
+<br/>
+<br/>
 
 !(images/media/image4.png){width="4.451983814523184in" height="4.494792213473316in"}
 
 **82b.** While satisfying, the midrash by no means feels bound by any time constraint confining the issuance of these crowns to a single period of Jewish history, as **Note 67.** demonstrates. There are even opinions which directly assign Moshe and Aharon to the crowns of Torah and Kehunah, but then assign the crowns of Malchut and Shem Tov to David and Avraham respectively:
+<br/>
+<br/>
 
 **Iyyun Ya'akov Hullin 89a d"h natati gedulah le'avraham**
+<br/>
+<br/>
 
 קחשיב ארבע גדולות לפי שיש בנו ארבעה כתרים: כתר תורה וכתר כהונה וכתר מלכות וכתר שם טוב עולה על גביהם (אבות ד, יג). ובכל גדולה של ארבע גדולות אלו השפילו עצמן. אברהם שהיה לו כתר שם טוב כדכתיב: ׳ואגדלה שמך׳ (בראשית יב, ב), וכן הוא במדרש קהלת וי״ו שהוא נקרא כך כתר שם טוב, ואפילו הכי השפיל עצמו. ומשה היה לו כתר תורה, ואהרון כתר כהונה, ודוד כתר מלכות, וכולן השפילו את עצמן. לכך חשק ה׳ בהם כי: ׳אני את דכא׳ (ישעיה נז, טו):
+<br/>
+<br/>
 
 *"He listed out four great things because we have four crowns: Torah, Kehunah, Malchut and a good name (Avot 4:13). In each great thing of these four great things, someone lowered himself. Avraham had the crown of a good name, as it says: 'I shall make your name great' (Breishit 12:2), and similarly in Kohelet Rabbah 6, that because of this it is called a crown of a good name, and even so Avraham lowered himself. Moshe had the crown of Torah, Aharon the crown of Kehunah and David the crown of Malchut, and all of them lowered themselves. This is why Hashem desired them, for: 'I am with the lowly' (Yishayahu 57:15)."*
 
 **83.** The notion that Moshe, Aharon and Hur received crowns when they were unified agrees with the midrashic tradition that all of Bnai Yisrael received crowns as Har Sinai, the place where they were all also united as one:
+<br/>
+<br/>
 
 **Mechilta DeRabbi Yishmael 19:2; see Rashi to Shmot 19:2 d"h vayichan sham yisrael**
+<br/>
+<br/>
 
 כל מקום שהוא אומר ויסעו ויחנו, נוסעים במחלוקת וחונים במחלוקת, אבל כאן השוו כולם לב אחד, לכך נאמ׳ ויחן שם ישראל נגד ההר:
+<br/>
+<br/>
 
 *"Every place where it says 'they journeyed', 'they camped', it means they journeyed in strife and camped in strife. But here at Har Sinai, all of them were equal and unified with one heart. This is why it says: 'Yisrael in the singular camped there across from the mountain.'"*
+<br/>
+<br/>
 
 **Pirkei DeRabbi Eliezer 47**
+<br/>
+<br/>
 
 ר׳ אלעזר בן ערך אומר, כשירד הב״ה על הר סיני ליתן התורה לישראל ירדו עמו ששים רבוא של מלאכים כנגד ששים רבוא של גבורי ישראל ובידם זינות ופטרות ועטרו את כל ישראל כתר שם המפורש וכל אותן הימים עד שלא באו לאותו מעשה היו טובים לפני הב״ה כמלאכי השרת ולא משל בהם מלאך המות ולא השליכו צואה כבני אדם וכיון שעשו מעשה העגל כעס הב״ה עליהם ויאמ׳ לו סבור הייתי שתהיו כמלאכי השרת שנ׳ אני אמרתי אלהים אתם ובני עליון כולכם (תהלים פב, ו) עכשו אכן כאדם תמותון וכאחד השרים תפולו (תהלים פב, ז) ... ויתנצלו בני ישראל את עדים מהר חורב (שמות לג, ו):
+<br/>
+<br/>
 
 *"Rabbi Elazar Ben Arach says, when HaKadosh Baruch Hu descended onto Har Sinai to give the Torah to Yisrael, 600,000 angels descended with him to parallel the 600,000 strong men of Yisrael, and in the angels' hands were weapons and crowns, and they crowned all of Yisrael with the crown of the Holy Name. And for all the time from then until they committed that act i.e. the golden calf, they were good before HaKadosh Baruch Hu like the ministering angels. The angel of death had no control over them, and they did not excrete like men. But once they committed that act with the calf, HaKadosh Baruch Hu got angry at them and said, I thought that you could be like ministering angels, as it says: 'I said that you are gods, and all of you are sons of the Most High' (Tehillim 82:6). Now: 'Behold, you will die like men, and fall like princes' (Tehillim 82:7) ... 'Bnai Yisrael were stripped of their crowns from Har Chorev i.e. Har Sinai' (Shmot 33:6)."*
+<br/>
+<br/>
 
 The crowns were stripped away from Bnai Yisrael after the sin of the golden calf, for that sin violently ripped a hole in the unity of Bnai Yisrael before their Father in Heaven. One tradition has those crowns inherited by Moshe instead, perhaps symbolizing that he and he alone was able to remain at the level of unity with Torah and G-d reached by the people at Har Sinai:
+<br/>
+<br/>
 
 **Shabbat 88a**
+<br/>
+<br/>
 
 דָּרַשׁ רַבִּי סִימַאי: בְּשָׁעָה שֶׁהִקְדִּימוּ יִשְׂרָאֵל ״נַעֲשֶׂה״ לְ״נִשְׁמָע״ בָּאוּ שִׁשִּׁים רִיבּוֹא שֶׁל מַלְאֲכֵי הַשָּׁרֵת, לְכׇל אֶחָד וְאֶחָד מִיִּשְׂרָאֵל קָשְׁרוּ לוֹ שְׁנֵי כְתָרִים, אֶחָד כְּנֶגֶד ״נַעֲשֶׂה״ וְאֶחָד כְּנֶגֶד ״נִשְׁמָע״. וְכֵיוָן שֶׁחָטְאוּ יִשְׂרָאֵל, יָרְדוּ מֵאָה וְעֶשְׂרִים רִיבּוֹא מַלְאֲכֵי חַבָּלָה וּפֵירְקוּם, שֶׁנֶּאֱמַר: ״וַיִּתְנַצְּלוּ בְנֵי יִשְׂרָאֵל אֶת עֶדְיָם מֵהַר חוֹרֵב״. אָמַר רַבִּי חָמָא בְּרַבִּי חֲנִינָא: בְּחוֹרֵב טָעֲנוּ, בְּחוֹרֵב פֵּרְקוּ. בְּחוֹרֵב טָעֲנוּ כְּדַאֲמַרַן, בְּחוֹרֵב פֵּרְקוּ דִּכְתִיב: ״וַיִּתְנַצְּלוּ בְנֵי יִשְׂרָאֵל וְגוֹ׳״. אָמַר רַבִּי יוֹחָנָן: וְכוּלָּן זָכָה מֹשֶׁה וּנְטָלָן. דִּסְמִיךְ לֵיהּ: ״וּמֹשֶׁה יִקַּח אֶת הָאֹהֶל״. אָמַר רֵישׁ לָקִישׁ: עָתִיד הַקָּדוֹשׁ בָּרוּךְ הוּא לְהַחֲזִירָן לָנוּ, שֶׁנֶּאֱמַר: ״וּפְדוּיֵי ה׳ יְשֻׁבוּן וּבָאוּ צִיּוֹן בְּרִנָּה וְשִׂמְחַת עוֹלָם עַל רֹאשָׁם״ שִׂמְחָה שֶׁמֵּעוֹלָם עַל רֹאשָׁם:
+<br/>
+<br/>
 
 *"Rabbi Simai expounded, when Yisrael preceded 'we will do' with 'we will listen', 600,000 ministering angels came and tied two crowns on each and every one of Yisrael, one crown for 'we will do' and one crown for 'we will listen'. Once Yisrael sinned, 1,200,000 angels of destruction came down and removed them, as it says: 'Bnai Yisrael were stripped of their crowns from Har Chorev i.e. Har Sinai' (Shmot 33:6). Rabbi Chama BeRabbi Chaninan says, at Chorev they put the crowns on, and at Chorev they removed them. At Chorev they put on, as was just said; at Chorev they removed them, as it says: 'Bnai Yisrael were stripped.' Rabbi Yochanan says, Moshe merited to receive all of them, and took them, as it says in the next pasuk: 'Moshe took the tent' (Shmot 33:7). Reish Lakish says, in the future HaKadosh Baruch Hu will return the crowns to us, as it says: 'And the captured of Hashem will return, and come to Tzion in gladness, and with an eternal happiness on their heads' (Yishayahu 35:10) - a happiness which used to be on their heads."*
 
 **84.** **Malbim to Shmot 17:12 d"h veaharon vehur tamchu**
+<br/>
+<br/>
 
 שעסקם היה לאחדות ישראל ולאחדות השי״ת:
+<br/>
+<br/>
 
 *"Their goals in supporting Moshe's hands and staying on top of the hill were the unification of Yisrael and the unification of Hashem, may He Be Blessed."*
 
 **85.** The crown names are replaced with the actual names of their respective owners during the battle against Amalek; the arrangement echoes the physical description given of how they were situated atop the hill as Yehoshua and the people were fighting below:
+<br/>
+<br/>
 
 !(images/media/image5.png){width="3.4791666666666665in" height="3.414886264216973in"}
 
 **86.** **Tehillim 133:1-3.**
 
 **87.** **Tanna DeVei Eliyahu Rabbah 13:16**
+<br/>
+<br/>
 
 ד״א הנה מה טוב וגו׳ עשה אדם מעש״ט בילדותו והזקין וכופל את מעשיו לטובה עליו הוא אומר הנה מה טוב וגו׳. ד״א קרא אדם תורה נביאים וכתובים בילדותו והזקין וכופל את מעשיו ושנה משנה ומדרש הלכות ואגדות עליו הוא אומר הנה מה טוב ומה נעים וגו׳. ד״א אם האחד יושב ושונה עם חבירו עליהן הוא אומר הנה מה טוב וגו׳:
+<br/>
+<br/>
 
 *"Another idea: 'Behold how good'. A person does good deeds in his youth, and then gets older and doubles his good deeds - about him it says: 'Behold how good'. Another idea: A person reads Torah Nevi'im and Ketuvim in his youth, and then gets older and doubles his deeds and learns Mishnah and Midrash, halachot and aggadot - about him it says: 'Behold how good'. Another idea: If someone sits and learns with his fellow, about them it says: 'Behold how good.'"*
 
 **88.** **Tanchuma HaKadum Shmot 24**
+<br/>
+<br/>
 
 לך לקראת משה המדברה. זש״ה מי יתנך כאח לי (שה״ש ח א), ישראל אומרים להקב״ה מי יתנך כאח לי, כאיזה אח, את מוצא מתחילת ברייתו של עולם ועד עכשיו האחין שונאין זה לזה, קין שנא להבל והרגו, שנאמר ויקם קין אל הבל אחיו ויהרגהו (בראשית ד ח), ישמעאל שנא ליצחק, שנאמר ותרא שרה את בן הגר המצרית אשר ילדה לאברהם מצחק (שם כא ט), ואין מצחק אלא שביקש להרגו, שנאמר יקומו נא הנערים וישחקו לפנינו (ש״ב ב יד), ועשו שנא ליעקב, שנאמר ויאמר עשו בלבו וגו׳ (בראשית כז מא), והשבטים שנאו ליוסף, שנאמר וישנאו אותו (שם לז ד), וכאיזה אח, אמרו ישראל כמשה ואהרן, שנאמר הנה מה טוב ומה נעים וגו׳ (תהלים קלג א), שהיו אוהבים זה לזה, ומחבבים זה לזה, שבשעה שנטל משה את המלכות, ואהרן כהונה גדולה, לא קנאו זה לזה, אלא היו שמחין, זה בגדולת זה, וזה בגדולת זה:
+<br/>
+<br/>
 
 *"'Go meet Moshe in the desert' (Shmot 4:27). This is as it says: 'If only you were my brother' (Shir HaShirim 8:1). Yisrael say to HaKadosh Baruch Hu, 'If only you were my brother' - which brother? You find that from the beginning of the world until today brothers hand each other. Kayin hated Hevel and killed him, as it says: 'Kayin stood against his brother Hevel and killed him' (Breishit 4:8). Yishmael hated Yitzchak, as it says: 'Sarah saw the son of Hagar the Egyptian that was born to Avraham playing' (Breishit 21:9), and there is no playing other than seeking to kill, as it says: 'Let the youths stand up before us and play' (Shmuel Bet 2:14). Esav hated Yaakov, as it says: 'Esav said in his heart' (Breishit 27;41). The tribes hated Yosef, as it says: 'They hated him' (Breishit 37:4). So like which brother? Yisrael said, like Moshe and Aharon, as it says: 'Behold how good and how pleasant it is when brothers sit together' (Tehillim 133:1), because they loved one another, and were dear to one another. For when Moshe took the kingship and Aharon took the Kehunah Gedolah, they were not jealous of one another, but rather were happy, each for the greatness of the other."*
 
 **89.** This concept is explored in depth in **Chapters II** and **III**.
 
 **90.** The *mizmor* also makes reference to good oil in pasuk 2, which reminds us of Kohelet's declaration that a good name is better than good oil; in particular, while this particular good oil is described as descending down Aharon's beard, the Good Name is up above Aharon and the other two crowns:
+<br/>
+<br/>
 
 **Kohelet Rabbah 7:1**
+<br/>
+<br/>
 
 טוֹב שֵׁם מִשֶּׁמֶן טוֹב, שֶׁמֶן טוֹב יוֹרֵד, וְשֵׁם טוֹב עוֹלֶה. שֶׁמֶן טוֹב לִשְׁעָתוֹ, וְשֵׁם טוֹב לְעוֹלָם. שֶׁמֶן טוֹב כָּלֶה, וְשֵׁם טוֹב אֵינוֹ כָּלֶה. שֶׁמֶן טוֹב בְּדָמִים, וְשֵׁם טוֹב בְּחִנָם. שֶׁמֶן טוֹב נוֹהֵג בַּחַיִּים, וְשֵׁם טוֹב נוֹהֵג בַּחַיִּים וּבַמֵּתִים. שֶׁמֶן טוֹב בָּעֲשִׁירִים, וְשֵׁם טוֹב בָּעֲנִיִּים וּבָעֲשִׁירִים. שֶׁמֶן טוֹב מְהַלֵּךְ מִקִּיטוֹן לַטְרַקְלִין, וְשֵׁם טוֹב הוֹלֵךְ מִסּוֹף הָעוֹלָם וְעַד סוֹפוֹ:
+<br/>
+<br/>
 
 *"'A name is better than good oil' (Kohelet 7:1). Good oil descends, while a good name ascends. Good oil is temporary, while a good name is eternal. Good oil finishes, while a good name never finishes. Good oil costs money, while a good name is free. Good oil is applicable for the living, while a good name is applicable for the living and the dead. Good oil is for the rich, while a good name is for the poor and the rich alike. Good oil goes from the entrance to the main hall, while a good name goes from one end of the world to the other."*
 
-
-
 **91.** **Berachot 55a**
+<br/>
+<br/>
 
 אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן: בְּצַלְאֵל עַל שֵׁם חׇכְמָתוֹ נִקְרָא. בְּשָׁעָה שֶׁאָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמֹשֶׁה: לֵךְ אֱמוֹר לוֹ לִבְצַלְאֵל ״עֲשֵׂה לִי מִשְׁכָּן אָרוֹן וְכֵלִים״. הָלַךְ מֹשֶׁה וְהָפַךְ וְאָמַר לוֹ: ״עֲשֵׂה אָרוֹן וְכֵלִים וּמִשְׁכָּן״. אָמַר לוֹ: מֹשֶׁה רַבֵּינוּ, מִנְהָגוֹ שֶׁל עוֹלָם אָדָם בּוֹנֶה בַּיִת וְאַחַר כָּךְ מַכְנִיס לְתוֹכוֹ כֵּלִים, וְאַתָּה אוֹמֵר ״עֲשֵׂה לִי אָרוֹן וְכֵלִים וּמִשְׁכָּן״, כֵּלִים שֶׁאֲנִי עוֹשֶׂה, לְהֵיכָן אַכְנִיסֵם? שֶׁמָּא כָּךְ אָמַר לְךָ הַקָּדוֹשׁ בָּרוּךְ הוּא, ״עֲשֵׂה מִשְׁכָּן אָרוֹן וְכֵלִים״?! אָמַר לוֹ: שֶׁמָּא בְּצֵל אֵל הָיִיתָ וְיָדַעְתָּ?
+<br/>
+<br/>
 
 *"Rabbi Shmuel Bar Nachmani says in the name of Rabbi Yonatan, Betzalel was named based on his wisdom. At the time when HaKadosh Baruch Hu said to Moshe, go tell Betzalel: 'Make for Me a Mishkan, Aron and utensils', Moshe went and switched the order and said to Betzalel: 'Make an Aron, utensils and Mishkan'. He said to him, Moshe Rabbeinu, the way of the world is that a person builds a house and after that he puts all the utensils inside it, and you tell me: 'Make an Aron, utensils and Mishkan' - the utensils that I make, where should I put them? Maybe HaKadosh Baruch Hu said to you: 'Make for Me a Mishkan, Aron and utensils'? Moshe said to Betzalel: Maybe you were in the shadow of E-l, and that is how you knew."*
 
 **92.** **Ramban to Vayikra 8:2 d"h kach et aharon**
+<br/>
+<br/>
 
 פרשה זו נאמרה שבעת ימים קודם הקמת המשכן, שאין מוקדם ומאוחר בתורה, לשון רש״י. ולמה נהפוך דברי אלקים חיים ... אבל הנכון שנאמר, כי נצטוה בהקמת המשכן בכ״ג באדר, והקים אותו, וכאשר עמד המשכן על מעמדו מיד קרא לו הש״י שהוא יושב הכרובים ... ועל דרך הישר, נצטוה משה במלאכת המשכן קודם למעשה העגל, וכשנתרצה לו הקב״ה והבטיחו שישרה שכינתו בתוכם ידע מעצמו שמצות המשכן במקומה עומדת ... והנה כל הפרשיות כסדרן:
+<br/>
+<br/>
 
 *"This section was said seven days before the Mishkan was erected, because there is no chronological order to the Torah - this is Rashi's explanation. Yet why would we distort the words of the living G-d ... Rather, it is correct to say that Moshe was commanded to erect the Mishkan on the 23rd of Adar, and he erected it, and when the Mishkan stood on its foundations Hashem Yitbarach called to him from between the Keruvim ... and according to the straightforward way of understanding, Moshe was commanded to build the Mishkan before the incident with the calf, and afterwards when HaKadosh Baruch Hu was appeased and had promised that He would allow His presence to dwell among Bnai Yisrael, Moshe knew on his own that the command to build the Mishkan was still in effect ... and so all the sections are in their proper order."*
 
 **93.** **Rashi to Pesachim 6b d"h ein mukdam ume'uchar batorah**
+<br/>
+<br/>
 
 לא הקפידה תורה על סדר מוקדם ומאוחר ופרשיות דנאמרו תחלה הקדימו המאוחרות לה:
+<br/>
+<br/>
 
 *"The Torah was not stringent on the order of what came earlier or later, and the sections that were said first in actuality - the Torah preceded them with those that were later."*
 
@@ -1143,161 +1343,291 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 **95.** **Tanchuma Yelamdenu Terumah 8.**
 
 **96.** There are countless examples of later midrashic works (defined as having been redacted sometime after the 8th-9th century CE) borrowing from earlier works and expanding on them; aggadic works such as Tanchuma Yelamdenus' common practice of stating the "moral of the story", the central idea behind what a midrash is trying to teach or allude to, in situations where older versions of the same midrash are less straightforward, is a subset of this larger phenomenon. For example, there is a concept derived from several examples in Tanach that when the community is in a state of distress, a person should be in distress with the community even if he personally is not affected:
+<br/>
+<br/>
 
 **Breishit Rabbah 31:12**
+<br/>
+<br/>
 
 (בראשית ו, יח): אַתָּה וּבָנֶיךָ, רַבִּי יְהוּדָה בַּר סִימוֹן וְרַבִּי חָנִין בְּשֵׁם רַב שְׁמוּאֵל בַּר רַבִּי יִצְחָק אָמַר נֹחַ כְּשֶׁנִּכְנַס לַתֵּבָה נֶאֱסַר לוֹ פְּרִיָּה וּרְבִיָּה, הֲדָא הוּא דִכְתִיב: וּבָאתָ אֶל הַתֵּבָה אַתָּה וּבָנֶיךָ לְעַצְמְךָ, וְאִשְׁתְּךָ וּנְשֵׁי בָנֶיךָ לְעַצְמָן, כֵּיוָן שֶׁיָּצָא הִתִּיר לוֹ, הֲדָא הוּא דִכְתִיב (בראשית ח, טז): צֵא מִן הַתֵּבָה אַתָּה וְאִשְׁתְּךָ וּבָנֶיךָ וּנְשֵׁי בָנֶיךָ, אָמַר רַבִּי אָבוּן כְּתִיב (איוב ל, ג): בְּחֶסֶר וּבְכָפָן גַּלְמוּד, אִם רָאִיתָ חֶסְרוֹן בָּא לָעוֹלָם, וְכָפָן בָּא לָעוֹלָם, גַּלְמוּד, הֱוֵי רוֹאֶה אֶת אִשְׁתְּךָ כְּאִלּוּ הִיא גַּלְמוּדָה, שֶׁכֵּן בִּכְרַכֵּי הַיָּם קוֹרִין לְנִדָּה גַּלְמוּדָה:
+<br/>
+<br/>
 
 *"'You Noah and your sons and your wife and your sons' wives' (Breishit 6:18). Rabbi Yehudah Bar Simon and Rabbi Hanin in the name of Rav Shmuel Bar Rabbi Yitzchak say, when Noah entered the ark intercourse was forbidden to him, as it says: 'You shall come to the ark, you and your sons' - by yourselves, 'and your wife and your sons' wives' - by themselves. When they left the ark it was permitted again, as it says: 'Leave the ark, you and your wife and your sons and your sons' wives' (Breishit 8:16). Rabbi Avun says, it is written: 'Lonely from want and starvation' (Iyov 30:3) - if you see lacking and famine come into the world, be lonely, meaning see your wife as though she is monstrous i.e. do not have intercourse, for in the islands of the sea they refer to a menstruating woman as a 'galmudah'."*
+<br/>
+<br/>
 
 While the moral obligation for such behavior may seem self-evident, upon reflection one realizes that the midrash does not explicitly state what underpins such an obligation, just that such an obligation exists and must be followed. Breishit Rabbah was compiled in the 3rd century and is among the earliest of the aggadic midrashim to be published, and indeed we find that this concept is developed and its source revealed. Even the Talmud Bavli, compiled some 200 years after Breishit Rabbah, in one place tersely restates the idea found in Breishit Rabbah, while in another draws upon the examples of Yosef and Moshe and elaborates the point while still not providing an explicit 'why':
+<br/>
+<br/>
 
 **Sanhedrin 108b**
+<br/>
+<br/>
 
 ומנלן דנאסרו דכתיב (בראשית ו, יח) ובאת אל התיבה אתה ובניך ואשתך ונשי בניך אתך וכתיב (בראשית ח, טז) צא מן התיבה אתה ואשתך ובניך ונשי בניך אתך וא״ר יוחנן מיכן אמרו שנאסרו בתשמיש המטה. ת״ר שלשה שמשו בתיבה וכולם לקו כלב ועורב וחם כלב נקשר עורב רק חם לקה בעורו:
+<br/>
+<br/>
 
 *"How do we know that they were forbidden from engaging in intercourse on the ark? It says: 'You shall come to the ark, you and your sons and your wife and your sons' wives' (Breishit 6:18), and it says: 'Leave the ark, you and your wife and your sons and your sons' wives' (Breishit 8:16). Rabbi Yochanan says, from here they said that Noah and the animals were forbidden from intercourse. The Rabbis taught, three had intercourse on the ark and all of them were punished: the dog, the raven and Ham son of Noah. The dog - is bound, the raven - spits, Ham - was blackened on his skin."*
+<br/>
+<br/>
 
 **Ta'anit 11a**
+<br/>
+<br/>
 
 אָמַר רַב יְהוּדָה אָמַר רַב: כׇּל הַמַּרְעִיב עַצְמוֹ בִּשְׁנֵי רְעָבוֹן, נִיצָּל מִמִּיתָה מְשׁוּנָּה, שֶׁנֶּאֱמַר: ״בָּרָעָב פָּדְךָ מִמָּוֶת״. ״מֵרָעָב״ מִיבְּעֵי לֵיהּ, אֶלָּא הָכִי קָאָמַר: בִּשְׂכַר שֶׁמַּרְעִיב עַצְמוֹ בִּשְׁנֵי רְעָבוֹן נִיצּוֹל מִמִּיתָה מְשׁוּנָּה. אָמַר רֵישׁ לָקִישׁ: אָסוּר לְאָדָם לְשַׁמֵּשׁ מִטָּתוֹ בִּשְׁנֵי רְעָבוֹן, שֶׁנֶּאֱמַר: ״וּלְיוֹסֵף יֻלַּד שְׁנֵי בָנִים בְּטֶרֶם תָּבוֹא שְׁנַת הָרָעָב״. תָּנָא: חֲסוּכֵי בָּנִים מְשַׁמְּשִׁין מִטּוֹתֵיהֶן בִּשְׁנֵי רְעָבוֹן. תָּנוּ רַבָּנַן: בִּזְמַן שֶׁיִּשְׂרָאֵל שְׁרוּיִין בְּצַעַר וּפֵירַשׁ אֶחָד מֵהֶן, בָּאִין שְׁנֵי מַלְאֲכֵי הַשָּׁרֵת שֶׁמְּלַוִּין לוֹ לָאָדָם, וּמַנִּיחִין לוֹ יְדֵיהֶן עַל רֹאשׁוֹ, וְאוֹמְרִים: פְּלוֹנִי זֶה שֶׁפֵּירַשׁ מִן הַצִּבּוּר אַל יִרְאֶה בְּנֶחָמַת צִבּוּר. תַּנְיָא אִידַּךְ: בִּזְמַן שֶׁהַצִּבּוּר שָׁרוּי בְּצַעַר, אַל יֹאמַר אָדָם: אֵלֵךְ לְבֵיתִי, וְאוֹכַל וְאֶשְׁתֶּה, וְשָׁלוֹם עָלַיִךְ נַפְשִׁי. וְאִם עוֹשֶׂה כֵּן עָלָיו הַכָּתוּב אוֹמֵר: ״וְהִנֵּה שָׂשׂוֹן וְשִׂמְחָה הָרֹג בָּקָר וְשָׁחֹט צֹאן אָכֹל בָּשָׂר וְשָׁתוֹת יָיִן אָכוֹל וְשָׁתוֹ כִּי מָחָר נָמוּת״, מָה כְּתִיב בָּתְרֵיהּ ״וְנִגְלָה בְאׇזְנָי ה׳ צְבָאוֹת אִם יְכֻפַּר הֶעָוֹן הַזֶּה לָכֶם עַד תְּמֻתוּן״ ... אֶלָּא, יְצַעֵר אָדָם עִם הַצִּבּוּר, שֶׁכֵּן מָצִינוּ בְּמֹשֶׁה רַבֵּינוּ שֶׁצִּיעֵר עַצְמוֹ עִם הַצִּבּוּר, שֶׁנֶּאֱמַר: ״וִידֵי מֹשֶׁה כְּבֵדִים וַיִּקְחוּ אֶבֶן וַיָּשִׂימוּ תַחְתָּיו וַיֵּשֶׁב עָלֶיהָ״, וְכִי לֹא הָיָה לוֹ לְמֹשֶׁה כַּר אֶחָד אוֹ כֶּסֶת אַחַת לֵישֵׁב עָלֶיהָ? אֶלָּא כָּךְ אָמַר מֹשֶׁה: הוֹאִיל וְיִשְׂרָאֵל שְׁרוּיִין בְּצַעַר אַף אֲנִי אֶהְיֶה עִמָּהֶם בְּצַעַר. וְכׇל הַמְצַעֵר עַצְמוֹ עִם הַצִּבּוּר זוֹכֶה וְרוֹאֶה בְּנֶחָמַת צִבּוּר:
+<br/>
+<br/>
 
 *"Rav Yehudah says in the name of Rav, whoever starves himself during years of famine even if he has food will be saved from an unusual death, as it says: 'In famine He will save you from death' (Iyov 5:20). It should say 'from famine', rather this is what it is saying: As a reward for starving himself during years of famine, he will be saved from an unusual death. Reish Lakish says, it is forbidden to have intercourse during years of famine, as it says: 'Two sons were born to Yosef before the years of famine came' (Breishit 41:50). It was taught, those without children yet may have intercourse during a famine since they are suffering already. The Rabbis taught, when Yisrael is in distress and one of them separates himself, the two ministering angels that accompany a man come and put their hands on his head and say: This man who separated himself from the community, shall not see the comfort of the community. It was also taught, when the community is in distress, a person should not say: I will go to my house, and eat, and drink, and peace will be upon my soul. If he does so, see what it says: 'And behold joy and gladness, slaying oxen and killing sheep, eating flesh and drinking wine; let us eat and drink, for tomorrow we shall die' (Yishayahu 22:13), and afterwards it says: 'And the Hashem Tzva'ot revealed Himself in my ears: Surely this sin shall not be expiated by you until you die' (Yishayahu 22:14) ... Rather, a person should be in distress with the community, as we find by Moshe Rabbeinu who was in distress with the community, as it says: 'Moshe's hands got heavy, so they took a rock and placed it under him and he sat on it' (Shmot 17:12). Did Moshe not have even one pillow or cushion to sit on? Rather Moshe said: Since Yisrael are in distress, I will be in distress with them. And whoever puts himself in distress with the community - he merits to see their comfort."*
+<br/>
+<br/>
 
 Contrast this with Tanchuma Yelamdenu, written and published hundreds of years later, where the reason behind these proclamations is finally given. It is not appropriate for man to behave in a way that is counter to G-d; if He is restraining and destroying, we should act accordingly, and not behave in a way that is counter to His will. This explanation of *Imitatio Dei* is not given by Breishit Rabbah or the Talmud Bavli:
+<br/>
+<br/>
 
 **Tanchuma Yelamdenu Noah 11**
+<br/>
+<br/>
 
 לֵאמֹר לַאֲסוּרִים צֵאוּ, שֶׁהָיוּ אֲסוּרִים מִתַּשְׁמִישׁ הַמִּטָּה. לָמָּה, שֶׁבְּשָׁעָה שֶׁהָעוֹלָם נָתוּן בְּצָרָה וּבְחֻרְבָּן אָסוּר לָאָדָם לְהִזָּקֵק בִּפְרִיָּה וּרְבִיָּה, שֶׁלֹּא יְהֵא הַקָּדוֹשׁ בָּרוּךְ הוּא עוֹסֵק בְּחֻרְבַּן הָעוֹלָם וְהוּא בּוֹנֶה. וְכֵן עָשָׂה יוֹסֵף, עַד שֶׁלֹּא בָאוּ שְׁנֵי בַצֹּרֶת נִזְקַק לְאִשְׁתּוֹ, שֶׁנֶּאֱמַר: וּלְיוֹסֵף יֻלָּד שְׁנֵי בָנִים (בראשית מא, נ). אֵימָתַי, בְּטֶרֶם תָּבוֹא שְׁנַת הָרָעָה (בראשית מא, נ). וְכֵן אִיּוֹב אוֹמֵר, בְּחֶסֶר וּבְכָפָן גַּלְמוּד (איוב ל, ג). כְּשֶׁהַחֶסֶר וְהַכָּפָן בָּא לָעוֹלָם, גַּלְמוּד, גְּלֵה מִתַּשְׁמִישׁ הַמִּטָּה. וְכֵן עָשָׂה נֹחַ, כְּשֶׁנִּכְנַס בַּתֵּבָה, כְּתִיב בּוֹ, וַיָּבֹא נֹחַ וּבָנָיו, אַחַר כָּךְ וְאִשְׁתּוֹ וּנְשֵׁי בָנָיו. וּכְשֶׁיָּצָא, אָמַר לוֹ: צֵא מִן הַתֵּבָה אַתָּה וְאִשְׁתְּךָ וּבָנֶיךָ וְגוֹ׳. מִכָּאן אַתָּה לָמֵד, שֶׁנֶּאֶסְרוּ נֹחַ וּבָנָיו מִתַּשְׁמִישׁ הַמִּטָּה, הֲדָא הוּא דִכְתִיב, לֵאמֹר לַאֲסוּרִים צֵאוּ. לֵאמֹר לַאֲסוּרִים מִתַּשְׁמִישׁ הַמִּטָּה, צְאוּ מִן הַתֵּבָה:
+<br/>
+<br/>
 
 *"'Tell the prisoners to go forth' (Yishayahu 48:8), since they were forbidden from intercourse. Why? Because when the world is in distress and destruction, it is inappropriate for a person to be engaged in procreation, so that HaKadosh Baruch Hu is not dealing with the destruction of the world and he is building it back up. Yosef acted similarly - until the years of famine came he had intercourse with his wife, as it says: 'Two sons were born to Yosef' (Breishit 41:50). When? 'Before the years of famine came' (Breishit 41:50). And Iyov also says: 'Lonely from want and starvation' (Iyov 30:3) - if you see lacking and famine come into the world, be lonely, be alone from intercourse. And similarly with Noah, for when he entered the ark, it says: 'Noah and his sons', and then 'his wife and his sons' wives'. But when he left, He said to him: 'Leave the ark, you and your wife and your sons and your sons' wives'. From here you learn that Noah and his sons were forbidden from intercourse, as it says: 'Tell the prisoners to go forth' (Yishayahu 48:8) - tell those forbidden from intercourse to leave the ark."*
+<br/>
+<br/>
 
 Note this explanation is different from one we perhaps assumed was underpinning these midrashim, namely that empathy is an important virtue, and a person should actively relate to, and show solidarity with, his fellows going through hardship. That idea, while compelling, is never actually given by the midrash, and Tanchuma Yelamdenu actually offers a different reason instead, though of course it does not negate the former's validity as well.
 
 **97.** **Shmot 32:10, 14**
+<br/>
+<br/>
 
 וְעַתָּה֙ הַנִּ֣יחָה לִּ֔י וְיִֽחַר אַפִּ֥י בָהֶ֖ם וַאֲכַלֵּ֑ם וְאֶֽעֱשֶׂ֥ה אוֹתְךָ֖ לְג֥וֹי גָּדֽוֹל׃ ... וַיִּנָּ֖חֶם יְהֹוָ֑ה עַל הָ֣רָעָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר לַעֲשׂ֥וֹת לְעַמּֽוֹ׃
+<br/>
+<br/>
 
 *"Now leave Me be, and My anger will flare against them and consume them, and I will make you i.e. Moshe into a great nation ... and Hashem repented of the evil He had said He would do to His nation."*
 
 **98.** **Shmot Rabbah 48:3; Tanchuma Yelamdenu Vayakhel 4.**
 
 **99.** **Chizkuni to Shmot 31:2 d"h betzalel ben uri ben hur**
+<br/>
+<br/>
 
 בצלאל בן אורי בן חור נזכר זקנו של בצלאל מה שאין כן באהליאב בן אחיסמך לפי שנהרג במעשה העגל, ומלאכת המשכן באה לכפר על אותו עון לכך נזכר חור עליה:
+<br/>
+<br/>
 
 *"Betzalel Ben Uri Ben Hur. The grandfather of Betzalel is mentioned, unlike by Oholiav Ben Achisamach, because Hur was killed during the incident of the calf, and the construction of the Mishkan came to atone for that sin. This is why Hur is mentioned in connection with it."*
 
 **100.** Yalkut Reuveni Parshat Shelach. This work is a compilation of earlier Kabbalistic teachings compiled and edited by Rabbi Reuven HaKohen in the 17th century CE.
 
 **101.** The concept of *gilgul*, or transmigration of souls, can be found in medieval Kabbalah, though its usage is systematized and greatly expanded upon in later Cordoveran and Lurianic Kabbalah respectively, as a solution to the age-old question of *tzaddik vera lo*, how come bad things happen to good people. Here Yalkut Reuveni argues that Hur was reincarnated in some sense in the essence of his father Kalev to explain how he did in fact receive a reward from Above, even though it is not apparent to one who looks purely at the world of material things.
+<br/>
+<br/>
 
 There is precedence for associating Hur with transmigration; none other than the famous Arizal argued that Hur was a *gilgul* of Haran, brother of Avraham Avinu, and that his death actually served a larger, cosmic repair for the sin of *Avodah Zarah* from the days of Adam HaRishon himself:
+<br/>
+<br/>
 
 **Likutei Torah of the Arizal, Ki Tisa**
+<br/>
+<br/>
 
 ענין העגל כתוב בספר הגלגולים. אהרן אותיות הר״ן, והנה הוא גלגול אדם הראשון שעבד עבודה זרה לכן כדי לתקן זה בא בגלגול אהרן בא׳ וגם זה לא נתקן כי היה צריך ליהרג כשאמרו לו הערב רב לעשות העגל לעבודה זרה והיה לו למסור נפשו למיתה והוא לא עשה כן כי ראה חור זבוח לפניו. וחור גם כן בא מאדם הראשון בנחור אחי אברהם וכן עתה הרן באהרן ונחור בחור והיה סובר אהרן כי די בהריגת חור:
+<br/>
+<br/>
 
 *"The explanation of the calf is written in the book of gilgulim. Aharon has the same letters as Haran, and know that he was the gilgul of Adam HaRishon who worshiped Avodah Zarah. Therefore in order to fix this he returned in the gilgul of Aharon with an Aleph. But even this was not enough to fix it, for he had to let himself be killed when the Erev Rav said to him to make the calf for Avodah Zarah - he should have given his life, but he did not do so because he saw Hur slaughtered before him. Hur was also from Adam HaRishon, and Nachor the brother of Avraham. And so Haran reincarnated as Aharon and Nachor reincarnated as Hur, and Aharon reasoned that Hur's murder should have been enough to fix the sin of Avodah Zarah."*
 
 **102.** Ramban gives a lengthy, detailed explanation as to how the promise of Yehudah's kingship is contained within Yaakov's blessing to Yehudah on his deathbed:
+<br/>
+<br/>
 
 **Ramban to Breishit 48:10 d"h lo yasur shevet miyehudah**
+<br/>
+<br/>
 
 אין ענינו שלא יסור לעולם ... אבל ענינו, שלא יסור שבט מיהודה אל אחד מאחיו, כי מלכות ישראל המושל עליהם ממנו יהיה, ולא ימשול אחד מאחיו עליו:
+<br/>
+<br/>
 
 *"It does not mean that the scepter will never leave Yehudah ... but rather, it means that the scepter will not leave from Yehudah to another one of the brothers, for the kingdom of Yisrael ruled over them, but it means that one of his brothers will not rule over him."*
+<br/>
+<br/>
 
 This idea has precedent in the Talmud as well:
+<br/>
+<br/>
 
 **Talmud Yerushalmi Sotah 8:3**
+<br/>
+<br/>
 
 אֵין מוֹשְׁחִין אֶת הַמְלָכִים אֶלָּא מִן הַקֶּרֶן. שָׁאוּל וְיֵהוּא נִמְשְׁחוּ מִן הַפַּךְ. שֶׁהָֽיְתָה מַלְכוּתָן מַלְכוּת עוֹבֶרֶת. דָּוִד וּשְׁלֹמֹה נִמְשְׁחוּ מִן הַקֶּרֶן. שֶׁהָֽיְתָה מַלְכוּתָן מַלְכוּת קַייֶמֶת. אֵין מוֹשְׁכִין מְלָכִים כֹּהֲנִים. אָמַר רִבִּי יוּדָן עַנְתּוֹדְרוּיָה. עַל שֵׁם לֹא יָסוּר שֵׁבֶט מִיהוּדָה (בראשית מח:י):
+<br/>
+<br/>
 
 *"We do not appoint kings except through a horn. Shaul and Yehu were appointed through a pitcher, because their kingships were temporary; David and Shlomo were appointed through a horn, because their kingships were permanent. We do not appoint Kohanim as kings. Rabbi Yudan Antodruyah said, as it says: 'The scepter shall not depart from Yehudah' (Breishit 48:10)."*
 
 **103.** **Bava Metzia 42a**
+<br/>
+<br/>
 
 וא״ר יצחק אין הברכה מצוייה אלא בדבר הסמוי מן העין שנאמר (דברים כח, ח) יצו ה׳ אתך את הברכה באסמיך תנא דבי רבי ישמעאל אין הברכה מצויה אלא בדבר שאין העין שולטת בו שנאמר יצו ה׳ אתך את הברכה באסמיך:
+<br/>
+<br/>
 
 *"Rabbi Yitzchak said, blessing is not found except with something that is hidden from the eye, as it says: 'Hashem shall command blessing for you in your hidden things' (Devarim 28:8). It was taught in the house of Rabbi Yishmael, blessing is not found except with something that the eye has not control over, as it says: Hashem shall command blessing for you in your hidden things.'"*
 
 **104.** A grandparent's love extends to the grandchild, but not further:
+<br/>
+<br/>
 
 **Breishit Rabbah 54:4**
+<br/>
+<br/>
 
 (בראשית כא, כג): וְעַתָּה הִשָּׁבְעָה לִי בֵאלֹהִים הֵנָּה אִם תִּשְׁקֹר לִי וּלְנִינִי וּלְנֶכְדִי, עַד כָּאן רַחֲמֵי הָאָב עַל הַבֵּן:
+<br/>
+<br/>
 
 *"'Now swear to me in the name of G-d, that you will not deal falsely with me, my son or my grandson' (Breishit 21:23). This is how far a father's concern goes for his descendant i.e. until his grandson."*
 
 **105.** **Ketubot 50a**
+<br/>
+<br/>
 
 וּרְאֵה בָנִים לְבָנֶיךָ שָׁלוֹם עַל יִשְׂרָאֵל (תהלים קכח:ו). אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי כֵּיוָן שֶׁבָנִים לְבָנֶיךָ שָׁלוֹם עַל יִשְׂרָאֵל:
+<br/>
+<br/>
 
 *"'And if you see your son's sons, there will be peace in Yisrael' (Tehillim 128:6). Rabbi Yehoshua Ben Levi says, once your children have children of their own, there will be peace in Yisrael."*
 
 **106.** **Talmud Yerushalmi Gittin 5:3**
+<br/>
+<br/>
 
 בְּנֵי בָנִים מָה הֵן. רִבִּי מָנָא אָמַר. בְּנֵי בָנִים הֲרֵי הֵן כְּבָנִים. רִבִּי יוֹסֵי אָמַר. אֵין בְּנֵי בָנִים כְּבָנִים:
+<br/>
+<br/>
 
 *"What is the law regarding the sons of sons? Rabbi Mana says, sons of sons are considered like sons. Rabbi Yosi says, sons of sons are not considered like sons."*
 
 **107.** **Yevamot 62a-b.**
 
 **108.** **Mishneh Torah, Hilchot Ishut 15:4**
+<br/>
+<br/>
 
 כַּמָּה בָּנִים יִהְיוּ לְאִישׁ וְתִתְקַיֵּם מִצְוָה זוֹ בְּיָדוֹ. זָכָר וּנְקֵבָה. שֶׁנֶּאֱמַר (בראשית ה, ב) ״זָכָר וּנְקֵבָה בְּרָאָם״:
+<br/>
+<br/>
 
 *"How many children must a man have to fulfill this mitzvah? At least a boy and a girl, as it says: 'He created them male and female' (Breishit 5:2)."*
+<br/>
+<br/>
 
 **Magid Mishneh to Mishneh Torah, Hilchot Ishut 15:4 d"h kama banim yihiyu**
+<br/>
+<br/>
 
 במשנה שם (יבמות דף ס״א:) בית שמאי אומרים ב׳ זכרים וב׳׳ה אומרים זכר ונקבה שנאמר זכר ונקבה בראם (בראשית ה, ב) וידוע שהלכה כב׳׳ה. ופי׳ דוקא זכר ונקבה אבל שני זכרים לא ואין צ׳׳ל שתי נקבות וכן מוכיח בגמרא:
+<br/>
+<br/>
 
 *"In the Mishnah there (Yevamot 61b) Beit Shammai say two boys while Beit Hillel say a boy and a girl, as it says: 'He created them male and female' (Breishit 5:2), and it is known that the halachah follows Beit Hillel. And this means specifically at least a boy and a girl, but two boys is not enough, and surely two girls is not either, as it demonstrated by the Gemara."*
+<br/>
+<br/>
 
 **Even HaEzer 1:5-6**
+<br/>
+<br/>
 
 כיון שיש לאדם זכר ונקבה קיים מצות פריה ורביה והוא שלא יהיה הבן סריס או הנקבה איילונית. נולדו לו זכר ונקבה ומתו והניחו בנים הרי זה קיים מצות פריה ורביה:
+<br/>
+<br/>
 
 *"If a man has a boy and a girl he has fulfilled the mitzvah of procreation, as long as the son is not a eunuch and the daughter is not barren. If he has a boy and girl but they die, and if they leave behind sons, he has still fulfilled the mitzvah of procreation."*
 
 **109.** There is some debate about if the sons of daughters are considered like sons. Abaye in Yevamot 62b (see above **Note 107**) held that sons of daughters are surely considered like sons, and on this point Rava agreed with him albeit for his own reasons. Abaye does not posit a source for this opinion, but seems to derive it as a *kal vachomer* from the case of sons of sons:
+<br/>
+<br/>
 
 **Tosafot to Yevamot 62b d"h vekol sheken bra levarta**
+<br/>
+<br/>
 
 אע״ג דאמרינן לעיל אין שני זכרים חשובים כבן ובת הכא שבא מכח מי שפטרתו מפריה ורביה פשיטא דקאי שפיר הבן במקום הבת:
+<br/>
+<br/>
 
 *"Even though we say that two males cannot take the place of a male and a female, here where it's talking about replacing someone regarding an exemption from procreation, surely it is fine to have a male instead of a female."*
+<br/>
+<br/>
 
 One midrash finds an example for this specific case as well, the very source rejected by Yevamot as a source for "sons of sons are considered like sons" before it lands on the lineage of Hetzron instead:
+<br/>
+<br/>
 
 **Pirkei DeRabbi Eliezer 36**
+<br/>
+<br/>
 
 ובני בניו של אדם כבניו, מניין שהם כבניו? מיעקב, שאמ׳ אפרים ומנשה כראובן ושמעון יהיו לי (בראשית מח, ה) וכי בניו היו והלא בני בניו היו אלא ללמדך שבני בניו של אדם כבניו. ובני בנותיו של אדם כבניו, מניין שהם כבניו?
 מלבן, שאמ׳ הבנות בנותי והבנים בני (בראשית לא, מג) וכי בניו היו והלא בני בנותיו היו אלא ללמדך שבני בנותיו של אדם כבניו:
+<br/>
+<br/>
 
 *"The sons of a man's sons are considered like his sons. How do we know this? From Yaakov, who said that: 'Ephraim and Menashe are like Reuven and Shimon to me' (Breishit 48:5). Were they his sons - were they not his son's sons? Rather, learn from here that sons of sons are considered like sons. And the sons of a man's daughters are considered like his sons. How do we know this? From Lavan, who said that: 'The girls are my daughters and the boys are my sons' (Breishit 48:5). Were they his sons - were they not his daughters's sons? Rather, learn from here that sons of daughters are considered like sons.*
+<br/>
+<br/>
 
 There is another school of thought which accepts the general idea that grandchildren are like children, but unlike Abaye and Rava in Yevamot and Pirkei DeRabbi Eliezer it believes that sons of daughters are an exception:
+<br/>
+<br/>
 
 **Talmud Yerushalmi Yevamot 6:6**
+<br/>
+<br/>
 
 בני בנים כבנים בני בנות אינם כבנים. בן בן ובת בת עולין. בת בן ובן בת אינן עולין:
+<br/>
+<br/>
 
 *"Sons of sons are like sons, while sons of daughters are not like sons. This is the rule: sons of sons and daughters of daughters count; daughters of sons and sons of daughters do not count."*
+<br/>
+<br/>
 
 **Breishit Rabbah 94:6**
+<br/>
+<br/>
 
 וַיָּקָם יַעֲקֹב וגו׳ וַיִּקְחוּ אֶת מִקְנֵיהֶם וגו׳ בָּנָיו וּבְנֵי בָנָיו וגו׳ (בראשית מו, ה-ז). אָמַר רַבִּי יְהוּדָה בַּר אִלְעָאי בְּנוֹת בָּנִים הֲרֵי הֵן כְּבָנִים, וּבְנֵי בָנוֹת אֵינָן כְּבָנִים:
+<br/>
+<br/>
 
 *"'Yaakov got up ... and they took their livestock ... their sons and their grandsons' (Breishit 46:5-7). Rabbi Yehudah Bar Ila'i says, sons of sons are considered like sons, but sons of daughters are not considered like sons."*
+<br/>
+<br/>
 
 **Yefe To'ar to Breishit Rabbah 94:6 d"h bnei banot**
+<br/>
+<br/>
 
 הך מילתא לענין פריה ורביה איתמר דבעינן שיהיה לו בן ובת ואם מתו ויש להם בנים קי״ל דבני בנים הרי הן כבנים. ובירושל׳ פ׳ הבא על יבמתו איתא בני בנים כבנים בני בנות אינם כבנים בן בן ובת בת עולין בת בן ובן בת אינן עולין. ואחרי כי שטת המדרש הוא בכ״מ כהירושלמי טוב לגרוס גם הכא כן בני בנים הרי הן כבנים. אבל אין זה אליבא דהלכתא כי בני בנות עולים:
+<br/>
+<br/>
 
 *"These words are said in regards to procreation, since we require according to Beit Hillel a son and a daughter, and if they die and have sons we can apply the principle: sons of sons are considered like sons. In the Talmud Yerushalmi Yevamot 6:6 it says: Sons of sons are considered like sons, but sons of daughters are not considered like sons. This is the rule: sons of sons and daughters of daughters count, while sons of daughters and daughters of sons do not count. Since the opinion of the midrash in a few places is like that of the Talmud Yerushalmi, it is good to correct the words here as well to say, sons of sons are considered like sons. But this opinion in the Talmud Yerushalmi and the midrash is not according to the halachah, which states that the sons of daughters do count as well and are considered like sons."*
+<br/>
+<br/>
 
 It follows that the case of a son's daughter is subject to contention in the various sources. The halachah follows Rava who holds that even this permutation is acceptable:
 
@@ -1317,53 +1647,93 @@ Talmud Yerushalmi Yevamot                Yes                             No     
 
 Talmud Yerushalmi Gittin 5:3               No                             No                             No (R' Yosi)
 ---------------------------- ------------------------------ ------------------------------ ------------------------------
+<br/>
+<br/>
 
 Regardless, for our purposes of applying this concept to Hur and Betzalel it is a case of the son's son, and so Betzlalel can be considered like Hur's son according to virtually all opinions.
 
 **110.** **Mishlei 17:6.**
 
 **111.** **Tanchuma Yelamdenu Toldot 4**
+<br/>
+<br/>
 
 וְאֵלֶּה תּוֹלְדֹת יִצְחָק. אַבְרָהָם הוֹלִיד אֶת יִצְחָק. זֶה שֶׁאָמַר הַכָּתוּב: עֲטֶרֶת זְקֵנִים בְּנֵי בָנִים וְתִפְאֶרֶת בָּנִים אֲבוֹתָם (משלי יז, ו). הַצַּדִּיקִים מִתְעַטְּרִין בִּבְנֵי בְנֵיהֶם וּבְנֵיהֶם מִתְעַטְּרִין בַּאֲבוֹתָם. כֵּיצַד? אַבְרָהָם נִתְעַטֵּר בִּזְכוּת יַעֲקֹב ... הֲרֵי נִתְעַטְּרוּ אָבוֹת בִּשְׁבִיל בָּנִים וּמִנַּיִן שֶׁנִּתְעַטְּרוּ בָנִים בִּשְׁבִיל אָבוֹת? בְּשָׁעָה שֶׁיָּצָא יַעֲקֹב מֵאֵצֶל לָבָן, רָדַף לָבָן אַחֲרָיו, וְנִגְלָה עָלָיו הַקָּדוֹשׁ בָּרוּךְ הוּא בַּדֶּרֶךְ וְאָמַר לוֹ: הִשָּׁמֶר לְךָ פֶּן תְּדַבֵּר עִם יַעֲקֹב מִטּוֹב עַד רָע (בראשית לא, כד). כֵּיוָן שֶׁבָּאוּ לְהִתְוַכֵּחַ זֶה עִם זֶה, מַה יַּעֲקֹב אוֹמֵר לְלָבָן, לוּלֵי אֱלֹהֵי אָבִי אֱלֹהֵי אַבְרָהָם וּפַחַד יִצְחָק הָיָה לִי (בראשית לא, מב). הֱוֵי, זְכוּת אַבְרָהָם הִצִּילַתּוּ לְיַעֲקֹב. אֲבָל יִצְחָק נִתְעַטֵּר בְּאַבְרָהָם, וְאַבְרָהָם נִתְעַטֵּר בְּיִצְחָק:
+<br/>
+<br/>
 
 *"'These are the offspring of Yitzchak, Avraham gave birth to Yitzchak. This is as it says: 'The crown of the elderly is their sons' sons, and the beauty of sons is their father' (Mishlei 17:6). The righteous are crowned with their sons' sons, and their sons are crowned by their fathers. How so? Avraham was crowned in Yaakov's merit ... We see that fathers are crowned because of their sons. But how do we know that sons are crowned because of their fathers? When Yaakov went out from Lavan and Lavan chased after him, HaKadosh Baruch Hu revealed Himself to Lavan on the way and said to him: 'Guard yourself from saying anything to Yaakov, good or bad' (Breishit 31:24). When they began to argue with each other, what did Yaakov say to Lavan: 'Were it not for the G-d of my father, the G-d of Avraham and the fear of Yitzchak, being with me' (Breishit 31:42). So, Avraham's merit saved Yaakov. Also, Yitzchak was crowned by Avraham, and Avraham was crowned by Yitzchak."*
 
 **112.** This idea ties nicely with the aggadic contention that the Mishkan was commanding as a response to the sin of the golden calf, meaning it was only after Hur was killed that Betzalel was called by name to lead the construction effort. Betzalel was only able to inherit the throne of Kingship once his grandfather - considered like a father - Hur had died. A clear support for this idea is that a similar sentiment is expressed by HaKadosh Baruch Hu when asked by David - ultimate inheritor of the crown of Kingship - why his reign could not last any longer:
+<br/>
+<br/>
 
 **Shabbat 30a**
+<br/>
+<br/>
 
 וּדְקָאָמַר שְׁלֹמֹה: ״כִּי לְכֶלֶב חַי הוּא טוֹב מִן הָאַרְיֵה הַמֵּת״ (קהלת ט, ד), כִּדְרַב יְהוּדָה אָמַר רַב. דְּאָמַר רַב יְהוּדָה אָמַר רַב, מַאי דִכְתִיב: ״הוֹדִיעֵנִי ה׳ קִצִּי וּמִדַּת יָמַי מַה הִיא אֵדְעָה מֶה חָדֵל אָנִי״? אָמַר דָּוִד לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: רִבּוֹנוֹ שֶׁל עוֹלָם, הוֹדִיעֵנִי ה׳ קִצִּי (תהלים לט, ה). אָמַר לוֹ: גְּזֵרָה הִיא מִלְּפָנַי שֶׁאֵין מוֹדִיעִין קִצּוֹ שֶׁל בָּשָׂר וָדָם. ״וּמִדַּת יָמַי מַה הִיא״ גְּזֵרָה הִיא מִלְּפָנַי שֶׁאֵין מוֹדִיעִין מִדַּת יָמָיו שֶׁל אָדָם. ״וְאֵדְעָה מֶה חָדֵל אָנִי״. אָמַר לוֹ: בְּשַׁבָּת תָּמוּת. אָמוּת בְּאֶחָד בְּשַׁבָּת? אָמַר לוֹ: כְּבָר הִגִּיעָה מַלְכוּת שְׁלֹמֹה בִּנְךָ, וְאֵין מַלְכוּת נוֹגַעַת בַּחֲבֶרְתָּהּ אֲפִילּוּ כִּמְלֹא נִימָא. אָמוּת בְּעֶרֶב שַׁבָּת? אָמַר לוֹ: ״כִּי טוֹב יוֹם בַּחֲצֵרֶיךָ מֵאָלֶף״. טוֹב לִי יוֹם אֶחָד שֶׁאַתָּה יוֹשֵׁב וְעוֹסֵק בַּתּוֹרָה מֵאֶלֶף עוֹלוֹת שֶׁעָתִיד שְׁלֹמֹה בִּנְךָ לְהַקְרִיב לְפָנַי עַל גַּבֵּי הַמִּזְבֵּחַ:
+<br/>
+<br/>
 
 *"As Shlomo said: 'A live dog is better than a dead lion' (Kohelet 9:4). As Rav Yehudah says in the name of Rav, why does it say: Hashem, reveal to me my end and the measure of my days; let me know how short-lived I am' (Tehillim 39:5)? David said before HaKadosh Baruch Hu: Master of the Universe: 'Reveal to me my end'. He said to him: It is a decree before Me that one does not reveal the end to flesh and blood. 'And the measure of my days': It is a decree before me that one does not reveal the number of days to flesh and blood. 'Let me know how short-lived I am': He said to him: You will die on Shabbat. David asked: Can I die on Sunday? He said to him: Your son Shlomo's reign starts them, and one reign does not overlap with another by even a hairsbreadth. Can I die on Friday? He said to him: 'One day in your courts is better than a thousand' (Tehillim 84:11) - one day that you sit and learn Torah is better to Me than a thousand offerings that Shlomo your son will bring before Me on the altar."*
+<br/>
+<br/>
 
 The concept of being "called by name" - as Betzalel was - is also juxtaposed to the concept of reigns not being allowed to overlapped:
+<br/>
+<br/>
 
 **Yoma 38b**
+<br/>
+<br/>
 
 אָמַר בֶּן עַזַּאי: בְּשִׁמְךָ יִקְרָאוּךְ, וּבִמְקוֹמְךָ יוֹשִׁיבוּךְ, וּמִשֶּׁלְּךָ יִתְּנוּ לְךָ. אֵין אָדָם נוֹגֵעַ בַּמּוּכָן לַחֲבֵירוֹ. וְאֵין מַלְכוּת נוֹגַעַת בַּחֲבֶרְתָּהּ אֲפִילּוּ כִּמְלֹא נִימָא:
+<br/>
+<br/>
 
 *"Ben Azzai says, by your name they shall call you, and in your place they shall seat you, and from your own they shall give you. A person does not touch that which is set for his fellow, and one reign does not overlap with another by even a hairsbreadth."*
 
 **113.** Hur is listed as one of the five Midianite kings killed in battle against Bnai Yisrael:
+<br/>
+<br/>
 
 **Bemidbar 31:8**
+<br/>
+<br/>
 
 וְאֶת מַלְכֵ֨י מִדְיָ֜ן הָרְג֣וּ עַל חַלְלֵיהֶ֗ם אֶת אֱוִ֤י וְאֶת רֶ֙קֶם֙ וְאֶת צ֤וּר וְאֶת חוּר֙ וְאֶת רֶ֔בַע
 חֲמֵ֖שֶׁת מַלְכֵ֣י מִדְיָ֑ן וְאֵת֙ בִּלְעָ֣ם בֶּן בְּע֔וֹר הָרְג֖וּ בֶּחָֽרֶב 
+<br/>
+<br/>
 
 *"They killed the kings of Midian: Evi, Rekem, Tzur, Hur and Reva - the five kings of Midian; and they killed Bilam Ben Be'or by the sword."*
+<br/>
+<br/>
 
 Hur is also mentioned as the ancestor of a governor in Jerusalem while the first Beit HaMikdash was being built, and the chief of half the district of Jerusalem during the second Beit HaMikdash's construction:
+<br/>
+<br/>
 
 **Melachim Aleph 4:8**
+<br/>
+<br/>
 
 וְאֵ֣לֶּה שְׁמוֹתָ֔ם בֶּן ח֖וּר בְּהַ֥ר אֶפְרָֽיִם׃
+<br/>
+<br/>
 
 *"And these are the names of the 12 governors Shlomo appointed over all of Bnai Yisrael: Ben Hur in the hills of Ephraim."*
+<br/>
+<br/>
 
 **Nehemiah 3:9**
+<br/>
+<br/>
 
 וְעַל יָדָ֤ם הֶחֱזִיק֙ רְפָיָ֣ה בֶן ח֔וּר שַׂ֕ר חֲצִ֖י פֶּ֥לֶךְ יְרוּשָׁלָֽ͏ִם׃
+<br/>
+<br/>
 
 *"Next to them, Rephaiah Ben Hur, chief of half the district of Jerusalem, repaired the wall."*
 
@@ -1372,14 +1742,22 @@ Hur is also mentioned as the ancestor of a governor in Jerusalem while the first
 **115.** **Esther 1:5-7.**
 
 **116.** **Daniel 7:9**
+<br/>
+<br/>
 
 חָזֵ֣ה הֲוֵ֗ית עַ֣ד דִּ֤י כׇרְסָוָן֙ רְמִ֔יו וְעַתִּ֥יק יוֹמִ֖ין יְתִ֑ב לְבוּשֵׁ֣הּ כִּתְלַ֣ג חִוָּ֗ר וּשְׂעַ֤ר רֵאשֵׁהּ֙ כַּעֲמַ֣ר נְקֵ֔א כׇּרְסְיֵהּ֙ שְׁבִיבִ֣ין דִּי נ֔וּר גַּלְגִּלּ֖וֹהִי נ֥וּר דָּלִֽק׃
+<br/>
+<br/>
 
 *"As I looked on, thrones were set in place, and the Ancient of Days took His seat. His garment was like white snow, and the hair of His head was like lamb's wool. His throne was tongues of flame; its wheels were of blazing fire."*
 
 **117.** **Yishayahu 11:8**
+<br/>
+<br/>
 
 וְשִֽׁעֲשַׁ֥ע יוֹנֵ֖ק עַל חֻ֣ר פָּ֑תֶן וְעַל֙ מְאוּרַ֣ת צִפְעוֹנִ֔י גָּמ֖וּל יָד֥וֹ הָדָֽה׃
+<br/>
+<br/>
 
 *"A baby shall play over a viper's hole, and an infant shall pass his hand over an adder's den."*
 
@@ -1388,80 +1766,138 @@ Hur is also mentioned as the ancestor of a governor in Jerusalem while the first
 **119.** For another example of this phenomenon, see **Part III Note 45**.
 
 **120.** Mordechai is also described as unifying the Name of HaKadosh Baruch Hu through his actions, a description associated with the unification of the four crowns at the battle of Amalek:
+<br/>
+<br/>
 
 **Esther Rabbah 6:2**
+<br/>
+<br/>
 
 יהודי (אסתר ב, ה), למה נקרא שמו יהודי, והלא ימיני הוא, לפי שיחד שמו של הקדוש ברוך הוא כנגד כל באי עולם, הדא הוא דכתיב לא יכרע ולא ישתחוה (אסתר ג, ב):
+<br/>
+<br/>
 
 *"'Yehudi' (Esther 2:5). Why was Mordechai called a 'Yehudi' - was he not from Binyamin? Because he unified the name of HaKadosh Baruch Hu before all people in the world, as it says: 'Did not bow down and did not prostrate' (Esther 3:2)."*
 
 **121.** **Megillah 12a**
+<br/>
+<br/>
 
 שָׁאֲלוּ תַּלְמִידָיו אֶת רַבִּי שִׁמְעוֹן בַּר יוֹחַאי: מִפְּנֵי מָה נִתְחַיְּיבוּ שׂוֹנְאֵיהֶן שֶׁל יִשְׂרָאֵל שֶׁבְּאוֹתוֹ הַדּוֹר כְּלָיָה? אָמַר לָהֶם: אִמְרוּ אַתֶּם. אָמְרוּ לוֹ: מִפְּנֵי שֶׁנֶּהֱנוּ מִסְּעוּדָתוֹ שֶׁל אוֹתוֹ רָשָׁע:
+<br/>
+<br/>
 
 *"Rabbi Shimon Bar Yochai's students asked him: Why did the enemies of Yisrael i.e. a euphemism for Yisrael of that generation deserve destruction? He said to them: You tell me. They said to him: Because they partook in the feast of that wicked one Achashverosh."*
 
 **122.** **Chiddushei Aggadot on Megillah 12a d"h kirtzon**
+<br/>
+<br/>
 
 ונראה כפירוש התרגום: למעבד כרעות גברא דבית ישראל וכרעות גברא דכל אומה ולשון. ומדכתיב איש ואיש בלשון יתר אמרו כי שתלה הכתוב כלל ישראל במרדכי והיינו כרצונו שלא להאכילן ולשתותן דבר איסור דמרדכי גופיה ודאי דלא היה נהנה כלל מאותה סעודה. וכן תלה כלל העובדי כוכבים בהמן שרצונו בכל אכילות:
+<br/>
+<br/>
 
 *"It appears to be like the Targum interprets: 'To do according to the will of the men of Beit Yisrael and the will of the men of every other nation and people'. From the fact that it says 'every man' in hyperbolic language, they said that the text attached the rest of Yisrael on Mordechai, since his will was not to eat or drink anything forbidden, for Mordechai himself surely did not benefit whatsoever from that feast. And similarly the text attached the rest of the nations on Haman, since his will was to eat all the foods available at the feast."*
 
 **123.** **Daniel 1:8**
+<br/>
+<br/>
 
 וַיָּ֤שֶׂם דָּנִיֵּאל֙ עַל לִבּ֔וֹ אֲשֶׁ֧ר לֹֽא יִתְגָּאַ֛ל בְּפַת בַּ֥ג הַמֶּ֖לֶךְ וּבְיֵ֣ין מִשְׁתָּ֑יו וַיְבַקֵּשׁ֙ מִשַּׂ֣ר הַסָּרִיסִ֔ים אֲשֶׁ֖ר לֹ֥א יִתְגָּאָֽל׃
+<br/>
+<br/>
 
 *"Daniel resolved not to defile himself with the king's food or the wine he drank, so he sought permission from the chief eunuch not to defile himself."*
+<br/>
+<br/>
 
 **Malbim to Daniel 1:8 d"h vayasem daniel al libo**
+<br/>
+<br/>
 
 שדניאל חשב כי ייחד אותו לעבודת אלילים וירצה להעבירו על דת ושגם המאכלים והיין שיחד לו יהיו מזבחי מתים ויין נסיכם, ובאמת יש מפרשים שפי׳ שם פת בג פת הנקרב לעבודת אלילים:
+<br/>
+<br/>
 
 *"Daniel through that he had been set aside for idol worship, and that the king wished for him to violate his religious beliefs, and that the food and wine that had been set aside for him were from idolatrous sacrifices and libations, and indeed there are mefarshim who interpret the phrase 'pat bag' as bread that was brought for the sake of idol worship."*
 
 **124.** **Pesikta Rabbati 13**
+<br/>
+<br/>
 
 מני אפרים שרשם בעמלק אחריך בנימין (שופטים ה׳ י״ד) ... כיון שמלך שאול אמר הקדוש ברוך הוא אין זרעו של עמלק נופל אלא ביד בנה של רחל כן אתה מוצא ברפידים נפל ביד יהושע שנאמר ויחלוש יהושע את עמלק (שמות יז, יג) אמר הקב״ה לעולם השבט הזה מוכן להיפרע מן עמלק מניין ממה שהשלים בנביא מני אפרים שרשם בעמלק אחריך בנימין ... דבר אחר מהו מני אפרים אלא שמימיו של יעקב היה השבט הזה מתוקן להיפרע מן עשו ... ואחר כך ואת רחל ואת יוסף (בראשית לג, ב) אמר יעקב אם יהרגו כל בניו וישתייר בנה של רחל שאני ניצל על יד בנה של רחל והיה המחנה הנשאר לפלטה (בראשית לב, ט) ולמה כך אלא שנימנו בני רחל להיפרע מן הזרע הרע הזה מני אפרים שרשם בעמלק:
+<br/>
+<br/>
 
 *"When Shaul became king HaKadosh Baruch Hu said, the seed of Amalek shall not fall except through the hand of one of Rachel's offspring. Similarly you find in Rephidim that Amalek fell at the hand of Yehoshua, as it says: 'Yehoshua weakened Amalek' (Shmot 17:13). HaKadosh Baruch Hu said: This tribe shall always be ready to exact vengeance from Amalek. How do we know this? From what it says in the Navi: 'Out of Ephraim are those whose roots are in Amalek, after Binyamin' (Shoftim 5:14) ... Another idea: What does 'out of Ephraim' mean? From the days of Yaakov Avinu this tribe was destined to exact vengeance from Esav ... after that: 'And Rachel and Yosef' were placed last in Yaakov's camp (Breishit 33:2). Yaakov said: If they kill all the boys and only the son of Rachel is left, I will be saved by his hand: 'And the remaining camp shall be a refuge' (Breishit 32:9). Why? Because the children of Rachel had been appointed to exact vengeance from this evil seed: 'Out of Ephraim are those whose roots are in Amalek.'"*
 
 **125.** **Pesikta Rabbati 12:1**
+<br/>
+<br/>
 
 דבר אחר: למה אמר משה ליהושע צא הלחם? מפני שהוא מבני בניה של רחל: ״אשר קרך בדרך ויזנב בך כל הנחשלים אחריך ... ולא ירא אלקים״ (דברים כה, יח):
+<br/>
+<br/>
 
 *"Another idea: Why did Moshe tell Yehoshua to go out and fight Amalek? Because he was from the descendants of Rachel: 'Who happened upon you along the way and attacked the weak among you in the rear ... and Amalek did not fear G-d' (Devarim 25:18)."*
+<br/>
+<br/>
 
 Rachel and Yosef were strategically selected by Yaakov to go last in order to maximize their likelihood of survival in the event of a slaughter from Esav.
+<br/>
+<br/>
 
 **Breishit 33:2**
+<br/>
+<br/>
 
 וַיָּ֧שֶׂם אֶת הַשְּׁפָח֛וֹת וְאֶת יַלְדֵיהֶ֖ן רִֽאשֹׁנָ֑ה וְאֶת לֵאָ֤ה וִֽילָדֶ֙יהָ֙ אַחֲרֹנִ֔ים וְאֶת רָחֵ֥ל וְאֶת יוֹסֵ֖ף אַחֲרֹנִֽים׃
+<br/>
+<br/>
 
 *"Yaakov placed the maidservants and their children first, followed by Leah and her children, with Rachel and Yosef bringing up the rear."*
+<br/>
+<br/>
 
 In the future, it was Esav's grandson Amalek who specifically attacked the rear of Bnai Yisrael's camp, attempting to thwart Yaakov's desperate ploy to protect his loved ones, the most vulnerable of his family units. Because of this, it is fitting that Amalek be routed time and again throughout Jewish history by the descendants of Rachel. Specifically, it is just for Amalek to be defeated at the hands of a descendant of Binyamin, who at the time of Esav's meeting with Yaakov had not yet been born; it was not even the weak one that Amalek would have targeted who ended up defeating him, but the one who did not even yet exist.
 
 **126.** Another example is David's war with Amalek, during which he wipes them out completely save for 400 Amalekites who manage to escape on camelback:
+<br/>
+<br/>
 
 **Shmuel Aleph 30:1-2, 5, 10, 17-18:**
+<br/>
+<br/>
 
 וַיְהִ֞י בְּבֹ֨א דָוִ֧ד וַאֲנָשָׁ֛יו צִֽקְלַ֖ג בַּיּ֣וֹם הַשְּׁלִישִׁ֑י וַעֲמָלֵקִ֣י פָֽשְׁט֗וּ אֶל נֶ֙גֶב֙ וְאֶל צִ֣קְלַ֔ג וַיַּכּוּ֙ אֶת צִ֣קְלַ֔ג וַיִּשְׂרְפ֥וּ אֹתָ֖הּ בָּאֵֽשׁ׃ וַיִּשְׁבּ֨וּ אֶת הַנָּשִׁ֤ים אֲשֶׁר בָּהּ֙ מִקָּטֹ֣ן וְעַד גָּד֔וֹל לֹ֥א הֵמִ֖יתוּ אִ֑ישׁ וַיִּֽנְהֲג֔וּ וַיֵּלְכ֖וּ לְדַרְכָּֽם׃ ... וַתֵּ֨צֶר לְדָוִ֜ד מְאֹ֗ד כִּֽי אָמְר֤וּ הָעָם֙ לְסׇקְל֔וֹ כִּי מָ֙רָה֙ נֶ֣פֶשׁ כׇּל הָעָ֔ם אִ֖ישׁ עַל בָּנָ֣ו וְעַל בְּנֹתָ֑יו וַיִּתְחַזֵּ֣ק דָּוִ֔ד בַּיהֹוָ֖ה אֱלֹהָֽיו׃ ... וַיִּרְדֹּ֣ף דָּוִ֔ד ה֖וּא וְאַרְבַּע מֵא֣וֹת אִ֑ישׁ וַיַּֽעַמְדוּ֙ מָאתַ֣יִם אִ֔ישׁ אֲשֶׁ֣ר פִּגְּר֔וּ מֵעֲבֹ֖ר אֶת נַ֥חַל הַבְּשֽׂוֹר׃ ... וַיַּכֵּ֥ם דָּוִ֛ד מֵהַנֶּ֥שֶׁף וְעַד הָעֶ֖רֶב לְמׇחֳרָתָ֑ם וְלֹא נִמְלַ֤ט מֵהֶם֙ אִ֔ישׁ כִּי֩ אִם אַרְבַּ֨ע מֵא֧וֹת אִֽישׁ נַ֛עַר אֲשֶׁר רָכְב֥וּ עַל הַגְּמַלִּ֖ים וַיָּנֻֽסוּ׃ וַיַּצֵּ֣ל דָּוִ֔ד אֵ֛ת כׇּל אֲשֶׁ֥ר לָֽקְח֖וּ עֲמָלֵ֑ק וְאֶת שְׁתֵּ֥י נָשָׁ֖יו הִצִּ֥יל דָּוִֽד׃
+<br/>
+<br/>
 
 *"By the time David and his men came to Tziklag on the third day, Amalek had made a raid into the desert against Tziklag. They had struck Tziklag and burned it down with fire. They captured the women in it, from small to big; they did not kill anyone, but took them and went on their way ... David was very distressed because the people spoke of stoning him, for the entire nation's spirit was very bitter, each man about his sons and daughters. But David strengthened himself in Hashem his G-d ... David chased Amalek with four hundred men, while two hundred stayed behind, too faint to cross Nahal Besor ... David struck them from before dawn until the following evening. Not a man escaped save for four hundred young men who rode on camelback and fled. David saved everyone who Amalek had taken, and David saved his two wives as well."*
+<br/>
+<br/>
 
 The number four hundred appears twice in this story: the number of men that accompanied David to attack Amalek, and the number of Amalekites that survived and fled the battle. This reminds us of Amalek's grandfather Esav, who took four hundred men to confront his brother Yaakov:
+<br/>
+<br/>
 
 **Breishit 32:7**
+<br/>
+<br/>
 
 וַיָּשֻׁ֙בוּ֙ הַמַּלְאָכִ֔ים אֶֽל יַעֲקֹ֖ב לֵאמֹ֑ר בָּ֤אנוּ אֶל אָחִ֙יךָ֙ אֶל עֵשָׂ֔ו וְגַם֙ הֹלֵ֣ךְ לִקְרָֽאתְךָ֔ וְאַרְבַּע מֵא֥וֹת אִ֖ישׁ עִמּֽוֹ׃
+<br/>
+<br/>
 
 *"The messengers returned to Yaakov saying: We came to your brother Esav; he is coming to meet you, and he has four hundred men with him."*
+<br/>
+<br/>
 
 Just as the episode of Yaakov and Esav meeting set the tone for Rachel's children defeating Amalek in the future, it also was a sign and starting point for the tribe of Yehudah's role in weakening Amalek as well.
+<br/>
+<br/>
 
 Additionally, the language used to describe David is reminiscent of Kalev Ben Yefuneh: just as the people wanted to stone him, and he took strength in Hashem, so too David was under threat of stoning, but took comfort in G-d. Kalev was channeling his son Hur during that episode; so too here David is echoing that same leadership in the face of adversity. And just as Hur was able to strengthen Moshe - and thereby the rest of the troops - David was able to find the strength within himself to rally and energize the people fighting with him.
-
-
 
 ***Chapter II***
 
