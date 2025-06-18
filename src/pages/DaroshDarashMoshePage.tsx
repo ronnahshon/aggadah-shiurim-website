@@ -419,7 +419,7 @@ const DaroshDarashMoshePage: React.FC = () => {
             className="min-w-[480px] bg-biblical-brown/5 sticky top-0 h-screen overflow-y-auto"
           >
             <div className="p-6 footnotes-content">
-              <h2 className="text-xl font-bold text-biblical-brown mb-6 border-b-2 border-biblical-brown/30 pb-2">
+              <h2 className="text-xl font-bold text-biblical-brown mb-6 border-b-2 border-biblical-brown/30 pb-2 text-left">
                 Footnotes
               </h2>
               
