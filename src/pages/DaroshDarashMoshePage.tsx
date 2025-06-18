@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowUp, Download } from 'lucide-react';
+import { ArrowUp, Download, Home } from 'lucide-react';
 import { Helmet } from 'react-helmet-async';
+import { useNavigate } from 'react-router-dom';
 import {
   parseDaroshDarashMosheContent,
   generateTableOfContents,
@@ -11,6 +12,7 @@ import {
 } from '../utils/daroshDarashMosheParser';
 
 const DaroshDarashMoshePage: React.FC = () => {
+  const navigate = useNavigate();
   const [daroshContent, setDaroshContent] = useState<DaroshContent | null>(null);
   const [tableOfContents, setTableOfContents] = useState<DaroshTableOfContents | null>(null);
   const [loading, setLoading] = useState(true);
@@ -292,16 +294,29 @@ const DaroshDarashMoshePage: React.FC = () => {
             style={{ width: `${mainWidth}%` }}
             className="min-w-[480px] pl-8 pr-2 py-6 h-screen overflow-y-auto"
           >
-            <div className="w-full text-center">
-              {/* Title */}
-              <div className="text-center mb-8">
-                <h1 className="text-4xl font-bold text-biblical-brown mb-2">
-                  {daroshContent.title}
-                </h1>
-                <p className="text-xl text-biblical-brown/80 italic">
-                  The life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah
-                </p>
+            <div className="w-full">
+              {/* Back to Sefarim Button */}
+              <div className="mb-6">
+                <button
+                  onClick={() => navigate('/sefarim')}
+                  className="flex flex-col items-center gap-1 p-3 text-biblical-brown hover:text-biblical-brown/80 hover:bg-biblical-cream/50 rounded-lg transition-all duration-200 group"
+                  aria-label="Back to Sefarim Page"
+                >
+                  <Home size={24} className="group-hover:scale-110 transition-transform duration-200" />
+                  <span className="text-sm font-medium">Back to Sefarim Page</span>
+                </button>
               </div>
+
+              <div className="text-center">
+                {/* Title */}
+                <div className="text-center mb-8">
+                  <h1 className="text-4xl font-bold text-biblical-brown mb-2">
+                    {daroshContent.title}
+                  </h1>
+                  <p className="text-xl text-biblical-brown/80 italic">
+                    The life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah
+                  </p>
+                </div>
 
               {/* General Introduction */}
               <section id="general-introduction" data-section-id="general-introduction" className="mb-16">
@@ -394,6 +409,7 @@ const DaroshDarashMoshePage: React.FC = () => {
                   ))}
                 </section>
               ))}
+              </div>
             </div>
           </div>
 
