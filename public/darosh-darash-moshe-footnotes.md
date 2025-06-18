@@ -5642,32 +5642,60 @@ To summarize: *makat bechorot* happened on the 15th of Nissan. The most straight
 **349.** **Bemidbar 12:1-16.**
 
 **350.** The pesukim refer to Moshe's wife as the Cushite and do not mention Tzipporah by name. According to traditional midrashic sources this Cushite woman is identical with Tzipporah, and her name is concealed to teach positive qualities about her by association:
+<br/>
+<br/>
 
 **Sifre Bemidbar 99**
+<br/>
+<br/>
 
 רבי אליעזר בנו של רבי יוסי הגלילי אומר: צפורה צפו וראו מה נאה האשה. הכושית, וכי היתה? אלא מדיינית היתה, שנאמר (שמות ב, ט) ולכהן מדין שבע בנות, ומה ת״ל כושית? מה כושי משונה בעורו, כך צפורה משונה בנויה יותר מכל הנשים:
+<br/>
+<br/>
 
 *"Rabbi Eliezer the son of Rabbi Yosi HaGlili says: Why was she called Tzipporah - look tzfu and see how beautiful this woman is. 'The Cushite'. Was she? But she was a Midianite, as it says: 'The priest of Midian had seven daughters' (Shmot 2:16). What does it mean by referring to her as Cushite? Just as a Cushite stands out due to his skin, so too Tzipporah stood out with her beauty more than all the other women."*
+<br/>
+<br/>
 
 **Midrash Shocher Tov 7:20**
+<br/>
+<br/>
 
 על דברי כוש. וכי כושי היה והלא כתיב (שם ט ב) ולו היה בן ושמו שאול בחור וטוב. אלא שהיה משונה ביופיו ככושי הזה שהוא משונה בעורו. כיוצא בו אתה אומר (במדבר יב א) על אודות האשה הכושית. וכי כושית היתה אלא כושית במעשיה כושית בשמה. יש אשה כשרה ואינה נאה ויש נאה ואינה כשרה. אבל צפורה נאה וכשרה. יש נאה בפני אחרים ואינה נאה בפני בעלה או נאה בפני בעלה ואינה נאה בפני אחרים אבל צפורה נאה בפני בעלה ונאה בפני הכל:
+<br/>
+<br/>
 
 *"'Concerning Cush' (Tehillim 7:1). Was Shaul a Cushite - does it not say about him: 'Kish had a son whose name was Shaul, young and goodly' (Shmuel Aleph 9:2)? Rather, he stood out in his beauty like a Cushite, who stands out due to his skin. Similarly you find: 'Regarding the Cushite woman' (Bemidbar 12:1). Was Tzipporah a Cushite? Rather, she was like a Cushite i.e. stood out in her deeds and like a Cushite in her name. There is a woman who is Kosher but not pleasant, and there is a woman who is pleasant and not Kosher. Tzipporah, however, was pleasant and Kosher. There is a woman who is pleasant before others but not her husband, and there is a woman who is pleasant before her husband but not others. Tzipporah, however, was pleasant before her husband and pleasant before others.".*
+<br/>
+<br/>
 
 **Moed Katan 16b**
+<br/>
+<br/>
 
 הַיְינוּ דִּכְתִיב: ״שִׁגָּיוֹן לְדָוִד אֲשֶׁר שָׁר לַה׳ עַל דִּבְרֵי כוּשׁ בֶּן יְמִינִי״, וְכִי כּוּשׁ שְׁמוֹ? וַהֲלֹא שָׁאוּל שְׁמוֹ! אֶלָּא: מָה כּוּשִׁי מְשׁוּנֶּה בְּעוֹרוֹ אַף שָׁאוּל מְשׁוּנֶּה בְּמַעֲשָׂיו:
+<br/>
+<br/>
 
 *"This is as it says: 'A shiggayon for David that he sang to Hashem regarding Kush Ben Yemini' (Tehillim 7:1). Was Kush his name, was it not Shaul? Rather, just as a Kushite is distinguished via his skin, so too Shaul is distinguished by his deeds."*
+<br/>
+<br/>
 
 There is also a tradition that the Cushite woman was actually not Tzipporah but a different woman entirely, a second wife that Moshe had taken even before he got to Midian. During a long, elaborate exploration of Moshe's early life, the midrash claims that Moshe fled to Cush (Ethiopia) before Midian, serving the king and then inheriting the throne when the king passed away. He consolidated the kingdom and ruled for 40 years, and also married the king's widow. It is this Cushite queen, not Tzipporah, that the Torah refers to:
+<br/>
+<br/>
 
 **Yalkut Shimoni on Torah Remez 168**
+<br/>
+<br/>
 
 וילכוד משה את העיר בחכמתו ויושיבוהו על כסא המלוכה וישימו כתר מלכות בראשו וגם את הכושית הגבירה נתנו לו לאשה ויירא משה את אלקי אבותיו ולא בא אליה כי זכר את השבועה אשר השביע אברהם את אליעזר עבדו לאמר לא תקח אשה על בני מבנות כנען. וגם כה עשה יצחק בברוח יעקב מפני עשו ויצוהו ויאמר לו לא תתחתן בבני חם כי זכרנו את אשר נתן את בני חם לעבדים לבני שם ולבני יפת ויירא משה מפני ה׳ אלקיו ויתהלך לפניו באמת בכל לבבו ולא סר מן הדרך אשר הלכו בה אברהם יצחק ויעקב ויתחזק במלכות בני כוש וילחם את אדום ואת בני קדם ואת ארם ויכניעם תחת יד בני כוש. והימים אשר מלך על בני כוש ארבעים שנה. ויצלח בכל מלחמתו כי ה׳ אלקי אבותיו אתו:
+<br/>
+<br/>
 
 *"Moshe captured the city with his wisdom, and they placed him on the king's throne, and placed the crown of the king on his head, and they also gave him the Cushite woman i.e. the former king's widow as a wife. Moshe feared the G-d of his fathers and he was not intimate with her, for he remembered the oath that Avraham swore Eliezer his servant to, saying: Do not take a woman for my son Yitzchak from the daughters of Canaan. And similarly Yitzchak when Yaakov fled from Esav, when he commanded him: Do not marry with the children of Cham, for we remember how the children of Cham were given as slaves to the children of Shem and Yefet. Moshe feared Hashem his G-d and walked before Him in truth with all of his heart and he did not stray from the path that Avraham, Yitzchak and Yaakov walked on. He became strong in the kingdom of the children of Cush, and he fought Edom and the children of Kedem and Aram, and he subjugated them all under the hand of the children of Cush. The days that he ruled over the children of Cush were 40 years, and he was successful in all of his wars because Hashem the G-d of his fathers was with him."*
+<br/>
+<br/>
 
 This, however, appears to be a later tradition. The overwhelming midrashic consensus equates the Cushite woman with Tzipporah.
 
@@ -5676,50 +5704,94 @@ This, however, appears to be a later tradition. The overwhelming midrashic conse
 **352.** See **Note 97** on the time that elapsed between the onset of the ten plagues and Yitro's arrival at Har Sinai.
 
 **353.** **Rashi on Bemidbar 10:12 d"h bemidbar paran**
+<br/>
+<br/>
 
 קִבְרוֹת הַתַּאֲוָה בְּמִדְבַּר פָּארָן הָיָה, וְשָׁם חָנוּ מִמַּסָּע זֶה:
+<br/>
+<br/>
 
 *"Kivrot HaTa'avah was in Midbar Paran, and that was where Bnai Yisrael encamped from this journey."*
+<br/>
+<br/>
 
 **Gur Aryeh on Rashi on Bemidbar 10:12 d"h bemidbar paran**
+<br/>
+<br/>
 
 דאם לא כן, דכאן כתיב ״ויחנו במדבר פארן״, אם כן במדבר פארן היו, ואחר כך כתיב (במדבר יא, לה) ״ויסעו מקברות התאוה״, אלא קברות התאוה במדבר פארן היה:
+<br/>
+<br/>
 
 *"For it were not so, here it says: 'They encamped in Midbar Paran', which means they were in Midbar Paran, but later it says: 'They journeyed from Kivrot HaTa'avah' (Bemidbar 11:35). Rather, Kivrot HaTa'avah was in Midbar Paran."*
+<br/>
+<br/>
 
 **Ibn Ezra on Bemidbar 10:31 d"h vayomer**
+<br/>
+<br/>
 
 וטעם וישכן הענן במדבר פארן שם כלל לתבערה שהוא קברות התאוה ולחצרות ורתמה ומסעים רבים והעד שלא הזכיר הכתוב בפרשת אלה מסעי במדבר פארן:
+<br/>
+<br/>
 
 *"And the reason that the cloud rested in Midbar Paran - this is ageneral name for Tav'erah which is Kivrot HaTa'avah and Chatzerot and Ritmah and many other journeys. The proof of this is that the text does not mention Midbar Paran in Parshat Masei."*
+<br/>
+<br/>
 
 See also Rashbam's comments in depth where he resolves these problematic pesukim in an entirely different way.
 
 **354.** The stories of Miriam and the spies are juxtaposed not only because they happened one after the other, but also because they both revolve around *lashon hara*, first on an individual level and then on a national level:
+<br/>
+<br/>
 
 **Bemidbar Rabbah 16:6**
+<br/>
+<br/>
 
 דָּבָר אַחֵר, שְׁלַח לְךָ אֲנָשִׁים וְיָתֻרוּ, (במדבר יב, א): וַתְּדַבֵּר מִרְיָם וְאַהֲרֹן בְּמשֶׁה, וְאַחַר כָּךְ שְׁלַח לְךָ, זֶה שֶׁאָמַר הַכָּתוּב (ישעיה מד, יח): לֹא יָדְעוּ וְלֹא יָבִינוּ כִּי טַח מֵרְאוֹת עֵינֵיהֶם, מָה רָאָה לוֹמַר אַחַר מַעֲשֵׂה מִרְיָם שְׁלַח לְךָ אֲנָשִׁים, אֶלָּא שֶׁהָיָה צָפוּי לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁיֹּאמְרוּ לָשׁוֹן הָרָע עַל הָאָרֶץ, אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁלֹא יִהְיוּ אוֹמְרִים לֹא הָיִינוּ יוֹדְעִין עֹנֶשׁ לָשׁוֹן הָרָע, לְפִיכָךְ סָמַךְ הַקָּדוֹשׁ בָּרוּךְ הוּא הָעִנְיָן זֶה לָזֶה, לְפִי שֶׁדִּבְּרָה מִרְיָם בְּאָחִיהָ וְלָקְתָה בְּצָרַעַת, כְּדֵי שֶׁיֵּדְעוּ הַכֹּל עָנְשׁוֹ שֶׁל לָשׁוֹן הָרָע, שֶׁאִם בִּקְּשׁוּ לוֹמַר לָשׁוֹן הָרָע יִהְיוּ מִסְתַּכְּלִין מַה נַּעֲשָׂה לְמִרְיָם, וְאַף עַל פִּי כֵן לֹא רָצוּ לִלְמֹד, לְכָךְ נֶאֱמַר לֹא יָדְעוּ וְלֹא יָבִינוּ כִּי טַח מֵרְאוֹת עֵינֵיהֶם:
+<br/>
+<br/>
 
 *"Another idea: 'Send for yourself men and they will spy out the land' (Bemidbar 13:2). This is preceded in the Torah by 'Miriam and Aharon spoke against Moshe' (Bemidbar 12:1) and only then 'Send for yourself'. This is as it says: 'They neither know nor understand, for their eyes are stuck shut so that they cannot see' (Yishayahu 44:18). What is the reason for saying 'send for yourself men' after the incident with Miriam? Rather, it was known before HaKadosh Baruch Hu that the spies would say lashon hara about the land. HaKadosh Baruch Hu said, they should not be able to say: We did not know the punishment of lashon hara. Therefore HaKadosh Baruch Hu placed this idea next to that one, for Miriam spoke against her brother and was stricken with tzara'at, so that everyone would know the punishment for lashon hara, that if the spies sought to say lashon hara they could see what had happened to Miriam. Nevertheless, the spies did not want to learn, and so it says: They neither know nor understand, for their eyes are stuck shut so that they cannot see.'"*
+<br/>
+<br/>
 
 This idea that Miriam was punished first so that there would be precedent to punish the people for consequent infractions is found throughout the later midrashim:
+<br/>
+<br/>
 
 **Pesikta Zutreta Devarim 1:1**
+<br/>
+<br/>
 
 ולבן וחצרות. אם למרים הצדקת לא נשאתי פנים בחצרות ונתלבנה בצרעת שנאמר (שם יב, י) והנה מרים מצורעת כשלג קל וחומר לשאר בני אדם:
+<br/>
+<br/>
 
 *"'And Lavan and Chatzerot' (Devarim 1:1). If for Miriam the righteous I did not show any favoritism in Chatzerot and she became white with tzara'at, as it says: 'And behold Miriam had tzara't like snow' (Bemidbar 12:10) - how much more so for everybody else."*
+<br/>
+<br/>
 
 **Midrash Aggadah Devarim 1:1**
+<br/>
+<br/>
 
 וחצרות ודי זהב. שלא למדו ממרים לפי שדברה באחיה נענשה, והם לא מנעו מלדבר בא-לקים ובמשה, שנאמר וידבר העם בא-לקים ובמשה (במדבר כא ה):
+<br/>
+<br/>
 
 *"'And Chatzerot and Di Zahav' (Devarim 1:1). Because Bnai Yisrael did not learn from Miriam that she spoke against her brother and was punished, and still they did not stop from speaking against G-d and Moshe, as it says: 'The nation spoke against G-d and Moshe' (Bamdibar 21:5)."*
+<br/>
+<br/>
 
 **Yalkut Shimoni on Torah Remez 791**
+<br/>
+<br/>
 
 וחצרות - ומה מרים שלא דברה אלא באחיה הקטן כך נענשה במדבר, המדבר במי שגדול הימנו על אחת כמה וכמה:
+<br/>
+<br/>
 
 *"'And Chatzerot'. If Miriam, who only spoke ill about her younger brother, was punished so severely in the desert - someone who speaks against someone greater than him, how much more so."*
 
@@ -5732,64 +5804,110 @@ This idea that Miriam was punished first so that there would be precedent to pun
 **358.** **Rashi to Devarim 1:1 d"h vechatzerot.**
 
 **359.** **Rashi to Devarim 1:1 d"h eleh hadevarim**
+<br/>
+<br/>
 
 לְפִי שֶׁהֵן דִּבְרֵי תוֹכָחוֹת וּמָנָה כָאן כָּל הַמְּקוֹמוֹת שֶׁהִכְעִיסוּ לִפְנֵי הַמָּקוֹם בָּהֶן, לְפִיכָךְ סָתַם אֶת הַדְּבָרִים וְהִזְכִּירָם בְּרֶמֶז מִפְּנֵי כְבוֹדָן שֶׁל יִשְׂרָאֵל:
+<br/>
+<br/>
 
 *"Because these are words of rebuke and Moshe listed here all the places where Bnai Yisrael angered HaMakom, therefore the words were hidden and they are recounted with veiled hints out of regard for Yisrael's honor."*
 
 **360.** **Rashi to Devarim 1:2 d"h achad asar yom mechorev**
+<br/>
+<br/>
 
 אָמַר לָהֶם מֹשֶׁה רְאוּ מַה גְּרַמְתֶּם אֵין לָכֶם דֶּרֶךְ קְצָרָה מֵחוֹרֵב לְקָדֵשׁ בַּרְנֵעַ כְּדֶרֶךְ הַר שֵׂעִיר, וְאַף הוּא מַהֲלַךְ י״א יוֹם, וְאַתֶּם הֲלַכְתֶּם אוֹתָהּ בִּשְׁלֹוֹשָׁה יָמִים -- שֶׁהֲרֵי בְּעֶשְׂרִים בְּאִיָּר נָסְעוּ מֵחוֹרֵב, שֶׁנֶּאֱמַר (במדבר י׳) ״וַיְהִי בַּשָּׁנָה הַשֵּׁנִית בַּחֹדֶשׁ הַשֵּׁנִי בְּעֶשְׂרִים בַּחֹדֶשׁ וְגוֹ׳״, וּבְכ״ט בְּסִיוָן שָׁלְחוּ אֶת הַמְרַגְּלִים מִקָּדֵשׁ בַּרְנֵעַ (תענית כ״ט), צֵא מֵהֶם ל׳ יוֹם שֶׁעָשׂוּ בְּקִבְרוֹת הַתַּאֲוָה שֶׁאָכְלוּ הַבָּשָׂר חֹדֶשׁ יָמִים, וְשִׁבְעָה יָמִים שֶׁעָשׂוּ בַחֲצֵרוֹת לְהִסָּגֵר שָׁם מִרְיָם, נִמְצָא בִשְׁלוֹשָׁה יָמִים הָלְכוּ כָּל אוֹתוֹ הַדֶּרֶךְ וְכָל כָּךְ הָיְתָה הַשְּׁכִינָה מִתְלַבֶּטֶת בִּשְׁבִילְכֶם לְמַהֵר בִּיאַתְכֶם לָאָרֶץ, וּבִשְׁבִיל שֶׁקִּלְקַלְתֶּם הֵסֵב אֶתְכֶם סְבִיבוֹת הַר שֵׂעִיר אַרְבָּעִים שָׁנָה: 
+<br/>
+<br/>
 
 *"Moshe said to Bnai Yisrael: See what you have caused. There is no route from Chorev to Kadesh Barnea as short as the way via Har Seir, and even that is a journey of eleven days. You, however, traversed it in only three days. How do we know this? For Bnai Yisrael journeyed from Chorev on the twentieth of Iyyar, as it says: 'In the second year, in the second month on the twentieth of the month, the cloud rose from atop the Mishkan of the testimony. Bnai Yisrael journeyed on their journeys, from Midbar Sinai, and the cloud rested in Midbar Paran' (Bemidbar 10:11-12), and on the twenty ninth of Sivan they sent out the spies from Kadesh Barnea which lasted an interval of 40 days (Taanit 29a). Deduct from these the thirty days they spent at Kivrot HaTa'avah where they ate the meat for 'a month of days', and deduct an additional seven days they spent at Chatzerot for Miriam to be quarantined there - it follows that in three days they traversed all that way. To such an extent did the Shechinah exert Herself to hasten your coming to the land of Canaan, but because you became degenerate, HaKadosh Baruch Hu made you travel around Har Seir for forty years."*
 
 **361.** Yet we have no account of Bnai Yisrael as a whole angering HaKadosh Baruch Hu there; only Miriam and Aharon acted wrongfully and aroused G-d's wrath at Chatzerot, which disqualifies it as a candidate for this list:
+<br/>
+<br/>
 
 **Peirush Re'em Al Rashi on Devarim 1:1 d"h vachazerot**
+<br/>
+<br/>
 
 ושמא אגדות חלוקות הן ורש״י ז״ל פעם תופס האגדה האחת ופעם תופש האגדה האחרת כמנהגו בכמה מקומות וכבר הארכתי על זה בפרשת בראשית עיין שם ...
+<br/>
+<br/>
 
 גם יתכן לפרש שהדבור שדברו כנגד המקום הוא מחלקותו של קרח ואין בין הלשון הראשון והאחרון אלא שהראשון פירש שהוכיחם על מה שהכעיסו שם המקום במחלוקתו של קרח והאחרון על שלא לקחו מוסר ממרים שלקתה בשביל שדברה באחיה.
+<br/>
+<br/>
 
 וליכא לאקשויי למה לא פרשו בחצרות על מרים שהכעיסה את המקום ודברה כנגד אחיה ולא בעבור מחלוקתו של קרת שהוא מסופק אם היה בחצרות או במקום אחר די״ל מפני שחטאה של מרים הוא חטא של יחיד ואין ראוי שימנה עם התוכחות שהן חטאות של רבים:
+<br/>
+<br/>
 
 *"It is possible there are contradictory aggadot here i.e. whether Chatzerot is mentioned because of Korach or because of Miriam, and Rashi grabs both one aggadah and the other aggadah as is his custom in many places. I have already elaborated about this technique of Rashi's in Parshat Breishit, see there ...*
+<br/>
+<br/>
 
 *It is also possible to explain that when the pasuk includes Chatzerot among the list of places where Bnai Yisrael spoke against HaKadosh Baruch Hu the speech which the nation said against HaMakom there was Korach's rebellion, and that really there is no difference between Rashi's first opinion and last opinion other than that the first opinion holds that Moshe rebuked Bnai Yisrael because they angered HaMakom during Korach's rebellion, and the last opinion holds that it was because they did not take heed from Miriam when she was struck with tzara'at because she spoke against her brother when then led to them angering HaMakom during Korach's rebellion.*
+<br/>
+<br/>
 
 *And it should not be asked, why would it not be easier to explain Chatzerot as a reference to Miriam, namely that she angered HaMakom and spoke against her brothers as the Torah states explicitly, and not as a reference to Korach's rebellion where there is doubt whether it even happened in Chatzerot or somewhere else, for we can say that because Miriam's sin is the sin of an individual it might not be appropriate to count it with the national rebukes which are for sins of the many."*
 
 **362.** See for example Bemidbar Rabbah 16:6 in the earlier note quoted above.
 
 **363.** Chizkuni attempts to brush off the dramatic implications of Rashi's comment by claiming he meant to say that Korach's rebellion happened while Bnai Yisrael were traveling near Chatzerot, not while they were encamped in it:
+<br/>
+<br/>
 
 **Chizkuni on Devarim 1:1 d"h vachazerot**
+<br/>
+<br/>
 
 וחצרת פירש״י במחלוקתו של קרח ואם תאמר לפי סדר המקרא מחלקותו של קרח היה במדבר פארן אחרי שלוח המרגלים, ועוד היאך תרגם אונקלוס ובחצירות דארגיזו על בשרא הלא בקברות התאוה הרגיזו וכתיב מקברות התאוה נסעו העם חצרות (במדבר יא, לה), אלא אילו נקט ליה ברש״י דמחלקתו של קרח היה במדבר פארן אמטו להכי לא ידעינן ביה היכן שהרי מדבר גדול הוא מהלך כמה ימים כמו שאמרנו למעלה ונקט ליה חצרות דסמיך ליה מקום ניכר וידוע להם:
+<br/>
+<br/>
 
 *"Rashi explains Chatzerot as the place of the rebellion of Korach. And if you will say, based on the order of the Torah Korach's rebellion happened in Midbar Paran after the sin of the spies, and furthermore how then could Onkelos have translated as 'in Chatzerot where they were angry about meat' - Kivrot HaTa'avah was where they got angry, and doesn't it say: 'From Kivrot HaTa'avah the nation traveled to Chatzerot (Bemidbar 11:35) implying they are different locations? Rather, you can say that had Rashi just said the place of the rebellion of Korach was in Midbar Paran, based on this I would not have known where specifically, for Midbar Paran is big and a distance of several days' walk as we said above. Therefore it says Chatzerot which was a place next to them when Korach's rebellion took place in Midbar Paran that was recognized and known."*
+<br/>
+<br/>
 
 We will not follow this approach but take Rashi at face value, and assume that he meant that Korach's rebellion did in fact happen while Bnai Yisrael were in Chatzerot itself.
 
 **364.** **Bemidbar 9:17-23**
+<br/>
+<br/>
 
 וּלְפִ֞י הֵעָל֤וֹת הֶֽעָנָן֙ מֵעַ֣ל הָאֹ֔הֶל וְאַ֣חֲרֵי כֵ֔ן יִסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וּבִמְק֗וֹם אֲשֶׁ֤ר יִשְׁכׇּן שָׁם֙ הֶֽעָנָ֔ן שָׁ֥ם יַחֲנ֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃ עַל פִּ֣י יְהֹוָ֗ה יִסְעוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְעַל פִּ֥י יְהֹוָ֖ה יַחֲנ֑וּ כׇּל יְמֵ֗י אֲשֶׁ֨ר יִשְׁכֹּ֧ן הֶעָנָ֛ן עַל הַמִּשְׁכָּ֖ן יַחֲנֽוּ׃ וּבְהַאֲרִ֧יךְ הֶֽעָנָ֛ן עַל הַמִּשְׁכָּ֖ן יָמִ֣ים רַבִּ֑ים וְשָׁמְר֧וּ בְנֵי יִשְׂרָאֵ֛ל אֶת מִשְׁמֶ֥רֶת יְהֹוָ֖ה וְלֹ֥א יִסָּֽעוּ׃ וְיֵ֞שׁ אֲשֶׁ֨ר יִהְיֶ֧ה הֶֽעָנָ֛ן יָמִ֥ים מִסְפָּ֖ר עַל הַמִּשְׁכָּ֑ן עַל פִּ֤י יְהֹוָה֙ יַחֲנ֔וּ וְעַל פִּ֥י יְהֹוָ֖ה יִסָּֽעוּ׃ וְיֵ֞שׁ אֲשֶׁר יִהְיֶ֤ה הֶֽעָנָן֙ מֵעֶ֣רֶב עַד בֹּ֔קֶר וְנַעֲלָ֧ה הֶֽעָנָ֛ן בַּבֹּ֖קֶר וְנָסָ֑עוּ א֚וֹ יוֹמָ֣ם וָלַ֔יְלָה וְנַעֲלָ֥ה הֶעָנָ֖ן וְנָסָֽעוּ׃ אֽוֹ יֹמַ֜יִם אוֹ חֹ֣דֶשׁ אוֹ יָמִ֗ים בְּהַאֲרִ֨יךְ הֶעָנָ֤ן עַל הַמִּשְׁכָּן֙ לִשְׁכֹּ֣ן עָלָ֔יו יַחֲנ֥וּ בְנֵֽי יִשְׂרָאֵ֖ל וְלֹ֣א יִסָּ֑עוּ וּבְהֵעָלֹת֖וֹ יִסָּֽעוּ׃ עַל פִּ֤י יְהֹוָה֙ יַחֲנ֔וּ וְעַל פִּ֥י יְהֹוָ֖ה יִסָּ֑עוּ אֶת מִשְׁמֶ֤רֶת יְהֹוָה֙ שָׁמָ֔רוּ עַל פִּ֥י יְהֹוָ֖ה בְּיַד מֹשֶֽׁה׃
+<br/>
+<br/>
 
 *"Whenever the cloud rose up from on top of the tent, only then would Bnai Yisrael journey; and in a place where the cloud would rest, that was where Bnai Yisrael encamped. By the word of Hashem Bnai Yisrael journeyed, and by the word of Hashem they encamped, for all the days that the cloud rested they encamped. If the cloud spent many days on the Mishkan, Bnai Yisrael kept the charge of Hashem, and did not journey. There were times when the cloud was on the Mishkan for just a few days; by the word of Hashem they journeyed, and by the word of Hashem they encamped. There were even times when the cloud was from evening to morning, and in the morning the cloud rose and Bnai Yisrael journeyed, or if it was day and night, and then the cloud rose, and they journeyed. Or two days, or a month, or a year - however long the cloud was resting on the Mishkan, Bnai Yisrael encamped and did not journey, and when it rose they journeyed. By the word of Hashem they encamped, and by the word of Hashem they journeyed, they kept the charge of Hashem, by the word of Hashem at the hands of Moshe."*
 
 **365.** **Seforno to Bemidbar 12:15 d"h veha'am lo nasa**
+<br/>
+<br/>
 
 אף על פי שהענן סר מעל האהל וכתיב ובהעלות הענן מעל המשכן יסעו בני ישראל בכל מסעיהם מכל מקום לא נסעו שהכירו שלא נעלה אז אלא להרחיק המצורעת:
+<br/>
+<br/>
 
 *"Even though the cloud removed itself from the tent, and even though it says: 'And when the cloud raised up from atop the Mishkan Bnai Yisrael would journey on all of their journeys' (Shmot 40:36) - still in this case Bnai Yisrael did not journey because they recognized that the cloud did not rise except to distance the one afflicted with tzara'at.'*
 
 **366.** For Chazal, this principle of Divine justice is an important theological cornerstone and can be found in many places throughout the aggadah.
+<br/>
+<br/>
 
 Not only does HaKadosh Baruch Hu pay man back based on his actions - not allowing good to go unrewarded or evil to go unpunished - but the system is disproportionate: He gives extra reward for good, but does not excessively punish for evil:
+<br/>
+<br/>
 
 **Torah Temimah to Bemidbar 12:15 d"h veha'am lo nasa**
+<br/>
+<br/>
 
 ר״ל כלל התשלומין מדה כנגד מדה נוהג בין במדה טובה בין במדת פורעניות, ויתרון למדה טובה שמשלמין שכר בתוספת ויתרון על המדה שמדד האדם וכדמפרש:
+<br/>
+<br/>
 
 *"This means to say, the general principle of payments is middah keneged middah, and it applies whether for good or for bad. But, there is an additional benefit for good that extra reward is paid on top of the middah measured for a man, as explained here, in that Miriam only watched Moshe for a short time but the people waited for seven days until she returned."*
 
@@ -5800,80 +5918,140 @@ Not only does HaKadosh Baruch Hu pay man back based on his actions - not allowin
 **369.** **Tanchuma Yelamdenu Tzav 13.**
 
 **370.** While one opinion states that Moshe only separated from Tzipporah because HaKadosh Baruch Hu had commanded him to, another opinion argues that Moshe actually came to this decision on his own, and afterwards received Divine approval:
+<br/>
+<br/>
 
 **Avot DeRabbi Natan 2:3**
+<br/>
+<br/>
 
 פי׳ מן האשה והסכימה דעתו לדעת המקום כיצד אמר מה אם ישראל שלא נתקדשו אלא לפי שעה ולא נזדמנו אלא כדי לקבל עליהם עשרת הדברות מהר סיני אמר לי הקדוש ברוך הוא לך אל העם וקדשתם היום ומחר (שמות יט:י) ואני שאני מזומן לכך בכל יום ויום ובכל שעה ואיני יודע אימתי מדבר עמי או ביום או בלילה על אחת כמה וכמה שאפרוש מן האשה והסכימה דעתו לדעת המקום. רבי יהודה בן בתירא אומר לא פירש משה מן האשה אלא שנאמרה לו מפי הגבורה שנאמר (במדבר י״ב:ח׳) פה אל פה אדבר בו פה אל פה אמרתי לו פרוש מן האשה ופירש. י׳׳א לא פירש משה מן האשה עד שנאמר לו מפי הגבורה שנאמר (דברים ה׳:כ״ח) לך אמור להם שובו לכם לאהליכם וכתיב בתריה ואתה פה עמוד עמדי חזר לאחוריו ופירש והסכימה דעתו לדעת המקום:
+<br/>
+<br/>
 
 *"Moshe separated himself from his wife and his thought agreed with the thought of HaMakom He agreed. How? Moshe said: if Yisrael, who were only commanded to sanctify themselves one time and it was only in order to receive the Aseret HaDibrot from Har Sinai - about them HaKadosh Baruch Hu said to me: 'Go to the nation and sanctify them today and tomorrow' (Shmot 19:10). I, who should be ready to receive it every day at every moment, and I don't know when He will speak with me, whether during the day or at night - how much more so should I sanctify myself by separating from my wife? And his thought agreed with the thought of HaMakom. Rabbi Yehudah Ben Beteirah says: Moshe did not separate from his wife except because he was told to by G-d, as it says: 'I speak to him mouth to mouth' (Bemidbar 12:8). Mouth to mouth I told him to separate himself from his wife, and he separated. There are those who say similarly, that Moshe did not separate from his wife except because he was told to by G-d, as it says: 'Go say to them, go back to your tents' (Devarim 5:28), and it says after that: 'You Moshe stand here with Me'. Moshe turned back and separated from Tzipporah, and his thought agreed with the thought of HaMakom."*
 
 **371.** **Sifre Bemidbar 99**
 
 מנין היתה מרים יודעת שפירש משה מפריה ורביה? אלא שראתה צפורה שאינה מתקשטת בתכשיטי נשים. אמרה לה: מה לך שאין את מתקשטת בתכשיטי נשים? אמרה לה: אין אחיך מקפיד בדבר. לכך ידעה מרים, ואמרה לאחיה, ושניהם דברו בו. והרי דברים ק״ו: ומה מרים, שלא נתכוונה לדבר באחיה לגנאי אלא לשבח, ולא למעט מפריה ורביה אלא לרבות, בינה לבין עצמה - כך נענשה; המתכוון לדבר בחברו לגנאי ולא לשבח, ולמעט מפריה ורביה ולא לרבות, בינו לבין אחרים ולא בינו לבין עצמו - על אחת כמה וכמה:
+<br/>
+<br/>
 
 *"How did Miriam know that Moshe had separated from procreation? She saw that Tzipporah was not adorned herself with the ornaments of women. She said to her: What's happened to you that you aren't adorning yourself with the ornaments of women? She said to her: Your brother does not care about it. That is how Miriam knew, and she told her brother Aharon, and the two of them spoke against Moshe about it. And these things are a kal vachomer: If Miriam, who did not intend to speak ill about her brother but rather for good intent, and not to reduce procreation but rather to increase it, and she only spoke with herself and Aharon, and even so she was punished with tzara'at - someone who intends to speak ill against his fellow and not for good intent, and to reduce procreation and not to increase it, and gossips amongst others and not with himself, how much more so."*
 
 **372.** **Shmot 15:20-21.**
 
 **373.** The full aggadah can be pieced together by combining the following two separate Talmudic accounts:
+<br/>
+<br/>
 
 **Megillah 14a**
+<br/>
+<br/>
 
 ״וַתִּקַּח מִרְיָם הַנְּבִיאָה אֲחוֹת אַהֲרֹן״, וְלֹא אֲחוֹת מֹשֶׁה, אָמַר רַב נַחְמָן אָמַר רַב: שֶׁהָיְתָה מִתְנַבְּאָה כְּשֶׁהִיא אֲחוֹת אַהֲרֹן, וְאוֹמֶרֶת: עֲתִידָה אִמִּי שֶׁתֵּלֵד בֵּן שֶׁיּוֹשִׁיעַ אֶת יִשְׂרָאֵל. וּבְשָׁעָה שֶׁנּוֹלַד נִתְמַלֵּא כָּל הַבַּיִת כּוּלּוֹ אוֹרָה, עָמַד אָבִיהָ וּנְשָׁקָהּ עַל רֹאשָׁהּ, אָמַר לָהּ: בִּתִּי נִתְקַיְּימָה נְבוּאָתִיךְ וְכֵיוָן שֶׁהִשְׁלִיכוּהוּ לַיְאוֹר, עָמַד אָבִיהָ וּטְפָחָהּ עַל רֹאשָׁהּ, וְאָמַר לָהּ: בִּתִּי הֵיכָן נְבוּאָתִיךְ? הַיְינוּ דִּכְתִיב: ״וַתֵּתַצַּב אֲחוֹתוֹ מֵרָחוֹק לְדֵעָה״ (שמות ב:ד). לָדַעַת מָה יְהֵא בְּסוֹף נְבוּאָתָהּ:
+<br/>
+<br/>
 
 *"'Miriam the nevi'ah, the sister of Aharon, took' (Shmot 15:20). Was she not also the sister of Moshe? Rav Nachman said in the name of Rav: She prophesied when she was only the sister of Aharon, and said: My mother is destined to have a boy who will save Yisrael. When Yocheved gave birth to Moshe the whole house lit up with light. Her father Amram stood up and kissed her on the head, and said to her: Daughter, your prophecy has come to pass. When they threw him into the river, her father stood up and hit her on the head, and said to her: Daughter, where is your prophecy? This is why it says: 'His sister stood from a distance to see what would happen' (Shmot 2:4), meaning, to know what would be the end of her prophecy."*
+<br/>
+<br/>
 
 **Sotah 12a**
+<br/>
+<br/>
 
 תָּנָא עַמְרָם גְּדוֹל הַדּוֹר הָיָה כֵּיוָן שֶׁרָאָה שֶׁאָמַר פַּרְעֹה הָרָשָׁע כׇּל הַבֵּן הַיִּלּוֹד הַיְאֹרָה תַּשְׁלִיכֻהוּ אָמַר לַשָּׁוְא אָנוּ עֲמֵלִין עָמַד וְגֵירַשׁ אֶת אִשְׁתּוֹ עָמְדוּ כּוּלָּן וְגֵירְשׁוּ אֶת נְשׁוֹתֵיהֶן אָמְרָה לוֹ בִּתּוֹ אַבָּא קָשָׁה גְּזֵירָתְךָ יוֹתֵר מִשֶּׁל פַּרְעֹה שֶׁפַּרְעֹה לֹא גָּזַר אֶלָּא עַל הַזְּכָרִים וְאַתָּה גָּזַרְתָּ עַל הַזְּכָרִים וְעַל הַנְּקֵיבוֹת פַּרְעֹה לָא גָּזַר אֶלָּא בָּעוֹלָם הַזֶּה וְאַתָּה בָּעוֹלָם הַזֶּה וּלְעוֹלָם הַבָּא פַּרְעֹה הָרָשָׁע סָפֵק מִתְקַיֶּימֶת גְּזֵירָתוֹ סָפֵק אֵינָהּ מִתְקַיֶּימֶת אַתָּה צַדִּיק בְּוַדַּאי שֶׁגְּזֵירָתְךָ מִתְקַיֶּימֶת שֶׁנֶּאֱמַר וְתִגְזַר אוֹמֶר וְיָקׇם לָךְ (איוב כב:כח) עָמַד וְהֶחְזִיר אֶת אִשְׁתּוֹ עָמְדוּ כּוּלָּן וְהֶחְזִירוּ אֶת נְשׁוֹתֵיהֶן וַיִּקַּח וַיַּחְזִור מִיבְּעֵי לֵיהּ אָמַר רַב יְהוּדָה בַּר זְבִינָא שֶׁעָשָׂה לוֹ מַעֲשֵׂה לִיקּוּחִין הוֹשִׁיבָהּ בְּאַפִּרְיוֹן וְאַהֲרֹן וּמִרְיָם מְרַקְּדִין לְפָנֶיהָ וּמַלְאֲכֵי הַשָּׁרֵת אָמְרוּ אֵם הַבָּנִים שְׂמֵחָה (תהלים קיג:ט):
+<br/>
+<br/>
 
 *"It was taught: Amram was a great man in his generation. When he saw that the wicked Pharaoh had said: 'Any boy that is born shall be thrown into the river', he said: we are toiling for nothing. He stood up and divorced his wife, and everyone stood up and divorced their wives. His daughter Miriam said to him; Abba, your decree is harsher than Pharaoh's. Pharaoh only decreed against the boys, and you decreed against the boys and the girls. Also, Pharaoh only decreed in this world, but you decreed in this world and the next. Pharaoh is wicked, so there is doubt if his decree will be fulfilled or not, but you are righteous so it is certain that your decree will be fulfilled, as it says: 'You shall also decree a thing, and it shall be established unto you' (Iyov 22:28). Amram stood up and remarried his wife, and everyone stood up and remarried their wives. 'And Amram' took a wife' - it should have said 'returned' since he was remarrying her? Rav Yehudah Bar Zevina said: Amram performed an act of marriage for her as if it was the first time. He sat her on a throne, and Aharon and Miriam danced before her, and angels said: 'A joyful mother of children' (Tehillim 113:9)."*
 
 **374.** This midrashic account, aside from resolving several other textual and thematic discrepancies, could perhaps be used to provide an unconventional explanation as to why Aharon was chosen to be Kohen while Moshe was not. Miriam and Aharon were born before Amram and Yocheved divorced, while Moshe was born after they remarried. There is a Torah prohibition for a man to remarry a woman he had previous divorced if she had married somebody else in the interim:
+<br/>
+<br/>
 
 כִּֽי יִקַּ֥ח אִ֛ישׁ אִשָּׁ֖ה וּבְעָלָ֑הּ וְהָיָ֞ה אִם לֹ֧א תִמְצָא חֵ֣ן בְּעֵינָ֗יו כִּי מָ֤צָא בָהּ֙ עֶרְוַ֣ת דָּבָ֔ר וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ וְנָתַ֣ן בְּיָדָ֔הּ וְשִׁלְּחָ֖הּ מִבֵּיתֽוֹ׃ וְיָצְאָ֖ה מִבֵּית֑וֹ וְהָלְכָ֖ה וְהָיְתָ֥ה לְאִישׁ אַחֵֽר׃ וּשְׂנֵאָהּ֮ הָאִ֣ישׁ הָאַחֲרוֹן֒ וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ וְנָתַ֣ן בְּיָדָ֔הּ וְשִׁלְּחָ֖הּ מִבֵּית֑וֹ א֣וֹ כִ֤י יָמוּת֙ הָאִ֣ישׁ הָאַחֲר֔וֹן אֲשֶׁר לְקָחָ֥הּ ל֖וֹ לְאִשָּֽׁה׃ לֹא יוּכַ֣ל בַּעְלָ֣הּ הָרִאשׁ֣וֹן אֲשֶֽׁר שִׁ֠לְּחָ֠הּ לָשׁ֨וּב לְקַחְתָּ֜הּ לִהְי֧וֹת ל֣וֹ לְאִשָּׁ֗ה אַחֲרֵי֙ אֲשֶׁ֣ר הֻטַּמָּ֔אָה כִּֽי תוֹעֵבָ֥ה הִ֖וא לִפְנֵ֣י יְהֹוָ֑ה וְלֹ֤א תַחֲטִיא֙ אֶת הָאָ֔רֶץ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָֽה׃ (דברים כד:א-ד)
+<br/>
+<br/>
 
 *"When a man takes a woman as a wife and lies with her, and then she does not find favor in his eyes because he finds something unacceptable in her, he shall write her a bill of divorce and give it to her, and send her from his house. She shall leave his house, and go and be with another man. If the second man hates her as well and writes her a bill of divorce and gives it to her, and sends her from his house, or if the second man who took her as a wife dies: her first husband who sent her away cannot return and take her back to be a wife again, for she is defiled; this is an abomination before Hashem, and you shall not defile the land which Hashem your G-d is giving you as an inheritance." (Devarim 24:1-4)*
+<br/>
+<br/>
 
 Normally, this prohibition to remarry one's wife after divorcing her only takes effect if she married someone else in the interim; a man is allowed to divorce his wife and remarry her if she does not take another husband. However, Kohanim have an additional restriction which prohibits them from marrying a divorcee, including their own ex-wife:
+<br/>
+<br/>
 
 אִשָּׁ֨ה זֹנָ֤ה וַחֲלָלָה֙ לֹ֣א יִקָּ֔חוּ וְאִשָּׁ֛ה גְּרוּשָׁ֥ה מֵאִישָׁ֖הּ לֹ֣א יִקָּ֑חוּ כִּֽי קָדֹ֥שׁ ה֖וּא לֵאלֹהָֽיו׃ (ויקרא כא:ז)
+<br/>
+<br/>
 
 *"Kohanim may not marry prostitutes, halalot or divorcees, for he is holy to his G-d." (Vayikra 21:7)*
+<br/>
+<br/>
 
 The offspring of a Kohen and a divorcee is not a Kohen but rather a *halal*, unable to participate in the rites and rituals that Kohanim born from permitted marriages are required to officiate. Since the Kehunah was ultimately given to Amram's child, and Kehunah is passed down from father to son, Amram could be seen as having been a Kohen retroactively, all along. Therefore Moshe, as the male child of Amram's second marriage to Yocheved and thus the child of a divorcee, could not have been a Kohen, while his brother Aharon, born before his parents' divorce, would not have been so condemned and could therefore have been granted Kohen status.
+<br/>
+<br/>
 
 Upon scrutiny the above argument does not hold water in any real halachic sense, for Yocheved was Amram's father's sister, and such a relationship is also explicitly forbidden by the Torah:
+<br/>
+<br/>
 
 עֶרְוַ֥ת אֲחוֹת אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה שְׁאֵ֥ר אָבִ֖יךָ הִֽוא׃ (ויקרא יח:יב)
+<br/>
+<br/>
 
 *"Do not uncover the nakedness of your father's sister, for she is your father's flesh." (Vayikra 18:12)*
+<br/>
+<br/>
 
 How could Amram have married Yocheved if such a relationship was considered incestuous? The answer commonly given is that such relationships were forbidden only after the Torah was given at Har Sinai; Amram married Yocheved before the mitzvot came into effect. Similarly, Yaakov married sisters Rachel and Leah, an act which is also prohibited (Vayikra 18:18) yet not relevant due to Yaakov living several generations before Matan Torah. It follows that any attempt to differentiate halachically between Aharon and Moshe as pure and impure products of a Kohanic union respectively collapses. Amram's entire relationship with Yocheved was forbidden from a Torah perspective, not only to Kohanim but to all of Yisrael. By that criterion, both Aharon and Moshe would not merely be disqualified from the Kehunah; as the children of *arayot* they would actually be considered *mamzerim, chas ve'shalom*. If we dismiss this concern - as we must - by noting that an incestuous relationship was allowed at the time, then certainly a relationship which is only prohibited to Kohanim would also have been permissible.
+<br/>
+<br/>
 
 Differentiating Moshe from Aharon based on Yocheved's status is therefore not a serious halachic argument as to why Aharon could be Kohen and Moshe could not, but rather an interesting aggadic insight into why Aharon - while admittedly the child of *arayot* - was the result of a "pure" marriage, a bride and groom untainted by the bitterness, pain and scars of divorce. Moshe, while born in joy and happiness as described by **Note 128**, still remained the product of a union torn apart and reconstructed, and such a relationship can never recapture the whole of what it once was. This idea is alluded to in the Talmud as well:
+<br/>
+<br/>
 
 **Sanhedrin 22a**
+<br/>
+<br/>
 
 א״ר אליעזר כל המגרש את אשתו ראשונה אפילו מזבח מוריד עליו דמעות ... מתני לה רב יהודה לרב יצחק בריה אין אדם מוצא קורת רוח אלא מאשתו ראשונה שנא׳ (משלי ה, יח) יהי מקורך ברוך ושמח מאשת נעוריך:
+<br/>
+<br/>
 
 *"Rabbi Eliezer said, whoever divorces his first wife, even the altar sheds tears about him ... Rav Yehudah taught his son Rav Yitzchak, a man does not find peace of mind except with his first wife, as it says: 'May your source be blessed and be joyful with the wife of your youth' (Mishlei 5:18)."*
 
 **375.** This is consistent with the midrashic description of Miriam as a competent midwife who saved and cared for babies from the ripe young age of five years old:
+<br/>
+<br/>
 
 **Shmot Rabbah 1:13**
+<br/>
+<br/>
 
 מִי הָיוּ הַמְיַלְּדוֹת, רַב אָמַר כַּלָּה וַחֲמוֹתָהּ, יוֹכֶבֶד וֶאֱלִישֶׁבַע בַּת עֲמִינָדָב. רַבִּי שְׁמוּאֵל בַּר נַחְמָן אָמַר, אִשָּׁה וּבִתָּהּ, יוֹכֶבֶד וּמִרְיָם. וְלֹא הָיוּ לְמִרְיָם אֶלָּא חָמֵשׁ שָׁנִים ... פּוּעָה שֶׁהָיְתָה נוֹפַעַת יַיִן בַּתִּינוֹק אַחַר אִמָּהּ ... פּוּעָה, שֶׁהָיְתָה מַפִּיעָה אֶת הַתִּינוֹק כְּשֶׁהָיוּ אוֹמְרִים מֵת:
+<br/>
+<br/>
 
 *"Who were the midwives Shifra and Pu'ah? Rav said: A daughter-in-law and her mother-and-law, Yocheved and Elisheva the daughter of Aminadav. Rabbi Shmuel Bar Nachman said: A woman and her daughter, Yocheved and Miriam. And Miriam was only five years old ... Pu'ah: She squirted wine into a baby's mouth after it came out of its mother ... Alternatively, Pu'ah: She would cause the newborn to cry after it was declared a stillborn."*
 
 **376.** The idea to separate as a result of Pharaoh's decree to kill baby boys was Amram's idea in the midrash. Presumably his wife Yocheved was not in favor, a conclusion which makes sense given that she was Shifra - the other midwife - and therefore dedicated to saving babies and subverting Pharaoh's decree. Miriam/Pu'ah had followed in her honorable mother's footsteps, and perhaps she was afraid that Moshe had followed in their father Amram's footsteps, which was motivating his belief that - like his father before him - divorcing his wife was both an admirable and necessary course of action.
 
 **377.** **Kallah Rabbati 3:4**
+<br/>
+<br/>
 
 שמע על בעל ואשתו שעשו מריבה הולך אצל הבעל ואומר לו בשביל ששמעתי שנתרצית עם אשתך אם אתה מגרשה ספק תמצא כמותה ספק לא תמצא ועוד אם אתה מוצא ממתנת עמה תחלת דבר היא אומרת לך כך עשית לאותה ראשונה. ועל זאת היו כל ישראל אנשים ונשים אוהבים אותו. תדע לך שכן הוא כיון שנפטר משה רבינו מה כתיב ביה ויבכו בני ישראל את משה ובאהרן כתיב כל בית ישראל ואפילו נשים ולא נשים בלבד אלא שהיו מפלשין טיט ועפר לטף לקיים מה שנאמר כל. תנא שמונים אלף בחורים קוראים בשם אהרן יצאו אחרי מטתו אמאי מרחמיתיה ומאן דאיהדר ואיתעברה:
+<br/>
+<br/>
 
 *"When Aharon heard of a husband and wife who had fought, he would go to the husband and say to him: I have come because I heard that you have quarreled with your wife. Should you divorce her it is doubtful whether you will find another like her or not, and furthermore, should you find another wife and quarrel with her, the first thing she will say to you will be: You must have behaved like this towards your first wife. Because of this all Yisrael, men and women, loved him. Know that it was so, for what does it say when Moshe Rabbeinu died? 'And Bnai Yisrael cried for Moshe' (Devarim 34:8), but for Aharon it says: 'They cried for Aharon thirty days, all the house of Yisrael (Bemidbar 20:29), meaning, even the women unlike Moshe. Not only did the women mourn, but they also covered their young children with mud and dust, thereby confirming the word 'all'. It was taught: 80,000 young men named Aharon went out after his bier in mourning when he died. They were the issue of those who had wanted to divorce but retracted and their wives became pregnant and in gratitude to Aharon they gave their sons his name."*
+<br/>
+<br/>
 
 This could be another reason why Miriam is referred to as: *'A prophet, Aharon's sister' (Shmot 15:20)* and not as Moshe's sister. Her prophecy had to do with unification, birth and deliverance, ideas that Aharon also understood and related to but that Moshe was ironically disconnected from.
 
@@ -5882,89 +6060,153 @@ This could be another reason why Miriam is referred to as: *'A prophet, Aharon's
 **379.** **Tanchuma Yelamdenu Ki Teitzei 9.**
 
 **380.** There is a striking echo between this pasuk (Bemidbar 16:14) and the language in Megillah 14a quoted in the note above where Miriam's father Amram *"hit her in the head"* because of Miriam's foolish conviction in her beliefs; perhaps this Gemara is picking up on this pasuk and hinting at the parallelism we are drawing here.
+<br/>
+<br/>
 
 It is interesting to note that a nearly identical midrashic tradition is found in Midrash Rabbah but instead of Miriam's father Amram striking her head it is Miriam's mother Yocheved who strikes her head. According to this variant any potential connection to Bemidbar 16:14 disappears:
+<br/>
+<br/>
 
 **Shmot Rabbah 1:22**
+<br/>
+<br/>
 
 ... וְכֵיוָן שֶׁהֱטִילוּהוּ לַיְּאוֹר, עָמְדָה אִמָּהּ וְטָפְחָה לָהּ עַל רֹאשָׁהּ, אָמְרָה לָהּ בִּתִּי וְהֵיכָן נְבוּאָתֵךְ, וְהַיְנוּ דִּכְתִיב: וַתֵּתַצַּב אֲחֹתוֹ מֵרָחֹק וגו׳. לָדַעַת מַה יְּהֵא בְּסוֹף נְבִיאוּתָהּ:
+<br/>
+<br/>
 
 *When they threw him into the river, her mother stood up and hit her on the head, and said to her: Daughter, where is your prophecy? This is why it says: 'His sister stood from a distance to see what would happen' (Shmot 2:4), meaning, to know what would be the end of her prophecy."*
 
 **381.** Korach uses the emotions triggered by Miriam's distress to foment rebellion in the desert, the end result of which was a plague leaving tens of thousands dead:
+<br/>
+<br/>
 
 **Bemidbar 17:14, 27-28**
+<br/>
+<br/>
 
 וַיִּהְי֗וּ הַמֵּתִים֙ בַּמַּגֵּפָ֔ה אַרְבָּעָ֥ה עָשָׂ֛ר אֶ֖לֶף וּשְׁבַ֣ע מֵא֑וֹת מִלְּבַ֥ד הַמֵּתִ֖ים עַל דְּבַר קֹֽרַח׃
+<br/>
+<br/>
 
 *"The count of those who died from the plague that was a direct result of Korach's rebellion was 14,700, not include those dead from the matter of Korach which was an additional 250 people."*
+<br/>
+<br/>
 
 וַיֹּֽאמְרוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶל מֹשֶׁ֖ה לֵאמֹ֑ר הֵ֥ן גָּוַ֛עְנוּ אָבַ֖דְנוּ כֻּלָּ֥נוּ אָבָֽדְנוּ׃ כֹּ֣ל הַקָּרֵ֧ב  הַקָּרֵ֛ב אֶל מִשְׁכַּ֥ן יְהֹוָ֖ה יָמ֑וּת הַאִ֥ם תַּ֖מְנוּ לִגְוֺֽעַ׃
+<br/>
+<br/>
 
 *"Bnai Yisrael said to Moshe: We are perishing, we are lost, we are all lost. Anyone who comes near the Mishkan of Hashem dies - will we ever stop perishing?"*
 
 **382.** **Bemidbar Rabbah 18:20.**
 
 **383.** King Uzziyahu of Yehudah was also stricken with *tzara'at*, albeit for arrogance instead of *lashon hara*. The midrash notes that like Korach, Uzziyahu was challenging the authority of the *Kehunah* and was punished for it. This further underlines the connection drawn between Korach's rebellion and *tzara'at*:
+<br/>
+<br/>
 
 **Pesikta Zutreta to Tehillim 118**
+<br/>
+<br/>
 
 יאמרו נא בית אהרן מה עשיתי להם לכל מי שעמד כנגדן. עמד קרח וסיעתו בלעה אותם הארץ. עמד עוזיהו וביקש להקטיר את הקטורת וזרחה במצחו הצרעת:
+<br/>
+<br/>
 
 *"'Let the house of Aharon say' (Tehillim 118:3). What did I do for them against anyone that stood against them? Korach and his supporters stood, and the earth swallowed them up. Uzziyahu stood and sought to burn incense, and his forehead broke out with tzara'at."*
 
 **384.** This tradition can also be found in the Talmud:
+<br/>
+<br/>
 
 **Sanhedrin 110a**
+<br/>
+<br/>
 
 (במדבר טז, ד) וישמע משה ויפול על פניו מה שמועה שמע אמר רבי שמואל בר נחמני א״ר יונתן שחשדוהו מאשת איש שנאמר (תהלים קו, טז) ויקנאו למשה במחנה א״ר שמואל בר יצחק מלמד שכל אחד ואחד קנא את אשתו ממשה שנאמר (שמות לג, ז) ומשה יקח את האהל ונטה לו מחוץ למחנה:
+<br/>
+<br/>
 
 *"'Moshe heard and he fell on his face' (Bemidbar 16:4). What rumor did he hear? Rabbi Shmuel Bar Nachmani said in the name of Rabbi Yonatan: They suspected him of adultery, as it says: 'They were jealous of Moshe in the camp' (Tehillim 106:16). Rabbi Shmuel Bar Yitzchak said: This teaches that every single person suspected his wife regarding Moshe, as it says: 'Moshe took the tent and planted it outside the camp' (Shmot 33:7)."*
+<br/>
+<br/>
 
 The language of this midrash pays tribute to that of the passage dealing with the wayward wife. Since all the men of Bnai Yisrael suspected Moshe of sleeping with their wives, that made each woman suspected this way into a *Sotah*:
+<br/>
+<br/>
 
 **Bemidbar 5:11-15**
+<br/>
+<br/>
 
 וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל מֹשֶׁ֥ה לֵּאמֹֽר׃ דַּבֵּר֙ אֶל בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֥ישׁ אִישׁ֙ כִּֽי תִשְׂטֶ֣ה אִשְׁתּ֔וֹ וּמָעֲלָ֥ה ב֖וֹ מָֽעַל׃ וְשָׁכַ֨ב אִ֣ישׁ אֹתָהּ֮ שִׁכְבַת זֶ֒רַע֒ וְנֶעְלַם֙ מֵעֵינֵ֣י אִישָׁ֔הּ וְנִסְתְּרָ֖ה וְהִ֣יא נִטְמָ֑אָה וְעֵד֙ אֵ֣ין בָּ֔הּ וְהִ֖וא לֹ֥א נִתְפָּֽשָׂה: וְעָבַ֨ר עָלָ֧יו רֽוּחַ קִנְאָ֛ה וְקִנֵּ֥א אֶת אִשְׁתּ֖וֹ וְהִ֣וא נִטְמָ֑אָה אוֹ עָבַ֨ר עָלָ֤יו רֽוּחַ קִנְאָה֙ וְקִנֵּ֣א אֶת אִשְׁתּ֔וֹ וְהִ֖יא לֹ֥א נִטְמָֽאָה׃ וְהֵבִ֨יא הָאִ֣ישׁ אֶת אִשְׁתּוֹ֮ אֶל הַכֹּהֵן֒ וגו׳:
+<br/>
+<br/>
 
 *"Hashem spoke to Moshe, saying: Speak to Bnai Yisrael and said to them: A man whose wife has gone astray and acted unfaithfully against him. And a man slept with her carnally, but her husband did not know, and she kept a secret that she had been defiled, and there was no witness and she had not been forced. And a spirit of jealousy overtakes him and he is jealous over his wife, and she has been defiled; or a spirit of jealousy overtakes him and he is jealous of his wife, and she has not been defiled. And the man shall bring his wife before the Kohen etc."*
 
 **385.** **Sanhedrin 109b-110a**
+<br/>
+<br/>
 
 אמר רב און בן פלת אשתו הצילתו אמרה ליה מאי נפקא לך מינה אי מר רבה אנת תלמידא ואי מר רבה אנת תלמידא אמר לה מאי אעביד הואי בעצה ואשתבעי לי בהדייהו אמרה ליה ידענא דכולה כנישתא קדישתא נינהו דכתיב (במדבר טז, ג) כי כל העדה כולם קדושים אמרה ליה תוב דאנא מצילנא לך אשקיתיה חמרא וארויתיה ואגניתיה גואי אותבה על בבא וסתרתה למזיה כל דאתא חזיה הדר אדהכי והכי אבלעו להו.
+<br/>
+<br/>
 
 איתתיה דקרח אמרה ליה חזי מאי קעביד משה איהו הוה מלכא לאחוה שוויה כהנא רבא לבני אחוהי שוינהו סגני דכהנא אי אתיא תרומה אמר תיהוי לכהן אי אתו מעשר דשקילתו אתון אמר הבו חד מי׳ לכהן ועוד דגייז ליה למזייכו ומיטלל לכו כי כופתא עינא יהב במזייכו אמר לה הא איהו נמי קא עביד אמרה ליה כיון דכולהו רבותא דידיה אמר איהו נמי (שופטים טז, ל) תמות נפשי עם פלשתים ועוד דקאמר לכו עבדיתו תכלתא אי ס״ד תכלתא חשיבא מצוה אפיק גלימי דתכלתא וכסינהו לכולהו מתיבתך.
+<br/>
+<br/>
 
 היינו דכתיב (משלי יד, א) חכמות נשים בנתה ביתה זו אשתו של און בן פלת ואולת בידה תהרסנה זו אשתו של קרח:
+<br/>
+<br/>
 
 *"Rav said: On Ben Pelet was saved by his wife, for she said to him: What does this dispute have to do with you? If Moshe is the master, you are a disciple, and if Korach is the master, you are a disciple. He said to her: What should I do - I took counsel and swore to join them. She said to him: I know that the whole community is holy, as it says: 'The whole congregation is holy' (Bemidbar 16:3). She said to him: Sit, for I will save you. What did she do? She gave him wine to drink, got him drunk, and had him lie down in her bed. Then she sat down at the entrance of the house and let down her hair. Everyone who came saw her and returned because it was immodest to look at her with her hair uncovered. In the meantime they were all swallowed up.*
+<br/>
+<br/>
 
 *Korach's wife said to him: See what Moshe is doing. He is the king, he appointed his brother as Kohen Gadol, and he appointed his brother's sons as deputy priests. If terumah comes, he says: Let it be for the kohen; if the first tithe comes, which you as Levites take, he says: Give one tenth to the kohen. And furthermore, he shears your hair and waves you like excrement, as though he sets his sights on your hair and wants you to be ugly. He said to her: didn't Moshe do the same thing as he is also a Levite? She said to him: Since it was all for his prominence he said: 'May my soul die with the Plishtim' (Shoftim 16:30). Furthermore, regarding which he said to you to prepare sky-blue dye for your tzitzit, one could say to him: If it enters your mind Moshe, that using sky-blue dye is considered a mitzvah, take out robes entirely made of sky-blue dye, and dress all of your academy in sky-blue robes without tzitzit.*
+<br/>
+<br/>
 
 *It is regarding this that it is written: 'The wisdom of women builds her house' (Mishlei 14:1) - this refers to the wife of On: 'but folly tears it down with her own hands' - this refers to the wife of Korach."*
 
 **386.** This accusation against Moshe secluding himself with other people's wives was able to grow legs and promulgate throughout the nation, at least in part, because Moshe had long ago removed his tent and planted it "outside of the camp" (Shmot 33:7). His tent being secluded and removed from everyone else surely made it easier to speculate on what went on in his private quarters. This phenomenon parallels what happens to Miriam as punishment for her lashon hara since she is also shut off "outside of the camp" (Bemidbar 12:15). We are told that part of the explanation for why Moshe moved the Ohel Moed outside the camp was because Hashem spoke to him there face-to-face:
+<br/>
+<br/>
 
 **Shmot 33:7-11**
+<br/>
+<br/>
 
 וּמֹשֶׁה֩ יִקַּ֨ח אֶת הָאֹ֜הֶל וְנָֽטָה ל֣וֹ  מִח֣וּץ לַֽמַּחֲנֶ֗ה הַרְחֵק֙ מִן הַֽמַּחֲנֶ֔ה וְקָ֥רָא ל֖וֹ אֹ֣הֶל מוֹעֵ֑ד וְהָיָה֙ כׇּל מְבַקֵּ֣שׁ יְהֹוָ֔ה יֵצֵא֙ אֶל אֹ֣הֶל מוֹעֵ֔ד אֲשֶׁ֖ר מִח֥וּץ לַֽמַּחֲנֶֽה׃ וְהָיָ֗ה כְּצֵ֤את מֹשֶׁה֙ אֶל הָאֹ֔הֶל יָק֙וּמוּ֙ כׇּל הָעָ֔ם וְנִ֨צְּב֔וּ אִ֖ישׁ פֶּ֣תַח אׇהֳל֑וֹ וְהִבִּ֙יטוּ֙ אַחֲרֵ֣י מֹשֶׁ֔ה עַד בֹּא֖וֹ הָאֹֽהֱלָה׃ וְהָיָ֗ה כְּבֹ֤א מֹשֶׁה֙ הָאֹ֔הֱלָה יֵרֵד֙ עַמּ֣וּד הֶֽעָנָ֔ן וְעָמַ֖ד פֶּ֣תַח הָאֹ֑הֶל וְדִבֶּ֖ר עִם מֹשֶֽׁה׃ וְרָאָ֤ה כׇל הָעָם֙ אֶת עַמּ֣וּד הֶֽעָנָ֔ן עֹמֵ֖ד פֶּ֣תַח הָאֹ֑הֶל וְקָ֤ם כׇּל הָעָם֙ וְהִֽשְׁתַּחֲו֔וּ אִ֖ישׁ פֶּ֥תַח אׇהֳלֽוֹ׃ וְדִבֶּ֨ר יְהֹוָ֤ה אֶל מֹשֶׁה֙ פָּנִ֣ים אֶל פָּנִ֔ים כַּאֲשֶׁ֛ר יְדַבֵּ֥ר אִ֖ישׁ אֶל רֵעֵ֑הוּ וְשָׁב֙ אֶל הַֽמַּחֲנֶ֔ה וּמְשָׁ֨רְת֜וֹ יְהוֹשֻׁ֤עַ בִּן נוּן֙ נַ֔עַר לֹ֥א יָמִ֖ישׁ מִתּ֥וֹךְ הָאֹֽהֶל׃
+<br/>
+<br/>
 
 *"Moshe took the tent and planted it outside of the camp, far away from the camp, and called it Ohel Moed, and anyone who wanted to seek Hashem would go out to Ohel Moed outside of the camp. When Moshe would go out to the tent the whole nation would rise and stand, each man at the entrance of his tent, and look after Moshe until he arrived at the tent. And when Moshe would get to the tent a pillar of cloud would descend and stand at the entrance of the tent, and Hashem would speak with Moshe. And the whole nation saw the pillar of cloud standing at the entrance of the tent, and the whole nation would rise and bow, each man at the entrance of his tent. And Hashem spoke to Moshe face-to-face, the way a man speaks with his fellow, and Moshe would then return to the camp. His servant, Yehoshua Bin Nun, would not leave the tent."*
+<br/>
+<br/>
 
 There is a striking Chiastic, A-B-B-A structure to these pesukim as compared to the story of Miriam getting stricken with tzara'at. Here in Shmot 33:
+<br/>
+<br/>
 
 - Moshe took the Ohel Moed and moved it outside the camp
 - Anyone who wanted to seek out Hashem would leave the camp and go to the tent
 - The cloud would descend when Moshe would go to the tent
 - Hashem would talk to Moshe like a friend, face to face
+<br/>
+<br/>
 
 In contrast, we find in Bemidbar 12:
+<br/>
+<br/>
 
 - Moshe, Miriam and Aharon are called to the Ohel Moed outside the camp
 - Hashem seeks them out suddenly, not the other way around (where they seek Him)
 - The cloud descended and told Miriam and Aharon to go into the tent
 - Hashem rebuked Miriam and Aharon about how He talks to Moshe like a friend
+<br/>
+<br/>
 
 There is a perversion and reversal of the way things are supposed to work, as idyllically described in Shmot 33. In particular, the story with Miriam subverts the reverence found in Shmot 33:10 where the people bowed to Moshe after seeing the cloud descend. Now, because of her toxic *lashon hara* the people no longer look at Moshe with reverence or fear, but rather with anger and resentment.
-
-
