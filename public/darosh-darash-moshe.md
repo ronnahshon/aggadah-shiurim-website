@@ -501,7 +501,7 @@ We have seen the concept of three crowns derived from actual things, real materi
 
 The rightful wearers of these crowns underwent numerous iterations during the rise and fall of judges and kings, priests and prophets. Yet a pressing question remains unaddressed: who were the first men to don them? Who set the precedent for what the relationship between these separate conduits to G-d could and should be? And is there a stronger connection to their original source, the foundation of these crowns in the physical world of the Mishkan?
 
-The first person to merit donning the crown of Kehunah is undoubtedly Aharon, appointed by G-d Himself as ancestor to all Kohanim that were to bear it after him. Similarly, the first and quintessential personification of the crown of Torah is none other than Moshe Rabbeinu, the very man who brought the Torah down from Heaven, the lawgiver who taught G-d's word to Bnai Yisrael, and ensured the beginning of its successful transmission through the ages. The crowns of Kehunah and Torah were first introduced and passed on by Moshe and Aharon; it follows that the individual supposed to bear the mantle of the third crown should have been initiated at the same time.**^[82b]{.underline}^** Who, then, was the original paradigm of Malchut?
+The first person to merit donning the crown of Kehunah is undoubtedly Aharon, appointed by G-d Himself as ancestor to all Kohanim that were to bear it after him. Similarly, the first and quintessential personification of the crown of Torah is none other than Moshe Rabbeinu, the very man who brought the Torah down from Heaven, the lawgiver who taught G-d's word to Bnai Yisrael, and ensured the beginning of its successful transmission through the ages. The crowns of Kehunah and Torah were first introduced and passed on by Moshe and Aharon; it follows that the individual supposed to bear the mantle of the third crown should have been initiated at the same time.**^[83]{.underline}^** Who, then, was the original paradigm of Malchut?
 
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
@@ -2334,5 +2334,3 @@ The Talmud goes out of its way to insert wives into the story of Korach's rebell
 The danger of even speaking against someone you love, and with the right intentions, highlights just how dangerous *lashon hara* is, and how careful we have to be in exercising caution with the words we say. Our mouths are unique among the human organs, hidden behind two rows of defenses - teeth and lips - as a constant reminder of how carefully guarded they need to remain. To avoid the fate of a *metzora* placed in quarantine and watched by everyone else, we must be proactively vigilant and watch the words that we say. We must learn from the martyrdom of Miriam, and recognize that some grievances spoken in private can, in short order, lead to great and uncontrollable tragedy.
 
 **תושלב״ע - תם ונשלם שבח לא-ל בורא עולם**
-
-
