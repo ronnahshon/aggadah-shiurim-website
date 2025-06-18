@@ -7,144 +7,282 @@
 **[Notes for General Introduction]{.underline}**
 
 **1.** **Pesikta DeRav Kahana 3:8**
+<br/>
+<br/>
 
 עמלק (דברים כה:יז). עם ילק, פרח כהדין זחלה. דבר אחר עם לק, אומה שבאת ללוק דמן של ישראל ככלב. ר׳ לוי בשם ר׳ שמעון בן חלפתא למה היה עמלק דומה, לזבוב שהוא להוט אחר המכה, כך היה עמלק להוט אחר ישראל ככלב. תני בשם ר׳ נתן ארבע מאות פרסה פסע עמלק ובא לעשות מלחמה עם ישראל ברפידים:
+<br/>
+<br/>
 
 *"'Amalek' (Devarim 25:17). A nation of locusts: It flew down to battle like a locust. Another idea: A licking nation. A people that came to lick up the blood of Yisrael like a dog. Rabbi Levi says in the name of Rabbi Shimon Ben Chalafta, to whom is Amalek comparable? To a fly who is eagerly drawn to a wound; similarly, Amalek was eagerly drawn to Yisrael like a dog. It was taught in the name of Rabbi Natan, Amalek traveled 400 parasangs in order to do battle with Yisrael in Rephidim."*
+<br/>
+<br/>
 
 The distance of 400 parasangs mentioned here is alternatively given as the length from one end of Eretz Yisrael to the other, and as the length of from one end of the Land of Egypt to the other. So determined was Amalek to attack Bnai Yisrael that they traversed an incredible distance in order to do so:
+<br/>
+<br/>
 
 **Menachot 64b**
+<br/>
+<br/>
 
 תנו רבנן כשצרו מלכי בית חשמונאי זה על זה והיה הורקנוס מבחוץ ואריסטובלוס מבפנים בכל יום ויום היו משלשלין להן דינרין בקופה ומעלין להן תמידין היה שם זקן אחד שהיה מכיר בחכמת יוונית לעז להם בחכמת יוונית אמר להן כל זמן שעסוקין בעבודה אין נמסרין בידכם למחר שלשלו להן דינרין בקופה והעלו להן חזיר כיון שהגיע לחצי חומה נעץ צפרניו בחומה ונזדעזעה ארץ ישראל ארבע מאות פרסה על ארבע מאות פרסה באותה שעה אמרו ארור שיגדל חזיר וארור שילמד בנו חכמת יוונית:
+<br/>
+<br/>
 
 *"The Rabbis taught: When the kings of the Hashmonaim were warring with each other, Hyrcanus was on the outside and Aristobolus was on the instead. Each day the people on the inside would send a box of coins to the people on the outside, who would then send up animals for the daily sacrifices. There was an elderly man inside who knew Greek wisdom, and he communicated with the people outside using Greek wisdom, and said to them, as long as these on the inside are engaged in the Temple service, they will not be given over into your hands. The next day they lowered the coins in a box, and they sent back a pig which is not permissible as a sacrifice. Once the pig got halfway up the wall, it inserted its hooves into the wall, and Eretz Yisrael shook 400 by 400 parasanges. At that time they said: Cursed is he who raises pigs, and cursed is he who teaches his son Greek wisdom."*
+<br/>
+<br/>
 
 **Megillah 3a**
+<br/>
+<br/>
 
 וְאָמַר רַבִּי יִרְמְיָה וְאִיתֵּימָא רַבִּי חִיָּיא בַּר אַבָּא: תַּרְגּוּם שֶׁל תּוֹרָה אוּנְקְלוֹס הַגֵּר אֲמָרוֹ מִפִּי רַבִּי אֱלִיעֶזֶר וְרַבִּי יְהוֹשֻׁעַ. תַּרְגּוּם שֶׁל נְבִיאִים יוֹנָתָן בֶּן עוּזִּיאֵל אֲמָרוֹ מִפִּי חַגַּי זְכַרְיָה וּמַלְאָכִי, וְנִזְדַּעְזְעָה אֶרֶץ יִשְׂרָאֵל אַרְבַּע מֵאוֹת פַּרְסָה עַל אַרְבַּע מֵאוֹת פַּרְסָה. יָצְתָה בַּת קוֹל וְאָמְרָה: מִי הוּא זֶה שֶׁגִּילָּה סְתָרַיי לִבְנֵי אָדָם?
+<br/>
+<br/>
 
 *"Rabbi Yirmiyah, and some say Rabbi Chiya Bar Abba, says, the translation of Torah into Aramaic - Onkelos the proselyte said it before Rabbi Eliezer and Rabbi Yehoshua. The translation of Nevi'im - Yonatan Ben Uzziel said it before Haggai, Zechariah and Malachi, and Eretz Yisrael shook 400 by 400 parasangs. A heavenly voice went out and said: Who is the one that dared to reveal My secrets to mankind?"*
+<br/>
+<br/>
 
 **Pesachim 94a**
+<br/>
+<br/>
 
 תָּא שְׁמַע: מִצְרַיִם הָיָה אַרְבַּע מֵאוֹת פַּרְסָה עַל אַרְבַּע מֵאוֹת פַּרְסָה, וּמִצְרַיִם אֶחָד מִשִּׁשִּׁים בְּכוּשׁ, וְכוּשׁ אֶחָד מִשִּׁשִּׁים בָּעוֹלָם, וְעוֹלָם אֶחָד מִשִּׁשִּׁים בַּגָּן, וְגַן אֶחָד מִשִּׁשִּׁים בְּעֵדֶן, וְעֵדֶן אֶחָד מִשִּׁשִּׁים בְּגֵיהִנָּם, נִמְצָא כׇּל הָעוֹלָם כּוּלּוֹ כְּכִיסּוּי קְדֵירָה לְגֵיהִנָּם:
+<br/>
+<br/>
 
 *"Come and hear, Egypt is 400 by 400 parasangs, and Egypt is one-sixtieth of Cush, and Cush is one-sixtieth of the whole world, and the whole world is one-sixtieth of the Gan of Eden, and the Gan of Eden is one-sixtieth of the entirety of Eden, and the entirety of Eden is one-sixtieth of Gehinnom. It follows that the whole world is like a pot cover compared to Gehinnom."*
+<br/>
+<br/>
 
 **Breishit Rabbah 93:6**
+<br/>
+<br/>
 
 מִיָּד כָּעַס יְהוּדָה וְשָׁאַג בְּקוֹל גָּדוֹל וְהָלַךְ קוֹלוֹ אַרְבַּע מֵאוֹת פַּרְסָה עַד שֶׁשָּׁמַע חוּשִׁים בֶּן דָּן וְקָפַץ מֵאֶרֶץ כְּנַעַן וּבָא אֵצֶל יְהוּדָה וְשָׁאֲגוּ שְׁנֵיהֶם וּבִקְשָׁה אֶרֶץ מִצְרַיִם לֵהָפֵךְ:
+<br/>
+<br/>
 
 *"Yehudah got angry and roared with a great voice, and his voice carried 400 parasangs until Hushim Ben Dan heard it and jumped from Eretz Canaan to Egypt and came next to Yehudah, and the two of them roared and the whole of the land of Egypt was in danger of being destroyed."*
 
 **2.** **Devarim 25:17-19**
+<br/>
+<br/>
 
 זָכ֕וֹר אֵ֛ת אֲשֶׁר עָשָׂ֥ה לְךָ֖ עֲמָלֵ֑ק בַּדֶּ֖רֶךְ בְּצֵאתְכֶ֥ם מִמִּצְרָֽיִם׃ אֲשֶׁ֨ר קָֽרְךָ֜ בַּדֶּ֗רֶךְ וַיְזַנֵּ֤ב בְּךָ֙ כׇּל הַנֶּחֱשָׁלִ֣ים אַֽחֲרֶ֔יךָ וְאַתָּ֖ה עָיֵ֣ף וְיָגֵ֑עַ וְלֹ֥א יָרֵ֖א אֱלֹהִֽים׃ וְהָיָ֡ה בְּהָנִ֣יחַ יְהֹוָ֣ה אֱלֹהֶ֣יךָ ׀ לְ֠ךָ֠ מִכׇּל אֹ֨יְבֶ֜יךָ מִסָּבִ֗יב בָּאָ֙רֶץ֙ אֲשֶׁ֣ר יְהֹוָה אֱ֠לֹהֶ֠יךָ נֹתֵ֨ן לְךָ֤ נַחֲלָה֙ לְרִשְׁתָּ֔הּ תִּמְחֶה֙ אֶת זֵ֣כֶר עֲמָלֵ֔ק מִתַּ֖חַת הַשָּׁמָ֑יִם לֹ֖א תִּשְׁכָּֽח׃
+<br/>
+<br/>
 
 *"Remember what Amalek did to you on the way, as you were leaving Egypt. He surprised you on the way, and cut down all of the weak ones in the rear, and you were tired and weary; he was not afraid of G-d. When Hashem your G-d will leave you free on all your enemies around you in the land that Hashem your G-d is giving you as a portion to inherit - you shall erase the memory of Amalek from under the heavens; do not forget."*
+<br/>
+<br/>
 
 **3.** While *na'ar* is often translated as lad or youth, Yehoshua was already 56 years old during the battle with Amalek. This leads Ibn Ezra and Ramban to conclude that a more correct translation here would be deputy or attendant. Either way it seems clear that at the time he was an attendant to Moshe and not yet a holder of high office:
+<br/>
+<br/>
 
 **Shmot 33:11**
+<br/>
+<br/>
 
 וְדִבֶּ֨ר יְהֹוָ֤ה אֶל מֹשֶׁה֙ פָּנִ֣ים אֶל פָּנִ֔ים כַּאֲשֶׁ֛ר יְדַבֵּ֥ר אִ֖ישׁ אֶל רֵעֵ֑הוּ וְשָׁב֙ אֶל הַֽמַּחֲנֶ֔ה וּמְשָׁ֨רְת֜וֹ יְהוֹשֻׁ֤עַ בִּן נוּן֙ נַ֔עַר לֹ֥א יָמִ֖ישׁ מִתּ֥וֹךְ הָאֹֽהֶל׃
+<br/>
+<br/>
 
 *"Hashem spoke with Moshe face to face, the way a man speaks to his fellow. Moshe would return to the camp; but his attendant Yehoshua Bin Nun was a deputy who did not leave from inside the tent."*
+<br/>
+<br/>
 
 **Ramban to Shmot 33:11 d"h umesharto yehoshua bin nun na'ar**
+<br/>
+<br/>
 
 כתב ר׳׳א (אבן עזרא על שמות ל״ג:י״א) חיה יהושע מאה ועשר שנים (יהושע כד כט), וחכמים אמרו (זבחים קיח:) כי שבע שנים כבש ושבע שנים חלק, א׳׳כ היה בן חמשים ושש שנה, ואיך יקראהו הכתוב נער, וככה פירושו, ומשרתו יהושע בן נון שירות נער. ועל דעתי דרך לשון הקדש שיקרא כל משרת נער, כי בעל השררה הנכבד הוא האיש, והמשרת לו יקרא נער:
+<br/>
+<br/>
 
 *"Ibn Ezra wrote that we know Yehoshua lived for 110 years (Yehoshua 24:29), and our sages said (Zevachim 118b) that it took seven years to conquer Eretz Yisrael and seven years to divide it up. If so, since Bnai Yisrael wandered in the desert for 40 years, subtract 110 - 7 - 7 - 40 = 56, which means Yehoshua was 56 years old during this episode, so how could the text call him a na'ar? Ibn Ezra answered that Moshe's attendant Yehoshua Bin Nun' means his attendance was like that of a youth. And in my opinion it is the way of the Holy Tongue to call any attendant a na'ar regardless of age, for a person of authority is called ish and the one who attends to him is called na'ar."*
+<br/>
+<br/>
 
 Yehoshua himself also felt unworthy to be chosen for this role, recognizing that Moshe saw in him potential that he then had to prove was correct:
+<br/>
+<br/>
 
 **Pesikta DeRav Kahana 3:1**
+<br/>
+<br/>
 
 אמר יהושע כמה גדולים יש כאן בדור הזה, אהרן וחור וע׳ זקנים, ולא צוה משה אלא לי, לא על חינם צווני אלא שראה שנופל בידי, ויעש יהושע כאשר אמר לו משה להלחם בעמלק וגו׳ (שם יז:י):
+<br/>
+<br/>
 
 *"Yehoshua said, there are so many great people in this generation: Aharon, Hur, the seventy elders. And yet, Moshe did not command anyone other than me to lead the battle against Amalek. He did not command me for naught but rather must have seen that Amalek will fall into my hands. Therefore: 'Yehoshua did as Moshe told him, to fight against Amalek' (Shmot 17:10)."*
+<br/>
+<br/>
 
 **4.** An allusion to this idea may come from the fact that this is the first time we hear of Yehoshua in the Torah and he is referred to as such, yet the Torah informs us in Bemidbar 13:16 that Yehoshua's original name was actually Hoshea; Moshe had renamed him by inserting a *yud* at the beginning of his name. The midrash explains that this was meant to strengthen Yehoshua and give him the courage and fortitude to stand up against the rest of the spies:
+<br/>
+<br/>
 
 **Sotah 34b**
+<br/>
+<br/>
 
 ויקרא משה להושע בן נון יהושע י-ה יושיעך מעצת מרגלים והיינו דכתיב ועבדי כלב עקב היתה רוח אחרת עמו וגו׳:
+<br/>
+<br/>
 
 *"'Moshe called Hoshea Bin Nun Yehoshua'. This means may Yah save you from the advice of the spies. This is why it says: 'My servant Kalev, because he had a different spirit with him, etc.'"*
+<br/>
+<br/>
 
 Perhaps Yehoshua is referred to with the *yud* in the battle of Amalek as well because at this point too he was an inexperienced warrior and needed the prayer of *"May Yah save you",* that HaKadosh Baruch Hu should grant him victory in the campaign against Amalek. More than a year later, before dispatching the spies, Moshe then reconfirmed the name change in prayer that Yehoshua should be saved from their negative influence.
+<br/>
+<br/>
 
 **5.** This follows from observing that Moshe did not merely assign Yehoshua to command the people in battle, but also felt it necessary to take action of his own:
+<br/>
+<br/>
 
 **Ramban to Shmot 33:9 d"h vayomer moshe el yehoshua**
+<br/>
+<br/>
 
 והיה כל הענין הזה שעשה משה רבינו, מפני שהיה עמלק גוי איתן וחזק מאד, וישראל אינם מלומדי מלחמה ולא ראו אותה מעולם, כאשר אמר פן ינחם העם בראותם מלחמה (שמות י״ג:י״ז), והוא עיף ויגע ככתוב במשנה תורה (דברים כה יח), על כן פחד מהם והוצרך לכל התפלה והתחנה הזאת:
+<br/>
+<br/>
 
 *"And this whole thing which Moshe Rabbeinu did, was because Amalek was a very powerful and strong nation, and additionally Yisrael were not taught in the ways of war and had never seen it before, as it says: 'Lest the nation will regret when they see war' (Shmot 13:17). Additionally, the nation was tired and weak, as it says in Mishneh Torah i.e. Sefer Devarim (Devarim 25:18). Therefore, Moshe was afraid for Bnai Yisrael and felt it was necessary to also pray and supplicate as much as possible."*
+<br/>
+<br/>
 
 **6.** The word *machar*, usually translated as 'tomorrow', can also connote a sense of immediacy and urgency, and here seems appropriate given the hurried response to sudden war:
+<br/>
+<br/>
 
 **Pesikta Zutarta Shmot 13:14 d"h vehaya ki yishalcha bincha machar**
+<br/>
+<br/>
 
 יש מחר לאחר זמן כגון זה, ודומה ומחר (על) אל כל עדת ישראל יקצוף (יהושע כב יח) ויש מחר שהוא עכשיו, כגון מחר אנכי נצב (שמות יז ט), למחר יהיה האות הזה (שם ח יט), וכל דומיהן:
+<br/>
+<br/>
 
 *"There is 'tomorrow' which means after a long time such as here in Shmot 13:14, and similarly: 'Tomorrow He will get angry at the entire congregation of Yisrael' (Yehoshua 22:18), and there is 'tomorrow' which means now, as it says: 'Tomorrow I will stand' (Shmot 17:9), and similarly 'Tomorrow this sign will appear' (Shmot 8:19), and all those who are to be interpreted similarly."*
+<br/>
+<br/>
 
 Whether *machar* is referring to Yehoshua meeting Amalek in battle - so that Moshe could ascend the hill and pray beforehand - or referring to Moshe ascending to pray - so that Yehoshua could set up for battle right away - is grammatically ambiguous:
+<br/>
+<br/>
 
 **Yoma 52a-b**
+<br/>
+<br/>
 
 וְהַתַּנְיָא, אִיסִי בֶּן יְהוּדָה אוֹמֵר: חָמֵשׁ מִקְרָאוֹת בַּתּוֹרָה אֵין לָהֶן הֶכְרֵעַ: ״שְׂאֵת״. ״מְשׁוּקָּדִים״. ״מָחָר״. ״אָרוּר״. ״וְקָם״:
+<br/>
+<br/>
 
 *"Was it not taught, Issi Ben Yehudah said: There are five pesukim in the Torah which cannot be decided from a grammatical perspective: 'lifted up', 'with almond blossoms', 'tomorrow', 'cursed', 'and will get up'."*
+<br/>
+<br/>
 
 **Tosafot to Yoma 52b d"h se'et meshukadim machar arur vekam**
+<br/>
+<br/>
 
 וכן מחר אי קאי אמלחמה ואנכי נצב על ראש הגבעה היום להתפלל קודם המלחמה כדכתיב היערוך שועך לא בצר (איוב לו, יט) או קאי אאנכי נצב מחר להתפלל:
+<br/>
+<br/>
 
 *"And similarly 'tomorrow': Is it referring to the battle, and then 'I will stand at the top of the hill' - today, to pray before the battle, as it says: 'Will your limitless wealth help you' (Iyov 36:19)? Or is it referring to 'I will stand' - tomorrow, to pray?"*
+<br/>
+<br/>
 
 **7.** The concept of facing off against Amalek *machar* also appears in the Purim story. Queen Esther invites King Achashverosh and Haman to an intimate feast, during which she invites them again to a second feast the following day. It is not clear from the Megillah itself why Esther feels the need to do this; she accused Haman of attempting genocide against her people at the second feast, but she could have just as easily done that at the first one. Clearly something motivated Esther to drag her plan out, and for the midrash this was a realization that when Amalek presents a sudden and unexpected danger - as Haman's decree clearly did - the only way to defeat him is by fighting back 'tomorrow':
+<br/>
+<br/>
 
 **Yalkut Shimoni on Nach Remez 1056**
+<br/>
+<br/>
 
 ומחר אעשה כדבר המלך (אסתר ה:ח). מה ראתה לומר מחר, אלא שכל זרעה של עמלק למדים ליפול למחר, וכן הוא אומר מחר אנכי נצב על ראש הגבעה (שמות יז:ט):
+<br/>
+<br/>
 
 *"'Tomorrow I will do as the king commands' (Esther 5:8). Why did she feel it appropriate to say 'tomorrow'? Rather, it is learned that all the offspring of Amalek are destined to fall 'tomorrow', as it says: 'Tomorrow I will stand at the top of the hill' (Shmot 17:9)."*
+<br/>
+<br/>
 
 It follows that *machar* is used in the context of the battle with Amalek both in the immediate, 'now' sense, and in the abstract, distant future sense.
+<br/>
+<br/>
 
 **8.** This point will be more fully developed in **Part I**.
+<br/>
+<br/>
 
 **9.** The simple, *peshat* translation of the word *emunah* is steadiness and permanence:
+<br/>
+<br/>
 
 **Chizkuni to Shmot 17:12 d"h videy moshe kevedim**
+<br/>
+<br/>
 
 כל דבר העומד בחזקו ובעמדו ואינו מחליש ואינו נחסר מכמות שהיה קרוי אמונה כמו ותקעתיו יתד במקום נאמן (ישעיהו כב:כג), שתרגומו באתר קיים. ועוד הרבה אף כאן ויהי ידיו אמונה קיימות ועומדות ומרימות מטה האלוקים עד בא השמש ודבר זה גרם להחליש יהושע את עמלק ואת עמו שהיו ישראל רואים את ידיו של משה מרימות המטה ומתגברים:
+<br/>
+<br/>
 
 *"Every thing which stands in its strength and uprightness and does not weaken or lose from the quantity which it had is called 'emunah', like: 'And I will fasten him like a peg to a steady place' (Yishayahu 22:23), whose translation is 'A lasting place'. And there are many other examples. So too here, 'Moshe's hands were steady, lasting and upright and lifting the staff of G-d until the sun set. And it is this which directly caused Yehoshua to weaken Amalek and his nation, since Yisrael would see Moshe's hands lifting up the staff, and prevail."*
+<br/>
+<br/>
 
 Nevertheless, the aggadic interpretation understands *emunah* as stemming from the concept of faith, and see in it a reference to Avraham's faith in Hashem during *brit bein habetarim*:
+<br/>
+<br/>
 
 **Tanchuma Yelamdenu Beshalach 10**
+<br/>
+<br/>
 
 אָז יָשִׁיר, וַיַּאֲמִינוּ בַּה׳. לְפִיכָךְ זָכוּ לֵירַשׁ אֶת הָאָרֶץ. אַתָּה מוֹצֵא בִּשְׂכַר אֲמָנָה שֶׁהֶאֱמִין אַבְרָהָם אָבִינוּ בַּה׳, יָרַשׁ הָעוֹלָם הַזֶּה וְהָעוֹלָם הַבָּא, שֶׁנֶּאֱמַר: וְהֶאֱמִן בַּה׳ וַיַּחְשְׁבֶהָ לּוֹ צְדָקָה (בראשית טו, ו). וְכֵן וַיַּאֲמֵן הָעָם (שמות ד, לא). וּכְתִיב: אֱמוּנִים נֹצֵר ה׳ וּמְשַׁלֵּם עַל יֶתֶר עֹשֵׂה גַאֲוָה (תהלים לא, כד). וְכֵן בְּמֹשֶׁה: וַיְהִי יָדָיו אֱמוּנָה עַד בֹּא הַשָּׁמֶשׁ (שמות יז, יב):
+<br/>
+<br/>
 
 *"'Then Moshe and Bnai Yisrael sang', 'They had faith in Hashem'. Because of this faith, they merited to inherit the land.Similarly, you find that in return for the faith that Avraham Avinu had in Hashem, he merited to inherit this world and the world to come, as it says: 'He had faith in Hashem, and He considered it to him for righteousness' (Breishit 15:6). Similarly: 'The nation had faith' (Shmot 4:31), and it says: 'Hashem preserves the faithful, and repays with extra those who are haughty' (Tehillim 31:24). And so too with Moshe: 'His hands were a symbol of faith until the sun set' (Shmot 17:12)."*
+<br/>
+<br/>
 
 The Targum understands *emunah* as a reference to Moshe's faith in Hashem, and interprets the spreading of hands as a beseechment during prayer:
+<br/>
+<br/>
 
 **Targum Onkelos to Shmot 17:12**
+<br/>
+<br/>
 
 וִידֵי משֶׁה יְקָרָן וּנְסִיבוּ אַבְנָא וְשַׁוִיאוּ תְחוֹתוֹהִי וִיתֵב עֲלַהּ וְאַהֲרֹן וְחוּר סַעְדָן בִּידוֹהִי מִכָּא חַד וּמִכָּא חַד וַהֲוָה יְדוֹהִי פְּרִיסָן בִּצְלוֹ עַד דְעַל שִׁמְשָׁא:
+<br/>
+<br/>
 
 *"Moshe's hands were heavy, so they brought a rock and placed it under him, and he sat on it. Aharon and Hur supported his hands, one on each side, and his hands were spread outward in prayer until the sun set."*
+<br/>
+<br/>
 
 **10.** **Mishnah Rosh HaShanah 3:8.**
+<br/>
+<br/>
 
 **11.** In particular, the relationship between Hur on the one hand vs Moshe and Aharon on the other will be a critical component of our analysis. Understanding who Hur was and what his role is this story represents is essential to the larger question of how Bnai Yisrael's leadership is meant to operate.
+<br/>
+<br/>
 
 
 
