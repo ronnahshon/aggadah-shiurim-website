@@ -1903,8 +1903,6 @@ Additionally, the language used to describe David is reminiscent of Kalev Ben Ye
 
 **Har Sinai -** הר סיני
 
-
-
 **127. Shmot Rabbah 29:9**
 
 אַרְיֵה שָׁאָג מִי לֹא יִירָא (עמוס ג, ח), הֲדָא הוּא דִכְתִיב: אַחֲרֵי ה׳ יֵלְכוּ כְּאַרְיֵה יִשְׁאָג (הושע יא, י), אָמַר רַבִּי סִימוֹן, מָשָׁל לְמֶלֶךְ שֶׁנִּכְנַס בַּפָּלָטִין שֶׁלּוֹ, שָׁמְעָה מַטְרוֹנָה שֶׁלּוֹ וְנָתְנָה מָקוֹם וְהָיְתָה מְרַתֶּתֶת, אִם הַמַּטְרוֹנָה מִתְיָרֵאת מַה יַּעֲשׂוּ הַשְּׁפָחוֹת וְהָעֲבָדִים. כָּךְ כְּשֶׁנִּגְלָה הַקָּדוֹשׁ בָּרוּךְ הוּא לִתֵּן תּוֹרָה לְיִשְׂרָאֵל שָׁמְעוּ קוֹלוֹת וָמֵתוּ, שֶׁנֶּאֱמַר: נַפְשִׁי יָצְאָה בְדַבְּרוֹ (שיר השירים ה, ו), אִם יִשְׂרָאֵל כָּךְ עוֹבְדֵי כּוֹכָבִים עַל אַחַת כַּמָּה וְכַמָּה ... אָמַר רַבִּי אַבָּהוּ בְּשֵׁם רַבִּי יוֹחָנָן, כְּשֶׁנָּתַן הַקָּדוֹשׁ בָּרוּךְ הוּא אֶת הַתּוֹרָה, צִפּוֹר לֹא צָוַח, עוֹף לֹא פָּרַח, שׁוֹר לֹא גָּעָה, אוֹפַנִּים לֹא עָפוּ, שְׂרָפִים לֹא אָמְרוּ קָדוֹשׁ קָדוֹשׁ, הַיָּם לֹא נִזְדַּעֲזָע, הַבְּרִיּוֹת לֹא דִּבְּרוּ, אֶלָּא הָעוֹלָם שׁוֹתֵק וּמַחֲרִישׁ, וְיָצָא הַקּוֹל: אָנֹכִי ה׳ אֱלֹהֶיךָ (שמות כ, ב), וְכֵן הוּא אוֹמֵר: אֶת הַדְּבָרִים הָאֵלֶּה דִּבֶּר ה׳ אֶל כָּל קְהַלְכֶם קוֹל גָּדוֹל וְלֹא יָסָף (דברים ה, יט) ... כְּשֶׁדִּבֵּר הַקָּדוֹשׁ בָּרוּךְ הוּא עַל הַר סִינַי, הִשְׁתִּיק כָּל הָעוֹלָם, כְּדֵי שֶׁיֵּדְעוּ הַבְּרִיּוֹת שֶׁאֵין חוּץ מִמֶּנּוּ, וְאָמַר: אָנֹכִי ה׳ אֱלֹהֶיךָ:
@@ -3152,13 +3150,9 @@ It follows that Rabbi Haninah was a big advocate for belief in HaKadosh Baruch H
 
 Additionally Moshe and Aharon were excessively punished for their "touch" of sin by being condemned to die in the wilderness. Although Miriam is stricken with *tzara'at* by HaKadosh Baruch Hu as a direct consequence of her *lashon hara*, perhaps her death in the desert, which also occurred in the fortieth year and goes entirely unexplained by the Torah, was similarly G-d judging His righteous ones extremely strictly; perhaps Miriam's *lashon hara* was punished immediately but also prevented her being allowed to enter Eretz Yisrael.
 
-
-
 ***Chapter III***
 
 **Hor HaHar -** הר ההר
-
-
 
 **246.** **Bemidbar Rabbah 15:12**
 
