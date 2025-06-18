@@ -4,7 +4,7 @@
 
 
 
-**[Notes for General Introduction]{.underline}**
+**[General Introduction]{.underline}**
 
 **1.** **Pesikta DeRav Kahana 3:8**
 <br/>
@@ -286,9 +286,13 @@ The Targum understands *emunah* as a reference to Moshe's faith in Hashem, and i
 
 
 
-**[Notes for Part 1]{.underline}**
+**Part 1: Destined to Rule**
+
+**[Introduction]{.underline}**
 
 **12.** **Shmot 24:13-14.**
+
+**[Righteous Martyr]{.underline}**
 
 **13.** **Shmot 32:1-6.**
 
@@ -345,6 +349,8 @@ A variant on this tradition gives Aharon more credit, attributing Aharon receivi
 מַה חֲרוֹן אַף הָיָה שָׁם, שֶׁנִּטְלָה כְּהֻנָּה מִמּשֶׁה וְנִתְּנָה לְאַהֲרֹן. אָמְרוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה: הֲלֹא אַהֲרֹן אָחִיךָ הַלֵּוִי, וְכִי מֵאַחַר שֶׁאָמַר: אָחִיךָ, אֵינִי יוֹדֵעַ שֶׁהוּא לֵוִי, אֶלָּא אָמַר לוֹ רָאוּי הָיִיתָ לִהְיוֹת כֹּהֵן וְהוּא לֵוִי, וּלְפִי שֶׁאַתָּה מְסָרֵב עַל דְּבָרַי, תִּהְיֶה אַתָּה לֵוִי וְהוּא כֹהֵן, יָדַעְתִּי כִּי דַבֵּר יְדַבֵּר הוּא, לְפִי שֶׁאָמַרְתָּ: לֹא אִישׁ דְּבָרִים אָנֹכִי, לְכָךְ דַּבֵּר יְדַבֵּר הוּא, וּמַה שֶּׁאַתָּה סָבוּר שֶׁהוּא מֵצֵר לֹא כֵן אֶלָּא שָׂמֵחַ, שֶׁנֶּאֱמַר: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. אָמַר רַבִּי שִׁמְעוֹן בֶּן רַבִּי יוֹסֵי הַלֵּב שֶׁשָֹּׂמַח בִּגְדֻלַּת אָחִיו יִלְבַּשׁ אוּרִים וְתֻמִּים, שֶׁנֶּאֱמַר: וְהָיוּ עַל לֵב אַהֲרֹן:
 
 *"What flaring anger was there? The Kehunah was taken from Moshe and given to Aharon. The Rabbis of blessed memory say, 'Aharon your brother the Levi' - from the fact that it says 'your brother', don't I know that he was a Levi? Rather, this means that you Moshe were worthy to be a Kohen and he Aharon a Levi, but because you refuse My words, you will be Levi and he will be Kohen. 'I know that he can speak', for you said: 'I am not a man of words'; therefore he will speak on your behalf, and that which you reasoned that he is distressed about you, it is not so, for he is happy, as it says: 'He will see you and be happy in his heart'. Rabbi Shimon Ben Rabbi Yosi said, the heart which was happy in the greatness of his brother shall merit to wear the Urim VeTumim, as it says: 'They will be on Aharon's heart'."*
+
+**[Adam's Book]{.underline}**
 
 **24.** **Shmot 31:1-5.**
 
@@ -457,6 +463,8 @@ Another example of the second miracle is repeated, albeit in a different context
 *"To the Mediterranean Sea - this teaches that HaKadosh Baruch Hu showed Moshe the entire west dwelling in serenity, and then He showed him the entire west under duress and being conquered. Another idea: Do not read it 'the Mediterranean Sea', but rather 'the last day' - this teaches that HaKadosh Baruch Hu showed Moshe the entire world, from the days it was created until the resurrection of the dead ...*
 
 *The valley of Yericho - this teaches that HaKadosh Baruch Hu showed Moshe Gog and his hordes, who in the future will fall in the valley of Yericho. Another idea: Just as in this valley one can see a field sown with wheat and a field sown with barley, so too He showed him the entire world, shrunken into the valley of Yericho."*
+
+**[Family Tree]{.underline}**
 
 **34.** **Divrei HaYamim Aleph 2:18-20; 4:1-4.**
 
@@ -605,6 +613,8 @@ David came from Ram son of Hetzron, not Kalev son of Hetzron. So how could the m
 
 *"Hetzron was Yehudah's grandson, as it says: 'The children of Peretz were Hetzron and Hamul' (Breishit 46:12) ... When Hetzron died, Kalev came to Efrat - this is Miriam, since Yisrael increased and multiplied through her. And it says: 'Azuvah died, and Kalev took Efrat i.e. Miriam and she gave birth to Hur, and Hur gave birth to Uri, and Uri gave birth to Betzalel' (Divrei HaYamim Aleph 2:19-20)."*
 
+**[Seeds of Royalty]{.underline}**
+
 **53.** **Pirkei DeRabbi Eliezer 45.**
 
 **54.** **Bemidbar Rabbah 16:2**
@@ -615,7 +625,9 @@ David came from Ram son of Hetzron, not Kalev son of Hetzron. So how could the m
 
 
 
-**[Notes for Part 2]{.underline}**
+**Part 2: The Three Crowns**
+
+**[Introduction]{.underline}**
 
 **55.** By way of comparison, the Talmud notes that Elisheva was particularly well-connected and had five noble relatives which gave her reason to be joyous:
 
@@ -643,6 +655,8 @@ A similar list could be construction for Hur: (1) His uncle Moshe was a king, (2
 Kalev married Miriam, sister to Aharon and Moshe. If Kalev had checked the brothers of his potential wife before marrying her, he would not have been disappointed: Aharon and Moshe are, after all, model brothers-in-law to have. Since "most sons are similar to their mother's brothers", odds were that Hur was destined to be similar to Aharon and Moshe. Therefore, when Kalev married Miriam he was ensuring that his son would be similar to his two uncles.
 
 **57.** This concept is explored in depth in **Parts II** and **III**.
+
+**[Torah is Primary]{.underline}**
 
 **58.** **Shmot Rabbah 34:2.**
 
@@ -720,6 +734,8 @@ Kalev married Miriam, sister to Aharon and Moshe. If Kalev had checked the broth
 
 *"A scholar precedes the King of Yisrael, for if a scholar dies there is no one like him to replace him while if the King of Yisrael dies - all of Yisrael are worthy of Malchut."*
 
+**[Biblical Triumvirate]{.underline}**
+
 **69.** **Ta'anit 22b**
 
 אמר רבי שמואל בר נחמני אמר רבי יונתן: מפני מה נענש יאשיהו מפני שהיה לו לימלך בירמיהו ולא נמלך:
@@ -770,6 +786,8 @@ In this sense separating the second passage from the first removes the need Rash
 
 *"The word for 'him' in Hebrew is 'lo', which in Gematria is equal to 36."*
 
+**[A Good Name]{.underline}**
+
 **75.** **Pirkei Avot 4:13.**
 
 **76.** An expanded midrashic exposition of Pirkei Avot adds onto Rabbi Shimon Bar Yochai's teaching by combining it with Rabbi Yochanan's opinion that the greatness of Torah comes from its democratic nature:
@@ -815,6 +833,8 @@ In this sense separating the second passage from the first removes the need Rash
 **82.** As infinity is not an actual number - and infinite height cannot be represented visually - here it is represented pictorially as a cloud that encompasses and engulfs the other three numbers:
 
 !(images/media/image4.png){width="4.451983814523184in" height="4.494792213473316in"}
+
+**[Holy Unification]{.underline}**
 
 **82b.** While satisfying, the midrash by no means feels bound by any time constraint confining the issuance of these crowns to a single period of Jewish history, as **Note 67.** demonstrates. There are even opinions which directly assign Moshe and Aharon to the crowns of Torah and Kehunah, but then assign the crowns of Malchut and Shem Tov to David and Avraham respectively:
 
@@ -882,13 +902,17 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 
 
 
-**[Notes for Part 3]{.underline}**
+**Part 3: Divine Justice**
+
+**[Introduction]{.underline}**
 
 **91.** **Berachot 55a**
 
 אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן: בְּצַלְאֵל עַל שֵׁם חׇכְמָתוֹ נִקְרָא. בְּשָׁעָה שֶׁאָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמֹשֶׁה: לֵךְ אֱמוֹר לוֹ לִבְצַלְאֵל ״עֲשֵׂה לִי מִשְׁכָּן אָרוֹן וְכֵלִים״. הָלַךְ מֹשֶׁה וְהָפַךְ וְאָמַר לוֹ: ״עֲשֵׂה אָרוֹן וְכֵלִים וּמִשְׁכָּן״. אָמַר לוֹ: מֹשֶׁה רַבֵּינוּ, מִנְהָגוֹ שֶׁל עוֹלָם אָדָם בּוֹנֶה בַּיִת וְאַחַר כָּךְ מַכְנִיס לְתוֹכוֹ כֵּלִים, וְאַתָּה אוֹמֵר ״עֲשֵׂה לִי אָרוֹן וְכֵלִים וּמִשְׁכָּן״, כֵּלִים שֶׁאֲנִי עוֹשֶׂה, לְהֵיכָן אַכְנִיסֵם? שֶׁמָּא כָּךְ אָמַר לְךָ הַקָּדוֹשׁ בָּרוּךְ הוּא, ״עֲשֵׂה מִשְׁכָּן אָרוֹן וְכֵלִים״?! אָמַר לוֹ: שֶׁמָּא בְּצֵל אֵל הָיִיתָ וְיָדַעְתָּ?
 
 *"Rabbi Shmuel Bar Nachmani says in the name of Rabbi Yonatan, Betzalel was named based on his wisdom. At the time when HaKadosh Baruch Hu said to Moshe, go tell Betzalel: 'Make for Me a Mishkan, Aron and utensils', Moshe went and switched the order and said to Betzalel: 'Make an Aron, utensils and Mishkan'. He said to him, Moshe Rabbeinu, the way of the world is that a person builds a house and after that he puts all the utensils inside it, and you tell me: 'Make an Aron, utensils and Mishkan' - the utensils that I make, where should I put them? Maybe HaKadosh Baruch Hu said to you: 'Make for Me a Mishkan, Aron and utensils'? Moshe said to Betzalel: Maybe you were in the shadow of E-l, and that is how you knew."*
+
+**[National Atonement]{.underline}**
 
 **92.** **Ramban to Vayikra 8:2 d"h kach et aharon**
 
@@ -944,6 +968,8 @@ Note this explanation is different from one we perhaps assumed was underpinning 
 
 *"Now leave Me be, and My anger will flare against them and consume them, and I will make you i.e. Moshe into a great nation ... and Hashem repented of the evil He had said He would do to His nation."*
 
+**[Paying It Forward]{.underline}**
+
 **98.** **Shmot Rabbah 48:3; Tanchuma Yelamdenu Vayakhel 4.**
 
 **99.** **Chizkuni to Shmot 31:2 d"h betzalel ben uri ben hur**
@@ -985,6 +1011,8 @@ This idea has precedent in the Talmud as well:
 וא״ר יצחק אין הברכה מצוייה אלא בדבר הסמוי מן העין שנאמר (דברים כח, ח) יצו ה׳ אתך את הברכה באסמיך תנא דבי רבי ישמעאל אין הברכה מצויה אלא בדבר שאין העין שולטת בו שנאמר יצו ה׳ אתך את הברכה באסמיך:
 
 *"Rabbi Yitzchak said, blessing is not found except with something that is hidden from the eye, as it says: 'Hashem shall command blessing for you in your hidden things' (Devarim 28:8). It was taught in the house of Rabbi Yishmael, blessing is not found except with something that the eye has not control over, as it says: Hashem shall command blessing for you in your hidden things.'"*
+
+**[Like Children]{.underline}**
 
 **104.** A grandparent's love extends to the grandchild, but not further:
 
@@ -1107,6 +1135,8 @@ The concept of being "called by name" - as Betzalel was - is also juxtaposed to 
 אָמַר בֶּן עַזַּאי: בְּשִׁמְךָ יִקְרָאוּךְ, וּבִמְקוֹמְךָ יוֹשִׁיבוּךְ, וּמִשֶּׁלְּךָ יִתְּנוּ לְךָ. אֵין אָדָם נוֹגֵעַ בַּמּוּכָן לַחֲבֵירוֹ. וְאֵין מַלְכוּת נוֹגַעַת בַּחֲבֶרְתָּהּ אֲפִילּוּ כִּמְלֹא נִימָא:
 
 *"Ben Azzai says, by your name they shall call you, and in your place they shall seat you, and from your own they shall give you. A person does not touch that which is set for his fellow, and one reign does not overlap with another by even a hairsbreadth."*
+
+**[Final Vengeance]{.underline}**
 
 **113.** Hur is listed as one of the five Midianite kings killed in battle against Bnai Yisrael:
 
@@ -1237,43 +1267,33 @@ Additionally, the language used to describe David is reminiscent of Kalev Ben Ye
 
 **127. Shmot Rabbah 29:9**
 
-אַרְיֵה שָׁאָג מִי לֹא יִירָא (עמוס ג, ח), הֲדָא הוּא דִכְתִיב: אַחֲרֵי ה׳ יֵלְכוּ כְּאַרְיֵה
-יִשְׁאָג (הושע יא, י), אָמַר רַבִּי סִימוֹן, מָשָׁל לְמֶלֶךְ שֶׁנִּכְנַס בַּפָּלָטִין שֶׁלּוֹ, שָׁמְעָה מַטְרוֹנָה שֶׁלּוֹ וְנָתְנָה מָקוֹם וְהָיְתָה מְרַתֶּתֶת, אִם הַמַּטְרוֹנָה מִתְיָרֵאת מַה יַּעֲשׂוּ הַשְּׁפָחוֹת וְהָעֲבָדִים. כָּךְ כְּשֶׁנִּגְלָה הַקָּדוֹשׁ בָּרוּךְ הוּא לִתֵּן תּוֹרָה לְיִשְׂרָאֵל שָׁמְעוּ קוֹלוֹת וָמֵתוּ, שֶׁנֶּאֱמַר: נַפְשִׁי יָצְאָה בְדַבְּרוֹ (שיר השירים ה, ו), אִם יִשְׂרָאֵל כָּךְ עוֹבְדֵי כּוֹכָבִים עַל אַחַת כַּמָּה וְכַמָּה ...
-אָמַר רַבִּי אַבָּהוּ בְּשֵׁם רַבִּי יוֹחָנָן, כְּשֶׁנָּתַן הַקָּדוֹשׁ בָּרוּךְ הוּא אֶת הַתּוֹרָה, צִפּוֹר לֹא צָוַח, עוֹף לֹא פָּרַח, שׁוֹר לֹא גָּעָה, אוֹפַנִּים לֹא עָפוּ, שְׂרָפִים לֹא אָמְרוּ קָדוֹשׁ קָדוֹשׁ, הַיָּם לֹא נִזְדַּעֲזָע, הַבְּרִיּוֹת לֹא דִּבְּרוּ, אֶלָּא הָעוֹלָם שׁוֹתֵק וּמַחֲרִישׁ, וְיָצָא הַקּוֹל: אָנֹכִי ה׳ אֱלֹהֶיךָ (שמות כ, ב), וְכֵן הוּא אוֹמֵר: אֶת הַדְּבָרִים הָאֵלֶּה דִּבֶּר ה׳ אֶל כָּל קְהַלְכֶם קוֹל גָּדוֹל וְלֹא יָסָף (דברים ה, יט) ... כְּשֶׁדִּבֵּר הַקָּדוֹשׁ בָּרוּךְ הוּא עַל הַר סִינַי, הִשְׁתִּיק כָּל הָעוֹלָם, כְּדֵי שֶׁיֵּדְעוּ הַבְּרִיּוֹת שֶׁאֵין חוּץ מִמֶּנּוּ, וְאָמַר: אָנֹכִי ה׳ אֱלֹהֶיךָ:
+אַרְיֵה שָׁאָג מִי לֹא יִירָא (עמוס ג, ח), הֲדָא הוּא דִכְתִיב: אַחֲרֵי ה׳ יֵלְכוּ כְּאַרְיֵה יִשְׁאָג (הושע יא, י), אָמַר רַבִּי סִימוֹן, מָשָׁל לְמֶלֶךְ שֶׁנִּכְנַס בַּפָּלָטִין שֶׁלּוֹ, שָׁמְעָה מַטְרוֹנָה שֶׁלּוֹ וְנָתְנָה מָקוֹם וְהָיְתָה מְרַתֶּתֶת, אִם הַמַּטְרוֹנָה מִתְיָרֵאת מַה יַּעֲשׂוּ הַשְּׁפָחוֹת וְהָעֲבָדִים. כָּךְ כְּשֶׁנִּגְלָה הַקָּדוֹשׁ בָּרוּךְ הוּא לִתֵּן תּוֹרָה לְיִשְׂרָאֵל שָׁמְעוּ קוֹלוֹת וָמֵתוּ, שֶׁנֶּאֱמַר: נַפְשִׁי יָצְאָה בְדַבְּרוֹ (שיר השירים ה, ו), אִם יִשְׂרָאֵל כָּךְ עוֹבְדֵי כּוֹכָבִים עַל אַחַת כַּמָּה וְכַמָּה ... אָמַר רַבִּי אַבָּהוּ בְּשֵׁם רַבִּי יוֹחָנָן, כְּשֶׁנָּתַן הַקָּדוֹשׁ בָּרוּךְ הוּא אֶת הַתּוֹרָה, צִפּוֹר לֹא צָוַח, עוֹף לֹא פָּרַח, שׁוֹר לֹא גָּעָה, אוֹפַנִּים לֹא עָפוּ, שְׂרָפִים לֹא אָמְרוּ קָדוֹשׁ קָדוֹשׁ, הַיָּם לֹא נִזְדַּעֲזָע, הַבְּרִיּוֹת לֹא דִּבְּרוּ, אֶלָּא הָעוֹלָם שׁוֹתֵק וּמַחֲרִישׁ, וְיָצָא הַקּוֹל: אָנֹכִי ה׳ אֱלֹהֶיךָ (שמות כ, ב), וְכֵן הוּא אוֹמֵר: אֶת הַדְּבָרִים הָאֵלֶּה דִּבֶּר ה׳ אֶל כָּל קְהַלְכֶם קוֹל גָּדוֹל וְלֹא יָסָף (דברים ה, יט) ... כְּשֶׁדִּבֵּר הַקָּדוֹשׁ בָּרוּךְ הוּא עַל הַר סִינַי, הִשְׁתִּיק כָּל הָעוֹלָם, כְּדֵי שֶׁיֵּדְעוּ הַבְּרִיּוֹת שֶׁאֵין חוּץ מִמֶּנּוּ, וְאָמַר: אָנֹכִי ה׳ אֱלֹהֶיךָ:
 
-*"'A lion roars, who does not fear?' (Amos 3:8). This is as it says:
-'Walk after Hashem like a roaring lion' (Hoshea 11:10). Rabbi Simon says, a parable: as a king goes into his palace, his matron hears him and out of fear makes room for him and shudders. If a matron is so fearful, what will the maidservants and slaves do? So too when HaKadosh Baruch Hu revealed Himself to give the Torah to Yisrael, they heard His voices and died, as it says: 'My soul left Me as He spoke' (Shir HaShirim 5:6). If this is the case with Yisrael, how much more so with idol worshippers ... Rabbi Abbahu says in the name of Rabbi Yochanan, when HaKadosh Baruch Hu gave the Torah, no bird chirped or took flight, no ox lowed, no Ofanim flew, no Seraphim said 'holy holy', the sea did not move, the creations did not speak. Rather, the world was utterly silent, as the voice went out: 'I am Hashem your G-d' (Shmot 20:2). Similarly it says: 'Hashem spoke these words to your entire assembly, a great voice that did not continue' (Devarim 5:19) ... When HaKadosh Baruch Hu spoke on Har Sinai, the whole world was silent, so that the creations would know that there is nothing other than Him, and He said: 'I am Hashem your G-d' (Shmot 20:1)."*
+*"'A lion roars, who does not fear?' (Amos 3:8). This is as it says: 'Walk after Hashem like a roaring lion' (Hoshea 11:10). Rabbi Simon says, a parable: as a king goes into his palace, his matron hears him and out of fear makes room for him and shudders. If a matron is so fearful, what will the maidservants and slaves do? So too when HaKadosh Baruch Hu revealed Himself to give the Torah to Yisrael, they heard His voices and died, as it says: 'My soul left Me as He spoke' (Shir HaShirim 5:6). If this is the case with Yisrael, how much more so with idol worshippers ... Rabbi Abbahu says in the name of Rabbi Yochanan, when HaKadosh Baruch Hu gave the Torah, no bird chirped or took flight, no ox lowed, no Ofanim flew, no Seraphim said 'holy holy', the sea did not move, the creations did not speak. Rather, the world was utterly silent, as the voice went out: 'I am Hashem your G-d' (Shmot 20:2). Similarly it says: 'Hashem spoke these words to your entire assembly, a great voice that did not continue' (Devarim 5:19) ... When HaKadosh Baruch Hu spoke on Har Sinai, the whole world was silent, so that the creations would know that there is nothing other than Him, and He said: 'I am Hashem your G-d' (Shmot 20:1)."*
 
-**128.** There is an approach in the Talmud recorded in the name of Rav
-which understands eating and drinking here to be a metaphor for basking in the Shechinah's countenance. Understood this way, the nobility beholding G-d and then "eating and drinking" denotes something positive and metaphorical: as a result of having seen G-d directly, the nobles had the special opportunity to benefit from a heightened level of Divine glory; Rav even compares what Moshe and his companions experienced to the World to Come, *Olam HaBa*, a state entirely spiritual and devoid of worldly corruption.
+**128.** There is an approach in the Talmud recorded in the name of Rav which understands eating and drinking here to be a metaphor for basking in the Shechinah's countenance. Understood this way, the nobility beholding G-d and then "eating and drinking" denotes something positive and metaphorical: as a result of having seen G-d directly, the nobles had the special opportunity to benefit from a heightened level of Divine glory; Rav even compares what Moshe and his companions experienced to the World to Come, *Olam HaBa*, a state entirely spiritual and devoid of worldly corruption.
 
 **Berachot 17a**
 
-מַרְגְּלָא בְּפוּמֵּיהּ דְּרַב: לֹא כָּעוֹלָם הַזֶּה הָעוֹלָם הַבָּא. הָעוֹלָם הַבָּא אֵין בּוֹ לֹא אֲכִילָה וְלֹא
-שְׁתִיָּהּ וְלֹא פְּרִיָּה וּרְבִיָּה וְלֹא מַשָּׂא וּמַתָּן וְלֹא קִנְאָה וְלֹא שִׂנְאָה וְלֹא תַּחֲרוּת, אֶלָּא צַדִּיקִים יוֹשְׁבִין וְעַטְרוֹתֵיהֶם בְּרָאשֵׁיהֶם וְנֶהֱנִים מִזִּיו הַשְּׁכִינָה, שֶׁנֶּאֱמַר: ״וַיֶּחֱזוּ אֶת הָאֱלֹהִים וַיֹּאכְלוּ וַיִּשְׁתּוּ״ (שמות כד:יא):
+מַרְגְּלָא בְּפוּמֵּיהּ דְּרַב: לֹא כָּעוֹלָם הַזֶּה הָעוֹלָם הַבָּא. הָעוֹלָם הַבָּא אֵין בּוֹ לֹא אֲכִילָה וְלֹא שְׁתִיָּהּ וְלֹא פְּרִיָּה וּרְבִיָּה וְלֹא מַשָּׂא וּמַתָּן וְלֹא קִנְאָה וְלֹא שִׂנְאָה וְלֹא תַּחֲרוּת, אֶלָּא צַדִּיקִים יוֹשְׁבִין וְעַטְרוֹתֵיהֶם בְּרָאשֵׁיהֶם וְנֶהֱנִים מִזִּיו הַשְּׁכִינָה, שֶׁנֶּאֱמַר: ״וַיֶּחֱזוּ אֶת הָאֱלֹהִים וַיֹּאכְלוּ וַיִּשְׁתּוּ״ (שמות כד:יא):
 
-*"A pearl saying in the mouth of Rav: Olam HaBa is not like this
-world. It does not have eating or drinking or procreation, or business or jealousy or hatred or competition: only the righteous sitting with their crowns on their heads and basking in the Shechinah's countenance, as it says: 'They saw G-d, and ate and drank metaphorically' (Shmot 24:11)."*
+*"A pearl saying in the mouth of Rav: Olam HaBa is not like this world. It does not have eating or drinking or procreation, or business or jealousy or hatred or competition: only the righteous sitting with their crowns on their heads and basking in the Shechinah's countenance, as it says: 'They saw G-d, and ate and drank metaphorically' (Shmot 24:11)."*
 
 This approach is also found elsewhere in Rabbinic literature:
 
 **Kallah Rabbati 2:3**
 
-א״ר אחי בר רבי יאשיה כל הצופה בנשים סוף בא לידי עבירה כל המפנה עצמו מן
-העבירה ולא עשאה אפילו ישראל הוא ראוי לעלות עולה ככהן גדול על גבי המזבח שנאמר וישלח את נערי בני ישראל וגו׳ אבל מי ששם עצמו עצל מן העבירה ולא עשאה ניזון מזיו השכינה שנאמר ויחזו את הא-לקים ויאכלו וישתו:
+א״ר אחי בר רבי יאשיה כל הצופה בנשים סוף בא לידי עבירה כל המפנה עצמו מן העבירה ולא עשאה אפילו ישראל הוא ראוי לעלות עולה ככהן גדול על גבי המזבח שנאמר וישלח את נערי בני ישראל וגו׳ אבל מי ששם עצמו עצל מן העבירה ולא עשאה ניזון מזיו השכינה שנאמר ויחזו את הא-לקים ויאכלו וישתו:
 
-*"Rabbi Achi Bar Rabbi Yishayah said, whoever looks at women will end up
-sinning, but whoever turns away from sin and does not commit it, even if he is just a Yisrael he is worthy to bring an offering like the Kohen Gadol on the altar, as it says: 'He sent the youth of Bnai Yisrael'. Anyone who makes himself lazy from sin and does not commit it, will be nourished from the glory of the Shechinah, as it says: 'They saw G-d, and ate and drank.'"*
+*"Rabbi Achi Bar Rabbi Yishayah said, whoever looks at women will end up sinning, but whoever turns away from sin and does not commit it, even if he is just a Yisrael he is worthy to bring an offering like the Kohen Gadol on the altar, as it says: 'He sent the youth of Bnai Yisrael'. Anyone who makes himself lazy from sin and does not commit it, will be nourished from the glory of the Shechinah, as it says: 'They saw G-d, and ate and drank.'"*
 
 While Rav and Rav Achi Bar Rabbi Yishayah both interpret the nobility's eating and drinking both non-literally and favorably, it is also possible to interpret their consumption literally and favorably:
 
 **Ramban Shmot 24:11 d"h vayishtu**
 
-וטעם וישתו שעשו שמחה ויום טוב, כי כן חובה לשמוח בקבלת התורה ... ואמר
-רבי אלעזר מכאן שעושין משתה לגמרה של תורה (שהש׳׳ר א ט). ונאמר בדוד אביו בהתנדבם לבנין בית המקדש ויזבחו לה׳ זבחים ויעלו עולות לה׳ וגו׳ ויאכלו וישתו לפני ה׳ ביום ההוא בשמחה גדולה (דהי׳׳א כט כא-כב), ואף כאן ביום חתונת התורה כן עשו:
+וטעם וישתו שעשו שמחה ויום טוב, כי כן חובה לשמוח בקבלת התורה ... ואמר רבי אלעזר מכאן שעושין משתה לגמרה של תורה (שהש׳׳ר א ט). ונאמר בדוד אביו בהתנדבם לבנין בית המקדש ויזבחו לה׳ זבחים ויעלו עולות לה׳ וגו׳ ויאכלו וישתו לפני ה׳ ביום ההוא בשמחה גדולה (דהי׳׳א כט כא-כב), ואף כאן ביום חתונת התורה כן עשו:
 
-*"The reason they ate and drank was because they took joy in the
-holiday, because it is required to be joyous in accepting the Torah ...
+*"The reason they ate and drank was because they took joy in the holiday, because it is required to be joyous in accepting the Torah ...
 Rabbi Elazar said, from here we know of the mitzvah to make a great feast upon the completion of the Torah (Shir HaShirim Rabbah 1:9). It says by David Shlomo's father when he contributed to the building of the Beit HaMikdash: 'And they offered sacrifices and burnt offerings to Hashem ... and they ate and drank before Hashem on that day with great gladness' (Divrei HaYamim Aleph 29:21-22). Here too on the wedding day of the Torah, they acted similarly."*
 
 Ibn Ezra also interprets this incident literally and favorably, albeit for a different reason; see **Note 51**.
@@ -1282,21 +1302,17 @@ The predominant approach found in various midrashic tradition, however, is to in
 
 **Vayikra Rabbah 20:10**
 
-אמר רבי הושעיה וכי קילורין עלת עמהן מסיני דאת אמר (שמות כד, יא): ויחזו
-את הא-לקים, אלא מלמד שזנו עיניהם מן השכינה, ויחזו את הא-לקים, כאדם שמביט בחברו מתוך מאכל ומשתה. רבי יוחנן אמר אכילה ודאי, כמה דאת אמר (משלי טז, טו): באור פני מלך חיים. אמר רבי תנחומא מלמד שפרעו את ראשיהן וגיסו לבם וזנו עיניהם מן השכינה:
+אמר רבי הושעיה וכי קילורין עלת עמהן מסיני דאת אמר (שמות כד, יא): ויחזו את הא-לקים, אלא מלמד שזנו עיניהם מן השכינה, ויחזו את הא-לקים, כאדם שמביט בחברו מתוך מאכל ומשתה. רבי יוחנן אמר אכילה ודאי, כמה דאת אמר (משלי טז, טו): באור פני מלך חיים. אמר רבי תנחומא מלמד שפרעו את ראשיהן וגיסו לבם וזנו עיניהם מן השכינה:
 
-*"Rabbi Hoshayah said, did they take delicacies with them to Sinai, that
-it says: 'They saw G-d' (Shmot 24:11)? Rather, this teaches that they glanced at the Shechinah in a disrespectful way, like a man who glances at his friend when he is eating and drinking. Rabbi Yohanan said, it was eating, like that which says: 'Life in the light of the face of the king' (Mishlei 16:15). Rabbi Tanhuma said, this teaches that they uncovered their heads and were arrogant of heart, and let their eyes stray from the Shechinah."*
+*"Rabbi Hoshayah said, did they take delicacies with them to Sinai, that it says: 'They saw G-d' (Shmot 24:11)? Rather, this teaches that they glanced at the Shechinah in a disrespectful way, like a man who glances at his friend when he is eating and drinking. Rabbi Yohanan said, it was eating, like that which says: 'Life in the light of the face of the king' (Mishlei 16:15). Rabbi Tanhuma said, this teaches that they uncovered their heads and were arrogant of heart, and let their eyes stray from the Shechinah."*
 
 Nor is this relationship between eating and drinking and a violated sense of seriousness an isolated association. A similar theme pervades what is arguably one of the most scathing condemnations of the sale of Yosef in the midrashic literature:
 
 **Midrash Shocher Tov 10**
 
-אמר הקב״ה לשבטים אתם מכרתם אחיכם מתוך מאכל ומשתה שנאמר (בראשית לז כה)
-וישבו לאכל לחם. הרי בניכם נמכרים בשושן מתוך אכילה ושתיה שנאמר (אסתר ג טו) והמלך והמן ישבו לשתות:
+אמר הקב״ה לשבטים אתם מכרתם אחיכם מתוך מאכל ומשתה שנאמר (בראשית לז כה) וישבו לאכל לחם. הרי בניכם נמכרים בשושן מתוך אכילה ושתיה שנאמר (אסתר ג טו) והמלך והמן ישבו לשתות:
 
-*"HaKadosh Baruch Hu said to the tribes, you sold your brother Yosef
-into slavery while eating and feasting, as it says: 'They sat to break bread' (Breishit 37:25). As a punishment, your children will be sold into potential annihilation in Shushan during eating and drinking, as it says: 'The King and Haman sat down to drink' (Esther 3:15)."*
+*"HaKadosh Baruch Hu said to the tribes, you sold your brother Yosef into slavery while eating and feasting, as it says: 'They sat to break bread' (Breishit 37:25). As a punishment, your children will be sold into potential annihilation in Shushan during eating and drinking, as it says: 'The King and Haman sat down to drink' (Esther 3:15)."*
 
 As for the fourth possible approach, namely literally and unfavorably, this is arguably the simplest reading of the pasuk, the *peshat*, leading us to the following summary:
 
@@ -1313,223 +1329,166 @@ Yishayah
 
 As Rabbi Hoshayah notes, there is no mention of the nobles bringing any food with them to the top of Har Sinai, which raises the question according to the approach of Ramban and Ibn Ezra that the feast should be taken literally to mean a physical feast. However, one could simply respond that from the fact that the nobility feasted we can infer that they brought the food up with them, despite the Torah not mentioning it explicitly beforehand.
 
-**3. Megillah 19b**
+**129. Megillah 19b**
 
-וְאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: אִלְמָלֵי נִשְׁתַּיֵּיר בִּמְעָרָה שֶׁעָמַד בָּהּ מֹשֶׁה
-וְאֵלִיָּהוּ כִּמְלֹא נֶקֶב מַחַט סִדְקִית, לֹא הָיוּ יְכוֹלִין לַעֲמוֹד מִפְּנֵי הָאוֹרָה, שֶׁנֶּאֱמַר: ״כִּי לֹא יִרְאַנִי הָאָדָם וָחָי״ (שמות לג, כ):
+וְאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: אִלְמָלֵי נִשְׁתַּיֵּיר בִּמְעָרָה שֶׁעָמַד בָּהּ מֹשֶׁה וְאֵלִיָּהוּ כִּמְלֹא נֶקֶב מַחַט סִדְקִית, לֹא הָיוּ יְכוֹלִין לַעֲמוֹד מִפְּנֵי הָאוֹרָה, שֶׁנֶּאֱמַר: ״כִּי לֹא יִרְאַנִי הָאָדָם וָחָי״ (שמות לג, כ):
 
-*"Rabbi Chiya Bar Abba said in the name of Rabbi Yochanan: if a crack
-even as small as the point of a sewing needle had been left in the cave where Moshe and Eliyahu stood, they could not have survived the intensity of His light, as it says: 'No person can see Me and live' (Shmot 33:20)."*
+*"Rabbi Chiya Bar Abba said in the name of Rabbi Yochanan: if a crack even as small as the point of a sewing needle had been left in the cave where Moshe and Eliyahu stood, they could not have survived the intensity of His light, as it says: 'No person can see Me and live' (Shmot 33:20)."*
 
-**4. Shmot 20:15-16**
+**130. Shmot 20:15-16**
 
-וְכׇל הָעָם֩ רֹאִ֨ים אֶת הַקּוֹלֹ֜ת וְאֶת הַלַּפִּידִ֗ם וְאֵת֙ ק֣וֹל הַשֹּׁפָ֔ר וְאֶת הָהָ֖ר עָשֵׁ֑ן וַיַּ֤רְא הָעָם֙
-וַיָּנֻ֔עוּ וַיַּֽעַמְד֖וּ מֵֽרָחֹֽק׃ וַיֹּֽאמְרוּ֙ אֶל מֹשֶׁ֔ה דַּבֵּר אַתָּ֥ה עִמָּ֖נוּ וְנִשְׁמָ֑עָה וְאַל יְדַבֵּ֥ר עִמָּ֛נוּ אֱלֹהִ֖ים פֶּן נָמֽוּת׃
+וְכׇל הָעָם֩ רֹאִ֨ים אֶת הַקּוֹלֹ֜ת וְאֶת הַלַּפִּידִ֗ם וְאֵת֙ ק֣וֹל הַשֹּׁפָ֔ר וְאֶת הָהָ֖ר עָשֵׁ֑ן וַיַּ֤רְא הָעָם֙ וַיָּנֻ֔עוּ וַיַּֽעַמְד֖וּ מֵֽרָחֹֽק׃ וַיֹּֽאמְרוּ֙ אֶל מֹשֶׁ֔ה דַּבֵּר אַתָּ֥ה עִמָּ֖נוּ וְנִשְׁמָ֑עָה וְאַל יְדַבֵּ֥ר עִמָּ֛נוּ אֱלֹהִ֖ים פֶּן נָמֽוּת׃
 
-*"The nation saw the voices and torches and the voice of the Shofar and
-the mountain smoking. The nation was afraid, and trembled, and they stood from afar. And they said to Moshe, you speak with us and we will hear, but don't let G-d speak with us, lest we perish from the encounter."*
+*"The nation saw the voices and torches and the voice of the Shofar and the mountain smoking. The nation was afraid, and trembled, and they stood from afar. And they said to Moshe, you speak with us and we will hear, but don't let G-d speak with us, lest we perish from the encounter."*
 
-**131.** Both Gideon the judge, son of Yoash, and Manoah, father of
-Shimshon the judge, thought they were going to die for this very reason.
-They were both mistaken and corrected, ostensibly because they had each seen an angel of G-d and not G-d Himself:
+**131.** Both Gideon the judge, son of Yoash, and Manoah, father of Shimshon the judge, thought they were going to die for this very reason. They were both mistaken and corrected, ostensibly because they had each seen an angel of G-d and not G-d Himself:
 
 **Shoftim 6:22-23**
 
-וַיַּ֣רְא גִּדְע֔וֹן כִּֽי מַלְאַ֥ךְ יְהֹוָ֖ה ה֑וּא וַיֹּ֣אמֶר גִּדְע֗וֹן אֲהָהּ֙ אֲדֹנָ֣י יֱהֹוִ֔ה כִּֽי עַל כֵּ֤ן רָאִ֙יתִי֙
-מַלְאַ֣ךְ יְהֹוָ֔ה פָּנִ֖ים אֶל פָּנִֽים׃ וַיֹּ֨אמֶר ל֧וֹ יְהֹוָ֛ה שָׁל֥וֹם לְךָ֖ אַל תִּירָ֑א לֹ֖א תָּמֽוּת׃
+וַיַּ֣רְא גִּדְע֔וֹן כִּֽי מַלְאַ֥ךְ יְהֹוָ֖ה ה֑וּא וַיֹּ֣אמֶר גִּדְע֗וֹן אֲהָהּ֙ אֲדֹנָ֣י יֱהֹוִ֔ה כִּֽי עַל כֵּ֤ן רָאִ֙יתִי֙ מַלְאַ֣ךְ יְהֹוָ֔ה פָּנִ֖ים אֶל פָּנִֽים׃ וַיֹּ֨אמֶר ל֧וֹ יְהֹוָ֛ה שָׁל֥וֹם לְךָ֖ אַל תִּירָ֑א לֹ֖א תָּמֽוּת׃
 
-*"Gideon saw that it was an angel of Hashem, and Gideon said: Oh, G-d
-Lord, for I have seen an angel of Hashem face to face and survived.
-Hashem said to him, do not be afraid; you shall not die."*
+*"Gideon saw that it was an angel of Hashem, and Gideon said: Oh, G-d Lord, for I have seen an angel of Hashem face to face and survived. Hashem said to him, do not be afraid; you shall not die."*
 
 **Shoftim 13:21-23**
 
-וְלֹא יָ֤סַף עוֹד֙ מַלְאַ֣ךְ יְהֹוָ֔ה לְהֵרָאֹ֖ה אֶל מָנ֣וֹחַ וְאֶל אִשְׁתּ֑וֹ אָ֚ז יָדַ֣ע מָנ֔וֹחַ כִּֽי מַלְאַ֥ךְ יְהֹוָ֖ה
-הֽוּא׃ וַיֹּ֧אמֶר מָנ֛וֹחַ אֶל אִשְׁתּ֖וֹ מ֣וֹת נָמ֑וּת כִּ֥י אֱלֹהִ֖ים רָאִֽינוּ׃ וַתֹּ֧אמֶר ל֣וֹ אִשְׁתּ֗וֹ לוּ֩ חָפֵ֨ץ יְהֹוָ֤ה לַהֲמִיתֵ֙נוּ֙ לֹֽא לָקַ֤ח מִיָּדֵ֙נוּ֙ עֹלָ֣ה וּמִנְחָ֔ה וְלֹ֥א הֶרְאָ֖נוּ אֶת כׇּל אֵ֑לֶּה וְכָעֵ֕ת לֹ֥א הִשְׁמִיעָ֖נוּ כָּזֹֽאת׃
+וְלֹא יָ֤סַף עוֹד֙ מַלְאַ֣ךְ יְהֹוָ֔ה לְהֵרָאֹ֖ה אֶל מָנ֣וֹחַ וְאֶל אִשְׁתּ֑וֹ אָ֚ז יָדַ֣ע מָנ֔וֹחַ כִּֽי מַלְאַ֥ךְ יְהֹוָ֖ה הֽוּא׃ וַיֹּ֧אמֶר מָנ֛וֹחַ אֶל אִשְׁתּ֖וֹ מ֣וֹת נָמ֑וּת כִּ֥י אֱלֹהִ֖ים רָאִֽינוּ׃ וַתֹּ֧אמֶר ל֣וֹ אִשְׁתּ֗וֹ לוּ֩ חָפֵ֨ץ יְהֹוָ֤ה לַהֲמִיתֵ֙נוּ֙ לֹֽא לָקַ֤ח מִיָּדֵ֙נוּ֙ עֹלָ֣ה וּמִנְחָ֔ה וְלֹ֥א הֶרְאָ֖נוּ אֶת כׇּל אֵ֑לֶּה וְכָעֵ֕ת לֹ֥א הִשְׁמִיעָ֖נוּ כָּזֹֽאת׃
 
-*"The angel of Hashem never again appeared to Manoah or his wife; then
-Manoah knew that it was an angel of Hashem. Upon realizing this Manoah said to his wife, we shall surely perish, for we have seen G-d.
-His wife said to him, if Hashem had wanted to kill us He would not have taken an offering and gift from us, and He would not have shown us all these things, and He would not have made this announcement to us."*
+*"The angel of Hashem never again appeared to Manoah or his wife; then Manoah knew that it was an angel of Hashem. Upon realizing this Manoah said to his wife, we shall surely perish, for we have seen G-d. His wife said to him, if Hashem had wanted to kill us He would not have taken an offering and gift from us, and He would not have shown us all these things, and He would not have made this announcement to us."*
 
 Apparently man can outlive an encounter with an angel of G-d, but it is important to note that such an encounter was enough to strike horror in the heart of a warrior like Gideon. Clearly, one who actually does see G-d should not be able to survive, as noted above.
 
-**132.** See **Part I** notes **87** and **88** for another example of
-this phenomenon.
+**132.** See **Part I** notes **87** and **88** for another example of this phenomenon.
 
-**7. Shabbat 88a**
+**133. Shabbat 88a**
 
-תָּא שְׁמַע, רַבִּי יוֹסֵי אוֹמֵר: בַּשֵּׁנִי עָלָה מֹשֶׁה וְיָרַד, בַּשְּׁלִישִׁי עָלָה וְיָרַד, בִּרְבִיעִי יָרַד
-וְשׁוּב לֹא עָלָה. וּמֵאַחַר שֶׁלֹּא עָלָה, מֵהֵיכָן יָרַד? אֶלָּא: בָּרְבִיעִי עָלָה וְיָרַד, בַּחֲמִישִׁי בָּנָה מִזְבֵּחַ וְהִקְרִיב עָלָיו קׇרְבָּן, בַּשִּׁשִּׁי לֹא הָיָה לוֹ פְּנַאי:
+תָּא שְׁמַע, רַבִּי יוֹסֵי אוֹמֵר: בַּשֵּׁנִי עָלָה מֹשֶׁה וְיָרַד, בַּשְּׁלִישִׁי עָלָה וְיָרַד, בִּרְבִיעִי יָרַד וְשׁוּב לֹא עָלָה. וּמֵאַחַר שֶׁלֹּא עָלָה, מֵהֵיכָן יָרַד? אֶלָּא: בָּרְבִיעִי עָלָה וְיָרַד, בַּחֲמִישִׁי בָּנָה מִזְבֵּחַ וְהִקְרִיב עָלָיו קׇרְבָּן, בַּשִּׁשִּׁי לֹא הָיָה לוֹ פְּנַאי:
 
-*"Come and listen: Rabbi Yosi says, Moshe went up and came down on the
-second of Sivan; on the third he went up and came down; on the fourth he came down and didn't go up again. But if he didn't go up, where did he later come down from? Rather, on the fourth he went up and came down; on the fifth he built an altar and offered a sacrifice on it; and on the sixth day he had no extra time due to the Revelation."*
+*"Come and listen: Rabbi Yosi says, Moshe went up and came down on the second of Sivan; on the third he went up and came down; on the fourth he came down and didn't go up again. But if he didn't go up, where did he later come down from? Rather, on the fourth he went up and came down; on the fifth he built an altar and offered a sacrifice on it; and on the sixth day he had no extra time due to the Revelation."*
 
 **Rashi to Shmot 24:1 d"h ve'el moshe amar**
 
-פָּרָשָׁה זוֹ נֶאֶמְרָה קֹדֶם עֲשֶׂרֶת הַדִּבְּרוֹת, בְּד׳ בְּסִיוָן נֶאֱמְרָה לוֹ עֲלֵה (שבת
-פ״ח):
+פָּרָשָׁה זוֹ נֶאֶמְרָה קֹדֶם עֲשֶׂרֶת הַדִּבְּרוֹת, בְּד׳ בְּסִיוָן נֶאֱמְרָה לוֹ עֲלֵה (שבת פ״ח):
 
-*"This episode happened before the Ten Commandments, and on the fourth
-of Sivan he was told to go up (Shabbat 88)."*
+*"This episode happened before the Ten Commandments, and on the fourth of Sivan he was told to go up (Shabbat 88)."*
 
-**8. Mechilta DeRabbi Yishmael Shmot 19:10**
+**134. Mechilta DeRabbi Yishmael Shmot 19:10**
 
-כיון שראה שקבלו עליהם נטל הדם וזרק על העם, שנאמר (שמות כד, ח) ויקח משה
-את הדם ויזרק על העם. אמר להם, הרי אתם קשורים ענובים תפוסים, מחר בואו וקבלו עליכם המצות כולן. ר׳ יוסי בר׳ יהודה אומר, בו ביום נעשו כל המעשים:
+כיון שראה שקבלו עליהם נטל הדם וזרק על העם, שנאמר (שמות כד, ח) ויקח משה את הדם ויזרק על העם. אמר להם, הרי אתם קשורים ענובים תפוסים, מחר בואו וקבלו עליכם המצות כולן. ר׳ יוסי בר׳ יהודה אומר, בו ביום נעשו כל המעשים:
 
-*"Once Moshe saw that they had accepted the Torah upon
-themselves, he took the blood and sprinkled it on the nation, as it says: 'Moshe took the blood and sprinkled it on the nation' (Shmot 24:8). He said to them, you are tied, bound and trapped; tomorrow come and accept all the mitzvot upon yourselves. Rabbi Yosi BeRabbi Yehudah says, everything happened on the same day the sixth of Sivan."*
+*"Once Moshe saw that they had accepted the Torah upon themselves, he took the blood and sprinkled it on the nation, as it says: 'Moshe took the blood and sprinkled it on the nation' (Shmot 24:8). He said to them, you are tied, bound and trapped; tomorrow come and accept all the mitzvot upon yourselves. Rabbi Yosi BeRabbi Yehudah says, everything happened on the same day the sixth of Sivan."*
 
 **Ramban to Shmot 24:1 d"h ve'el moshe amar**
 
-והנה מעשה הברית ביום המחרת למתן תורה, ובו היתה העליה שעלה משה אל ההר
-(שמות כ״ד:י״ג), וממנה נתעכב שם ארבעים יום. והוא שפירש הכתוב (שמות כ״ד:ט״ז) ויקרא אל משה ביום השביעי וגו׳, ונאמר (שמות כ״ד:י״ח) ויבא משה בתוך הענן. וכל זה מתוקן ומבואר.
+והנה מעשה הברית ביום המחרת למתן תורה, ובו היתה העליה שעלה משה אל ההר (שמות כ״ד:י״ג), וממנה נתעכב שם ארבעים יום. והוא שפירש הכתוב (שמות כ״ד:ט״ז) ויקרא אל משה ביום השביעי וגו׳, ונאמר (שמות כ״ד:י״ח) ויבא משה בתוך הענן. וכל זה מתוקן ומבואר.
 
-וראיתי במכילתא (לעיל יט י) שנחלקו בדבר, יש שאמרו שהיה קודם מתן תורה
-בחמישי, ואמר להם הרי אתם קשורים תפוסים וענובים מחר באו וקבלו עליכם את כל המצות ורבי יוסי בר׳ יהודה אמר בו ביום נעשו כל המעשים, כלומר בו ביום לאחר מתן תורה נעשו המעשים של סיפור העם וכתיבת ספר הברית, הכל כמו שפירשנו:
+וראיתי במכילתא (לעיל יט י) שנחלקו בדבר, יש שאמרו שהיה קודם מתן תורה בחמישי, ואמר להם הרי אתם קשורים תפוסים וענובים מחר באו וקבלו עליכם את כל המצות ורבי יוסי בר׳ יהודה אמר בו ביום נעשו כל המעשים, כלומר בו ביום לאחר מתן תורה נעשו המעשים של סיפור העם וכתיבת ספר הברית, הכל כמו שפירשנו:
 
-*"For behold, the covenant happened the day after Matan Torah i.e. the
-seventh of Sivan, and on that day there was an ascent since Moshe went up the mountain (Shmot 24:13). For that you count forty days. Ths is as it says: 'He called to Moshe on the seventh day' (Shmot 24:16), and it says: 'Moshe entered inside the cloud' (Shmot 24:18). All of this is set and clear.*
+*"For behold, the covenant happened the day after Matan Torah i.e. the seventh of Sivan, and on that day there was an ascent since Moshe went up the mountain (Shmot 24:13). For that you count forty days. Ths is as it says: 'He called to Moshe on the seventh day' (Shmot 24:16), and it says: 'Moshe entered inside the cloud' (Shmot 24:18). All of this is set and clear.*
 
-*I saw in Mechilta 19:10 that they argued about this pont. There were
-those that said it was before Matan Torah on the fifth of Sivan, and Moshe said to them: you are tied, bound and trapped; tomorrow come and accept all the mitzvot upon yourselves. Rabbi Yosi BeRabbi Yehudah said that everything happened on the same day, meaning on that day right after Matan Torah all the stories about the reading over of the Torah to the nation and the writing of the Book of the Covenant happened, as we have explained."*
+*I saw in Mechilta 19:10 that they argued about this pont. There were those that said it was before Matan Torah on the fifth of Sivan, and Moshe said to them: you are tied, bound and trapped; tomorrow come and accept all the mitzvot upon yourselves. Rabbi Yosi BeRabbi Yehudah said that everything happened on the same day, meaning on that day right after Matan Torah all the stories about the reading over of the Torah to the nation and the writing of the Book of the Covenant happened, as we have explained."*
 
 Other commentaries also agree with Ramban's conclusion:
 
 **Chizkuni to Devarim 9:9 d"h va'eishev bahar**
 
-מעלות השחר של יום אחד בשבת שבעה בסיון עד עלות השחר של יום שישי בשבת
-שבעה עשר בתמוז:
+מעלות השחר של יום אחד בשבת שבעה בסיון עד עלות השחר של יום שישי בשבת שבעה עשר בתמוז:
 
-*"Moshe was atop Har Sinai for forty days and nights from dawn on
-Sunday the 7th of Sivan until dawn on Friday the 17th of Tammuz."*
+*"Moshe was atop Har Sinai for forty days and nights from dawn on Sunday the 7th of Sivan until dawn on Friday the 17th of Tammuz."*
 
 **Targum Yonatan to Shmot 24:1**
 
-וּלְוַת משֶׁה אָמַר מִיכָאֵל סַרְכַן חָכְמְתָא בְּיוֹמָא שְׁבִיעָאָה לְיַרְחָא סַק קֳדָם יְיָ אַנְתְּ וְאַהֲרן
-נָדָב וַאֲבִיהוּא וְשׁוּבְעִין מִסָּבֵי יִשְרָאֵל וְתִסְגְּדוּן מֵרָחִיק:
+וּלְוַת משֶׁה אָמַר מִיכָאֵל סַרְכַן חָכְמְתָא בְּיוֹמָא שְׁבִיעָאָה לְיַרְחָא סַק קֳדָם יְיָ אַנְתְּ וְאַהֲרן נָדָב וַאֲבִיהוּא וְשׁוּבְעִין מִסָּבֵי יִשְרָאֵל וְתִסְגְּדוּן מֵרָחִיק:
 
-*"Michael, the Prince of wisdom, said to Moshe on the seventh day of the
-month, come up before Hashem: you, Aharon, Nadav, Avihu and seventy elders of Yisrael, and bow down from a distance."*
+*"Michael, the Prince of wisdom, said to Moshe on the seventh day of the month, come up before Hashem: you, Aharon, Nadav, Avihu and seventy elders of Yisrael, and bow down from a distance."*
 
 It follows that there are opinions which place Shmot 24 on four different dates:
 
 - 4th of Sivan - Rashi to Shmot 24:1 based on Rabbi Yosi in Shabbat 88a
-
 - 5th of Sivan - Tanna Kamma in Mechilta DeRabbi Yishmael Shmot 19:10
-
 - 6th of Sivan - Simple reading of Rabbi Yosi BeRabbi Yehudah in the Mechilta
-
 - 7th of Sivan - Ramban to Shmot 24:1 in his reading of Rabbi Yosi BeRabbi Yehudah, Chizkuni to Devarim 9:9, Targum Yonatan to Shmot 24:1
 
-**9. **There is, however, a purported allusion to Har Sinai more
-generally. The midrash identifies four additional names for Har Sinai, two of which are mentioned in Tehillim:
+**135.** There is, however, a purported allusion to Har Sinai more generally. The midrash identifies four additional names for Har Sinai, two of which are mentioned in Tehillim:
 
 **Tehillim 68:16-17**
 
-הַר אֱ֭-לֹהִים הַר בָּשָׁ֑ן הַ֥ר גַּ֝בְנֻנִּ֗ים הַר בָּשָֽׁן׃ לָ֤מָּה תְּֽרַצְּדוּן֮ הָרִ֢ים גַּבְנֻ֫נִּ֥ים הָהָ֗ר חָמַ֣ד
-אֱ-לֹהִ֣ים לְשִׁבְתּ֑וֹ אַף ה׳ יִשְׁכֹּ֥ן לָנֶֽצַח׃
+הַר אֱ֭-לֹהִים הַר בָּשָׁ֑ן הַ֥ר גַּ֝בְנֻנִּ֗ים הַר בָּשָֽׁן׃ לָ֤מָּה תְּֽרַצְּדוּן֮ הָרִ֢ים גַּבְנֻ֫נִּ֥ים הָהָ֗ר חָמַ֣ד אֱ-לֹהִ֣ים לְשִׁבְתּ֑וֹ אַף ה׳ יִשְׁכֹּ֥ן לָנֶֽצַח׃
 
-*"The mountain of G-d, Har Bashan; jagged mountain, Har Bashan. Why so
-hostile, jagged mountains, toward the mountain God desired as His dwelling? Hashem shall dwell there forever."*
+*"The mountain of G-d, Har Bashan; jagged mountain, Har Bashan. Why so hostile, jagged mountains, toward the mountain God desired as His dwelling? Hashem shall dwell there forever."*
 
 **Shmot Rabbah 2:6**
 
-וַיָּבֹא אֶל הַר הָאֱ-לֹהִים חֹרֵבָה, חֲמִשָׁה שֵׁמוֹת יֵשׁ לוֹ, הַר אֱ-לֹהִים, הַר בָּשָׁן, הַר גַּבְנֻנִּים,
-הַר חוֹרֵב, הַר סִינַי:
+וַיָּבֹא אֶל הַר הָאֱ-לֹהִים חֹרֵבָה, חֲמִשָׁה שֵׁמוֹת יֵשׁ לוֹ, הַר אֱ-לֹהִים, הַר בָּשָׁן, הַר גַּבְנֻנִּים, הַר חוֹרֵב, הַר סִינַי:
 
-*"Moshe came to the mountain of G-d, at Horev. This mountain had
-five names: the mountain of G-d, Har Bashan, Har Gavnunim, Har Horev and Har Sinai."*
+*"Moshe came to the mountain of G-d, at Horev. This mountain had five names: the mountain of G-d, Har Bashan, Har Gavnunim, Har Horev and Har Sinai."*
 
 **Shabbat 89b**
 
-דְּרַב חִסְדָּא וְרַבָּה בְּרֵיהּ דְּרַב הוּנָא דְּאָמְרִי תַּרְוַויְיהוּ: מַאי ״הַר סִינַי״? הַר שֶׁיָּרְדָה
-שִׂנְאָה לְאֻמּוֹת הָעוֹלָם עָלָיו ... וּמָה שְׁמוֹ? ״חוֹרֵב״ שְׁמוֹ. וּפְלִיגָא דְּרַבִּי אֲבָהוּ, דְּאָמַר רַבִּי אֲבָהוּ: ״הַר סִינַי״ שְׁמוֹ. וְלָמָּה נִקְרָא ״הַר חוֹרֵב״ --- שֶׁיָּרְדָה חוֹרְבָּה לְאוּמּוֹת הָעוֹלָם עָלָיו:
+דְּרַב חִסְדָּא וְרַבָּה בְּרֵיהּ דְּרַב הוּנָא דְּאָמְרִי תַּרְוַויְיהוּ: מַאי ״הַר סִינַי״? הַר שֶׁיָּרְדָה שִׂנְאָה לְאֻמּוֹת הָעוֹלָם עָלָיו ... וּמָה שְׁמוֹ? ״חוֹרֵב״ שְׁמוֹ. וּפְלִיגָא דְּרַבִּי אֲבָהוּ, דְּאָמַר רַבִּי אֲבָהוּ: ״הַר סִינַי״ שְׁמוֹ. וְלָמָּה נִקְרָא ״הַר חוֹרֵב״ שֶׁיָּרְדָה חוֹרְבָּה לְאוּמּוֹת הָעוֹלָם עָלָיו:
 
-*"Rav Hisda and Rabbah son of Rav Huna said together, what is Har Sinai?
-A mountain from which hatred came down on the nations of the world ... and what was the mountain's actual name? Horev. And this argues with Rabbi Abahu, for Rabbi Abahu said, its name was Har Sinai. Why was it called Har Horev? Because destruction came down on the nations of the world because of it."*
+*"Rav Hisda and Rabbah son of Rav Huna said together, what is Har Sinai? A mountain from which hatred came down on the nations of the world ... and what was the mountain's actual name? Horev. And this argues with Rabbi Abahu, for Rabbi Abahu said, its name was Har Sinai. Why was it called Har Horev? Because destruction came down on the nations of the world because of it."*
 
-**136.** Aside from the fact that both stories occurred on the same
-mountain geographically, both stories refer to a period of forty days and forty nights preceding a theophanic revelation atop the mountain.
-Both also take care to mention eating and drinking before those forty days and nights began, perhaps in preparation for the superhuman task ahead.
+**136.** Aside from the fact that both stories occurred on the same mountain geographically, both stories refer to a period of forty days and forty nights preceding a theophanic revelation atop the mountain. Both also take care to mention eating and drinking before those forty days and nights began, perhaps in preparation for the superhuman task ahead.
 
-Eliyahu somehow had the energy to fast for forty days and nights from a final feast he partook in beforehand. Moshe relates how he also fasted for forty days and nights, yet mentions no feast having preceded it, unless of course we understand the eating and drink of Shmot 24:11 to mean actual food and drink and believe as Ramban and Chizkuni did in
-**Note 8**, namely that this happened on the 7th of Sivan immediately
-preceding Moshe's ascension which officially marked the beginning of the forty days:
+Eliyahu somehow had the energy to fast for forty days and nights from a final feast he partook in beforehand. Moshe relates how he also fasted for forty days and nights, yet mentions no feast having preceded it, unless of course we understand the eating and drink of Shmot 24:11 to mean actual food and drink and believe as Ramban and Chizkuni did in **Note 8**, namely that this happened on the 7th of Sivan immediately preceding Moshe's ascension which officially marked the beginning of the forty days:
 
 **Devarim 9:9**
 
-וָאֵשֵׁ֣ב בָּהָ֗ר אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם לֹ֣א אָכַ֔לְתִּי וּמַ֖יִם לֹ֥א
-שָׁתִֽיתִי׃
+וָאֵשֵׁ֣ב בָּהָ֗ר אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם לֹ֣א אָכַ֔לְתִּי וּמַ֖יִם לֹ֥א שָׁתִֽיתִי׃
 
-*"I sat on the mountain for forty days and forty nights; I did not eat
-bread or drink water."*
+*"I sat on the mountain for forty days and forty nights; I did not eat bread or drink water."*
 
 **Melachim Aleph 19:8**
 
-וַיָּ֖קׇם וַיֹּ֣אכַל וַיִּשְׁתֶּ֑ה וַיֵּ֜לֶךְ בְּכֹ֣חַ ׀ הָאֲכִילָ֣ה הַהִ֗יא אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה עַ֛ד הַ֥ר
-הָאֱ-לֹהִ֖ים חֹרֵֽב:
+וַיָּ֖קׇם וַיֹּ֣אכַל וַיִּשְׁתֶּ֑ה וַיֵּ֜לֶךְ בְּכֹ֣חַ ׀ הָאֲכִילָ֣ה הַהִ֗יא אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה עַ֛ד הַ֥ר הָאֱ-לֹהִ֖ים חֹרֵֽב:
 
-*"Eliyahu got up, ate and drank, and walked from the strength of
-that meal for forty days and forty nights until he reached the mountain of G-d at Horev."*
+*"Eliyahu got up, ate and drank, and walked from the strength of that meal for forty days and forty nights until he reached the mountain of G-d at Horev."*
 
 This concept of going forty days and nights in conjunction with encountering G-d at Har Sinai is extended by the midrash even to the cattle of Yitro:
 
 **Midrash Aggadah, Shmot 3:1**
 
-וינהג את הצאן אחר המדבר ויבא אל הר הא-לקים חורבה (שמות ג, א). ארבעים
-יום וארבעים לילה הלכה צאנו של יתרו ולא טעמו כלום, כשם שהלך אליהו, שנאמר וילך בכח האכילה ההיא ארבעים יום וארבעים לילה עד הר הא-לקים חורב (מלכים א יט, ח):
+וינהג את הצאן אחר המדבר ויבא אל הר הא-לקים חורבה (שמות ג, א). ארבעים יום וארבעים לילה הלכה צאנו של יתרו ולא טעמו כלום, כשם שהלך אליהו, שנאמר וילך בכח האכילה ההיא ארבעים יום וארבעים לילה עד הר הא-לקים חורב (מלכים א יט, ח):
 
-*"'He led the cattle into the wilderness, and came to the mountain of
-G-d at Horev' (Shmot 3:1). The cattle of Yitro walked for forty days and forty nights without tasting anything, just as Eliyahu had walked, as it says: 'He walked from the strength of that meal for forty days and forty nights until he reached the mountain of G-d at Horev' (Melachim Aleph 19:8)."*
+*"'He led the cattle into the wilderness, and came to the mountain of G-d at Horev' (Shmot 3:1). The cattle of Yitro walked for forty days and forty nights without tasting anything, just as Eliyahu had walked, as it says: 'He walked from the strength of that meal for forty days and forty nights until he reached the mountain of G-d at Horev' (Melachim Aleph 19:8)."*
 
 While technical differences between these three episodes should be noted - for example, Moshe's forty days and nights were during his time on Har Sinai with G-d, unlike Eliyahu and the cattle where it was during the journey to Har Sinai - the larger thematic similarity of abstaining from food and drink, a period of forty days and nights, Har Sinai, and an encounter with G-d is what the midrashim are emphasizing.
 
-**137.** Vayikra 10:1-3.
+**137.** **Vayikra 10:1-3.**
 
-**138.** Bemidbar 11:1-4, 10-11, 16-17, 24-25, 30.
+**138.** **Bemidbar 11:1-4, 10-11, 16-17, 24-25, 30.**
 
-**139.** Bemidbar 20:9-13.
+**139.** **Bemidbar 20:9-13.**
 
-**140.** Bnai Yisrael left Har Sinai on the twentieth of the second month
-Iyyar, roughly two weeks shy of one year after the incident described in Shmot 24. They then traveled for three days before arriving and resting in the desert of Paran on the twenty-third of the second month Iyyar, and it was there that a new set of seventy elders was appointed:
+**140.** Bnai Yisrael left Har Sinai on the twentieth of the second month Iyyar, roughly two weeks shy of one year after the incident described in Shmot 24. They then traveled for three days before arriving and resting in the desert of Paran on the twenty-third of the second month Iyyar, and it was there that a new set of seventy elders was appointed:
 
 **Bemidbar 10:11-12, 33**
 
-וַיְהִ֞י בַּשָּׁנָ֧ה הַשֵּׁנִ֛ית בַּחֹ֥דֶשׁ הַשֵּׁנִ֖י בְּעֶשְׂרִ֣ים בַּחֹ֑דֶשׁ נַעֲלָה֙ הֶֽעָנָ֔ן מֵעַ֖ל מִשְׁכַּ֥ן הָעֵדֻֽת׃ וַיִּסְע֧וּ
-בְנֵֽי יִשְׂרָאֵ֛ל לְמַסְעֵיהֶ֖ם מִמִּדְבַּ֣ר סִינָ֑י וַיִּשְׁכֹּ֥ן הֶעָנָ֖ן בְּמִדְבַּ֥ר פָּארָֽן׃ ... וַיִּסְעוּ֙ מֵהַ֣ר יְהֹוָ֔ה דֶּ֖רֶךְ שְׁלֹ֣שֶׁת יָמִ֑ים וַאֲר֨וֹן בְּרִית יְהֹוָ֜ה נֹסֵ֣עַ לִפְנֵיהֶ֗ם דֶּ֚רֶךְ שְׁלֹ֣שֶׁת יָמִ֔ים לָת֥וּר לָהֶ֖ם מְנוּחָֽה׃
+וַיְהִ֞י בַּשָּׁנָ֧ה הַשֵּׁנִ֛ית בַּחֹ֥דֶשׁ הַשֵּׁנִ֖י בְּעֶשְׂרִ֣ים בַּחֹ֑דֶשׁ נַעֲלָה֙ הֶֽעָנָ֔ן מֵעַ֖ל מִשְׁכַּ֥ן הָעֵדֻֽת׃ וַיִּסְע֧וּ בְנֵֽי יִשְׂרָאֵ֛ל לְמַסְעֵיהֶ֖ם מִמִּדְבַּ֣ר סִינָ֑י וַיִּשְׁכֹּ֥ן הֶעָנָ֖ן בְּמִדְבַּ֥ר פָּארָֽן׃ ... וַיִּסְעוּ֙ מֵהַ֣ר יְהֹוָ֔ה דֶּ֖רֶךְ שְׁלֹ֣שֶׁת יָמִ֑ים וַאֲר֨וֹן בְּרִית יְהֹוָ֜ה נֹסֵ֣עַ לִפְנֵיהֶ֗ם דֶּ֚רֶךְ שְׁלֹ֣שֶׁת יָמִ֔ים לָת֥וּר לָהֶ֖ם מְנוּחָֽה׃
 
-*"In the second year, in the second month on the twentieth of the month,
-the cloud lifted from atop the Mishkan of testimony. Bnai Yisrael journeyed on their journeys from the desert of Sinai, and the cloud rested in the desert of Paran ... Bnai Yisrael traveled from the mountain of G-d i.e. Har Sinai a distance of three days, and the ark of the covenant of Hashem journeyed before them a distance of three days to scout out a place for them to rest."*
+*"In the second year, in the second month on the twentieth of the month, the cloud lifted from atop the Mishkan of testimony. Bnai Yisrael journeyed on their journeys from the desert of Sinai, and the cloud rested in the desert of Paran ... Bnai Yisrael traveled from the mountain of G-d i.e. Har Sinai a distance of three days, and the ark of the covenant of Hashem journeyed before them a distance of three days to scout out a place for them to rest."*
 
-**141.** Aharon died four months after Mei Merivah on the first of the
-fifth month of Av:
+**141.** Aharon died four months after Mei Merivah on the first of the fifth month of Av:
 
 **Bemidbar 33:38**
 
-וַיַּ֩עַל֩ אַהֲרֹ֨ן הַכֹּהֵ֜ן אֶל הֹ֥ר הָהָ֛ר עַל פִּ֥י יְהֹוָ֖ה וַיָּ֣מׇת שָׁ֑ם בִּשְׁנַ֣ת הָֽאַרְבָּעִ֗ים לְצֵ֤את בְּנֵֽי יִשְׂרָאֵל֙
-מֵאֶ֣רֶץ מִצְרַ֔יִם בַּחֹ֥דֶשׁ הַחֲמִישִׁ֖י בְּאֶחָ֥ד לַחֹֽדֶשׁ׃
+וַיַּ֩עַל֩ אַהֲרֹ֨ן הַכֹּהֵ֜ן אֶל הֹ֥ר הָהָ֛ר עַל פִּ֥י יְהֹוָ֖ה וַיָּ֣מׇת שָׁ֑ם בִּשְׁנַ֣ת הָֽאַרְבָּעִ֗ים לְצֵ֤את בְּנֵֽי יִשְׂרָאֵל֙ מֵאֶ֣רֶץ מִצְרַ֔יִם בַּחֹ֥דֶשׁ הַחֲמִישִׁ֖י בְּאֶחָ֥ד לַחֹֽדֶשׁ׃
 
-*"Aharon the Kohen ascended to Hor HaHar at Hashem's command and died
-there in the fortieth year after Bnai Yisrael left the land of Egypt, in the fifth month on the first of the month."*
+*"Aharon the Kohen ascended to Hor HaHar at Hashem's command and died there in the fortieth year after Bnai Yisrael left the land of Egypt, in the fifth month on the first of the month."*
 
 Moshe died eleven months after Mei Merivah on the seventh of the eleventh month of Adar:
 
 **Kiddushin 38a**
 
-תַּנְיָא אִידַּךְ בְּשִׁבְעָה בַּאֲדָר מֵת מֹשֶׁה וּבְשִׁבְעָה בַּאֲדָר נוֹלַד מִנַּיִן שֶׁבְּשִׁבְעָה בַּאֲדָר מֵת שֶׁנֶּאֱמַר
-וַיָּמׇת שָׁם מֹשֶׁה עֶבֶד ה׳ וּכְתִיב וַיִּבְכּוּ בְנֵי יִשְׂרָאֵל אֶת מֹשֶׁה בְּעַרְבֹת מוֹאָב שְׁלֹשִׁים יוֹם וּכְתִיב וַיְהִי אַחֲרֵי מוֹת מֹשֶׁה עֶבֶד ה׳ וּכְתִיב מֹשֶׁה עַבְדִּי מֵת וְעַתָּה קוּם עֲבֹר וּכְתִיב עִבְרוּ בְּקֶרֶב הַמַּחֲנֶה וְצַוּוּ אֶת הָעָם לֵאמֹר הָכִינוּ לָכֶם צֵדָה כִּי בְּעוֹד שְׁלֹשֶׁת יָמִים תַּעַבְרוּ אֶת הַיַּרְדֵּן וּכְתִיב וְהָעָם עָלוּ מִן הַיַּרְדֵּן בֶּעָשׂוֹר לַחֹדֶשׁ הָרִאשׁוֹן צֵא מֵהֶן שְׁלֹשִׁים וּשְׁלֹשָׁה יָמִים לְמַפְרֵעַ הָא לָמַדְתָּ שֶׁבְּשִׁבְעָה בַּאֲדָר מֵת מֹשֶׁה:
+תַּנְיָא אִידַּךְ בְּשִׁבְעָה בַּאֲדָר מֵת מֹשֶׁה וּבְשִׁבְעָה בַּאֲדָר נוֹלַד מִנַּיִן שֶׁבְּשִׁבְעָה בַּאֲדָר מֵת שֶׁנֶּאֱמַר וַיָּמׇת שָׁם מֹשֶׁה עֶבֶד ה׳ וּכְתִיב וַיִּבְכּוּ בְנֵי יִשְׂרָאֵל אֶת מֹשֶׁה בְּעַרְבֹת מוֹאָב שְׁלֹשִׁים יוֹם וּכְתִיב וַיְהִי אַחֲרֵי מוֹת מֹשֶׁה עֶבֶד ה׳ וּכְתִיב מֹשֶׁה עַבְדִּי מֵת וְעַתָּה קוּם עֲבֹר וּכְתִיב עִבְרוּ בְּקֶרֶב הַמַּחֲנֶה וְצַוּוּ אֶת הָעָם לֵאמֹר הָכִינוּ לָכֶם צֵדָה כִּי בְּעוֹד שְׁלֹשֶׁת יָמִים תַּעַבְרוּ אֶת הַיַּרְדֵּן וּכְתִיב וְהָעָם עָלוּ מִן הַיַּרְדֵּן בֶּעָשׂוֹר לַחֹדֶשׁ הָרִאשׁוֹן צֵא מֵהֶן שְׁלֹשִׁים וּשְׁלֹשָׁה יָמִים לְמַפְרֵעַ הָא לָמַדְתָּ שֶׁבְּשִׁבְעָה בַּאֲדָר מֵת מֹשֶׁה:
 
-*"It was taught elsewhere, Moshe died on the seventh of Adar and was
-born on the seventh of Adar. How do we know he died on the seventh of Adar? As it says: 'Moshe the servant of Hashem did there ... Bnai Yisrael cried over Moshe at Arvot Moav for thirty days ... and after the death of Moshe the servant of Hashem ... Moshe My servant is dead; now you Yehoshua get up and cross ... 'Pass through the camp and command the nation saying, prepare your things, for in three days you will cross the Yarden ... the nation went up from the Yarden on the tenth of the first month.' Subtract thirty three days, and retroactively you learn that Moshe died on the seventh of Adar."*
+*"It was taught elsewhere, Moshe died on the seventh of Adar and was born on the seventh of Adar. How do we know he died on the seventh of Adar? As it says: 'Moshe the servant of Hashem did there ... Bnai Yisrael cried over Moshe at Arvot Moav for thirty days ... and after the death of Moshe the servant of Hashem ... Moshe My servant is dead; now you Yehoshua get up and cross ... 'Pass through the camp and command the nation saying, prepare your things, for in three days you will cross the Yarden ... the nation went up from the Yarden on the tenth of the first month.' Subtract thirty three days, and retroactively you learn that Moshe died on the seventh of Adar."*
 
-**16. Shmot 17:1-7**
+**142. Shmot 17:1-7**
 
-וַ֠יִּסְע֠וּ כׇּל עֲדַ֨ת בְּנֵֽי יִשְׂרָאֵ֧ל מִמִּדְבַּר סִ֛ין לְמַסְעֵיהֶ֖ם עַל פִּ֣י יְהֹוָ֑ה וַֽיַּחֲנוּ֙ בִּרְפִידִ֔ים וְאֵ֥ין
-מַ֖יִם לִשְׁתֹּ֥ת הָעָֽם׃ וַיָּ֤רֶב הָעָם֙ עִם מֹשֶׁ֔ה וַיֹּ֣אמְר֔וּ תְּנוּ לָ֥נוּ מַ֖יִם וְנִשְׁתֶּ֑ה וַיֹּ֤אמֶר לָהֶם֙ מֹשֶׁ֔ה מַה תְּרִיבוּן֙ עִמָּדִ֔י מַה תְּנַסּ֖וּן אֶת יְהֹוָֽה׃ וַיִּצְמָ֨א שָׁ֤ם הָעָם֙ לַמַּ֔יִם וַיָּ֥לֶן הָעָ֖ם עַל מֹשֶׁ֑ה וַיֹּ֗אמֶר לָ֤מָּה זֶּה֙ הֶעֱלִיתָ֣נוּ מִמִּצְרַ֔יִם לְהָמִ֥ית אֹתִ֛י וְאֶת בָּנַ֥י וְאֶת מִקְנַ֖י בַּצָּמָֽא׃ וַיִּצְעַ֤ק מֹשֶׁה֙ אֶל יְהֹוָ֣ה לֵאמֹ֔ר מָ֥ה אֶעֱשֶׂ֖ה לָעָ֣ם הַזֶּ֑ה ע֥וֹד מְעַ֖ט וּסְקָלֻֽנִי׃ וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל מֹשֶׁ֗ה עֲבֹר֙ לִפְנֵ֣י הָעָ֔ם וְקַ֥ח אִתְּךָ֖ מִזִּקְנֵ֣י יִשְׂרָאֵ֑ל וּמַטְּךָ֗ אֲשֶׁ֨ר הִכִּ֤יתָ בּוֹ֙ אֶת הַיְאֹ֔ר קַ֥ח בְּיָדְךָ֖ וְהָלָֽכְתָּ׃ הִנְנִ֣י עֹמֵד֩ לְפָנֶ֨יךָ שָּׁ֥ם ׀ עַֽל הַצּוּר֮ בְּחֹרֵב֒ וְהִכִּ֣יתָ בַצּ֗וּר וְיָצְא֥וּ מִמֶּ֛נּוּ מַ֖יִם וְשָׁתָ֣ה הָעָ֑ם וַיַּ֤עַשׂ כֵּן֙ מֹשֶׁ֔ה לְעֵינֵ֖י זִקְנֵ֥י יִשְׂרָאֵֽל׃ וַיִּקְרָא֙ שֵׁ֣ם הַמָּק֔וֹם מַסָּ֖ה וּמְרִיבָ֑ה עַל רִ֣יב ׀ בְּנֵ֣י יִשְׂרָאֵ֗ל וְעַ֨ל נַסֹּתָ֤ם אֶת יְהֹוָה֙ לֵאמֹ֔ר הֲיֵ֧שׁ יְהֹוָ֛ה בְּקִרְבֵּ֖נוּ אִם אָֽיִן׃
+וַ֠יִּסְע֠וּ כׇּל עֲדַ֨ת בְּנֵֽי יִשְׂרָאֵ֧ל מִמִּדְבַּר סִ֛ין לְמַסְעֵיהֶ֖ם עַל פִּ֣י יְהֹוָ֑ה וַֽיַּחֲנוּ֙ בִּרְפִידִ֔ים וְאֵ֥ין מַ֖יִם לִשְׁתֹּ֥ת הָעָֽם׃ וַיָּ֤רֶב הָעָם֙ עִם מֹשֶׁ֔ה וַיֹּ֣אמְר֔וּ תְּנוּ לָ֥נוּ מַ֖יִם וְנִשְׁתֶּ֑ה וַיֹּ֤אמֶר לָהֶם֙ מֹשֶׁ֔ה מַה תְּרִיבוּן֙ עִמָּדִ֔י מַה תְּנַסּ֖וּן אֶת יְהֹוָֽה׃ וַיִּצְמָ֨א שָׁ֤ם הָעָם֙ לַמַּ֔יִם וַיָּ֥לֶן הָעָ֖ם עַל מֹשֶׁ֑ה וַיֹּ֗אמֶר לָ֤מָּה זֶּה֙ הֶעֱלִיתָ֣נוּ מִמִּצְרַ֔יִם לְהָמִ֥ית אֹתִ֛י וְאֶת בָּנַ֥י וְאֶת מִקְנַ֖י בַּצָּמָֽא׃ וַיִּצְעַ֤ק מֹשֶׁה֙ אֶל יְהֹוָ֣ה לֵאמֹ֔ר מָ֥ה אֶעֱשֶׂ֖ה לָעָ֣ם הַזֶּ֑ה ע֥וֹד מְעַ֖ט וּסְקָלֻֽנִי׃ וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל מֹשֶׁ֗ה עֲבֹר֙ לִפְנֵ֣י הָעָ֔ם וְקַ֥ח אִתְּךָ֖ מִזִּקְנֵ֣י יִשְׂרָאֵ֑ל וּמַטְּךָ֗ אֲשֶׁ֨ר הִכִּ֤יתָ בּוֹ֙ אֶת הַיְאֹ֔ר קַ֥ח בְּיָדְךָ֖ וְהָלָֽכְתָּ׃ הִנְנִ֣י עֹמֵד֩ לְפָנֶ֨יךָ שָּׁ֥ם ׀ עַֽל הַצּוּר֮ בְּחֹרֵב֒ וְהִכִּ֣יתָ בַצּ֗וּר וְיָצְא֥וּ מִמֶּ֛נּוּ מַ֖יִם וְשָׁתָ֣ה הָעָ֑ם וַיַּ֤עַשׂ כֵּן֙ מֹשֶׁ֔ה לְעֵינֵ֖י זִקְנֵ֥י יִשְׂרָאֵֽל׃ וַיִּקְרָא֙ שֵׁ֣ם הַמָּק֔וֹם מַסָּ֖ה וּמְרִיבָ֑ה עַל רִ֣יב ׀ בְּנֵ֣י יִשְׂרָאֵ֗ל וְעַ֨ל נַסֹּתָ֤ם אֶת יְהֹוָה֙ לֵאמֹ֔ר הֲיֵ֧שׁ יְהֹוָ֛ה בְּקִרְבֵּ֖נוּ אִם אָֽיִן׃
 
-*"All the assembly of Bnai Yisrael journeyed from the desert of Sin on
-their journeys at the command of Hashem, and they encamped in Rephidim; there was no water for the nation to drink. The nation fought with Moshe and said, give us water and we shall drink. Moshe said to them, why are you fighting with me? Why are you challenging Hashem? But the nation was parched there and in need of water, and the nation complained about Moshe and said, why did Moshe take us out of Egypt just to kill me, my children and my cattle from thirst? Moshe cried out to Hashem and said, what can I do for this nation? A little more and they will stone me. Hashem said to Moshe, go before the nation and take with you from the elders of Yisrael, and take the staff which you struck the river with in your hand and go. I will stand before you there on the rock in Horev, and you shall strike the rock and water will come out of it, and the nation shall drink. Moshe did so before the eyes of the elders of Yisrael. That place was named Masa U'Merivah because of the fight of Bnai Yisrael, and because they challenged Hashem and said, is Hashem in our midst or not?"*
+*"All the assembly of Bnai Yisrael journeyed from the desert of Sin on their journeys at the command of Hashem, and they encamped in Rephidim; there was no water for the nation to drink. The nation fought with Moshe and said, give us water and we shall drink. Moshe said to them, why are you fighting with me? Why are you challenging Hashem? But the nation was parched there and in need of water, and the nation complained about Moshe and said, why did Moshe take us out of Egypt just to kill me, my children and my cattle from thirst? Moshe cried out to Hashem and said, what can I do for this nation? A little more and they will stone me. Hashem said to Moshe, go before the nation and take with you from the elders of Yisrael, and take the staff which you struck the river with in your hand and go. I will stand before you there on the rock in Horev, and you shall strike the rock and water will come out of it, and the nation shall drink. Moshe did so before the eyes of the elders of Yisrael. That place was named Masa U'Merivah because of the fight of Bnai Yisrael, and because they challenged Hashem and said, is Hashem in our midst or not?"*
 
 
 

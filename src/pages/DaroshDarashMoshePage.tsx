@@ -465,15 +465,15 @@ const DaroshDarashMoshePage: React.FC = () => {
                               </span>
                             </div>
                             
-                            {/* Footnote Content Container */}
-                            <div className="p-4 bg-white/80 rounded-lg rounded-tl-none shadow-md border-2 border-biblical-brown/20 transition-colors duration-500">
-                              <div
-                                className="text-sm text-biblical-brown/90 leading-relaxed"
-                                dangerouslySetInnerHTML={{
-                                  __html: cleanMarkdownFormatting(footnote.content)
-                                }}
-                              />
-                            </div>
+                                                         {/* Footnote Content Container */}
+                             <div className="p-4 bg-white/80 rounded-lg rounded-tl-none shadow-md border-2 border-biblical-brown/20 transition-colors duration-500">
+                               <div
+                                 className="text-sm text-biblical-brown/90 leading-relaxed"
+                                 dangerouslySetInnerHTML={{
+                                   __html: cleanMarkdownFormatting(footnote.content).replace(/^\*+|\*+$/g, '').replace(/\*+/g, '')
+                                 }}
+                               />
+                             </div>
                           </div>
                         ))}
                       </div>
@@ -550,6 +550,13 @@ const DaroshDarashMoshePage: React.FC = () => {
         .footnotes-content em,
         .footnotes-content i {
           font-style: normal !important;
+        }
+        
+        /* Left justify footnotes */
+        .footnotes-content p,
+        .footnotes-content div {
+          text-align: left !important;
+          text-align-last: left !important;
         }
       `}</style>
     </>

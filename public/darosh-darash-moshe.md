@@ -1,3 +1,4 @@
+
 *מנחם אב תשפ״ג / August 2023*
 
 This introduction speaks to the methodology employed in this work, a methodology I refer to as *meta-midrash*. It is an aggadic midrash of aggadic midrashim, analyzing them using the exegetical tools they use to analyze holy texts. For example, aggadic midrash weaves together different pesukim from different books in Tanach to make a cohesive whole, and the goal of this work is to engage in the same exercise, but at the midrashic level: weaving together different midrashic traditions into a cohesive whole.
@@ -34,15 +35,13 @@ May it be His will that this work help contribute to the spread and knowledge of
 
 ***Table of Contents***
 
-(1) **General Introduction p. 05**
+(1) **General Introduction**
 
-(2) **Chapter I: Givat Rephidim p. 06**
+(2) **Chapter I: Givat Rephidim**
 
-(3) **Chapter II: Har Sinai p. 92**
+(3) **Chapter II: Har Sinai**
 
-(4) **Chapter III: Hor HaHar p. 183**
-
-(5) **Appendix: Midrash Ha'Aliyah p. 279**
+(4) **Chapter III: Hor HaHar**
 
 ***General Introduction***
 
@@ -59,70 +58,50 @@ May it be His will that this work help contribute to the spread and knowledge of
 **Table of Contents**
 
 **General Introduction**
-............................................................... p. 03
 
 **Notes for General Introduction**
-............................................................... p. 06
 
 *Part 1: Destined to Rule*
 
-> **Introduction**
-> ............................................................... p. 12
->
+**Introduction**
+
 > 1\. Righteous Martyr
-> ............................................................... p. 13
->
+
 > 2\. Adam's Book
-> ............................................................... p. 17
->
+
 > 3\. Family Tree
-> ............................................................... p. 19
->
+
 > 4\. Seeds of Royalty
-> ............................................................... p. 24
->
-> **Notes for Part 1**
-> ............................................................... p. 26
+
+**Notes for Part 1**
 
 *Part 2: Three Crowns*
 
-> **Introduction**
-> ............................................................... p. 41
->
+**Introduction**
+
 > 1\. Torah is Primary
-> ............................................................... p. 41
->
+
 > 2\. Biblical Triumvirate
-> ............................................................... p. 43
->
+
 > 3\. A Good Name
-> ............................................................... p. 46
->
+
 > 4\. Holy Unification
-> ............................................................... p. 48
->
-> **Notes for Part 2**
-> ............................................................... p. 52
+
+**Notes for Part 2**
 
 *Part 3: Divine Justice*
 
-> **Introduction**
-> ............................................................... p. 63
->
+**Introduction**
+
 > 1\. National Atonement
-> ............................................................... p. 65
->
+
 > 2\. Paying It Forward
-> ............................................................... p. 66
->
+
 > 3\. Like Children
-> ............................................................... p. 69
->
+
 > 4\. Final Vengeance
-> ............................................................... p. 71
->
-> **Notes for Part 3**
-> ............................................................... p. 74
+
+**Notes for Part 3**
 
 **[General Introduction]{.underline}**
 
@@ -762,70 +741,50 @@ And yet, when it comes to Amalek, defeat always comes at the hand of the childre
 **Table of Contents**
 
 **General Introduction**
-............................................................... p. 03
 
 **Notes for General Introduction**
-............................................................... p. 08
 
 *Part 1: Two Instead of Four*
 
-> **Introduction**
-> ............................................................... p. 16
->
+**Introduction**
+
 > 1\. Above and Below
-> ............................................................... p. 16
->
+
 > 2\. Skin and Bones
-> ............................................................... p. 18
->
+
 > 3\. Tragic Scapegoats
-> ............................................................... p. 20
->
+
 > 4\. At the Border
-> ............................................................... p. 24
->
-> **Notes for Part 1**
-> ............................................................... p. 29
+
+**Notes for Part 1**
 
 *Part 2: Delayed Punishment*
 
-> **Introduction**
-> ............................................................... p. 44
->
+**Introduction**
+
 > 1\. Unified Storyline
-> ............................................................... p. 45
->
+
 > 2\. Thirsty Souls
-> ............................................................... p. 49
->
+
 > 3\. Angelic Guidance
-> ............................................................... p. 52
->
+
 > 4\. Blurry Vision
-> ............................................................... p. 55
->
-> **Notes for Part 2**
-> ............................................................... p. 58
+
+**Notes for Part 2**
 
 *Part 3: The Missing Layer*
 
-> **Introduction**
-> ............................................................... p. 68
->
+**Introduction**
+
 > 1\. Hanging in the Balance
-> ............................................................... p. 69
->
+
 > 2\. Full Circle
-> ............................................................... p. 71
->
+
 > 3\. Slow to Anger
-> ............................................................... p. 73
->
+
 > 4\. Accepting Judgment
-> ............................................................... p. 75
->
-> **Notes for Part 3**
-> ............................................................... p. 80
+
+**Notes for Part 3**
 
 **[General Introduction]{.underline}**
 
@@ -1535,70 +1494,50 @@ When all is said and done, the theophanic revelation of Shmot 24, far from being
 **Table of Contents**
 
 **General Introduction**
-............................................................... p. 03
 
 **Notes for General Introduction**
-............................................................... p. 07
 
 *Part 1: Gershom & Eliezer*
 
-> **Introduction**
-> ............................................................... p. 12
->
+**Introduction**
+
 > 1\. Divine Encounter
-> ............................................................... p. 13
->
+
 > 2\. Moshe's Oath
-> ............................................................... p. 16
->
+
 > 3\. Idolatrous Prophet
-> ............................................................... p. 21
->
+
 > 4\. Second Cousins
-> ............................................................... p. 25
->
-> **Notes for Part 1**
-> ............................................................... p. 29
+
+**Notes for Part 1**
 
 *Part 2: Tzipporah*
 
-> **Introduction**
-> ............................................................... p. 46
->
+**Introduction**
+
 > 1\. Back Home
-> ............................................................... p. 47
->
+
 > 2\. Taking Flight
-> ............................................................... p. 50
->
+
 > 3\. Contagious Redemption
-> ............................................................... p. 52
->
+
 > 4\. Everlasting Life
-> ............................................................... p. 53
->
-> **Notes for Part 2**
-> ............................................................... p. 57
+
+**Notes for Part 2**
 
 *Part 3: Miriam*
 
-> **Introduction**
-> ............................................................... p. 69
->
+**Introduction**
+
 > 1\. Rashi's Approach
-> ............................................................... p. 70
->
+
 > 2\. Delayed Journey
-> ............................................................... p. 73
->
+
 > 3\. Prophetic Tragedy
-> ............................................................... p. 76
->
+
 > 4\. Chain Reaction
-> ............................................................... p. 80
->
-> **Notes for Part 3**
-> ............................................................... p. 83
+
+**Notes for Part 3**
 
 **[General Introduction]{.underline}**
 
