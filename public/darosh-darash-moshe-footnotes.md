@@ -4,8 +4,6 @@
 
 
 
-**[General Introduction]{.underline}**
-
 **1.** **Pesikta DeRav Kahana 3:8**
 <br/>
 <br/>
@@ -288,11 +286,7 @@ The Targum understands *emunah* as a reference to Moshe's faith in Hashem, and i
 
 **Part 1: Destined to Rule**
 
-**[Introduction]{.underline}**
-
 **12.** **Shmot 24:13-14.**
-
-**[Righteous Martyr]{.underline}**
 
 **13.** **Shmot 32:1-6.**
 
@@ -349,8 +343,6 @@ A variant on this tradition gives Aharon more credit, attributing Aharon receivi
 מַה חֲרוֹן אַף הָיָה שָׁם, שֶׁנִּטְלָה כְּהֻנָּה מִמּשֶׁה וְנִתְּנָה לְאַהֲרֹן. אָמְרוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה: הֲלֹא אַהֲרֹן אָחִיךָ הַלֵּוִי, וְכִי מֵאַחַר שֶׁאָמַר: אָחִיךָ, אֵינִי יוֹדֵעַ שֶׁהוּא לֵוִי, אֶלָּא אָמַר לוֹ רָאוּי הָיִיתָ לִהְיוֹת כֹּהֵן וְהוּא לֵוִי, וּלְפִי שֶׁאַתָּה מְסָרֵב עַל דְּבָרַי, תִּהְיֶה אַתָּה לֵוִי וְהוּא כֹהֵן, יָדַעְתִּי כִּי דַבֵּר יְדַבֵּר הוּא, לְפִי שֶׁאָמַרְתָּ: לֹא אִישׁ דְּבָרִים אָנֹכִי, לְכָךְ דַּבֵּר יְדַבֵּר הוּא, וּמַה שֶּׁאַתָּה סָבוּר שֶׁהוּא מֵצֵר לֹא כֵן אֶלָּא שָׂמֵחַ, שֶׁנֶּאֱמַר: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. אָמַר רַבִּי שִׁמְעוֹן בֶּן רַבִּי יוֹסֵי הַלֵּב שֶׁשָֹּׂמַח בִּגְדֻלַּת אָחִיו יִלְבַּשׁ אוּרִים וְתֻמִּים, שֶׁנֶּאֱמַר: וְהָיוּ עַל לֵב אַהֲרֹן:
 
 *"What flaring anger was there? The Kehunah was taken from Moshe and given to Aharon. The Rabbis of blessed memory say, 'Aharon your brother the Levi' - from the fact that it says 'your brother', don't I know that he was a Levi? Rather, this means that you Moshe were worthy to be a Kohen and he Aharon a Levi, but because you refuse My words, you will be Levi and he will be Kohen. 'I know that he can speak', for you said: 'I am not a man of words'; therefore he will speak on your behalf, and that which you reasoned that he is distressed about you, it is not so, for he is happy, as it says: 'He will see you and be happy in his heart'. Rabbi Shimon Ben Rabbi Yosi said, the heart which was happy in the greatness of his brother shall merit to wear the Urim VeTumim, as it says: 'They will be on Aharon's heart'."*
-
-**[Adam's Book]{.underline}**
 
 **24.** **Shmot 31:1-5.**
 
@@ -463,8 +455,6 @@ Another example of the second miracle is repeated, albeit in a different context
 *"To the Mediterranean Sea - this teaches that HaKadosh Baruch Hu showed Moshe the entire west dwelling in serenity, and then He showed him the entire west under duress and being conquered. Another idea: Do not read it 'the Mediterranean Sea', but rather 'the last day' - this teaches that HaKadosh Baruch Hu showed Moshe the entire world, from the days it was created until the resurrection of the dead ...*
 
 *The valley of Yericho - this teaches that HaKadosh Baruch Hu showed Moshe Gog and his hordes, who in the future will fall in the valley of Yericho. Another idea: Just as in this valley one can see a field sown with wheat and a field sown with barley, so too He showed him the entire world, shrunken into the valley of Yericho."*
-
-**[Family Tree]{.underline}**
 
 **34.** **Divrei HaYamim Aleph 2:18-20; 4:1-4.**
 
@@ -613,8 +603,6 @@ David came from Ram son of Hetzron, not Kalev son of Hetzron. So how could the m
 
 *"Hetzron was Yehudah's grandson, as it says: 'The children of Peretz were Hetzron and Hamul' (Breishit 46:12) ... When Hetzron died, Kalev came to Efrat - this is Miriam, since Yisrael increased and multiplied through her. And it says: 'Azuvah died, and Kalev took Efrat i.e. Miriam and she gave birth to Hur, and Hur gave birth to Uri, and Uri gave birth to Betzalel' (Divrei HaYamim Aleph 2:19-20)."*
 
-**[Seeds of Royalty]{.underline}**
-
 **53.** **Pirkei DeRabbi Eliezer 45.**
 
 **54.** **Bemidbar Rabbah 16:2**
@@ -626,8 +614,6 @@ David came from Ram son of Hetzron, not Kalev son of Hetzron. So how could the m
 
 
 **Part 2: The Three Crowns**
-
-**[Introduction]{.underline}**
 
 **55.** By way of comparison, the Talmud notes that Elisheva was particularly well-connected and had five noble relatives which gave her reason to be joyous:
 
@@ -655,8 +641,6 @@ A similar list could be construction for Hur: (1) His uncle Moshe was a king, (2
 Kalev married Miriam, sister to Aharon and Moshe. If Kalev had checked the brothers of his potential wife before marrying her, he would not have been disappointed: Aharon and Moshe are, after all, model brothers-in-law to have. Since "most sons are similar to their mother's brothers", odds were that Hur was destined to be similar to Aharon and Moshe. Therefore, when Kalev married Miriam he was ensuring that his son would be similar to his two uncles.
 
 **57.** This concept is explored in depth in **Parts II** and **III**.
-
-**[Torah is Primary]{.underline}**
 
 **58.** **Shmot Rabbah 34:2.**
 
@@ -734,8 +718,6 @@ Kalev married Miriam, sister to Aharon and Moshe. If Kalev had checked the broth
 
 *"A scholar precedes the King of Yisrael, for if a scholar dies there is no one like him to replace him while if the King of Yisrael dies - all of Yisrael are worthy of Malchut."*
 
-**[Biblical Triumvirate]{.underline}**
-
 **69.** **Ta'anit 22b**
 
 אמר רבי שמואל בר נחמני אמר רבי יונתן: מפני מה נענש יאשיהו מפני שהיה לו לימלך בירמיהו ולא נמלך:
@@ -786,8 +768,6 @@ In this sense separating the second passage from the first removes the need Rash
 
 *"The word for 'him' in Hebrew is 'lo', which in Gematria is equal to 36."*
 
-**[A Good Name]{.underline}**
-
 **75.** **Pirkei Avot 4:13.**
 
 **76.** An expanded midrashic exposition of Pirkei Avot adds onto Rabbi Shimon Bar Yochai's teaching by combining it with Rabbi Yochanan's opinion that the greatness of Torah comes from its democratic nature:
@@ -833,8 +813,6 @@ In this sense separating the second passage from the first removes the need Rash
 **82.** As infinity is not an actual number - and infinite height cannot be represented visually - here it is represented pictorially as a cloud that encompasses and engulfs the other three numbers:
 
 !(images/media/image4.png){width="4.451983814523184in" height="4.494792213473316in"}
-
-**[Holy Unification]{.underline}**
 
 **82b.** While satisfying, the midrash by no means feels bound by any time constraint confining the issuance of these crowns to a single period of Jewish history, as **Note 67.** demonstrates. There are even opinions which directly assign Moshe and Aharon to the crowns of Torah and Kehunah, but then assign the crowns of Malchut and Shem Tov to David and Avraham respectively:
 
@@ -904,15 +882,11 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 
 **Part 3: Divine Justice**
 
-**[Introduction]{.underline}**
-
 **91.** **Berachot 55a**
 
 אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן: בְּצַלְאֵל עַל שֵׁם חׇכְמָתוֹ נִקְרָא. בְּשָׁעָה שֶׁאָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמֹשֶׁה: לֵךְ אֱמוֹר לוֹ לִבְצַלְאֵל ״עֲשֵׂה לִי מִשְׁכָּן אָרוֹן וְכֵלִים״. הָלַךְ מֹשֶׁה וְהָפַךְ וְאָמַר לוֹ: ״עֲשֵׂה אָרוֹן וְכֵלִים וּמִשְׁכָּן״. אָמַר לוֹ: מֹשֶׁה רַבֵּינוּ, מִנְהָגוֹ שֶׁל עוֹלָם אָדָם בּוֹנֶה בַּיִת וְאַחַר כָּךְ מַכְנִיס לְתוֹכוֹ כֵּלִים, וְאַתָּה אוֹמֵר ״עֲשֵׂה לִי אָרוֹן וְכֵלִים וּמִשְׁכָּן״, כֵּלִים שֶׁאֲנִי עוֹשֶׂה, לְהֵיכָן אַכְנִיסֵם? שֶׁמָּא כָּךְ אָמַר לְךָ הַקָּדוֹשׁ בָּרוּךְ הוּא, ״עֲשֵׂה מִשְׁכָּן אָרוֹן וְכֵלִים״?! אָמַר לוֹ: שֶׁמָּא בְּצֵל אֵל הָיִיתָ וְיָדַעְתָּ?
 
 *"Rabbi Shmuel Bar Nachmani says in the name of Rabbi Yonatan, Betzalel was named based on his wisdom. At the time when HaKadosh Baruch Hu said to Moshe, go tell Betzalel: 'Make for Me a Mishkan, Aron and utensils', Moshe went and switched the order and said to Betzalel: 'Make an Aron, utensils and Mishkan'. He said to him, Moshe Rabbeinu, the way of the world is that a person builds a house and after that he puts all the utensils inside it, and you tell me: 'Make an Aron, utensils and Mishkan' - the utensils that I make, where should I put them? Maybe HaKadosh Baruch Hu said to you: 'Make for Me a Mishkan, Aron and utensils'? Moshe said to Betzalel: Maybe you were in the shadow of E-l, and that is how you knew."*
-
-**[National Atonement]{.underline}**
 
 **92.** **Ramban to Vayikra 8:2 d"h kach et aharon**
 
@@ -968,8 +942,6 @@ Note this explanation is different from one we perhaps assumed was underpinning 
 
 *"Now leave Me be, and My anger will flare against them and consume them, and I will make you i.e. Moshe into a great nation ... and Hashem repented of the evil He had said He would do to His nation."*
 
-**[Paying It Forward]{.underline}**
-
 **98.** **Shmot Rabbah 48:3; Tanchuma Yelamdenu Vayakhel 4.**
 
 **99.** **Chizkuni to Shmot 31:2 d"h betzalel ben uri ben hur**
@@ -1011,8 +983,6 @@ This idea has precedent in the Talmud as well:
 וא״ר יצחק אין הברכה מצוייה אלא בדבר הסמוי מן העין שנאמר (דברים כח, ח) יצו ה׳ אתך את הברכה באסמיך תנא דבי רבי ישמעאל אין הברכה מצויה אלא בדבר שאין העין שולטת בו שנאמר יצו ה׳ אתך את הברכה באסמיך:
 
 *"Rabbi Yitzchak said, blessing is not found except with something that is hidden from the eye, as it says: 'Hashem shall command blessing for you in your hidden things' (Devarim 28:8). It was taught in the house of Rabbi Yishmael, blessing is not found except with something that the eye has not control over, as it says: Hashem shall command blessing for you in your hidden things.'"*
-
-**[Like Children]{.underline}**
 
 **104.** A grandparent's love extends to the grandchild, but not further:
 
@@ -1135,8 +1105,6 @@ The concept of being "called by name" - as Betzalel was - is also juxtaposed to 
 אָמַר בֶּן עַזַּאי: בְּשִׁמְךָ יִקְרָאוּךְ, וּבִמְקוֹמְךָ יוֹשִׁיבוּךְ, וּמִשֶּׁלְּךָ יִתְּנוּ לְךָ. אֵין אָדָם נוֹגֵעַ בַּמּוּכָן לַחֲבֵירוֹ. וְאֵין מַלְכוּת נוֹגַעַת בַּחֲבֶרְתָּהּ אֲפִילּוּ כִּמְלֹא נִימָא:
 
 *"Ben Azzai says, by your name they shall call you, and in your place they shall seat you, and from your own they shall give you. A person does not touch that which is set for his fellow, and one reign does not overlap with another by even a hairsbreadth."*
-
-**[Final Vengeance]{.underline}**
 
 **113.** Hur is listed as one of the five Midianite kings killed in battle against Bnai Yisrael:
 
@@ -1262,8 +1230,6 @@ Additionally, the language used to describe David is reminiscent of Kalev Ben Ye
 **Har Sinai -** הר סיני
 
 
-
-**[General Introduction]{.underline}**
 
 **127. Shmot Rabbah 29:9**
 
@@ -1493,8 +1459,6 @@ Moshe died eleven months after Mei Merivah on the seventh of the eleventh month 
 
 
 **Part 1: Two Instead of Four**
-
-**[Introduction]{.underline}**
 
 **144.** Sanhedrin 52a.
 
@@ -2810,8 +2774,6 @@ Additionally Moshe and Aharon were excessively punished for their "touch" of sin
 **Hor HaHar -** הר ההר
 
 
-
-**[Notes for General Introduction]{.underline}**
 
 **1. Bemidbar Rabbah 15:12**
 
