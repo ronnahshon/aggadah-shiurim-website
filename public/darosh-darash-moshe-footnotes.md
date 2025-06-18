@@ -5065,88 +5065,158 @@ Maharsha wonders how this false prophet, wicked as he was, could have been burie
 The midrash considers Moshe's nephews to be like his own sons. This idea does lessen somewhat the immense weight of Moshe's despair described in Yalkut Shimoni, for after all he did have sons - albeit not biological ones - that carried his Torah on after him. This also explains why Moshe had to be present at Hor HaHar; it is fitting for Moshe to present his "son" Elazar with the *Kehunah Gedolah*.
 
 **316.** **Rut Rabbah 2:5**
+<br/>
+<br/>
 
 רַבִּי מֵאִיר הָיָה דּוֹרֵשׁ שֵׁמוֹת. רַבִּי יְהוֹשֻׁעַ בֶּן קָרְחָה הָיָה דוֹרֵשׁ שֵׁמוֹת. וְשֵׁם הָאִישׁ אֱלִימֶלֶךְ, שֶׁהָיָה אוֹמֵר אֵלַי תָבוֹא מַלְכוּת. וְשֵׁם אִשְׁתּוֹ נָעֳמִי, שֶׁהָיוּ מַעֲשֶׂיהָ נָאִים וּנְעִימִים. וְשֵׁם שְׁנֵי בָנָיו מַחְלוֹן וְכִלְיוֹן, מַחְלוֹן, שֶׁנִּמְחוּ מִן הָעוֹלָם. וְכִלְיוֹן, שֶׁכָּלוּ מִן הָעוֹלָם:
+<br/>
+<br/>
 
 *"Rabbi Meir and Rabbi Yehoshua Ben Karcha used to interpret names. For example: 'The man's name was Elimelech' (Rut 1:2) - he used to say, kingship will come to me. 'His wife's name was Naomi' - her deeds were nice and pleasant. 'And the names of his two sons were Machlon and Kilion' - Machlon, because he was erased from the world, and Kilion, because he disappeared from the world."*
 
 **317.** **Breishit Rabbah 37:7**
+<br/>
+<br/>
 
 רַבִּי יוֹסֵי וְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, רַבִּי יוֹסֵי אוֹמֵר הָרִאשׁוֹנִים עַל יְדֵי שֶׁהָיוּ מַכִּירִים אֶת יִחוּסֵיהֶם הָיוּ מוֹצִיאִין שְׁמָן לְשֵׁם הַמְאֹרָע, אֲבָל אָנוּ שֶׁאֵין אָנוּ מַכִּירִים אֶת יִחוּסֵינוּ, אָנוּ מוֹצִיאִין לְשֵׁם אֲבוֹתֵינוּ. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר הָרִאשׁוֹנִים עַל יְדֵי שֶׁהָיוּ מִשְׁתַּמְּשִׁין בְּרוּחַ הַקֹּדֶשׁ, הָיוּ מוֹצִיאִין לְשֵׁם הַמְאֹרָע, אֲבָל אָנוּ שֶׁאֵין אָנוּ מִשְׁתַּמְּשִׁין בְּרוּחַ הַקֹּדֶשׁ אָנוּ מוֹצִיאִין לְשֵׁם אֲבוֹתֵינוּ:
+<br/>
+<br/>
+
+*"Rabbi Yosi and Rabban Shimon Ben Gamliel. Rabbi Yosi says, the first ones were familiar with their lineages and used to take out their names for the sake of the event, but we do not know our lineages and so we take out our names for the sake of our forefathers. Rabbi Shimon Ben Gamliel says, the first ones used to receive ru'ach hakodesh and so they used to take out their names for the sake of the event, but we do not receive ru'ach hakodesh and so we take out our names for the sake of our forefathers."*
 
 **318.** See Berachot 7b and Maharsha's comments there for the source of this idea:
+<br/>
+<br/>
 
 **Berachot 7b**
+<br/>
+<br/>
 
 מְנָא לַן דִּשְׁמָא גָּרֵים? אָמַר רַבִּי אֱלִיעֶזֶר, דְּאָמַר קְרָא: ״לְכוּ חֲזוּ מִפְעֲלוֹת ה׳ אֲשֶׁר שָׂם שַׁמּוֹת בָּאָרֶץ״ (תהילים מו:ט), אֶל תִּקְרֵי ״שַׁמּוֹת״ אֶלָּא ״שֵׁמוֹת״:
+<br/>
+<br/>
 
 *"How do we know that a name affects a person's life? Rabbi Eliezer said: It says: 'Go see the works of Hashem who has placed desolations in the land' (Tehillim 46:9) - do not read it 'desolations' but rather 'names'."*
+<br/>
+<br/>
 
 **Chiddushei Aggadot to Berachot 7b d"h minalan**
+<br/>
+<br/>
 
 וע״כ דרשו שמות מל׳ שמות שפעולות ה׳ נמשכים אחרי השם של אדם שהוא גרם וק״ל:
+<br/>
+<br/>
 
 *"This is why Chazal interpreted names, because of this idea regarding names that the works of Hashem follow after a person's name, and it is causal."*
+<br/>
+<br/>
 
 One midrash emphasizes that this should be taken seriously, and when naming children this causal power should be factored into the decision:
+<br/>
+<br/>
 
 **Tanchuma Yelamdenu Haazinu 7**
+<br/>
+<br/>
 
 לְעוֹלָם יִבְדֹּק אָדָם בַּשֵּׁמוֹת לִקְרֹא לִבְנוֹ, הָרָאוּי לִהְיוֹת צַדִּיק. כִּי לִפְעָמִים הַשֵּׁם גּוֹרֵם טוֹב אוֹ גּוֹרֵם רָע, כְּמוֹ שֶׁמָּצִינוּ בַּמְּרַגְּלִים וכו:
+<br/>
+<br/>
 
 *"A person should always check if the name he is calling his son is a worthy name for a tzaddik. Sometimes a name influences for the good or influences for the bad, as we see regarding the spies etc."*
+<br/>
+<br/>
 
 This idea is greatly expanded upon in later mystical and Kabbalistic works; it is even seen as an early hint to the secret of גלגול, or transmigration of the souls, in the thought of the Arizal:
+<br/>
+<br/>
 
 **Sefer HaBahir 80**
+<br/>
+<br/>
 
 כל מה שהביא הקדוש ברוך הוא בעולמו שם מעניינו דכתיב (בראשית ב׳ י״ט) וכל אשר יקרא לו האדם נפש חיה הוא שמו:
+<br/>
+<br/>
 
 *"Whatever HaKadosh Baruch Hu brings into the world, its name has to do with its essence as it says: 'Whatever Adam called each animal's soul, that was its name' (Breishit 2:19)."*
 
 **319.** **Yoma 83b**
+<br/>
+<br/>
 
 רַבִּי מֵאִיר וְרַבִּי יְהוּדָה וְרַבִּי יוֹסֵי הֲווֹ קָא אָזְלִי בְּאוֹרְחָא, רַבִּי מֵאִיר הֲוָה דָּיֵיק בִּשְׁמָא, רַבִּי יְהוּדָה וְרַבִּי יוֹסֵי לָא הֲווֹ דָּיְיקִי בִּשְׁמָא. כִּי מְטוֹ לְהָהוּא דּוּכְתָּא, בְּעוֹ אוּשְׁפִּיזָא ... וּלְבַסּוֹף הֲווֹ דָּיְיקִי בִּשְׁמָא:
+<br/>
+<br/>
 
 *"Rabbi Meir, Rabbi Yehudah and Rabbi Yosi were walking along the road. Rabbi Meir interpreted names, but Rabbi Yehudah and Rabbi Yosi did not interpret names. When they got to their destination, they sought out a place to stay ... In the end, Rabbis Yehudah and Yosi learned from this and also interpreted names."*
 
 **320.** Indeed, this could be the *peshat* understanding of Moshe's conspicuous absence in the story - not that he was swallowed up by Satan or some angelic messenger, and not that he was bound by an oath which prevented him from intervening, but simply that he was too shocked to respond quickly enough in that moment.
 
 **321.** **Pesikta Zutreta to Shmot 4:25**
+<br/>
+<br/>
 
 ותקח צפורה צר, שהיתה זריזה כצפור:
+<br/>
+<br/>
 
 *"'Tzipporah took a rock' (Shmot 4:25) - she was agile like a bird and able to act quickly."*
 
 **322.** **Shmot 2:16-20**
+<br/>
+<br/>
 
 וּלְכֹהֵ֥ן מִדְיָ֖ן שֶׁ֣בַע בָּנ֑וֹת וַתָּבֹ֣אנָה וַתִּדְלֶ֗נָה וַתְּמַלֶּ֙אנָה֙ אֶת הָ֣רְהָטִ֔ים לְהַשְׁק֖וֹת צֹ֥אן אֲבִיהֶֽן׃ וַיָּבֹ֥אוּ הָרֹעִ֖ים וַיְגָרְשׁ֑וּם וַיָּ֤קׇם מֹשֶׁה֙ וַיּ֣וֹשִׁעָ֔ן וַיַּ֖שְׁקְ אֶת צֹאנָֽם׃ וַתָּבֹ֕אנָה אֶל רְעוּאֵ֖ל אֲבִיהֶ֑ן וַיֹּ֕אמֶר מַדּ֛וּעַ מִהַרְתֶּ֥ן בֹּ֖א הַיּֽוֹם׃ וַתֹּאמַ֕רְןָ אִ֣ישׁ מִצְרִ֔י הִצִּילָ֖נוּ מִיַּ֣ד הָרֹעִ֑ים וְגַם דָּלֹ֤ה דָלָה֙ לָ֔נוּ וַיַּ֖שְׁקְ אֶת הַצֹּֽאן׃ וַיֹּ֥אמֶר אֶל בְּנֹתָ֖יו וְאַיּ֑וֹ לָ֤מָּה זֶּה֙ עֲזַבְתֶּ֣ן אֶת הָאִ֔ישׁ קִרְאֶ֥ן ל֖וֹ וְיֹ֥אכַל לָֽחֶם׃
+<br/>
+<br/>
 
 *"The priest of Midian had seven daughters. They used to come draw water, fill up their jugs and water their father's flock. One day shepherds came and drove them off, but Moshe stood up and rescued them, and watered their flock. They came to their father Reu'el, who said: How are you back so soon today? They said: An Egyptian man rescued us from the shepherd, and he also grew water for us, and watered our flock. Reu'el said to his daughters: and where is Moshe? Why did you abandon the man - call him here and he shall eat bread."*
+<br/>
+<br/>
 
 **Tanchuma HaKadum Shmot 11**
+<br/>
+<br/>
 
 ויאמר אל בנותיו ואיו (שם שם כ), מיד (יצאתה) רצתה צפורה כצפור והביאתהו:
+<br/>
+<br/>
 
 *"'Yitro said to his daughters: And where is Moshe?' (Shmot 2:20). Immediately Tzipporah ran like a bird and brought him to them."*
 
-**323.**  **Tanchuma HaKadum Shmot 11.**
+**323.** **Tanchuma HaKadum Shmot 11.**
 
 **324.** **Shmot Rabbah 5:19.**
 
 **325.** The Torah makes no explicit mention of this significant gap in time between Moshe's first unsuccessful attempt to set Bnai Yisrael free and the onset of the 10 plagues. Ramban convincingly argues that the narrative regarding the additional workload placed on the slaves and the dialogue between Pharaoh and the Jewish officers actually took a long time to play out. This explains why the officers suddenly become the focus in Shmot 5:10-19: Moshe had returned to Midian, so they are the de facto leaders left in charge of handling the fallout from Pharaoh's new decree. It also underscores their bitter, possibly threatening reaction upon seeing Moshe and Aharon (Shmot 5:20-21):
+<br/>
+<br/>
 
 **Ramban on Shmot 5:22 d"h lama hare'ota**
+<br/>
+<br/>
 
 ולפי דעתי שחשב משה רבינו כי יאמר ה׳ שלא ישמע אליהם פרעה להוציאם מיד במצותו, ולא באות ומופת, עד שיעשה בו נפלאותיו הרבות, אבל חשב כי יביאם עליו תכופות זו אחר זו בימים מעטים וכשאמר לא ידעתי את ה׳ יצוה לעשות מיד לפניו אות התנין, והוא לא ישמע, ויכה אותו בו ביום בדם ואח׳׳כ בכל המכות. וכשראה שעמדו שלשה ימים והוא יריע להם בכל יום, וה׳ לא כהה בו, ולא נתגלה למשה להודיעו מה יעשה, אז חשב משה כי ארוכה היא.
+<br/>
+<br/>
 
 ויתכן שהיו בזה המעשה שספר הכתוב ימים רבים, כי כאשר הוכו שוטרי בני ישראל עמדו ימים עד שדברו עם פרעה עצמו, ואמרו לו למה תעשה כה לעבדיך (שמות ה׳:ט״ו), כי אין ברשות כל אדם לבא בהיכל מלך פנימה ולדבר אליו פנים בפנים, אף כי שוטרי העם הנבאשים בעיניו, והנה סבלו עמלם ולחצם ימים רבים והיו באים עד לפני שער המלך עד שנשמעה צעקתם לפני המלך וצוה שיבאו לפניו וידברו עמו וכן אפשר ששב משה אל ה׳ ואמר למה הרעותה אחרי ימים מעת שפגעו בו השוטרים.
+<br/>
+<br/>
 
 ובאלה (שמות רבה ה׳:י״ט) אמרו ויצאו נוגשי העם ושוטריו (שמות ה׳:י׳), כיון שגזר כן הלך משה למדין ועשה שם ששה חדשים, ואהרן היה יושב במצרים, ואותה שעה החזיר משה אשתו ובניו למדין ועוד אמרו (שם ה כד) ויפגעו את משה ואת אהרן (שמות ה׳:כ׳), אחר ששה חדשים נגלה הקב׳׳ה אל משה במדין ואמר לו לך שוב מצרים, בא משה ממדין ואהרן ממצרים, ופגעו בהם שוטרי ישראל כשהן יוצאין מלפני פרעה:
+<br/>
+<br/>
 
 *"In my opinion Moshe Rabbeinu thought that Hashem had told him that Pharaoh would not let them go immediately at his command, and not even after Moshe would show him a sign and wonder, until He would perform His many wonders among them. But Moshe thought that Hashem would bring the wonders upon Pharaoh in uninterrupted succession shortly. And Moshe thought that when Pharaoh said: 'I know Hashem not' (Shmot 5:2) Hashem would immediately command Moshe to perform the sign of the serpent before Pharaoh, and if Pharaoh would still not listen He would smite Pharaoh on that very day with the plague of blood, followed by all the rest of the plagues. But when Moshe saw that three days had passed and Pharaoh increased their woes every day and Hashem did not rebuke him, and He did not reveal Himself to Moshe to inform him what he should do - then Moshe thought that the exile is 'A long one' (Yirmiyahu 29:28).*
+<br/>
+<br/>
 
 *It is possible that there was a long period of time contained in this story recounted here by the Torah. When 'the officers of Bnai Yisrael were beaten' (Shmot 5:14) many days passed until they spoke to Pharaoh himself and said to him: 'Why have you done this to your servants' (Shmot 5:15). Not every person has a right to come into the inner chambers of the king's palace and speak to him face to face, and all the more the officers of those people who are abhorrent to him. They must have therefore suffered in their burden and oppression for many days, and they would come 'before the king's gate' (Esther 4:2) until their outcry was heard before the king and he commanded that they come before him and speak with him. It is likewise possible that Moshe returned to Hashem and said: 'Why have you dealt wickedly with Your nation' (Shmot 5:22) many days after he and Aharon met the officers of Bnai Yisrael.*
+<br/>
+<br/>
 
 *In the midrash it says: 'The taskmasters of the people and their officers went out' (Shmot 5:10). Once this decree was made Moshe went back to Midian and waited there for six months, and Aharon remained behind in Egypt. At that time Moshe also returned his wife and children to Midian (Shmot Rabbah 5:19). They also said: 'The officers met Moshe and Aharon' (Shmot 5:20) - after six months, HaKadosh Baruch Hu appeared to Moshe in Midian and said to him: 'Go return to Egypt' (Shmot 4:19). Moshe came from Midian and Aharon was in Egypt, and the officers of Yisrael met them when they were leaving Pharaoh's presence."*
 
@@ -5155,8 +5225,12 @@ This idea is greatly expanded upon in later mystical and Kabbalistic works; it i
 **327.** Alternatively, it could have been the first time Aharon and Moshe ever met face-to-face. We are not told of Moshe interacting with his biological family at any point between 3 months when Yocheved placed him in the river and when he fled to Midian in his youth.
 
 **328.** **Mechilta DeShirah 15:3**
+<br/>
+<br/>
 
 ראתה שפחה על הים מה שלא ראה יחזקאל בן בוזי:
+<br/>
+<br/>
 
 *"A maidservant experienced at the sea what even Yechezkel Ben Buzi did not merit to experience."*
 
@@ -5165,228 +5239,405 @@ This idea is greatly expanded upon in later mystical and Kabbalistic works; it i
 **330.** Moshe had originally fled to Midian in his youth because he had killed an Egyptian taskmaster and was afraid of the royal death sentence pronounced upon him (Shmot 2:15). Knowing this was a source of concern, Hashem assured him before his return that *"all the people seeking your life are dead" (Shmot 4:19)*. It is reasonable to assume that Moshe's direct hand in increasing the burden on the people, and the subsequent attack hurled at him by the Jewish officers that *"May Hashem look at you and judge, because you have made our smell abhorrent in the eyes of Pharaoh and his servants" (Shmot 5:21)*, was interpreted by him as a threat against his life. It is possible the midrash is drawing this parallel as well: Midian is not only conceptually the place Moshe takes refuge from his past failure; it is also literally the place Moshe takes refuge when he is afraid for his life.
 
 **331.** Moshe asks Yitro permission to return to Egypt to see how his brothers are faring; there is no indication that he explained to Yitro or anyone else - including Tzipporah - his true reason for going:
+<br/>
+<br/>
 
 **Shmot 2:18**
+<br/>
+<br/>
 
 וַיֵּ֨לֶךְ מֹשֶׁ֜ה וַיָּ֣שׇׁב  אֶל יֶ֣תֶר חֹֽתְנ֗וֹ וַיֹּ֤אמֶר לוֹ֙ אֵ֣לְכָה נָּ֗א וְאָשׁ֙וּבָה֙ אֶל אַחַ֣י אֲשֶׁר בְּמִצְרַ֔יִם וְאֶרְאֶ֖ה הַעוֹדָ֣ם חַיִּ֑ים וַיֹּ֧אמֶר יִתְר֛וֹ לְמֹשֶׁ֖ה לֵ֥ךְ לְשָׁלֽוֹם׃
+<br/>
+<br/>
 
 *"Moshe went back to his father-in-law Yeter and said to him: Let me go back to my kinsmen in Egypt and see how they are faring. And Jethro said to Moshe: Go in peace."*
+<br/>
+<br/>
 
 If Tzipporah did not know Moshe's true purpose in descending to Egypt, then when Aharon told Moshe: *"Now you are adding these to the distress"* (see **Note 80**), it could be that this was the first time Tzipporah heard about the oppression in Egypt. One can imagine her confusion, and anger, at Moshe for hiding the state of affairs of his people and his reason for going down; perhaps Moshe sent Tzipporah back as a response to her reaction upon discovering his true intentions and her subsequent refusal to endanger herself or their children in Egypt.
 
 **332.** This phenomenon of "seeing is believing" is also used by the midrash to explain why Moshe broke the *luchot* upon his descent from Har Sinai and witnessing the people dancing before the golden calf. Although he had been told informed by HaKadosh Baruch Hu at the top of Har Sinai that the people were sinning, he tried to excuse their behavior; only once he descended and saw it firsthand was he overcome with anger and broke the *luchot*:
+<br/>
+<br/>
 
 **Devarim Rabbah 3:11**
+<br/>
+<br/>
 
 יָרַד משֶׁה מִן הָרָקִיעַ וְהָיוּ הַלּוּחוֹת בְּיָדוֹ וְלֹא שִׁבְּרָן עַד שֶׁרָאָה בְּעֵינָיו, מִנַּיִן שֶׁנֶּאֱמַר (שמות לב, יט): וַיְהִי כַּאֲשֶׁר קָרַב אֶל הַמַּחֲנֶה וַיַּרְא אֶת הָעֵגֶל, אוֹתָהּ שָׁעָה (שמות לב, יט): וַיִּחַר אַף משֶׁה וַיַּשְׁלֵךְ מִיָּד אֶת הַלֻּחוֹת, אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא, משֶׁה, לֹא הָיִיתָ מַאֲמִין לִי שֶׁעָשׂוּ לָהֶן עֵגֶל, שֶׁנֶּאֱמַר (שמות לב, ח): סָרוּ מַהֵר מִן הַדֶּרֶךְ אֲשֶׁר צִוִּיתִם. רַבָּנִין אָמְרֵי מִן הַדָּבָר הַזֶּה שָׁקַד משֶׁה הֵיאַךְ לְזַכּוֹת אֶת יִשְׂרָאֵל, שֶׁאָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא אֲשֶׁר צִוִּיתִם, אָמַר לְפָנָיו רִבּוֹנוֹ שֶׁל עוֹלָם אֲנִי נִצְטַוֵּיתִי, שֶׁמָּא עָבַרְתִּי עַל הַצִּוּוּי, הֵם לֹא נִצְטַוּוּ וְלֹא הָיוּ יוֹדְעִים. אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא, משֶׁה, לֹא נִצְטַוּוּ, אָמַר לוֹ: לָאו....:
+<br/>
+<br/>
 
 *"Moshe descended from the heavens and had the luchot in his hand, but he did not break them until he saw Bnai Yisrael sinning with his own eyes. How do we know this? As it says: 'And it was when Moshe came close to the camp he saw the calf' (Shmot 32:19), and at that time: 'Moshe got angry and threw the luchot from his hand' (Shmot 32:19). HaKadosh Baruch Hu said to him: Moshe, did you not believe Me that they had made the calf, as it says: 'They have turned quickly from the path that they were commanded on' (Shmot 32:8). The Rabbis say: From this you can learn that Moshe tried whatever he could to find merit for Yisrael, so that when HaKadosh Baruch Hu said to him 'that they were commanded on' he said to Him: Master of the Universe: I was commanded so perhaps I violated the commandment, but they were not commanded and didn't know any better. HaKadosh Baruch Hu said to him: Moshe, they weren't commanded? He said to Him: No ...."*
+<br/>
+<br/>
 
 **Maharsha Yevamot 62a d"h mai darish**
+<br/>
+<br/>
 
 וא״ת ולמה לא היה דן משה ק״ו זה מיד כשא״ל הקב״ה רד כי שחת עמך גו׳ וי״ל כדאמרינן במדרש אפשר שלא היה משה מאמין בהקב״ה שא״ל כי שחת גו׳ אלא הודיע לישראל שאפי׳ יהיה אדם שומע מפי יחידי נאמן לו אסור לקבל עדותו ולעשות דבר ע״פ ובעל עיקרים מאמר ד׳ פ׳ ט״ו תירץ שהדבר הנראה לעינים מצער אדם צער גדול יותר מהידיעה שהאדם יותר מתפעל מהמורגש בחוש יותר ממה שיתפעל מהנודע באמיתות כו׳ ע״ש גם עיין בזה בשאר מפרשי התורה וק״ל:
+<br/>
+<br/>
 
 *"And if you want to ask, why didn't Moshe make his kal vachomer from Korban Pesach right away, when HaKadosh Baruch Hu said to him 'go down for the people you brought out of Egypt have become corrupted' etc.? And we can explain based on that which is said in the midrash: 'Is it possible that Moshe did not believe HaKadosh Baruch Hu when he said to him etc.? Rather, this is meant to teach Yisrael that even if a person hears something from a single trustworthy source, it is forbidden for him to accept that testimony and make a judicial case based on it since two witnesses are required. Ba'al Ikkarim 4:15 explained that a thing which is seen by the eyes distresses a man much more than knowledge. A man is much more moved from that which is felt by the senses than by something which becomes based on what is known intellectually to be true. See also all the other mefarshim."*
 
 **333.** **Vayikra 14:1-8.**
 
 **334.** Egypt is referred to by Shlomo HaMelech as analogous to an iron smelting pot:
+<br/>
+<br/>
 
 **Melachim Aleph 8:51**
+<br/>
+<br/>
 
 כִּֽי עַמְּךָ֥ וְנַחֲלָתְךָ֖ הֵ֑ם אֲשֶׁ֤ר הוֹצֵ֙אתָ֙ מִמִּצְרַ֔יִם מִתּ֖וֹךְ כּ֥וּר הַבַּרְזֶֽל׃
+<br/>
+<br/>
 
 *"For Bnai Yisrael are your nation and inheritance, which You freed from Egypt, from the iron smelting pot."*
+<br/>
+<br/>
 
 An iron smelting pot is actually an earthenware utensil that refines metals heated inside it, similar to how Bnai Yisrael were refined by the hardships of Egypt.. See Rashi and Radak:
+<br/>
+<br/>
 
 **Rashi to Melachim Aleph 8:51 d"h kur habarzel**
+<br/>
+<br/>
 
 הַחֶרֶס שֶׁמְּזַקְּקִין בּוֹ זָהָב, קָרוּי כּוּר:
+<br/>
+<br/>
 
 *"An earthenware vessel that is used to purify gold, is referred to as a smelting pot."*
+<br/>
+<br/>
 
 **Radak to Melachim Aleph 8:51 d"h mitoch kur habarzel**
+<br/>
+<br/>
 
 כי כמו שצורפין הכסף והזהב בכור כן נצרפו במצרים בעבודה קשה:
+<br/>
+<br/>
 
 *"Just as silver and gold are refined in a smelting pot, so too Bnai Yisrael were refined in Egypt by hard work."*
 
 **335.** **Mishnah Negaim 14:5**
+<br/>
+<br/>
 
 שְׁתֵּי צִפֳּרִים מִצְוָתָן שֶׁיְּהוּ שָׁווֹת בַּמַּרְאֶה וּבַקּוֹמָה וּבַדָּמִים, וּלְקִיחָתָן כְּאֶחָת:
+<br/>
+<br/>
 
 *"With regard to the two birds: the mitzvah is that they should be identical in appearance, in size and in price, and they must be purchased at the same time."*
 
 **336.** In addition to the other examples discussed shortly, an interesting emphasis is made in the pesukim around the idea of life, *chayim*. Both birds are required to be *chayot*, and the water used to catch the slaughtered bird's blood is also required to be *chayim*. Naturally the concept of life is one which also relates to a mother bird, since motherhood is intrinsically tied to the idea of life. A proof of this is found early on the Torah when Adam named his wife Chava owing to her being the "mother of all things that are living":
+<br/>
+<br/>
 
 **Breishit 3:20**
+<br/>
+<br/>
 
 וַיִּקְרָ֧א הָֽאָדָ֛ם שֵׁ֥ם אִשְׁתּ֖וֹ חַוָּ֑ה כִּ֛י הִ֥וא הָֽיְתָ֖ה אֵ֥ם כׇּל חָֽי׃
+<br/>
+<br/>
 
 *"Adam called his wife Chava, for she had been the mother of all life."*
+<br/>
+<br/>
 
 **Breishit Rabbah 20:11**
+<br/>
+<br/>
 
 רַבִּי סִימוֹן אָמַר אֵם כָּל חָי, אִמָּן שֶׁל כָּל הַחַיִּים:
+<br/>
+<br/>
 
 *"Rabbi Simon said: 'Mother of all life' - the mother of all things that are living."*
 
 **337.** The Kohen must make the official declaration, but anyone can fulfill the mitzvah to take the birds. In our case, Aharon is the one declaring while Moshe - a Levite - is doing the taking:
+<br/>
+<br/>
 
 **Sifra, Metzora Section 1:8**
  וצוה הכהן ולקח - הציווי בכהן והלקיחה בכל אדם:
+<br/>
+<br/>
 
 *"'The Kohen shall command, and he shall take' (Vayikra 14:5). The command must be done by a Kohen, but the taking can be done by anybody."*
+<br/>
+<br/>
 
 As an aside, there is a *machloket* in Torat Kohanim (Sifra) about whether a non-Kohen is allowed to slaughter the first bird. Rambam holds that only a Kohen is permitted to slaughter, while some prominent mefarshim including Chizkuni and Ibn Ezra believe even a Yisrael can slaughter. Haamek Davar clarifies that even the opinion which holds that it must be a Kohen who slaughters, does not limit it to the same Kohen who commands the taking:
+<br/>
+<br/>
 
 **Sifra, Metzora 1:1**
+<br/>
+<br/>
 
 וצוה הכהן - ציווי בכהן ושחיטה בכל אדם דברי ר׳ יהודה בר׳ יוסי. ורבי אומר אף שחיטה בכהן:
+<br/>
+<br/>
 
 *"'The Kohen shall command' (Vayikra 14:5) - the command must be done by a Kohen but the slaughtering of the birds can be done by anybody, these are the words of Rabbi Yehudah BeRabbi Yosi. Rabbi says: even the slaughtering must be done by a Kohen."*
+<br/>
+<br/>
 
 **Rambam, Mishneh Torah Hilchot Tumat Tzara'at 11:5**
+<br/>
+<br/>
 
 שְׁחִיטַת הַצִּפּוֹר וְהַתִּגְלַחַת וְהַהַזָּיָה בַּיּוֹם וּשְׁאָר כָּל מַעֲשָׂיו בֵּין בַּיּוֹם בֵּין בַּלַּיְלָה. אֵלּוּ בַּאֲנָשִׁים וּשְׁאָר כָּל מַעֲשָׂיו בֵּין בַּאֲנָשִׁים בֵּין בְּנָשִׁים. אֵלּוּ בְּכֹהֲנִים וּשְׁאָר כָּל מַעֲשָׂיו בֵּין בְּכֹהֲנִים בֵּין בְּיִשְׂרָאֵל:
+<br/>
+<br/>
 
 *"The slaughtering of the bird, the shaving of the metzora and the sprinkling of the blood are done during the day, but everything else can be done either during the day or during the night. These three things can only be done by men, but everything else can be done either by men or women. These three things can only be done by Kohanim, but everything else can be done either by Kohanim or Yisraelim."*
+<br/>
+<br/>
 
 **Chizkuni to Vayikra 14:5 d"h vetziva hakohen veshachat**
+<br/>
+<br/>
 
 הצווי בכהן והשחיטה בכל אדם:
+<br/>
+<br/>
 
 *"The command must be done by a Kohen, but the slaughtering can be done by anyone."*
+<br/>
+<br/>
 
 **Ibn Ezra to Vayikra 14:5 d"h vetziva hakohen veshachat**
+<br/>
+<br/>
 
 כהן אחר או ישראל ויש אומרים המצורע והוא רחוק:
+<br/>
+<br/>
 
 *"It can be done by another Kohen or by a Yisrael. There are those that say it is the metzora himself, but this is farfetched."*
+<br/>
+<br/>
 
 **Haamek Davar to Vayikra 14:5 d"h vetziva hakohen veshachat**
+<br/>
+<br/>
 
 מי שהוא ואפילו לתנא בת״כ דשחיטה בכהן דוקא מ״מ לא דוקא אותו כהן שיש בכחו לראות הנגע ולטהרו אלא מצוה לאיזה כהן שישחוט:
+<br/>
+<br/>
 
 *"Anyone. And even according to the Tanna in Torat Kohanim i.e. Rabbi's opinion in Sifra that the slaughtering must be done by a Kohen specifically, in any case it doesn't have to be the same Kohen who has the power to see the affliction and purify it. Rather, the mitzvah is that any Kohen can slaughter."*
 
 **338.** Regarding the halachic connection, these are the only two positive mitzvot which carry *karet* as punishment for not performing them, and an uncircumcised person is forbidden from partaking in the *korban pesach.* Additionally, accordingly to one aggadic tradition the delicious smell of the *korban pesach* was even used by HaKadosh Baruch Hu to entice Bnai Yisrael into accepting circumcisions:
+<br/>
+<br/>
 
 **Mishnah Keritot 1:1**
+<br/>
+<br/>
 
 ... והפסח והמילה מצות עשה דעל אלו חייבין על זדונו כרת ועל שגגתו חטאת:
+<br/>
+<br/>
 
 *"... And korban pesach and brit milah are the only two positive mitzvot for which, in addition to 34 negative mitzvot one receives karet Divine death for their willful violation and is required to bring a sin offering for their accidental violation."*
+<br/>
+<br/>
 
 **Shmot Rabbah 19:5**
+<br/>
+<br/>
 
 וְרַבּוֹתֵינוּ אָמְרוּ, לֹא בִּקְּשׁוּ יִשְׂרָאֵל לָמוּל בְּמִצְרַיִם, אֶלָּא כֻּלָּם בִּטְּלוּ הַמִּילָה בְּמִצְרַיִם חוּץ מִשִּׁבְטוֹ שֶׁל לֵוִי, שֶׁנֶּאֱמַר (דברים לג, ח): וּלְלֵוִי אָמַר תֻּמֶּיךָ וְאוּרֶיךָ, לָמָּה (דברים לג, ט): כִּי שָׁמְרוּ אִמְרָתֶךָ וּבְרִיתְךָ יִנְצֹרוּ, בְּמִצְרַיִם. וְהָיָה הַקָּדוֹשׁ בָּרוּךְ הוּא מְבַקֵּשׁ לְגָאֳלָן וְלֹא הָיָה לָהֶם זְכוּת, מֶה עָשָׂה הַקָּדוֹשׁ בָּרוּךְ הוּא קָרָא לְמשֶׁה וְאָמַר לוֹ לֵךְ וּמְהוֹל אוֹתָם. וְיֵשׁ אוֹמְרִים, שָׁם הָיָה יְהוֹשֻׁעַ שֶׁמָּל אוֹתָם, שֶׁנֶּאֱמַר (יהושע ה, ב): וְשׁוּב מֹל אֶת בְּנֵי יִשְׂרָאֵל שֵׁנִית, וְהַרְבֵּה מֵהֶן לֹא הָיוּ מְקַבְּלִים עֲלֵיהֶם לָמוּל, אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁיַּעֲשׂוּ הַפֶּסַח וְכֵיוָן שֶׁעָשָׂה משֶׁה אֶת הַפֶּסַח גָּזַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַרְבַּע רוּחוֹת הָעוֹלָם וְנוֹשְׁבוֹת בַּגַּן עֵדֶן מִן הָרוּחוֹת שֶׁבַּגַּן עֵדֶן הָלְכוּ וְנִדְבְּקוּ בְּאוֹתוֹ הַפֶּסַח, שֶׁנֶּאֱמַר (שיר השירים ד, טז): עוּרִי צָפוֹן וּבוֹאִי תֵימָן, וְהָיָה רֵיחוֹ הוֹלֵךְ מַהֲלַךְ אַרְבָּעִים יוֹם, נִתְכַּנְסוּ כָּל יִשְׂרָאֵל אֵצֶל משֶׁה אָמְרוּ לוֹ בְּבַקָּשָׁה מִמְּךָ הַאֲכִילֵנוּ מִפִּסְחֲךָ, מִפְּנֵי שֶׁהָיוּ עֲיֵפִים מִן הָרֵיחַ, הָיָה אוֹמֵר הַקָּדוֹשׁ בָּרוּךְ הוּא, אִם אֵין אַתֶּם נִמּוֹלִין אֵין אַתֶּם אוֹכְלִין, שֶׁנֶּאֱמַר: וַיֹּאמֶר ה׳ אֶל משֶׁה וְאֶל אַהֲרֹן זֹאת חֻקַּת הַפָּסַח וגו׳, מִיָּד נָתְנוּ עַצְמָן וּמָלוּ, וְנִתְעָרַב דַּם הַפֶּסַח בְּדַם הַמִּילָה, וְהַקָּדוֹשׁ בָּרוּךְ הוּא עוֹבֵר וְנוֹטֵל כָּל אֶחָד וְאֶחָד וְנוֹשְׁקוֹ וּמְבָרְכוֹ, שֶׁנֶּאֱמַר (יחזקאל טז, ו): וָאֶעֱבֹר עָלַיִךְ וָאֶרְאֵךְ מִתְבּוֹסֶסֶת בְּדָמָיִךְ וגו׳, חֲיִי בְּדַם הַפָּסַח, חֲיִי בְּדַם מִילָה:
+<br/>
+<br/>
 
 *"Our Rabbis said: Yisrael did not want to get circumcised in Egypt, for all of them had foregone the mitzvah of brit milah except for the tribe of Levi, as it says: 'And Moshe said of Levi, merit Your Urim V'Tumim ... for they observed Your words and kept Your covenant' (Devarim 33:8-9), in Egypt. HaKadosh Baruch Hu wanted to redeem them but they didn't have enough merit. What did HaKadosh Baruch Hu do? He called to Moshe and said to him: Go circumcise them. Some say, Yehoshua was there and he circumcised them, as it says: 'Circumcise Bnai Yisrael again, a second time" (Yehoshua 5:2). Many of them did not want to be circumcised, so HaKadosh Baruch Hu said that they should do the korban pesach. Once Moshe had done the korban pesach, HaKadosh Baruch Hi commanded the four winds of the world that blow in Gan Eden from the winds in Gan Eden, and they went and cleaved to that korban pesach, as it says: 'Wake up, North wind, and come, South wind" (Shir HaShirim 4:16), and its smell wafted the distance of 40 days. All of Yisrael gathered before Moshe and said to him: Please let us eat from your korban pesach - for they were tired from the smells. HaKadosh Baruch Hu would then say: If you are not circumcised you cannot eat, as it says: 'Hashem said to Moshe and Aharon, this is the law of the Pesach' (Shmot 12:43). Immediately Bnai Yisrael gave themselves over to be circumcised, and the paschal blood mixed with the blood of circumcision. HaKadosh Baruch Hu passed over and took every person and kissed him and blessed him, as it says: 'I passed by you and say you wallowing in your blood' (Yechezkel 16:6) - you shall live because of the paschal blood, you shall live because of the blood of circumcision."*
 
 **339.** The redemptive nature of *brit milah* is also comparable to the slaughtering of the *korban pesach* - and by extension, the slaughtering of the bird for a *metzora* - in another way: just as a dead animal cannot come back to life, circumcision is (unless drastic measures is taken) an irreversible procedure, forever ensuring that the circumcised will be free from the afflictions of *Avodah Zarah*:
+<br/>
+<br/>
 
 **Vayikra Rabbah 16:9**
+<br/>
+<br/>
 
 וְצִוָּה הַכֹּהֵן וְשָׁחַט אֶת הַצִּפּוֹר הָאֶחָת (ויקרא יד, ה), לָמָּה שׁוֹחֵט אַחַת וּמֵנִיחַ אַחַת, לוֹמַר לְךָ כְּשֵׁם שֶׁאִי אֶפְשָׁר לַשְּׁחוּטָה לַחֲזֹר כָּךְ אִי אֶפְשָׁר לַנְּגָעִים לַחֲזֹר:
+<br/>
+<br/>
 
 *"'The Kohen shall command, and he will slaughter one of the birds' (Vayikra 14:5). Why slaughter one and spare one? To tell you that just as the slaughtered one cannot return, so too the afflictions of tzara'at cannot return."*
 
 **340.** Yitro's arrival in the desert happened less than two years after Gershom was circumcised. This can be calculated based on adding together the time which elapsed between (a) Gershom's circumcision and *makat bechorot*, and (b) *makat bechorot* and Yitro's arrival.
+<br/>
+<br/>
 
 From the text itself we only know the lengths of three plagues: blood lasted a week (Shmot 7:25), darkness lasted three days (Shmot 10:21-23), and death of the firstborn lasted one night (Shmot 12:29-31). If we extrapolate from this an average of say 4 days per plague, that would mean the 10 plagues in total lasted around 40 days, a number which has plenty of significance elsewhere in the Torah - Moshe's stay on Har Sinai lasted three sets of 40 days, and the spies explored Eretz Canaan for 40 days before the nation was condemned to 40 years of wandering in the desert. For the Rabbis this is a subject of some debate. The most oft-repeated timeframe for the ten plagues in the midrash is one year:
+<br/>
+<br/>
 
 **Seder Olam Rabbah 3**
+<br/>
+<br/>
 
 מכות מצרים י״ב חדשים, שנאמר ויפץ העם וגו׳ (שם ה יב), אימתי דרכו של תבן באייר, והם יצאו בניסן, לקו המצריים עשר מכות כל י״ב חדש:
+<br/>
+<br/>
 
 *"The plagues in Egypt were 12 months, as it says: 'The nation scattered to find straw' (Shmot 5:12). When is the time for gathering straw? In Iyyar, and Bnai Yisrael left in Nissan. The Egyptians were stuck with the ten plagues the entire 12 months."*
+<br/>
+<br/>
 
 Other midrashim argue for a much shorter timeline. For example, according to Midrash Lekach Tov (also known as Pesikta Zutreta) the plagues only lasted 2.5 months from start to finish:
+<br/>
+<br/>
 
 **Pesikta Zutreta Shmot 10:24**
+<br/>
+<br/>
 
 יש אומרים כי משבט התחילו המכות למצריים ... חשוב עשר מכות לשמונה שבועות, ארבעה בחודש שבט, וארבעה באדר, ושנים בחצי ניסן, ובחמשה עשר בניסן יצאו, כאשר שמע למצרים יחילו כשמע צור (ישעיה כג ה):
+<br/>
+<br/>
 
 *"There are those who say that the plagues began for the Egyptians in Shevat ... calculate that the ten plagues happened over eight weeks. Four in Shevat, four in Adar, and two in the first half of Nissan, and on the fifteenth of Nissan they left: 'When the report comes to Egypt, they will be pained at the report of Tzor (Yishayahu 23:5).'"*
+<br/>
+<br/>
 
 Regarding the question of when Yitro arrived in Egypt and declared *"now I know that Hashem is greater than any other god" (Shmot 18:11)*, the Torah tells us that the final plague of *makat bechorot* happened on the 15th of Nissan, and that *Matan Torah* happened seven weeks later (i.e. counting of the *omer* between Pesach to Shavuot). Did Yitro and company arrive before or after *Matan Torah*? This is a subject of debate as well:
+<br/>
+<br/>
 
 **Avodah Zarah 24a-b**
+<br/>
+<br/>
 
 ת״ש (שמות יח, יב) ויקח יתרו חתן משה עולה וזבחים לא-לקים יתרו נמי קודם מתן תורה הוה הניחא למ״ד יתרו קודם מתן תורה הוה אלא למ״ד יתרו לאחר מתן תורה הוה מאי איכא למימר אלא יתרו מישראל זבן:
+<br/>
+<br/>
 
 *"Come and hear: 'Yitro, the father-in-law of Moshe, took a burnt-offering and offerings for G-d" (Shmot 18:12). Yitro was not a Jew, and yet he brought offerings for G-d so how can we say that animals from non-Jews may not be used for korbanot? The incident with Yitro was before Matan Torah. Granted, this works out well according to the one who says that the incident with Yitro was before Matan Torah. But according to the one who says that the incident involving Yitro was after Matan Torah, what is there to say? Rather, it must be that Yitro purchased the animals from a Jew."*
+<br/>
+<br/>
 
-Since the Torah records Yitro's arrival before *Matan Torah* perhaps the simpler understanding is that he arrived less than seven weeks after
-*makat bechorot*. And as Rashi explains, even according to the opinion that Yitro arrived at Har Sinai after *Matan Torah*, it still must have occurred before the 20th of Iyyar of the following year, since on that date Bnai Yisrael left Har Sinai and traveled to Midbar Paran (Bemidbar 10:11-12). In fact, the midrash bounds it even earlier: after Shavuot, but before Yom HaKippurim:
+Since the Torah records Yitro's arrival before *Matan Torah* perhaps the simpler understanding is that he arrived less than seven weeks after *makat bechorot*. And as Rashi explains, even according to the opinion that Yitro arrived at Har Sinai after *Matan Torah*, it still must have occurred before the 20th of Iyyar of the following year, since on that date Bnai Yisrael left Har Sinai and traveled to Midbar Paran (Bemidbar 10:11-12). In fact, the midrash bounds it even earlier: after Shavuot, but before Yom HaKippurim:
+<br/>
+<br/>
 
 **Rashi to Shmot 18:13 d"h vayehi mimacharat**
+<br/>
+<br/>
 
-מוֹצָאֵי יוֹם הַכִּפּוּרִים הָיָה, כָּךְ שָׁנִינוּ בְּסִפְרֵי ... וְאֵין פָּרָשָׁה זוֹ כְתוּבָה כַּסֵּדֶר, שֶׁלֹּא נֶאֱמַר וַיְהִי מִמָּחֳרָת עַד שָׁנָה שְׁנִיָּה - אַף לְדִבְרֵי הָאוֹמֵר יִתְרוֹ קֹדֶם מַתַּן תּוֹרָה בָּא, שִׁלּוּחוֹ אֶל אַרְצוֹ לֹא הָיָה אֶלָּא עַד שָׁנָה שְׁנִיָּה - שֶׁהֲרֵי נֶאֱמַר כָּאן וַיְשַׁלַּח מֹשֶׁה אֶת חֹתְנוֹ, וּמָצִינוּ בְמַסַּע הַדְּגָלִים שֶׁאָמַר לוֹ מֹשֶׁה
-
-נֹסְעִים אֲנַחְנוּ אֶל הַמָּקוֹם וְגוֹ׳ (במדבר י כט), אַל נָא תַּעֲזֹב אֹתָנוּ״ (שם לא), וְאִם זוֹ קֹדֶם מַתַּן תּוֹרָה, מִשֶּׁשִּׁלְּחוֹ וְהָלַךְ הֵיכָן מָצִינוּ שֶׁחָזַר?:
+מוֹצָאֵי יוֹם הַכִּפּוּרִים הָיָה, כָּךְ שָׁנִינוּ בְּסִפְרֵי ... וְאֵין פָּרָשָׁה זוֹ כְתוּבָה כַּסֵּדֶר, שֶׁלֹּא נֶאֱמַר וַיְהִי מִמָּחֳרָת עַד שָׁנָה שְׁנִיָּה - אַף לְדִבְרֵי הָאוֹמֵר יִתְרוֹ קֹדֶם מַתַּן תּוֹרָה בָּא, שִׁלּוּחוֹ אֶל אַרְצוֹ לֹא הָיָה אֶלָּא עַד שָׁנָה שְׁנִיָּה - שֶׁהֲרֵי נֶאֱמַר כָּאן וַיְשַׁלַּח מֹשֶׁה אֶת חֹתְנוֹ, וּמָצִינוּ בְמַסַּע הַדְּגָלִים שֶׁאָמַר לוֹ מֹשֶׁה נֹסְעִים אֲנַחְנוּ אֶל הַמָּקוֹם וְגוֹ׳ (במדבר י כט), אַל נָא תַּעֲזֹב אֹתָנוּ״ (שם לא), וְאִם זוֹ קֹדֶם מַתַּן תּוֹרָה, מִשֶּׁשִּׁלְּחוֹ וְהָלַךְ הֵיכָן מָצִינוּ שֶׁחָזַר?:
+<br/>
+<br/>
 
 *"It was the day after Yom HaKippurim, as was taught in the Sifre i.e. the day Yitro gave Moshe advice about how to judge the nation ... this section is not written in the chronological order, for it doesn't say 'on the next day' until the second year. Even according to the one who says that Yitro came before Matan Torah, his being sent back to his land Midian was not until the second year, for it says here: 'Moshe sent his father-in-law' (Shmot 18:27), and we find by the journey of the flags that Yitro said to Moshe: 'We are going to the place ... do not leave us' (Bemidbar 10:29, 31), and if that was before Matan Torah, where do we see that he returned after being sent away?"*
+<br/>
+<br/>
 
 To summarize: *makat bechorot* happened on the 15th of Nissan. The most straightforward understanding would indicate the ten plagues happened over a couple of months, though there are traditions of up to a year. Likewise, the most straightforward understanding of how long after *Yetziat Mitzrayim* Yitro arrived is a couple of months, though there is a tradition of six months (Pesach to Yom HaKippurim); the absolute longest possible gap in time is less than a year:
+<br/>
+<br/>
 
 **Pesikta Zutreta Bemidbar 10:11**
+<br/>
+<br/>
 
 מלמד שעשו ישראל במדבר שנים עשר חדש פחות עשרה ימים שנאמר (שמות י״ט:א׳) בחדש השלישי לצאת בני ישראל מארץ מצרים ביום הזה באו מדבר סיני:
+<br/>
+<br/>
 
 *"This teaches that Yisrael were in the Sinai desert for twelve months minus ten days, as it says: 'In the third month from when Bnai Yisrael left the land of Egypt - on that day they came to Midbar Sinai."*
+<br/>
+<br/>
 
 !(images/media/image6.png){width="5.5270494313210845in" height="1.7447922134733158in"}
 
 **341.** **Devarim 22:6-7.**
 
 **342.** The Talmud sees halachic significance in the word choice of *tzippor* as opposed to *'of*, which does not contradict other, aggadic motivations for using *tzippor* specifically:
+<br/>
+<br/>
 
 **Hullin 139b**
+<br/>
+<br/>
 
 עוף טמא פטור מלשלח: מנה״מ אמר רבי יצחק דאמר קרא כי יקרא קן צפור לפניך עוף משמע לן בין טהור בין טמא צפור טהור אשכחן דאיקרי צפור טמא לא אשכחן דאיקרי צפור:
+<br/>
+<br/>
 
 *"An impure bird is exempt from being sent. How do we know this? Rabbi Yitzchak said, the pasuk says: 'If you come across a bird's nest'. 'Of' indicates pure and impure, while regarding 'Tzippor' we find that pure birds are called tzippor while impure birds are not called tzippor."*
 
 **343.** **Vayikra Rabbah 27:11.**
 
 **344.** **Rabbeinu Bahaye Devarim 22:7 d"h shaliah teshalah et ha'em**
+<br/>
+<br/>
 
 ויש עוד דעת אחרת, שיש בקיום מצוה זו התעוררות רחמים על כל העולם, והוא כי מתוך שהוא משלח את האם הנה היא מצטערת ודואגת על חרבן קנה ורחוק בניה ומצטערת והולכת ורוצה לאבד את עצמה, ומתוך צערה הגדול השר הממונה על העופות מבקש רחמים מהקב״ה, ואז הקב״ה שכתוב בו (תהילים קמה, ט) ורחמיו על כל מעשיו ממשיך שפע הרחמים על כל המצטערים והצריכים רחמים ומרחם עליהם. נמצאת אומר שהמקיים מצוה זו ומשלח הוא סבה לעורר רחמים על כל העולם וטוב לו עמהם, וזהו שאמר למען ייטב לך והארכת ימים, כלומר אותו השלוח יהיה לטוב לך והארכת ימים עליו, כי אריכות ימים בסבת הרחמים:
+<br/>
+<br/>
 
 *"But there is another opinion i.e. the Kabbalistic one found in Tikkunei HaZohar 23a, namely that in the fulfillment of this mitzvah there is an awakening of mercy for the entire world, and it is because when he sends away the mother she is distressed and worried about the destruction of her nest and being separated from her children, and she is distressed and goes and wants to kill herself, and from her great distress the angel who is appointed over the birds asks for mercy from HaKadosh Baruch Hu, and then HaKadosh Baruch Hu, about whom it is written: 'His mercy is on all of His creations' (Tehillim 145:9), draws down the influence of mercy among all those who are in distress and in need of mercy, and is merciful upon them. Which is to say, that whoever fulfills this mitzvah and sends the mother away, that is the reason that mercy is awakened for the whole world, and it is good for him regarding them, and this is what it means when it says: 'So that it will be good for you, and so that you shall have a lengthening of days', a lengthening of days due to this mercy which is drawn down."*
 
 **345.** Only two other mitzvot guarantee long life as a reward: the need to have fair weights (Devarim 25:13-16) and the injunction to honor one's parents (Shmot 20:11; Devarim 5:15). One midrashic explanation for this revolves around the tension between the simplicity and ease of fulfilling *shiluach haken* compared to the difficulty in honoring one's parents:
+<br/>
+<br/>
 
 **Devarim Rabbah 6:2**
+<br/>
+<br/>
 
 זֶה שֶׁאָמַר הַכָּתוּב (משלי ה, ו): אֹרַח חַיִּים פֶּן תְּפַלֵּס נָעוּ מַעְגְּלֹתֶיהָ לֹא תֵדָע. מַהוּ אֹרַח חַיִּים פֶּן תְּפַלֵּס, אָמַר רַבִּי אַבָּא בַּר כַּהֲנָא, אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לֹא תְהֵא יוֹשֵׁב וּמְשַׁקֵּל בְּמִצְווֹתֶיהָ שֶׁל תּוֹרָה, כָּעִנְיָן שֶׁנֶּאֱמַר (ישעיה מ, יב): וְשָׁקַל בַּפֶּלֶס הָרִים, לֹא תְהֵא אוֹמֵר הוֹאִיל וְהַמִּצְוָה הַזּוֹ גְּדוֹלָה אֲנִי עוֹשֶׂה אוֹתָהּ שֶׁשְֹּׂכָרָהּ מְרֻבֶּה, וְהוֹאִיל וְזוֹ מִצְוָה קַלָּה אֵינִי עוֹשֶׂה אוֹתָהּ, מֶה עָשָׂה הַקָּדוֹשׁ בָּרוּךְ הוּא לֹא גִּלָּה לַבְּרִיּוֹת מַהוּ מַתַּן שְׂכָרָהּ שֶׁל כָּל מִצְוָה וּמִצְוָה, כְּדֵי שֶׁיַּעֲשׂוּ כָּל הַמִּצְווֹת בְּתֹם, מִנַּיִן, שֶׁנֶּאֱמַר: נָעוּ מַעְגְּלֹתֶיהָ לֹא תֵדָע ... כָּךְ לֹא גִּלָּה הַקָּדוֹשׁ בָּרוּךְ הוּא מַתַּן שְׂכָרָן שֶׁל מִצְווֹת, חוּץ מִשְׁתֵּי מִצְווֹת, הַחֲמוּרָה שֶׁבַּחֲמוּרוֹת וְהַקַּלָּה שֶׁבַּקַּלּוֹת, כִּבּוּד אָב וָאֵם, חֲמוּרָה שֶׁבַּחֲמוּרוֹת, וּמַתַּן שְׂכָרָהּ אֲרִיכוּת יָמִים, שֶׁנֶּאֱמַר (שמות כ, יב): כַּבֵּד אֶת אָבִיךָ וְאֶת אִמֶּךָ לְמַעַן יַאֲרִכוּן יָמֶיךָ. וְהַקַּלָּה, שִׁלּוּחַ הַקֵּן, וּמַהוּ שְׂכָרָהּ, אֲרִיכוּת יָמִים, שֶׁנֶּאֱמַר (דברים כב, ז): שַׁלֵּחַ תְּשַׁלַּח אֶת הָאֵם וגו׳ וְהַאֲרַכְתָּ יָמִים, הֱוֵי כִּי יִקָּרֵא קַן צִפּוֹר:
+<br/>
+<br/>
 
 *"This is as it says: 'She does not chart a way of life, her course meanders due to lack of knowledge' (Mishlei 5:6). What does: 'She does not chart a way of life' mean? Rabbi Abba Bar Kahana said, HaKadosh Baruch Hu said, do not sit and weigh the mitzvot of the Torah, as it says: 'And weighs the chart of the mountains' (Yishayahu 40:12), so that you do not come to say, this mitzvah is great so I will do it for its reward is great, but that mitzvah is small so I will not do it. What did HaKadosh Baruch Hu do? He did not reveal to the creations what the reward for each mitzvah is, except for two: the most difficult to fulfill and the easiest to fulfill. Honoring one's parents is the most difficult, and its reward is a lengthening of days, as it says: 'Honor your father and your mother so that you shall experience a lengthening of days' (Shmot 20:12). And the easiest is shiluach haken, and what is its reward? Also a lengthening of days, as it says: 'Send away the mother ... so that you shall have a lengthening of days'. This is: 'If you come across a bird's nest.'"*
+<br/>
+<br/>
 
 **Tanchuma Yelamdenu Ki Teitzei 2**
+<br/>
+<br/>
 
 ומה שכר שלוח הקן, שכרה אריכת ימים. שכר מצות שיש בהן חסרון וטרח והחיית נפשו, על אחת כמה וכמה. לפיכך לא פרש הקדוש ברוך הוא שכר עושי מצוה בתורה, שיהיו ישראל עושין אותן מעצמן, להרבות שכר. שכך שנינו (אבות א, ג), אל תהיו כעבדים המשמשין את הרב על מנת לקבל פרס, אלא הוו כעבדים המשמשין את הרב שלא על מנת לקבל פרס:
+<br/>
+<br/>
 
 *"If the reward for shiluach haken is a long life, the reward for a mitzvah which requires loss and effort and livelihood - how much more so. This is why HaKadosh Baruch Hu did not reveal the reward of those who do mitzvot in the Torah, so that Yisrael would do them on their own, in order to increase reward. As was taught similarly (Avot 1:3): Do not be like slaves who serve their master to receive a reward, but rather be like slaves who serve their master not in order to receive a reward."*
 
 **346.** **Yalkut Shimoni on Nach Remez 31**
+<br/>
+<br/>
 
 הברכה אחרונה היתה גדולה מן הראשונה שנאמר ביום השמיני שלח את העם וגו׳ וילכו לאהליהם, שמצאו נשותיהם בטהרה. שמחים שנהנו מזיו השכינה, וטובי לב שכל אחד ואחד נתעברה אשתו בן זכר, על כל הטובה שיצאה בת קול ואמרה להם כלכם מזומנים לחיי העולם הבא:
+<br/>
+<br/>
 
 *"The last blessing was even greater than the first, as it says: 'On the eighth day he sent the nation ... and they went to their tents' (Melachim Aleph 8:66) - they found their wives were pure. 'Happy' that they had enjoyed the radiance of the Shechinah, 'of good heart' because each and every one's wife became pregnant with a male child, 'for all the good' that a Bat Kol went out and said to them: You are all welcome into the World to Come."*
 
 **347.** **Chessed L'Avraham, Ma'ayan 2 Sha'ar 63**
+<br/>
+<br/>
 
 ובמלת וישמרך צריך לכוון לברכה שיתן האל יתברך בנים לישראל, שאין לך שמירה לאדם שלא ימחה שמו מישראל אלא בבנים, ובבנים נשמר מכל רע: (חסד לאברהם מעיין ב שער סג):
+<br/>
+<br/>
 
 *"And with the word 'and guard you' in Birkat Kohanim, he must have intention for the blessing that G-d, may He be blessed, should give children to Yisrael, for there is no greater protection for a man to ensure his name is not erased from Yisrael than children, and with children he will be guarded from all evil."*
 
 **348.** Similarly, if a person honors his parents by observing their teachings and living according to their values, that will ensure his own children, who grow up seeing how their father respects his parents, will do the same regarding his own teachings and values. This is why this same reward is also found by the mitzvah of *kibud av v'em*: it too ensures *arichut yamim*. This explanation removes the question which bothered the midrashim in **Note 100**; once we understand *arichut yamim* as a consequence and not a reward, its applicability to both honoring one's parents and educating your children becomes readily apparent.
-
-
 
 **349.** **Bemidbar 12:1-16.**
 
