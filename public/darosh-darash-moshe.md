@@ -876,7 +876,7 @@ In discussing the procedure the Sanhedrin is instructed to follow when administe
 
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
-רבי אלעזר אמר אתיא שריפה שריפה מבני אהרן מה להלן שריפת נשמה וגוף קיים אף כאן שריפת נשמה וגוף קיים ... ומאן דיליף מבני אהרן מנא ליה דכתי' (ויקרא י, ב) וימותו לפני ה' כעין מיתה. ואידך ההוא שריפה ממש הואי ומאי דכתיב וימותו דאתחיל בהו מגואי כעין מיתה דתניא אבא יוסי בן דוסתאי אומר שני חוטין של אש יצאו מבית קודש הקדשים ונחלקו לארבע ונכנסו שנים בחוטמו של זה ושנים בחוטמו של זה ושרפום והכתיב (ויקרא י, ב) ותאכל אותם אותם ולא בגדיהם׃**^[143]{.underline}^**
+רבי אלעזר אמר אתיא שריפה שריפה מבני אהרן מה להלן שריפת נשמה וגוף קיים אף כאן שריפת נשמה וגוף קיים ... ומאן דיליף מבני אהרן מנא ליה דכתי' (ויקרא י, ב) וימותו לפני ה' כעין מיתה. ואידך ההוא שריפה ממש הואי ומאי דכתיב וימותו דאתחיל בהו מגואי כעין מיתה דתניא אבא יוסי בן דוסתאי אומר שני חוטין של אש יצאו מבית קודש הקדשים ונחלקו לארבע ונכנסו שנים בחוטמו של זה ושנים בחוטמו של זה ושרפום והכתיב (ויקרא י, ב) ותאכל אותם אותם ולא בגדיהם׃**^[142b]{.underline}^**
 </div>
 <div style="flex: 1;">
 "Rabbi Elazar said, we derive the burning process of the Sanhedrin for capital cases from the burning of the sons of Aharon: just as there it was a burning of the soul but the body remained intact, so too here we should burn the soul but the body should remain intact ... where does this opinion relating to the sons of Aharon derive this from? It says: 'They died before Hashem' (Vayikra 10:2), like a natural death in that the body remains intact. But according to the other opinion which says that their bodies were burned, why does it say they died in a natural way? It means that the flame started inside them, similar to how natural death is within a person. As it was taught: Abba Yosi Ben Dostai says, two streams of fire went out from the Kodesh HaKodashim and split into four: two went into the nostrils of this one and two went into the nostrils of this one, and burned them both. Yet does it not say: 'It consumed them' (Vayikra 10:2)? Yes, but that can be understood to mean them, but not their clothes."**^[143]{.underline}^**
@@ -1170,7 +1170,7 @@ And what of Nadav and Avihus' guilt in their death - were they guilty of the sin
 
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
-וַיָּמָת נָדָב וַאֲבִיהוּא לִפְנֵי ה' (במדבר ג, ד), בְּכַמָּה מְקוֹמוֹת נִכְתְּבָה מִיתַת נָדָב וַאֲבִיהוּא, מְלַמֵּד שֶׁהָיָה צַעַר לִפְנֵי הַמָּקוֹם עֲלֵיהֶם, שֶׁהָיוּ בְּנֵי אַהֲרֹן חֲבִיבִים]{.underline}, וְכֵן הוּא אוֹמֵר (ויקרא י, ג): בִּקְרֹבַי אֶקָּדֵשׁ:**^[189]{.underline}^**
+וַיָּמָת נָדָב וַאֲבִיהוּא לִפְנֵי ה' (במדבר ג, ד), בְּכַמָּה מְקוֹמוֹת נִכְתְּבָה מִיתַת נָדָב וַאֲבִיהוּא, מְלַמֵּד שֶׁהָיָה צַעַר לִפְנֵי הַמָּקוֹם עֲלֵיהֶם, שֶׁהָיוּ בְּנֵי אַהֲרֹן חֲבִיבִים{.underline}, וְכֵן הוּא אוֹמֵר (ויקרא י, ג): בִּקְרֹבַי אֶקָּדֵשׁ:**^[189]{.underline}^**
 </div>
 <div style="flex: 1;">
 "'Nadav and Avihu died before Hashem' (Bemidbar 3:4). In several places the deaths of Nadav and Avihu are written, to teach that it was a source of distress before HaMakom, for the sons of Aharon were beloved, and similarly it says: 'I will be sanctified through My holy ones' (Vayikra 10:3)."**^[189]{.underline}^**
