@@ -1263,7 +1263,7 @@ Additionally, the language used to describe David is reminiscent of Kalev Ben Ye
 
 
 
-**[Notes for General Introduction]{.underline}**
+**[General Introduction]{.underline}**
 
 **127. Shmot Rabbah 29:9**
 
@@ -1492,7 +1492,9 @@ Moshe died eleven months after Mei Merivah on the seventh of the eleventh month 
 
 
 
-**[Notes for Part 1]{.underline}**
+**Part 1: Two Instead of Four**
+
+**[Introduction]{.underline}**
 
 **144.** Sanhedrin 52a.
 
