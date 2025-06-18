@@ -425,17 +425,9 @@ const DaroshDarashMoshePage: React.FC = () => {
               
               {/* Render hierarchical footnotes */}
               {daroshContent.footnoteStructure.map((chapter) => {
-                // Map footnote chapter ID to main content chapter ID
-                let chapterContext = '';
-                if (chapter.id.includes('chapter-i')) {
-                  chapterContext = 'chapter-i';
-                } else if (chapter.id.includes('chapter-ii')) {
-                  chapterContext = 'chapter-ii';
-                } else if (chapter.id.includes('chapter-iii')) {
-                  chapterContext = 'chapter-iii';
-                } else {
-                  chapterContext = 'general';
-                }
+                // Extract chapter context from footnote chapter ID
+                // footnotes-chapter-i -> chapter-i, footnotes-chapter-ii -> chapter-ii, etc.
+                const chapterContext = chapter.id.replace('footnotes-', '');
                 
                 return (
                   <div key={chapter.id} className="mb-8">
