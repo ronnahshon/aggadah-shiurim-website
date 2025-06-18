@@ -505,10 +505,10 @@ The first person to merit donning the crown of Kehunah is undoubtedly Aharon, ap
 
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
-דָּוִד נָמֵי מִמִּרְיָם קָאָתֵי דִּכְתִיב וַתָּמׇת עֲזוּבָה אֵשֶׁת כָּלֵב וַיִּקַּח לוֹ כָלֵב אֶת אֶפְרָת וַתֵּלֶד לוֹ אֶת חוּר (דברי הימים א ב, יט) וּכְתִיב וְדָוִד בֶּן אִישׁ אֶפְרָתִי וְגוֹ׳ (שמואל א יז, יב):**^[46]{.underline}^**
+דָּוִד נָמֵי מִמִּרְיָם קָאָתֵי דִּכְתִיב וַתָּמׇת עֲזוּבָה אֵשֶׁת כָּלֵב וַיִּקַּח לוֹ כָלֵב אֶת אֶפְרָת וַתֵּלֶד לוֹ אֶת חוּר (דברי הימים א ב, יט) וּכְתִיב וְדָוִד בֶּן אִישׁ אֶפְרָתִי וְגוֹ׳ (שמואל א יז, יב):**^[84]{.underline}^**
 </div>
 <div style="flex: 1;">
-David was also descended from Miriam, as it says: 'Azuvah died, and Kalev took Efrat as a wife, and she gave birth to Hur' (Divrei HaYamim Aleph 2:19), and it says: 'David was an Efratite' (Shmuel Aleph 17:12)**^[46]{.underline}^**
+David was also descended from Miriam, as it says: 'Azuvah died, and Kalev took Efrat as a wife, and she gave birth to Hur' (Divrei HaYamim Aleph 2:19), and it says: 'David was an Efratite' (Shmuel Aleph 17:12)**^[84]{.underline}^**
 </div>
 </div>
 
