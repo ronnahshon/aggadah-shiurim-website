@@ -388,19 +388,11 @@ function parseFootnotes(footnoteLines: string[]): {
         title: chapterTitle,
         sections: []
       };
-      continue;
-    }
-    
-    // Check for section header (e.g., "**[Notes for General Introduction]{.underline}**" or "**[Notes for Part 1]{.underline}**")
-    const sectionMatch = trimmedLine.match(/^\*\*\[Notes for ([^\]]+)\]\{\.underline\}\*\*$/);
-    if (sectionMatch) {
-      saveCurrentFootnote();
-      saveCurrentSection();
       
-      const sectionTitle = sectionMatch[1];
+      // Create a default section for the chapter since footnotes don't have explicit section headers
       currentSection = {
-        id: `footnotes-${sectionTitle.toLowerCase().replace(/\s+/g, '-')}`,
-        title: `Notes for ${sectionTitle}`,
+        id: `footnotes-chapter-${chapterIdSuffix}-all`,
+        title: chapterTitle,
         footnotes: []
       };
       continue;
