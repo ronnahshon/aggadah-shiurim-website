@@ -156,8 +156,10 @@ export function parseDaroshDarashMosheContent(
       if (partMatch) {
         const partNum = partMatch[1];
         const partTitle = partMatch[2];
+        // Include chapter context in the part ID to make it unique
+        const chapterPrefix = currentChapter ? currentChapter.id : 'unknown';
         currentPart = {
-          id: `part-${partNum}`,
+          id: `${chapterPrefix}-part-${partNum}`,
           title: `Part ${partNum}: ${partTitle}`,
           introduction: '',
           sections: []
@@ -181,9 +183,12 @@ export function parseDaroshDarashMosheContent(
       if (sectionMatch) {
         const sectionTitle = sectionMatch[1];
         // Generate a simple ID from the title
-        const sectionId = sectionTitle.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+        const baseSectionId = sectionTitle.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+        // Include chapter and part context in the section ID to make it unique
+        const chapterPrefix = currentChapter ? currentChapter.id : 'unknown';
+        const partPrefix = currentPart ? currentPart.id : `${chapterPrefix}-unknown-part`;
         currentSection = {
-          id: sectionId,
+          id: `${partPrefix}-${baseSectionId}`,
           title: sectionTitle,
           content: ''
         };
@@ -201,8 +206,11 @@ export function parseDaroshDarashMosheContent(
       if (sectionMatch) {
         const sectionNum = sectionMatch[1];
         const sectionTitle = sectionMatch[2];
+        // Include chapter and part context in the section ID to make it unique
+        const chapterPrefix = currentChapter ? currentChapter.id : 'unknown';
+        const partPrefix = currentPart ? currentPart.id : `${chapterPrefix}-unknown-part`;
         currentSection = {
-          id: `section-${sectionNum}`,
+          id: `${partPrefix}-section-${sectionNum}`,
           title: `${sectionNum}. ${sectionTitle}`,
           content: ''
         };
