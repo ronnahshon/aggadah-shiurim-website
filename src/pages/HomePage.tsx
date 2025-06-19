@@ -102,26 +102,16 @@ const HomePage: React.FC = () => {
         ogType="website"
       />
 
-      {/* Welcome header at very top */}
-      <section className="py-8 bg-parchment-texture bg-cover bg-center">
-        <div className="content-container">
-          <div className="text-center">
-            <h1 className="text-4xl md:text-5xl font-bold text-biblical-burgundy animate-fade-in">
-              Welcome to Midrash Aggadah
-            </h1>
-          </div>
-        </div>
-      </section>
-      
       {/* Main content section */}
       <section className="py-12 bg-parchment-texture bg-cover bg-center">
         <div className="content-container">
           <div className="text-center mb-12">
             <p className="text-lg md:text-xl max-w-4xl mx-auto mb-6 text-biblical-brown animate-fade-in">
-              A website dedicated to spreading the timeless wisdom and profound teachings of חז״ל.
+              Welcome to Midrash Aggadah, a website dedicated to spreading the timeless wisdom and profound teachings of חז״ל.
             </p>
             <p className="text-lg max-w-3xl mx-auto mb-12 text-biblical-brown animate-fade-in">
-              Listen to hundreds of free audio shiurim on Ein Yaakov (Talmud), Tanach and other Midrashim.
+              Search below to explore hundreds of free audio shiurim,<br />
+              or read through <Link to="/sefarim" className="text-biblical-burgundy hover:text-biblical-burgundy/80 underline font-medium">original sefarim</Link> on midrash aggadah (in Hebrew and English).
             </p>
           </div>
 
@@ -247,11 +237,13 @@ const HomePage: React.FC = () => {
       </section>
 
       {/* Sample shiurim section */}
-      <section className="py-16">
+      <section className="py-1">
         <div className="content-container">
-          <h2 className="text-2xl md:text-3xl font-semibold mb-12 text-center text-biblical-burgundy">
-            Browse Sample Shiurim
-          </h2>
+          <div className="text-center mb-12">
+            <p className="text-lg max-w-3xl mx-auto text-biblical-brown animate-fade-in">
+              Or, start by browsing through some sample shiurim.
+            </p>
+          </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
             {featuredShiurim.map(shiur => (
               <div key={shiur.id} className="group bg-white/90 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 p-6 border border-biblical-gold/20 hover:border-biblical-gold/40">
@@ -319,29 +311,7 @@ const HomePage: React.FC = () => {
         </div>
       </section>
 
-      {/* Sefarim section */}
-      <section className="py-12 bg-parchment-light">
-        <div className="content-container">
-          <div className="text-center">
-            <p className="text-lg max-w-3xl mx-auto text-biblical-brown">
-              Explore Sefarim which develop original חידושים on various teachings. In Hebrew and English.
-            </p>
-          </div>
-        </div>
-      </section>
 
-      {/* Large image at bottom */}
-      <section className="py-6">
-        <div className="content-container">
-          <div className="max-w-4xl mx-auto">
-            <img 
-              src="/images/moshe_aharon_hur_img.png" 
-              alt="Moshe, Aharon, and Hur"
-              className="w-full h-auto rounded-lg shadow-lg"
-            />
-          </div>
-        </div>
-      </section>
     </div>
   );
 };
