@@ -193,8 +193,7 @@ const Sidebar: React.FC = () => {
     >
       <div className="flex flex-col h-full">
         {/* Header with toggle button */}
-        <div className="h-16 flex items-center justify-between p-4 border-b border-parchment-dark">
-          {isOpen && <h1 className="text-biblical-burgundy font-semibold">Midrash Aggadah</h1>}
+        <div className="h-16 flex items-center justify-end p-4 border-b border-parchment-dark">
           <button 
             onClick={toggle} 
             className="p-1.5 rounded-md hover:bg-parchment-dark transition-colors"

@@ -944,7 +944,7 @@ const MidrashHaaliyahPage: React.FC = () => {
                     
                     {/* Section Content */}
                     <div 
-                      className="prose prose-lg max-w-none text-gray-800 text-justify"
+                      className="prose prose-lg max-w-none text-gray-800 text-right"
                       dangerouslySetInnerHTML={{ 
                         __html: renderContentWithFootnotes(section.content) 
                       }}
