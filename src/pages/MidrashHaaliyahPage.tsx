@@ -856,7 +856,7 @@ const MidrashHaaliyahPage: React.FC = () => {
         {midrashContent.introduction && (
           <div className="introduction-section mb-12 bg-white/70 rounded-lg p-6 border border-biblical-gold/20">
             <div className="max-w-none text-gray-800 font-hebrew text-lg leading-relaxed">
-              <p className="mb-0 text-justify">
+              <p className="mb-0 text-right">
                 {midrashContent.introduction.map(line => cleanMarkdownEscapes(line)).join(' ')}
               </p>
             </div>
