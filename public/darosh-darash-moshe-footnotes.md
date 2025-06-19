@@ -3506,13 +3506,13 @@ Metatron is shown to be nothing more than a servant of the one true G-d and lash
 to Maharsha, both from the aspect of the Divine (back vs face) and from the aspect of the prophet (obscure vs clear):
 
 -------------------------- ----------------------- ---------------------
-**-**                 **His Back**           **His Face**
+-                 His Back           His Face
 
-**Obscure Looking Glass    ***128.** "They saw the  ***129.** "I saw Hashem
-(not Moshe)**        G-d of Yisrael" (Shmot  sitting on a throne" 24:1)*            (Yishayahu 6:1)*
+Obscure Looking Glass    "They saw the  "I saw Hashem
+(not Moshe)        G-d of Yisrael" (Shmot  sitting on a throne" 24:1)            (Yishayahu 6:1)
 
-**Transparent Looking     ***130.** "I shall pass   ***131.** "Man cannot
-Glass (Moshe)**       all My goodness before  see My face and live" you" (Shmot 33:19)*      (Shmot 33:20)*
+Transparent Looking     "I shall pass   "Man cannot
+Glass (Moshe)       all My goodness before  see My face and live" you" (Shmot 33:19)      (Shmot 33:20)
 -------------------------- ----------------------- ---------------------
 <br/>
 <br/>
