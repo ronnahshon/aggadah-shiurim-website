@@ -21,7 +21,8 @@ const staticPages = [
   { url: '/search', priority: '0.8', changefreq: 'monthly' },
   { url: '/sefarim', priority: '0.8', changefreq: 'monthly' },
   { url: '/about', priority: '0.7', changefreq: 'monthly' },
-  { url: '/sefer/midrash-haaliyah', priority: '0.8', changefreq: 'monthly' }
+  { url: '/sefer/midrash-haaliyah', priority: '0.8', changefreq: 'monthly' },
+  { url: '/sefer/darosh-darash-moshe', priority: '0.8', changefreq: 'monthly' }
 ];
 
 function generateSitemap() {

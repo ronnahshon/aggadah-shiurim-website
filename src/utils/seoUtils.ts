@@ -198,6 +198,12 @@ export const generateMetaDescription = (page: string, shiur?: Shiur): string => 
     case 'sefarim':
       return "Access complete sefarim with our unique collection of midrashic texts and commentaries. Explore classical Jewish literature with comprehensive source materials.";
     
+    case 'sefer':
+      if (shiur && (shiur as any).includes && (shiur as any).includes('darosh-darash-moshe')) {
+        return "Read Darosh Darash Moshe - A comprehensive work exploring the life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah. Features three ascents with full Hebrew text, footnotes, and commentary.";
+      }
+      return "Explore this complete sefer from our midrash aggadah collection with comprehensive Hebrew texts and commentary.";
+    
     case 'about':
       return "Learn about the Midrash Aggadah project, our mission to make ancient Jewish wisdom accessible, and the people behind this comprehensive learning resource.";
     
@@ -228,6 +234,24 @@ export const generateKeywords = (page: string, shiur?: Shiur): string[] => {
     
     case 'sefarim':
       return [...baseKeywords, 'sefarim', 'books', 'texts', 'midrashic literature'];
+    
+    case 'sefer':
+      if (shiur && (shiur as any).includes && (shiur as any).includes('darosh-darash-moshe')) {
+        return [
+          ...baseKeywords,
+          'darosh darash moshe',
+          'moshe rabbeinu',
+          'three ascents',
+          'classical sefarim',
+          'hebrew texts',
+          'footnotes',
+          'commentary',
+          'jewish biography',
+          'משה רבינו',
+          'דרוש דרש משה'
+        ];
+      }
+      return [...baseKeywords, 'sefer', 'text', 'classical literature'];
     
     case 'shiur':
       if (shiur) {

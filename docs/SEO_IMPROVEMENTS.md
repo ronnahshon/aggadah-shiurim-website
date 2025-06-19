@@ -26,9 +26,9 @@ This document outlines the comprehensive SEO improvements implemented to boost s
 ### 3. XML Sitemap Generation
 - **Automated Generation**: Script generates sitemap.xml with all pages
 - **Coverage**:
-  - 6 static pages (home, catalog, search, sefarim, about, midrash-haaliyah)
+  - 7 static pages (home, catalog, search, sefarim, about, midrash-haaliyah, darosh-darash-moshe)
   - 238 individual shiur pages
-  - Total: 244 URLs indexed
+  - Total: 245 URLs indexed
 - **Build Integration**: Sitemap generation included in build process
 - **Priorities**: Different priority levels for different page types
 
@@ -68,6 +68,12 @@ This document outlines the comprehensive SEO improvements implemented to boost s
 - **Title**: "Browse Shiurim Catalog"
 - **Focus**: Discovery and organization keywords
 - **Structure**: Table of contents with anchor links for better navigation
+
+### Sefer Pages (`/sefer/:seferId`)
+- **Midrash HaAliyah**: Optimized for original midrashic content
+- **Darosh Darash Moshe**: Comprehensive SEO with Book schema, breadcrumbs, and specialized keywords
+- **Dynamic Meta**: Page-specific descriptions and keywords based on sefer content
+- **Rich Schema**: Book structured data with author, publisher, and topic information
 
 ### Other Pages
 - Search, Sefarim, About pages all have optimized meta tags and descriptions

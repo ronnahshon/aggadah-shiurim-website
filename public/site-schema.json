@@ -158,6 +158,12 @@
           "position": 4,
           "name": "Sefarim",
           "item": "https://midrashaggadah.com/sefarim"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Darosh Darash Moshe",
+          "item": "https://midrashaggadah.com/sefer/darosh-darash-moshe"
         }
       ]
     }

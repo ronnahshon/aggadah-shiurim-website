@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { ArrowUp, Download, Home } from 'lucide-react';
 import { Helmet } from 'react-helmet-async';
 import { useNavigate } from 'react-router-dom';
+import SEOHead from '@/components/seo/SEOHead';
+import { generateBreadcrumbStructuredData } from '@/utils/seoUtils';
 import {
   parseDaroshDarashMosheContent,
   generateTableOfContents,
@@ -220,13 +222,62 @@ const DaroshDarashMoshePage: React.FC = () => {
     );
   }
 
+  // SEO Configuration
+  const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
+  const canonicalUrl = `${baseUrl}/sefer/darosh-darash-moshe`;
+  
+  const breadcrumbs = [
+    { name: 'Home', url: '/' },
+    { name: 'Sefarim', url: '/sefarim' },
+    { name: 'Darosh Darash Moshe' }
+  ];
+  
+  const breadcrumbStructuredData = generateBreadcrumbStructuredData(breadcrumbs, baseUrl);
+
+  const seferStructuredData = {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Darosh Darash Moshe",
+    "author": {
+      "@type": "Person",
+      "name": "Midrash Aggadah Author"
+    },
+    "description": "The life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah - A comprehensive work exploring three ascents of Moshe Rabbeinu.",
+    "genre": "Religious Text",
+    "inLanguage": ["he", "en"],
+    "url": canonicalUrl,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Midrash Aggadah"
+    },
+    "about": [
+      {
+        "@type": "Person",
+        "name": "Moshe Rabbeinu"
+      },
+      {
+        "@type": "Thing",
+        "name": "Midrash Aggadah"
+      }
+    ]
+  };
+
+  const keywords = [
+    'darosh darash moshe', 'moshe rabbeinu', 'midrash aggadah', 'jewish texts', 
+    'torah study', 'classical sefarim', 'hebrew texts', 'jewish learning',
+    'three ascents', 'moshe', 'torah', 'sefarim', 'דרוש דרש משה', 'משה רבינו'
+  ];
+
   return (
     <>
-      <Helmet>
-        <title>Darosh Darash Moshe - Midrash Aggadah</title>
-        <meta name="description" content="The life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah - A comprehensive work exploring three ascents of Moshe Rabbeinu." />
-        <link rel="canonical" href="https://www.midrashaggadah.com/sefer/darosh-darash-moshe" />
-      </Helmet>
+      <SEOHead
+        title="Darosh Darash Moshe"
+        description="The life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah - A comprehensive work exploring three ascents of Moshe Rabbeinu. Full text with footnotes and commentary."
+        keywords={keywords}
+        canonicalUrl={canonicalUrl}
+        ogType="book"
+        structuredData={[seferStructuredData, breadcrumbStructuredData]}
+      />
 
       {/* Note: No Layout wrapper as specified - no global side menu */}
       <div className="min-h-screen bg-gradient-to-br from-biblical-cream via-biblical-sand to-biblical-cream">
@@ -309,7 +360,7 @@ const DaroshDarashMoshePage: React.FC = () => {
           >
             <div className="w-full">
               {/* Back to Sefarim Button */}
-              <div className="mb-6">
+              <div className="mb-6 flex justify-center">
                 <button
                   onClick={() => navigate('/sefarim')}
                   className="flex flex-col items-center gap-1 p-3 text-biblical-brown hover:text-biblical-brown/80 hover:bg-biblical-cream/50 rounded-lg transition-all duration-200 group"

@@ -31,6 +31,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://midrashaggadah.com/sefer/darosh-darash-moshe</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-1</loc>
     <priority>0.8</priority>
     <changefreq>yearly</changefreq>

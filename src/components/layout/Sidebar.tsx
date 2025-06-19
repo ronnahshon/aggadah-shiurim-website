@@ -111,8 +111,8 @@ const Sidebar: React.FC = () => {
 
   const navigationLinks = [
     { to: '/', icon: Home, label: 'Home Page' },
-    { to: '/catalog', icon: Book, label: 'Shiurim Catalog' },
     { to: '/sefarim', icon: BookOpen, label: 'Original Sefarim' },
+    { to: '/catalog', icon: Book, label: 'Shiurim Catalog' },
     { to: '/about', icon: Info, label: 'About Midrash Aggadah' },
   ];
 
