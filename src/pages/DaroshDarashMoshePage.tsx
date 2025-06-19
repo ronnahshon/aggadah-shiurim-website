@@ -388,13 +388,43 @@ const DaroshDarashMoshePage: React.FC = () => {
 
               <div className="text-center">
                 {/* Title */}
-                <div className="text-center mb-8">
+                <div className="relative text-center mb-8">
+                  {/* Desktop Layout - Button to the left */}
+                  <button
+                    onClick={() => {
+                      const link = document.createElement('a');
+                      link.href = '/darosh_darash_moshe_enhanced.pdf';
+                      link.download = 'darosh_darash_moshe_enhanced.pdf';
+                      link.click();
+                    }}
+                    className="no-print hidden md:flex absolute left-0 top-1/2 transform -translate-y-1/2 items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
+                    title="הורד כ-PDF"
+                  >
+                    <Download size={20} />
+                    <span className="font-hebrew">הורד PDF</span>
+                  </button>
+                  
                   <h1 className="text-4xl font-bold text-biblical-brown mb-2">
                     {daroshContent.title}
                   </h1>
                   <p className="text-xl text-biblical-brown/80 italic">
                     The life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah
                   </p>
+                  
+                  {/* Mobile Layout - Button below header */}
+                  <button
+                    onClick={() => {
+                      const link = document.createElement('a');
+                      link.href = '/darosh_darash_moshe_enhanced.pdf';
+                      link.download = 'darosh_darash_moshe_enhanced.pdf';
+                      link.click();
+                    }}
+                    className="no-print flex md:hidden items-center gap-2 px-4 py-2 mt-4 mx-auto bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
+                    title="הורד כ-PDF"
+                  >
+                    <Download size={20} />
+                    <span className="font-hebrew">הורד PDF</span>
+                  </button>
                 </div>
 
               {/* General Introduction */}
