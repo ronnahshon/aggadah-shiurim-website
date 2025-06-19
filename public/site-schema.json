@@ -49,16 +49,11 @@
       "publisher": {
         "@id": "https://midrashaggadah.com/#organization"
       },
-      "potentialAction": [
-        {
-          "@type": "SearchAction",
-          "target": {
-            "@type": "EntryPoint",
-            "urlTemplate": "https://midrashaggadah.com/search?q={search_term_string}"
-          },
-          "query-input": "required name=search_term_string"
-        }
-      ],
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://midrashaggadah.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
       "mainEntity": {
         "@type": "ItemList",
         "name": "Shiurim Collection",
@@ -132,6 +127,45 @@
       "spatialCoverage": "Worldwide"
     },
     {
+      "@type": "ItemList",
+      "@id": "https://midrashaggadah.com/#navigation",
+      "name": "Site Navigation",
+      "description": "Main navigation structure for Midrash Aggadah website",
+      "itemListElement": [
+        {
+          "@type": "SiteNavigationElement",
+          "position": 1,
+          "name": "Home",
+          "url": "https://midrashaggadah.com/"
+        },
+        {
+          "@type": "SiteNavigationElement", 
+          "position": 2,
+          "name": "Darosh Darash Moshe",
+          "url": "https://midrashaggadah.com/sefer/darosh-darash-moshe",
+          "description": "A comprehensive work exploring the life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 3,
+          "name": "Shiurim Catalog",
+          "url": "https://midrashaggadah.com/catalog"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 4,
+          "name": "Sefarim Library",
+          "url": "https://midrashaggadah.com/sefarim"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 5,
+          "name": "Search",
+          "url": "https://midrashaggadah.com/search"
+        }
+      ]
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://midrashaggadah.com/#breadcrumb",
       "itemListElement": [
@@ -144,26 +178,26 @@
         {
           "@type": "ListItem",
           "position": 2,
+          "name": "Darosh Darash Moshe",
+          "item": "https://midrashaggadah.com/sefer/darosh-darash-moshe"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
           "name": "Catalog", 
           "item": "https://midrashaggadah.com/catalog"
         },
         {
           "@type": "ListItem",
-          "position": 3,
+          "position": 4,
           "name": "Search",
           "item": "https://midrashaggadah.com/search"
         },
         {
           "@type": "ListItem",
-          "position": 4,
+          "position": 5,
           "name": "Sefarim",
           "item": "https://midrashaggadah.com/sefarim"
-        },
-        {
-          "@type": "ListItem",
-          "position": 5,
-          "name": "Darosh Darash Moshe",
-          "item": "https://midrashaggadah.com/sefer/darosh-darash-moshe"
         }
       ]
     }

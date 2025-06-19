@@ -70,8 +70,12 @@ This document outlines the comprehensive SEO improvements implemented to boost s
 - **Structure**: Table of contents with anchor links for better navigation
 
 ### Sefer Pages (`/sefer/:seferId`)
+- **Darosh Darash Moshe (FEATURED)**: 🏆 Highest priority content page (0.95) with comprehensive SEO optimization
+  - Enhanced Book schema with multiple genres and audience targeting
+  - Featured positioning in site navigation and breadcrumbs
+  - Enhanced meta descriptions highlighting "featured sefer" status
+  - Premium keyword targeting with "featured" and "comprehensive resource" terms
 - **Midrash HaAliyah**: Optimized for original midrashic content
-- **Darosh Darash Moshe**: Comprehensive SEO with Book schema, breadcrumbs, and specialized keywords
 - **Dynamic Meta**: Page-specific descriptions and keywords based on sefer content
 - **Rich Schema**: Book structured data with author, publisher, and topic information
 

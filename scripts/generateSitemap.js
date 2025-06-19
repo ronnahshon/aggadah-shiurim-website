@@ -14,15 +14,15 @@ const shiurimData = JSON.parse(fs.readFileSync(shiurimDataPath, 'utf8'));
 // Base URL - you should update this to your actual domain
 const BASE_URL = 'https://midrashaggadah.com';
 
-// Static pages
+// Static pages - Darosh Darash Moshe is highest priority content page
 const staticPages = [
   { url: '', priority: '1.0', changefreq: 'weekly' },
+  { url: '/sefer/darosh-darash-moshe', priority: '0.95', changefreq: 'weekly' },
   { url: '/catalog', priority: '0.9', changefreq: 'weekly' },
-  { url: '/search', priority: '0.8', changefreq: 'monthly' },
   { url: '/sefarim', priority: '0.8', changefreq: 'monthly' },
-  { url: '/about', priority: '0.7', changefreq: 'monthly' },
   { url: '/sefer/midrash-haaliyah', priority: '0.8', changefreq: 'monthly' },
-  { url: '/sefer/darosh-darash-moshe', priority: '0.8', changefreq: 'monthly' }
+  { url: '/search', priority: '0.7', changefreq: 'monthly' },
+  { url: '/about', priority: '0.6', changefreq: 'monthly' }
 ];
 
 function generateSitemap() {

@@ -44,7 +44,7 @@ export const BreadcrumbSchema: React.FC = () => {
           break;
         case 'sefer':
           if (pathSegments[index + 1] === 'darosh-darash-moshe') {
-            name = 'Darosh Darash Moshe';
+            name = 'Darosh Darash Moshe - Featured Sefer';
             // Skip the next segment since we handled it
             index++;
             currentPath += `/${pathSegments[index]}`;

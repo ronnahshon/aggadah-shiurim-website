@@ -238,14 +238,16 @@ const DaroshDarashMoshePage: React.FC = () => {
     "@context": "https://schema.org",
     "@type": "Book",
     "name": "Darosh Darash Moshe",
+    "alternateName": "Featured Sefer - Darosh Darash Moshe",
     "author": {
       "@type": "Person",
       "name": "Midrash Aggadah Author"
     },
-    "description": "The life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah - A comprehensive work exploring three ascents of Moshe Rabbeinu.",
-    "genre": "Religious Text",
+    "description": "Our featured sefer! The life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah - A comprehensive work exploring three ascents of Moshe Rabbeinu. The most comprehensive resource on Moshe Rabbeinu's spiritual journey.",
+    "genre": ["Religious Text", "Jewish Literature", "Classical Sefarim"],
     "inLanguage": ["he", "en"],
     "url": canonicalUrl,
+    "mainEntityOfPage": canonicalUrl,
     "publisher": {
       "@type": "Organization",
       "name": "Midrash Aggadah"
@@ -253,26 +255,39 @@ const DaroshDarashMoshePage: React.FC = () => {
     "about": [
       {
         "@type": "Person",
-        "name": "Moshe Rabbeinu"
+        "name": "Moshe Rabbeinu",
+        "sameAs": "https://en.wikipedia.org/wiki/Moses"
       },
       {
         "@type": "Thing",
         "name": "Midrash Aggadah"
+      },
+      {
+        "@type": "Thing",
+        "name": "Three Ascents"
       }
-    ]
+    ],
+    "audience": {
+      "@type": "Audience",
+      "audienceType": "Jewish Learning Community"
+    },
+    "isAccessibleForFree": true,
+    "learningResourceType": "Complete Text"
   };
 
   const keywords = [
-    'darosh darash moshe', 'moshe rabbeinu', 'midrash aggadah', 'jewish texts', 
-    'torah study', 'classical sefarim', 'hebrew texts', 'jewish learning',
-    'three ascents', 'moshe', 'torah', 'sefarim', 'דרוש דרש משה', 'משה רבינו'
+    'darosh darash moshe', 'featured sefer', 'moshe rabbeinu', 'midrash aggadah', 
+    'jewish texts', 'torah study', 'classical sefarim', 'hebrew texts', 
+    'jewish learning', 'three ascents', 'moshe', 'torah', 'sefarim', 
+    'comprehensive resource', 'spiritual journey', 'jewish biography',
+    'דרוש דרש משה', 'משה רבינו', 'ספר מומלץ', 'ספרים קלאסיים'
   ];
 
   return (
     <>
       <SEOHead
-        title="Darosh Darash Moshe"
-        description="The life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah - A comprehensive work exploring three ascents of Moshe Rabbeinu. Full text with footnotes and commentary."
+        title="Darosh Darash Moshe - Featured Sefer"
+        description="Our featured sefer! The life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah - A comprehensive work exploring three ascents of Moshe Rabbeinu. The most comprehensive resource on Moshe Rabbeinu's spiritual journey. Full text with footnotes and commentary."
         keywords={keywords}
         canonicalUrl={canonicalUrl}
         ogType="book"

@@ -119,7 +119,7 @@ export const generateEnhancedMetaDescription = (
         return "Read Midrash HaAliyah - An original Hebrew midrash exploring the life and legacy of Moshe Rabbeinu through his three ascents. Combines classical aggadic style with original insights.";
       }
       if (data && data.includes('darosh-darash-moshe')) {
-        return "Read Darosh Darash Moshe - A comprehensive work exploring the life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah. Features three ascents with full Hebrew text, footnotes, and commentary.";
+        return "Read Darosh Darash Moshe - Our featured sefer! A comprehensive work exploring the life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah. Features three ascents with full Hebrew text, footnotes, and commentary. The most comprehensive resource on Moshe Rabbeinu's spiritual journey.";
       }
       return "Explore this complete sefer from our midrash aggadah collection with comprehensive Hebrew texts and commentary.";
     
