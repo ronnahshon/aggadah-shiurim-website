@@ -63,12 +63,19 @@ const AboutPage: React.FC = () => {
             <div className="flex items-center mt-4">
               <Mail size={20} className="text-biblical-navy mr-2" />
               <a 
-                href="mailto:midrashaggadah@gmail.com" 
+                href="mailto:ronnahshon@gmail.com" 
                 className="text-biblical-navy hover:text-biblical-burgundy"
               >
-                midrashaggadah@gmail.com
+                ronnahshon@gmail.com
               </a>
             </div>
+          </div>
+          
+          {/* Work in progress banner */}
+          <div className="bg-biblical-gold/20 border-l-4 border-biblical-gold rounded-lg p-4 mt-8">
+            <p className="text-biblical-brown font-medium text-center">
+              Note: This website is still a work in progress, thanks for your patience!
+            </p>
           </div>
         </div>
       </div>

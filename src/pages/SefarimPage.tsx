@@ -23,12 +23,13 @@ const SefarimPage: React.FC = () => {
                 className="h-full w-full object-contain p-2"
               />
             </div>
-            <div className="p-8 py-16 space-y-8">
+            <div className="p-8 py-16 space-y-8 text-center">
               <div className="pt-8">
-                <h2 className="text-3xl font-bold text-black text-center mb-3">
+                <h2 className="text-3xl font-bold text-black mb-3">
                   Darosh Darash Moshe
                 </h2>
-                <p className="text-biblical-brown text-center leading-relaxed">
+                <br />
+                <p className="text-biblical-brown leading-relaxed">
                   A modern midrashic work in English, Darosh Darash Moshe explores the life, character and legacy of Moshe Rabbeinu and his brother Aharon during their three ascents in the desert. It builds upon classical aggadic sources to develop new insights.
                 </p>
               </div>
@@ -50,12 +51,12 @@ const SefarimPage: React.FC = () => {
                 className="h-full w-full object-contain p-2"
               />
             </div>
-            <div className="p-8 py-16 space-y-8">
+            <div className="p-8 py-16 space-y-8 text-center">
               <div className="pt-8">
-                <h2 className="text-3xl font-bold text-black text-center font-hebrew mb-3">
+                <h2 className="text-3xl font-bold text-black font-hebrew mb-3">
                   מדרש העלייה
                 </h2>
-                <p className="text-biblical-brown text-center leading-relaxed">
+                <p className="text-biblical-brown leading-relaxed">
                   A midrashic work written in Hebrew, מדרש העלייה is a companion to Darosh Darash Moshe, summarizing the work in the style of classic aggadic ספרים. It combines teachings of חז״ל with original ideas and חידושים.
                 </p>
               </div>
