@@ -25,6 +25,19 @@ const DaroshDarashMoshePage: React.FC = () => {
   const [mainWidth, setMainWidth] = useState(50); // percentage
   const [footnotesWidth, setFootnotesWidth] = useState(32); // percentage
   const [isResizing, setIsResizing] = useState<'toc-main' | 'main-footnotes' | null>(null);
+  const [isMobile, setIsMobile] = useState(false);
+
+  // Check for mobile screen size
+  useEffect(() => {
+    const checkMobile = () => {
+      setIsMobile(window.innerWidth < 768);
+    };
+    
+    checkMobile();
+    window.addEventListener('resize', checkMobile);
+    
+    return () => window.removeEventListener('resize', checkMobile);
+  }, []);
 
   useEffect(() => {
     const loadContent = async () => {
@@ -219,10 +232,10 @@ const DaroshDarashMoshePage: React.FC = () => {
       <div className="min-h-screen bg-gradient-to-br from-biblical-cream via-biblical-sand to-biblical-cream">
         {/* Three-column layout */}
         <div className="flex max-w-full w-full">
-          {/* Left Column - Table of Contents */}
+          {/* Left Column - Table of Contents (Hidden on Mobile) */}
           <div 
             style={{ width: `${tocWidth}%` }}
-            className="min-w-[200px] bg-biblical-sage/10 sticky top-0 h-screen overflow-y-auto"
+            className="hidden md:block min-w-[200px] bg-biblical-sage/10 sticky top-0 h-screen overflow-y-auto"
           >
             <div className="p-6">
               <h2 className="text-xl font-bold text-biblical-brown mb-6 border-b-2 border-biblical-brown/30 pb-2">
@@ -280,9 +293,9 @@ const DaroshDarashMoshePage: React.FC = () => {
             </div>
           </div>
 
-          {/* Resize Handle - TOC/Main */}
+          {/* Resize Handle - TOC/Main (Hidden on Mobile) */}
           <div
-            className="w-1 bg-biblical-brown/30 hover:bg-biblical-brown/50 cursor-col-resize transition-colors duration-200 group relative"
+            className="hidden md:block w-1 bg-biblical-brown/30 hover:bg-biblical-brown/50 cursor-col-resize transition-colors duration-200 group relative"
             onMouseDown={handleMouseDown('toc-main')}
           >
             <div className="absolute inset-y-0 -left-1 -right-1" />
@@ -291,8 +304,8 @@ const DaroshDarashMoshePage: React.FC = () => {
 
           {/* Middle Column - Main Content */}
           <div 
-            style={{ width: `${mainWidth}%` }}
-            className="min-w-[480px] pl-8 pr-2 py-6 h-screen overflow-y-auto"
+            style={{ width: isMobile ? '100%' : `${mainWidth}%` }}
+            className="w-full md:w-auto md:min-w-[480px] pl-4 md:pl-8 pr-2 py-6 h-screen overflow-y-auto"
           >
             <div className="w-full">
               {/* Back to Sefarim Button */}
@@ -413,19 +426,19 @@ const DaroshDarashMoshePage: React.FC = () => {
             </div>
           </div>
 
-          {/* Resize Handle - Main/Footnotes */}
+          {/* Resize Handle - Main/Footnotes (Hidden on Mobile) */}
           <div
-            className="w-1 bg-biblical-brown/30 hover:bg-biblical-brown/50 cursor-col-resize transition-colors duration-200 group relative"
+            className="hidden md:block w-1 bg-biblical-brown/30 hover:bg-biblical-brown/50 cursor-col-resize transition-colors duration-200 group relative"
             onMouseDown={handleMouseDown('main-footnotes')}
           >
             <div className="absolute inset-y-0 -left-1 -right-1" />
             <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-3 h-8 bg-biblical-brown/40 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200" />
           </div>
 
-          {/* Right Column - Footnotes */}
+          {/* Right Column - Footnotes (Hidden on Mobile) */}
           <div 
             style={{ width: `${footnotesWidth}%` }}
-            className="min-w-[480px] bg-biblical-brown/5 sticky top-0 h-screen overflow-y-auto"
+            className="hidden md:block min-w-[480px] bg-biblical-brown/5 sticky top-0 h-screen overflow-y-auto"
           >
             <div className="p-6 footnotes-content">
               <h2 className="text-xl font-bold text-biblical-brown mb-6 border-b-2 border-biblical-brown/30 pb-2 text-left">
