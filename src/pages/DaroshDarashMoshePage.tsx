@@ -308,7 +308,20 @@ const DaroshDarashMoshePage: React.FC = () => {
                 Table of Contents
               </h2>
               
-
+              {/* Download PDF Button */}
+              <button
+                onClick={() => {
+                  const link = document.createElement('a');
+                  link.href = '/darosh_darash_moshe_enhanced.pdf';
+                  link.download = 'darosh_darash_moshe_enhanced.pdf';
+                  link.click();
+                }}
+                className="no-print w-full flex items-center justify-center gap-2 px-4 py-2 mb-6 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
+                title="Download PDF"
+              >
+                <Download size={18} />
+                <span>Download PDF</span>
+              </button>
 
               {/* Chapters */}
               {tableOfContents.chapters.map((chapter) => (
@@ -385,46 +398,33 @@ const DaroshDarashMoshePage: React.FC = () => {
                   <span className="text-sm font-medium">Back to Sefarim Page</span>
                 </button>
               </div>
+              
+              {/* Download PDF Button - Mobile Only */}
+              <div className="mb-6 md:hidden flex justify-center">
+                <button
+                  onClick={() => {
+                    const link = document.createElement('a');
+                    link.href = '/darosh_darash_moshe_enhanced.pdf';
+                    link.download = 'darosh_darash_moshe_enhanced.pdf';
+                    link.click();
+                  }}
+                  className="no-print flex items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
+                  title="Download PDF"
+                >
+                  <Download size={18} />
+                  <span>Download PDF</span>
+                </button>
+              </div>
 
               <div className="text-center">
                 {/* Title */}
-                <div className="relative text-center mb-8">
-                  {/* Desktop Layout - Button to the left */}
-                  <button
-                    onClick={() => {
-                      const link = document.createElement('a');
-                      link.href = '/darosh_darash_moshe_enhanced.pdf';
-                      link.download = 'darosh_darash_moshe_enhanced.pdf';
-                      link.click();
-                    }}
-                    className="no-print hidden md:flex absolute left-0 top-1/2 transform -translate-y-1/2 items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
-                    title="הורד כ-PDF"
-                  >
-                    <Download size={20} />
-                    <span className="font-hebrew">הורד PDF</span>
-                  </button>
-                  
+                <div className="text-center mb-8">
                   <h1 className="text-4xl font-bold text-biblical-brown mb-2">
                     {daroshContent.title}
                   </h1>
                   <p className="text-xl text-biblical-brown/80 italic">
                     The life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah
                   </p>
-                  
-                  {/* Mobile Layout - Button below header */}
-                  <button
-                    onClick={() => {
-                      const link = document.createElement('a');
-                      link.href = '/darosh_darash_moshe_enhanced.pdf';
-                      link.download = 'darosh_darash_moshe_enhanced.pdf';
-                      link.click();
-                    }}
-                    className="no-print flex md:hidden items-center gap-2 px-4 py-2 mt-4 mx-auto bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200"
-                    title="הורד כ-PDF"
-                  >
-                    <Download size={20} />
-                    <span className="font-hebrew">הורד PDF</span>
-                  </button>
                 </div>
 
               {/* General Introduction */}
