@@ -1903,7 +1903,7 @@ Additionally, the language used to describe David is reminiscent of Kalev Ben Ye
 
 **Har Sinai -** הר סיני
 
-**127. Shmot Rabbah 29:9**
+**128. Shmot Rabbah 29:9**
 <br/>
 <br/>
 
