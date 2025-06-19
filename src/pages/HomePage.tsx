@@ -103,7 +103,7 @@ const HomePage: React.FC = () => {
       />
 
       {/* Main content section */}
-      <section className="py-12 bg-parchment-texture bg-cover bg-center">
+      <section className="pt-12 pb-6 bg-parchment-texture bg-cover bg-center">
         <div className="content-container">
           <div className="text-center mb-12">
             <p className="text-lg md:text-xl max-w-4xl mx-auto mb-6 text-biblical-brown animate-fade-in">
