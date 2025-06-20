@@ -93,7 +93,7 @@ const SeferPage: React.FC = () => {
           <div className="mb-6">
             <Link 
               to="/sefarim" 
-              className="flex items-center text-biblical-navy hover:text-biblical-burgundy"
+              className="flex items-center text-black hover:text-biblical-burgundy"
             >
               <ChevronLeft size={16} className="mr-1" />
               Back to Sefarim
@@ -106,7 +106,7 @@ const SeferPage: React.FC = () => {
               {sefer.title}
             </h1>
             
-            <h2 className="text-xl font-hebrew text-biblical-navy mb-4">
+            <h2 className="text-xl font-hebrew text-black mb-4">
               {sefer.hebrewTitle}
             </h2>
             
@@ -118,7 +118,7 @@ const SeferPage: React.FC = () => {
               href={sefer.docLink.replace('/edit?usp=drive_link', '/export?format=pdf')}
               target="_blank"
               rel="noopener noreferrer" 
-              className="flex items-center text-biblical-navy hover:text-biblical-burgundy w-fit"
+              className="flex items-center text-black hover:text-biblical-burgundy w-fit"
             >
               <Download size={18} className="mr-1" />
               Download PDF

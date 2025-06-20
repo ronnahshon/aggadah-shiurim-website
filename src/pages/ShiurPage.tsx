@@ -126,7 +126,7 @@ const ShiurPage: React.FC = () => {
       <div className="content-container">
         <div className="max-w-full sm:max-w-4xl mx-auto">
           {/* Breadcrumb navigation */}
-          <nav className="flex flex-wrap text-xs sm:text-sm mb-4 sm:mb-6 text-biblical-brown/70 overflow-hidden">
+          <nav className="flex flex-wrap text-xs sm:text-sm mb-4 sm:mb-6 text-black overflow-hidden">
             <Link to="/catalog" className="hover:text-biblical-burgundy flex-shrink-0">
               Catalog
             </Link>
@@ -149,7 +149,7 @@ const ShiurPage: React.FC = () => {
               {shiur.english_title}
             </h1>
             {shiur.hebrew_title && (
-              <h2 className="text-lg sm:text-xl font-hebrew text-biblical-navy mb-4 -mt-2">
+              <h2 className="text-lg sm:text-xl font-hebrew text-black mb-4 -mt-2">
                 {shiur.hebrew_title}
               </h2>
             )}
@@ -204,7 +204,7 @@ const ShiurPage: React.FC = () => {
               <a
                 href={googleDriveDownloadUrl}
                 download={`${shiur.english_title}.mp3`}
-                className="flex items-center gap-2 px-4 py-2 bg-biblical-navy text-white rounded-lg hover:bg-biblical-navy/90 transition-colors duration-200 text-sm"
+                className="flex items-center gap-2 px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-700/90 transition-colors duration-200 text-sm"
                 title="Download Audio"
               >
                 <Download size={16} />
@@ -239,7 +239,7 @@ const ShiurPage: React.FC = () => {
                 {shiur.tags.map(tag => (
                   <span 
                     key={tag}
-                    className="px-2 py-1 bg-biblical-navy/10 rounded-full text-sm text-biblical-navy"
+                    className="px-2 py-1 bg-gray-700/10 rounded-full text-sm text-black"
                   >
                     {tag}
                   </span>

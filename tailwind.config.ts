@@ -72,7 +72,7 @@ export default {
                     brown: '#3E2723', // Deep brown for text
                     burgundy: '#C8C8C9', // Kept as light grey (from previous change)
                     navy: '#D7CEB2', // Changed from light brown to a proper light brown
-                    gold: '#C9B037', // Gold for accents
+                    gold: '#6B7280', // Changed from gold to grey
                     olive: '#556B2F', // Olive green
                     copper: '#B87333', // Bronze/copper accent
                 }
@@ -129,9 +129,9 @@ export default {
                     css: {
                         color: '#3E2723',
                         a: {
-                            color: '#C9B037',
+                            color: '#6B7280',
                             '&:hover': {
-                                color: '#B87333',
+                                color: '#374151',
                             },
                         },
                         h1: {
@@ -160,7 +160,7 @@ export default {
                         '--tw-prose-body': '#3E2723',
                         '--tw-prose-headings': '#3E2723',
                         '--tw-prose-lead': '#3E2723',
-                        '--tw-prose-links': '#C9B037',
+                        '--tw-prose-links': '#6B7280',
                         '--tw-prose-bold': '#3E2723',
                         '--tw-prose-counters': '#D7CEB2',
                         '--tw-prose-bullets': '#D7CEB2',

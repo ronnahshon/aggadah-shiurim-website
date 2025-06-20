@@ -13,7 +13,7 @@ const SefarimPage: React.FC = () => {
             to="/sefer/darosh-darash-moshe"
             className="bg-white/80 rounded-lg shadow-md overflow-hidden block hover:shadow-lg hover:bg-white/90 transition-all duration-200 cursor-pointer"
           >
-            <div className="h-48 bg-biblical-navy/20 flex items-center justify-center relative">
+            <div className="h-48 bg-gray-700/20 flex items-center justify-center relative">
               <OptimizedImage 
                 src="/images/moshe_aharon_hur_img.png" 
                 alt="Illustration of Moshe Rabbeinu with Aharon and Hur - representing the three ascents described in Darosh Darash Moshe" 
@@ -41,7 +41,7 @@ const SefarimPage: React.FC = () => {
             to="/sefer/midrash-haaliyah"
             className="bg-white/80 rounded-lg shadow-md overflow-hidden block hover:shadow-lg hover:bg-white/90 transition-all duration-200 cursor-pointer"
           >
-            <div className="h-48 bg-biblical-navy/20 flex items-center justify-center relative">
+            <div className="h-48 bg-gray-700/20 flex items-center justify-center relative">
               <OptimizedImage 
                 src="/images/moshe_aharon_hur_img.png" 
                 alt="Illustration of Moshe Rabbeinu with Aharon and Hur - representing the three ascents described in Midrash HaAliyah" 
@@ -69,10 +69,10 @@ const SefarimPage: React.FC = () => {
               <span className="text-biblical-brown/50 text-lg font-medium">Coming Soon</span>
             </div>
             <div className="p-6 text-center">
-              <h2 className="text-xl font-semibold mb-2 text-biblical-brown/70">
+              <h2 className="text-xl font-semibold mb-2 text-black">
                 More sefarim coming soon
               </h2>
-              <p className="text-biblical-brown/70">
+              <p className="text-black">
                 Our collection is constantly growing. Check back later for more sefarim on midrash aggadah.
               </p>
             </div>

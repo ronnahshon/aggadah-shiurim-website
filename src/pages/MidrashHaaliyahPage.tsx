@@ -343,7 +343,7 @@ const MidrashHaaliyahPage: React.FC = () => {
           .bibliography-content {
             column-count: 3;
             column-gap: 20px;
-            column-rule: 1px solid #C9B037;
+            column-rule: 1px solid #6B7280;
           }
           
           .bibliography-content .grid > div {
@@ -751,12 +751,12 @@ const MidrashHaaliyahPage: React.FC = () => {
       <div className="bibliography-content">
         {sections.map((section, index) => (
           <div key={index} className="mb-6 text-center">
-            <h4 className="text-lg font-semibold text-gray-800 mb-3 text-center">
+                            <h4 className="text-lg font-semibold text-black mb-3 text-center">
               {section.title}
             </h4>
             <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-8 gap-2 justify-center">
               {section.entries.map((entry, entryIndex) => (
-                <div key={entryIndex} className="text-sm text-gray-800 p-2 bg-parchment/50 rounded text-center">
+                <div key={entryIndex} className="text-sm text-black p-2 bg-parchment/50 rounded text-center">
                   {entry}
                 </div>
               ))}
@@ -789,7 +789,7 @@ const MidrashHaaliyahPage: React.FC = () => {
                 >
                   {footnoteNumber}
                 </a>
-                <span className="footnote-text text-gray-800">{cleanMarkdownEscapes(content)}</span>
+                <span className="footnote-text text-black">{cleanMarkdownEscapes(content)}</span>
               </div>
             );
           })}
@@ -837,7 +837,7 @@ const MidrashHaaliyahPage: React.FC = () => {
             <span className="font-hebrew">הורד PDF</span>
           </button>
           
-          <h1 className="text-5xl font-bold text-gray-800 font-hebrew mb-2">
+          <h1 className="text-5xl font-bold text-black font-hebrew mb-2">
             {midrashContent.title}
           </h1>
           
@@ -855,7 +855,7 @@ const MidrashHaaliyahPage: React.FC = () => {
         {/* Introduction Section */}
         {midrashContent.introduction && (
           <div className="introduction-section mb-12 bg-white/70 rounded-lg p-6 border border-biblical-gold/20">
-            <div className="max-w-none text-gray-800 font-hebrew text-lg leading-relaxed">
+            <div className="max-w-none text-black font-hebrew text-lg leading-relaxed">
               <p className="mb-0 text-right">
                 {midrashContent.introduction.map(line => cleanMarkdownEscapes(line)).join(' ')}
               </p>
@@ -865,7 +865,7 @@ const MidrashHaaliyahPage: React.FC = () => {
 
         {/* Table of Contents */}
         <div className="table-of-contents mb-16">
-          <h2 className="text-3xl font-bold text-gray-800 mb-8 text-center">
+          <h2 className="text-3xl font-bold text-black mb-8 text-center">
             תוכן העניינים
           </h2>
           
@@ -880,7 +880,7 @@ const MidrashHaaliyahPage: React.FC = () => {
                   <a 
                     key={chapter.id} 
                     href={`#chapter-${chapter.id}`} 
-                    className="block text-gray-800 hover:text-blue-600 hover:bg-blue-50 rounded px-2 py-1 transition-all duration-200"
+                    className="block text-black hover:text-blue-600 hover:bg-blue-50 rounded px-2 py-1 transition-all duration-200"
                   >
                     {chapter.title}
                   </a>
@@ -893,7 +893,7 @@ const MidrashHaaliyahPage: React.FC = () => {
               <h3 className="text-xl font-bold text-biblical-burgundy mb-4 text-center border-b border-biblical-gold/30 pb-2">
                 מפתח למדרש העלייה
               </h3>
-              <div className="text-sm text-gray-800 font-hebrew text-center">
+              <div className="text-sm text-black font-hebrew text-center">
                 <div>ביבליוגרפיה לכל המקורות המצוטטים בספר</div>
                 <div>תורה, תלמוד, מדרשים, ראשונים ועוד</div>
               </div>
@@ -904,7 +904,7 @@ const MidrashHaaliyahPage: React.FC = () => {
               <h3 className="text-xl font-bold text-biblical-burgundy mb-4 text-center border-b border-biblical-gold/30 pb-2">
                 הערות
               </h3>
-              <div className="text-sm text-gray-800 font-hebrew text-center">
+              <div className="text-sm text-black font-hebrew text-center">
                 <div>הערות שוליים לכל המקורות המצוטטים בספר</div>
                 <div>תורה, תלמוד, מדרשים, ראשונים ועוד</div>
               </div>
@@ -919,7 +919,7 @@ const MidrashHaaliyahPage: React.FC = () => {
 
         {/* Sefer Header */}
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-gray-800">
+          <h2 className="text-3xl font-bold text-black">
             ספר מדרש העלייה
           </h2>
         </div>
@@ -930,7 +930,7 @@ const MidrashHaaliyahPage: React.FC = () => {
             {midrashContent.chapters.map((chapter) => (
               <div key={chapter.id} id={`chapter-${chapter.id}`} className="mb-12">
                 {/* Chapter Title */}
-                <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">
+                <h2 className="text-2xl font-bold text-black mb-6 text-center">
                   {chapter.title}
                 </h2>
                 
@@ -938,13 +938,13 @@ const MidrashHaaliyahPage: React.FC = () => {
                 {chapter.sections.map((section) => (
                   <div key={section.id} className="mb-8">
                     {/* Section Title */}
-                    <h3 className="text-xl font-semibold text-gray-800 mb-4 text-center">
+                    <h3 className="text-xl font-semibold text-black mb-4 text-center">
                       {section.title}
                     </h3>
                     
                     {/* Section Content */}
                     <div 
-                      className="prose prose-lg max-w-none text-gray-800 text-right"
+                      className="prose prose-lg max-w-none text-black text-right"
                       dangerouslySetInnerHTML={{ 
                         __html: renderContentWithFootnotes(section.content) 
                       }}
@@ -957,7 +957,7 @@ const MidrashHaaliyahPage: React.FC = () => {
 
           {/* Completion Phrase */}
           <div className="text-center mt-16 mb-8">
-            <div className="text-3xl font-bold text-gray-800 font-hebrew">
+            <div className="text-3xl font-bold text-black font-hebrew">
               תושלב״ע - תם ונשלם שבח לא-ל בורא עולם
             </div>
           </div>
@@ -971,7 +971,7 @@ const MidrashHaaliyahPage: React.FC = () => {
               </div>
               
               <div className="bibliography-section mb-16">
-                <h2 id="bibliography-section" className="text-3xl font-bold text-gray-800 mb-8 text-center">
+                <h2 id="bibliography-section" className="text-3xl font-bold text-black mb-8 text-center">
                   {midrashContent.bibliography.title}
                 </h2>
                 {renderBibliographyContent(midrashContent.bibliography.content)}
@@ -988,7 +988,7 @@ const MidrashHaaliyahPage: React.FC = () => {
               </div>
               
               <div className="footnotes-section">
-                <h2 id="footnotes-section" className="text-3xl font-bold text-gray-800 mb-8 text-center">
+                <h2 id="footnotes-section" className="text-3xl font-bold text-black mb-8 text-center">
                   {midrashContent.footnotesSection.title}
                 </h2>
                 {renderFootnotes(midrashContent.footnotesSection.footnotes)}

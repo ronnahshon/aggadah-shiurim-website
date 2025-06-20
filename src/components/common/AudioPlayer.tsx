@@ -168,7 +168,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
         <div className="relative flex-shrink-0">
           <button 
             onClick={toggleVolumeSlider}
-            className="flex items-center justify-center w-8 h-8 text-gray-600 hover:text-biblical-burgundy transition-colors"
+            className="flex items-center justify-center w-8 h-8 text-black hover:text-biblical-burgundy transition-colors"
             aria-label="Volume control"
           >
             <Volume2 size={16} className="sm:w-[18px] sm:h-[18px]" />
@@ -201,7 +201,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
         <div className="relative flex-shrink-0">
           <button 
             onClick={toggleSpeedSlider}
-            className="flex items-center justify-center w-8 h-8 text-gray-600 hover:text-biblical-burgundy transition-colors"
+            className="flex items-center justify-center w-8 h-8 text-black hover:text-biblical-burgundy transition-colors"
             aria-label="Playback speed"
           >
             <Gauge size={16} className="sm:w-[18px] sm:h-[18px]" />
@@ -234,7 +234,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
         <a 
           href={download}
           download={fileName || 'audio.mp3'}
-          className="flex items-center justify-center w-8 h-8 text-gray-800 hover:text-biblical-burgundy transition-colors flex-shrink-0"
+          className="flex items-center justify-center w-8 h-8 text-black hover:text-biblical-burgundy transition-colors flex-shrink-0"
           aria-label="Download audio"
         >
           <ArrowDown size={18} className="sm:w-[20px] sm:h-[20px]" />

@@ -111,7 +111,7 @@ const HomePage: React.FC = () => {
             </p>
             <p className="text-lg max-w-3xl mx-auto mb-12 text-biblical-brown animate-fade-in">
               Search below to explore hundreds of free audio shiurim,<br />
-              or read through <Link to="/sefarim" className="text-biblical-burgundy hover:text-biblical-burgundy/80 underline font-medium">original sefarim</Link> on midrash aggadah (in Hebrew and English).
+              or read through <Link to="/sefarim" className="text-biblical-burgundy hover:text-black underline font-medium">original sefarim</Link> on midrash aggadah (in Hebrew and English).
             </p>
           </div>
 
@@ -134,7 +134,7 @@ const HomePage: React.FC = () => {
               <button 
                 type="button" 
                 onClick={toggleFilters}
-                className="p-3 bg-biblical-navy text-white rounded-md hover:bg-biblical-navy/90"
+                className="p-3 bg-gray-700 text-white rounded-md hover:bg-gray-700/90"
                 aria-label="Toggle filters"
               >
                 <Filter size={20} />
@@ -163,7 +163,7 @@ const HomePage: React.FC = () => {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                   {/* Categories filter */}
                   <div>
-                    <h3 className="text-sm font-medium mb-2 text-biblical-navy">Categories</h3>
+                    <h3 className="text-sm font-medium mb-2 text-black">Categories</h3>
                     <div className="space-y-1 max-h-48 overflow-y-auto pr-2">
                       {categories.map(category => (
                         <label key={category} className="flex items-center">
@@ -186,7 +186,7 @@ const HomePage: React.FC = () => {
                   
                   {/* Sub-categories filter */}
                   <div>
-                    <h3 className="text-sm font-medium mb-2 text-biblical-navy">Sub-Categories</h3>
+                    <h3 className="text-sm font-medium mb-2 text-black">Sub-Categories</h3>
                     <div className="space-y-1 max-h-48 overflow-y-auto pr-2">
                       {subCategories.map(subCategory => (
                         <label key={subCategory} className="flex items-center">
@@ -209,7 +209,7 @@ const HomePage: React.FC = () => {
                   
                   {/* Sefarim filter */}
                   <div>
-                    <h3 className="text-sm font-medium mb-2 text-biblical-navy">Sefarim</h3>
+                    <h3 className="text-sm font-medium mb-2 text-black">Sefarim</h3>
                     <div className="space-y-1 max-h-48 overflow-y-auto pr-2">
                       {sefarim.map(sefer => (
                         <label key={sefer} className="flex items-center">
@@ -252,7 +252,7 @@ const HomePage: React.FC = () => {
                   <div className="flex-grow mb-4">
                     <Link 
                       to={`/shiur/${shiur.id}`} 
-                      className="block text-biblical-burgundy hover:text-biblical-burgundy/80 transition-colors duration-200"
+                      className="block text-biblical-burgundy hover:text-black transition-colors duration-200"
                     >
                       <h3 className="text-xl font-semibold leading-tight mb-3 group-hover:text-biblical-burgundy/90">
                         {shiur.english_title}
@@ -260,7 +260,7 @@ const HomePage: React.FC = () => {
                     </Link>
                     
                     {shiur.hebrew_title && (
-                      <p className="text-biblical-burgundy/80 font-hebrew mb-3 text-lg leading-relaxed">
+                      <p className="text-black font-hebrew mb-3 text-lg leading-relaxed">
                         {shiur.hebrew_title}
                       </p>
                     )}
@@ -273,8 +273,8 @@ const HomePage: React.FC = () => {
                     </div>
                     
                     {/* Metadata */}
-                    <div className="flex items-center justify-between text-xs text-biblical-brown/70 mb-4">
-                      <span className="bg-biblical-navy/10 px-2 py-1 rounded-full">
+                    <div className="flex items-center justify-between text-xs text-black mb-4">
+                      <span className="bg-gray-700/10 px-2 py-1 rounded-full">
                         {shiur.english_year} ({shiur.hebrew_year})
                       </span>
                       <div className="flex items-center">
@@ -288,7 +288,7 @@ const HomePage: React.FC = () => {
                   <div className="mt-auto">
                     <Link 
                       to={`/shiur/${shiur.id}`} 
-                      className="inline-flex items-center justify-center w-full px-4 py-3 bg-biblical-navy text-white rounded-lg hover:bg-biblical-navy/90 transition-colors duration-200 font-medium text-sm group-hover:shadow-md"
+                      className="inline-flex items-center justify-center w-full px-4 py-3 bg-gray-700 text-white rounded-lg hover:bg-gray-700/90 transition-colors duration-200 font-medium text-sm group-hover:shadow-md"
                     >
                       Listen to Shiur
                       <span className="ml-2 transition-transform duration-200 group-hover:translate-x-1">→</span>

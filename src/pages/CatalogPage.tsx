@@ -192,7 +192,7 @@ const CatalogPage: React.FC = () => {
                 <div className="flex flex-wrap justify-center gap-6 mb-4">
                   {category.subCategories.map(subCategory => (
                     <div key={subCategory.name} className="mb-6">
-                      <h4 className="font-medium text-lg mb-3 text-biblical-navy text-center">
+                      <h4 className="font-medium text-lg mb-3 text-black text-center">
                         {subCategory.name}
                       </h4>
                       
@@ -241,7 +241,7 @@ const CatalogPage: React.FC = () => {
                         {sefer.name}
                       </h3>
                       {sefer.hebrewName && (
-                        <h4 className="text-xl mb-6 text-center font-hebrew text-biblical-navy">
+                        <h4 className="text-xl mb-6 text-center font-hebrew text-black">
                           {sefer.hebrewName}
                         </h4>
                       )}
@@ -264,7 +264,7 @@ const CatalogPage: React.FC = () => {
                                 <td className="text-center">
                                   <Link 
                                     to={`/shiur/${shiur.id}`}
-                                    className="text-biblical-navy hover:text-biblical-burgundy hover:underline block"
+                                    className="text-black hover:text-biblical-burgundy hover:underline block"
                                   >
                                     {shiur.english_title}
                                   </Link>
@@ -277,10 +277,10 @@ const CatalogPage: React.FC = () => {
                                 <td className="text-center">
                                   <div className="flex items-center justify-center">
                                     {loadingDurations && !getDuration(shiur) ? (
-                                      <span className="text-biblical-brown/70">Loading...</span>
+                                      <span className="text-black">Loading...</span>
                                     ) : (
                                       <>
-                                        <Clock size={12} className="mr-1 text-biblical-brown/70 hidden sm:inline" />
+                                        <Clock size={12} className="mr-1 text-black hidden sm:inline" />
                                         <span className="text-xs sm:text-sm">{getDuration(shiur)}</span>
                                       </>
                                     )}

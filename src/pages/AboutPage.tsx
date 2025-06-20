@@ -24,7 +24,7 @@ const AboutPage: React.FC = () => {
           </h1>
           
           <div className="bg-white/90 rounded-lg p-8 shadow-md mb-8">
-            <h2 className="text-2xl font-semibold mb-4 text-biblical-navy">
+            <h2 className="text-2xl font-semibold mb-4 text-black">
               Our Mission
             </h2>
             
@@ -36,7 +36,7 @@ const AboutPage: React.FC = () => {
               Through our catalog of shiurim, we hope to create a bridge between ancient wisdom and contemporary understanding, allowing students of all backgrounds to engage with these timeless texts.
             </p>
             
-            <h2 className="text-2xl font-semibold mt-8 mb-4 text-biblical-navy">
+            <h2 className="text-2xl font-semibold mt-8 mb-4 text-black">
               What is Midrash Aggadah?
             </h2>
             
@@ -48,7 +48,7 @@ const AboutPage: React.FC = () => {
               Aggadic midrashim can be found throughout rabbinic literature, including the Talmud, dedicated midrashic collections like Midrash Rabbah, and medieval compilations. These texts have profoundly influenced Jewish thought, art, literature, and spirituality throughout the centuries.
             </p>
             
-            <h2 className="text-2xl font-semibold mt-8 mb-4 text-biblical-navy">
+            <h2 className="text-2xl font-semibold mt-8 mb-4 text-black">
               About the Author
             </h2>
             
@@ -56,15 +56,15 @@ const AboutPage: React.FC = () => {
               Ron Nahshon grew up in New Jersey and studied Torah and Talmud at Yeshivat Har Etzion. He received a BA from Yeshiva University, and has Rabbinical Sofrut certification from Va'ad Mishmeret Stam and Machon Eliya in Jerusalem. He currently lives in Kiryat Gat, Israel.
             </p>
             
-            <h2 className="text-2xl font-semibold mt-8 mb-4 text-biblical-navy">
+            <h2 className="text-2xl font-semibold mt-8 mb-4 text-black">
               Contact Information
             </h2>
             
             <div className="flex items-center mt-4">
-              <Mail size={20} className="text-biblical-navy mr-2" />
+              <Mail size={20} className="text-black mr-2" />
               <a 
                 href="mailto:ronnahshon@gmail.com" 
-                className="text-biblical-navy hover:text-biblical-burgundy"
+                className="text-black hover:text-black"
               >
                 ronnahshon@gmail.com
               </a>
