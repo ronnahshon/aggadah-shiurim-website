@@ -92,7 +92,7 @@
   }
 
   h1, h2, h3, h4, h5, h6 {
-    @apply font-semibold text-biblical-burgundy;
+    @apply font-semibold text-biblical-brown;
   }
 
   a {
@@ -308,7 +308,7 @@
 .source-content h4:not([style]),
 .source-content h5:not([style]),
 .source-content h6:not([style]) {
-  @apply text-biblical-burgundy font-bold mt-6 mb-4;
+      @apply text-biblical-brown font-bold mt-6 mb-4;
   line-height: 1.3;
 }
 

@@ -134,7 +134,7 @@ const Sidebar: React.FC = () => {
             </button>
             
             {/* Page Title - Center */}
-            <h1 className="text-biblical-burgundy font-semibold text-base sm:text-lg text-center flex-1 mx-4 truncate">
+            <h1 className="text-biblical-brown font-semibold text-base sm:text-lg text-center flex-1 mx-4 truncate">
               {getPageTitle()}
             </h1>
             
@@ -152,8 +152,8 @@ const Sidebar: React.FC = () => {
                     to={to}
                     onClick={() => setMobileMenuOpen(false)}
                     className={cn(
-                      'flex items-center gap-3 px-3 py-3 rounded-md text-biblical-brown hover:bg-biblical-burgundy/10 hover:text-biblical-burgundy transition-all',
-                      isActive(to) && 'bg-biblical-burgundy/10 text-biblical-burgundy font-medium'
+                      'flex items-center gap-3 px-3 py-3 rounded-md text-biblical-brown hover:bg-biblical-burgundy/10 hover:text-biblical-brown transition-all',
+                      isActive(to) && 'bg-biblical-burgundy/10 text-biblical-brown font-medium'
                     )}
                   >
                     <Icon size={20} />

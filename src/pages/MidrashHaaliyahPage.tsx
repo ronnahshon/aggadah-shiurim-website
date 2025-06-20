@@ -801,7 +801,7 @@ const MidrashHaaliyahPage: React.FC = () => {
   if (loading) {
     return (
       <div className="min-h-screen bg-parchment flex items-center justify-center" dir="rtl">
-        <div className="text-biblical-burgundy text-xl font-hebrew">טוען...</div>
+        <div className="text-biblical-brown text-xl font-hebrew">טוען...</div>
       </div>
     );
   }
@@ -817,7 +817,7 @@ const MidrashHaaliyahPage: React.FC = () => {
   if (!midrashContent) {
     return (
       <div className="min-h-screen bg-parchment flex items-center justify-center" dir="rtl">
-        <div className="text-biblical-burgundy text-xl font-hebrew">לא נמצא תוכן</div>
+        <div className="text-biblical-brown text-xl font-hebrew">לא נמצא תוכן</div>
       </div>
     );
   }
@@ -872,7 +872,7 @@ const MidrashHaaliyahPage: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {/* Right Container - Sefer Midrash HaAliyah */}
             <div className="bg-gradient-to-br from-white/90 to-parchment/70 rounded-lg p-6 border-2 border-biblical-gold/30 shadow-lg">
-              <h3 className="text-xl font-bold text-biblical-burgundy mb-4 text-center border-b border-biblical-gold/30 pb-2">
+              <h3 className="text-xl font-bold text-biblical-brown mb-4 text-center border-b border-biblical-gold/30 pb-2">
                 ספר מדרש העלייה
               </h3>
               <div className="text-sm font-hebrew text-center space-y-1">
@@ -890,7 +890,7 @@ const MidrashHaaliyahPage: React.FC = () => {
 
             {/* Middle Container - Bibliography */}
             <a href="#bibliography-section" className="block bg-gradient-to-br from-white/90 to-parchment/70 rounded-lg p-6 border-2 border-biblical-gold/30 shadow-lg hover:shadow-xl hover:border-biblical-gold/50 transition-all duration-300">
-              <h3 className="text-xl font-bold text-biblical-burgundy mb-4 text-center border-b border-biblical-gold/30 pb-2">
+              <h3 className="text-xl font-bold text-biblical-brown mb-4 text-center border-b border-biblical-gold/30 pb-2">
                 מפתח למדרש העלייה
               </h3>
               <div className="text-sm text-black font-hebrew text-center">
@@ -901,7 +901,7 @@ const MidrashHaaliyahPage: React.FC = () => {
 
             {/* Left Container - Footnotes */}
             <a href="#footnotes-section" className="block bg-gradient-to-br from-white/90 to-parchment/70 rounded-lg p-6 border-2 border-biblical-gold/30 shadow-lg hover:shadow-xl hover:border-biblical-gold/50 transition-all duration-300">
-              <h3 className="text-xl font-bold text-biblical-burgundy mb-4 text-center border-b border-biblical-gold/30 pb-2">
+              <h3 className="text-xl font-bold text-biblical-brown mb-4 text-center border-b border-biblical-gold/30 pb-2">
                 הערות
               </h3>
               <div className="text-sm text-black font-hebrew text-center">

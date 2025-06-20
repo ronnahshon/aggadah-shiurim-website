@@ -57,7 +57,7 @@ const ShiurPage: React.FC = () => {
       <div className="min-h-screen py-12">
         <div className="content-container">
           <div className="max-w-3xl mx-auto text-center">
-            <h1 className="text-3xl font-bold text-biblical-burgundy mb-4">Shiur Not Found</h1>
+            <h1 className="text-3xl font-bold text-biblical-brown mb-4">Shiur Not Found</h1>
             <p className="text-biblical-brown mb-6">The shiur you're looking for doesn't exist or has been moved.</p>
             <Link 
               to="/catalog" 
@@ -127,7 +127,7 @@ const ShiurPage: React.FC = () => {
         <div className="max-w-full sm:max-w-4xl mx-auto">
           {/* Breadcrumb navigation */}
           <nav className="flex flex-wrap text-xs sm:text-sm mb-4 sm:mb-6 text-black overflow-hidden">
-            <Link to="/catalog" className="hover:text-biblical-burgundy flex-shrink-0">
+            <Link to="/catalog" className="hover:text-biblical-brown flex-shrink-0">
               Catalog
             </Link>
             <span className="mx-1 sm:mx-2 flex-shrink-0">/</span>
@@ -137,7 +137,7 @@ const ShiurPage: React.FC = () => {
             <span className="mx-1 sm:mx-2 flex-shrink-0">/</span>
             <Link 
               to={`/catalog#${createCatalogAnchor()}`}
-              className="truncate flex-shrink min-w-0 hover:text-biblical-burgundy"
+              className="truncate flex-shrink min-w-0 hover:text-biblical-brown"
             >
               {formatTitle(shiur.english_sefer)}
             </Link>
@@ -145,7 +145,7 @@ const ShiurPage: React.FC = () => {
           
           {/* Shiur header */}
           <div className="bg-white/90 rounded-lg p-4 sm:p-6 shadow-md mb-6 sm:mb-8 relative pb-16 sm:pb-16">
-            <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-biblical-burgundy leading-none">
+            <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-biblical-brown leading-none">
               {shiur.english_title}
             </h1>
             {shiur.hebrew_title && (

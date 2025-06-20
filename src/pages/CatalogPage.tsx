@@ -172,20 +172,20 @@ const CatalogPage: React.FC = () => {
       <audio ref={audioRef} preload="metadata" style={{ display: 'none' }} />
       
       <div className="content-container">
-        <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-burgundy hidden md:block">
+        <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-brown hidden md:block">
           Shiurim Catalog
         </h1>
 
         {/* Table of Contents */}
         <div className="mb-12 bg-white/80 rounded-lg p-6 shadow-md">
-          <h2 className="text-2xl font-semibold mb-6 text-biblical-burgundy text-center">
+          <h2 className="text-2xl font-semibold mb-6 text-biblical-brown text-center">
             Table of Contents
           </h2>
           
           <div className="flex flex-wrap justify-center gap-8">
             {categories.map(category => (
               <div key={category.name} className="mb-8">
-                <h3 className="text-xl font-semibold mb-4 text-biblical-burgundy text-center">
+                <h3 className="text-xl font-semibold mb-4 text-biblical-brown text-center">
                   {category.name}
                 </h3>
                 
@@ -207,7 +207,7 @@ const CatalogPage: React.FC = () => {
                                   element.scrollIntoView({ behavior: 'smooth', block: 'start' });
                                 }
                               }}
-                              className="text-biblical-brown hover:text-biblical-burgundy hover:underline"
+                              className="text-biblical-brown hover:text-biblical-brown hover:underline"
                             >
                               {sefer.name}
                             </button>
@@ -236,7 +236,7 @@ const CatalogPage: React.FC = () => {
                           tocRefs.current[anchorId] = el;
                         }}
                         id={createAnchorId(category.name, subCategory.name, sefer.name)}
-                        className="text-2xl font-semibold mb-4 text-center text-biblical-burgundy"
+                        className="text-2xl font-semibold mb-4 text-center text-biblical-brown"
                       >
                         {sefer.name}
                       </h3>
@@ -264,7 +264,7 @@ const CatalogPage: React.FC = () => {
                                 <td className="text-center">
                                   <Link 
                                     to={`/shiur/${shiur.id}`}
-                                    className="text-black hover:text-biblical-burgundy hover:underline block"
+                                    className="text-black hover:text-biblical-brown hover:underline block"
                                   >
                                     {shiur.english_title}
                                   </Link>

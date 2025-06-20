@@ -111,7 +111,7 @@ const HomePage: React.FC = () => {
             </p>
             <p className="text-lg max-w-3xl mx-auto mb-12 text-biblical-brown animate-fade-in">
               Search below to explore hundreds of free audio shiurim,<br />
-              or read through <Link to="/sefarim" className="text-biblical-burgundy hover:text-black underline font-medium">original sefarim</Link> on midrash aggadah (in Hebrew and English).
+              or read through <Link to="/sefarim" className="text-biblical-brown hover:text-black underline font-medium">original sefarim</Link> on midrash aggadah (in Hebrew and English).
             </p>
           </div>
 
@@ -173,7 +173,7 @@ const HomePage: React.FC = () => {
                             name={`category-${category}`}
                             checked={filters.categories.includes(category)}
                             onChange={() => handleFilterChange('categories', category)}
-                            className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
+                            className="mr-2 rounded text-biblical-brown focus:ring-biblical-burgundy"
                           />
                           <span className="flex-1">{category}</span>
                           <span className="text-xs text-biblical-brown/60">
@@ -196,7 +196,7 @@ const HomePage: React.FC = () => {
                             name={`subcategory-${subCategory}`}
                             checked={filters.subCategories.includes(subCategory)}
                             onChange={() => handleFilterChange('subCategories', subCategory)}
-                            className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
+                            className="mr-2 rounded text-biblical-brown focus:ring-biblical-burgundy"
                           />
                           <span className="flex-1">{subCategory}</span>
                           <span className="text-xs text-biblical-brown/60">
@@ -219,7 +219,7 @@ const HomePage: React.FC = () => {
                             name={`sefer-${sefer}`}
                             checked={filters.sefarim.includes(sefer)}
                             onChange={() => handleFilterChange('sefarim', sefer)}
-                            className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
+                            className="mr-2 rounded text-biblical-brown focus:ring-biblical-burgundy"
                           />
                           <span className="flex-1">{sefer}</span>
                           <span className="text-xs text-biblical-brown/60">
@@ -252,9 +252,9 @@ const HomePage: React.FC = () => {
                   <div className="flex-grow mb-4">
                     <Link 
                       to={`/shiur/${shiur.id}`} 
-                      className="block text-biblical-burgundy hover:text-black transition-colors duration-200"
+                      className="block text-biblical-brown hover:text-black transition-colors duration-200"
                     >
-                      <h3 className="text-xl font-semibold leading-tight mb-3 group-hover:text-biblical-burgundy/90">
+                      <h3 className="text-xl font-semibold leading-tight mb-3 group-hover:text-biblical-brown/90 text-biblical-brown">
                         {shiur.english_title}
                       </h3>
                     </Link>

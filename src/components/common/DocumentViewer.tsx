@@ -47,7 +47,7 @@ const DocumentViewer: React.FC<DocumentViewerProps> = React.memo(({ docUrl, isGo
             href={getPdfUrl(docUrl)}
             target="_blank" 
             rel="noopener noreferrer"
-            className="flex items-center text-xs sm:text-sm text-black hover:text-biblical-burgundy"
+            className="flex items-center text-xs sm:text-sm text-black hover:text-biblical-brown"
           >
             <Download size={14} className="mr-1" />
             <span className="hidden sm:inline">Download as PDF</span>
@@ -77,7 +77,7 @@ const DocumentViewer: React.FC<DocumentViewerProps> = React.memo(({ docUrl, isGo
           <a 
             href={downloadUrl}
             download
-            className="flex items-center text-xs sm:text-sm text-black hover:text-biblical-burgundy"
+            className="flex items-center text-xs sm:text-sm text-black hover:text-biblical-brown"
           >
             <Download size={14} className="mr-1" />
             <span className="hidden sm:inline">Download</span>
@@ -102,7 +102,7 @@ const DocumentViewer: React.FC<DocumentViewerProps> = React.memo(({ docUrl, isGo
         <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center mb-2 gap-2">
           <button
             onClick={() => setShowIframe(true)}
-            className="text-xs sm:text-sm text-black hover:text-biblical-burgundy"
+            className="text-xs sm:text-sm text-black hover:text-biblical-brown"
           >
             Switch to embedded view
           </button>
@@ -110,7 +110,7 @@ const DocumentViewer: React.FC<DocumentViewerProps> = React.memo(({ docUrl, isGo
             href={getPdfUrl(docUrl)}
             target="_blank" 
             rel="noopener noreferrer"
-            className="flex items-center text-xs sm:text-sm text-black hover:text-biblical-burgundy"
+            className="flex items-center text-xs sm:text-sm text-black hover:text-biblical-brown"
           >
             <Download size={14} className="mr-1" />
             <span className="hidden sm:inline">Download as PDF</span>
@@ -145,7 +145,7 @@ const DocumentViewer: React.FC<DocumentViewerProps> = React.memo(({ docUrl, isGo
           <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center mb-2 gap-2">
             <button
               onClick={() => setShowIframe(false)}
-              className="text-xs sm:text-sm text-black hover:text-biblical-burgundy"
+              className="text-xs sm:text-sm text-black hover:text-biblical-brown"
             >
               Switch to non-embedded view
             </button>
@@ -153,7 +153,7 @@ const DocumentViewer: React.FC<DocumentViewerProps> = React.memo(({ docUrl, isGo
               href={getPdfUrl(docUrl)}
               target="_blank" 
               rel="noopener noreferrer"
-              className="flex items-center text-xs sm:text-sm text-black hover:text-biblical-burgundy"
+              className="flex items-center text-xs sm:text-sm text-black hover:text-biblical-brown"
             >
               <Download size={14} className="mr-1" />
               <span className="hidden sm:inline">Download as PDF</span>

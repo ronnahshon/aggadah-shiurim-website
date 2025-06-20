@@ -59,7 +59,7 @@ const SeferPage: React.FC = () => {
       <div className="min-h-screen py-12">
         <div className="content-container">
           <div className="max-w-3xl mx-auto text-center">
-            <h1 className="text-3xl font-bold text-biblical-burgundy mb-4">Sefer Not Found</h1>
+            <h1 className="text-3xl font-bold text-biblical-brown mb-4">Sefer Not Found</h1>
             <p className="text-biblical-brown mb-6">The sefer you're looking for doesn't exist or has been moved.</p>
             <Link 
               to="/sefarim" 
@@ -93,7 +93,7 @@ const SeferPage: React.FC = () => {
           <div className="mb-6">
             <Link 
               to="/sefarim" 
-              className="flex items-center text-black hover:text-biblical-burgundy"
+              className="flex items-center text-black hover:text-biblical-brown"
             >
               <ChevronLeft size={16} className="mr-1" />
               Back to Sefarim
@@ -102,7 +102,7 @@ const SeferPage: React.FC = () => {
           
           {/* Sefer header */}
           <div className="bg-white/90 rounded-lg p-6 shadow-md mb-8">
-            <h1 className="text-2xl md:text-3xl font-bold text-biblical-burgundy mb-2">
+            <h1 className="text-2xl md:text-3xl font-bold text-biblical-brown mb-2">
               {sefer.title}
             </h1>
             
@@ -118,7 +118,7 @@ const SeferPage: React.FC = () => {
               href={sefer.docLink.replace('/edit?usp=drive_link', '/export?format=pdf')}
               target="_blank"
               rel="noopener noreferrer" 
-              className="flex items-center text-black hover:text-biblical-burgundy w-fit"
+              className="flex items-center text-black hover:text-biblical-brown w-fit"
             >
               <Download size={18} className="mr-1" />
               Download PDF

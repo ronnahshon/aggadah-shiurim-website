@@ -106,7 +106,7 @@ const SearchPage: React.FC = () => {
   return (
     <div className="min-h-screen py-8 pt-20 md:pt-8">
       <div className="content-container">
-        <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-burgundy hidden md:block">
+        <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-brown hidden md:block">
           Search Shiurim
         </h1>
         
@@ -161,7 +161,7 @@ const SearchPage: React.FC = () => {
                           name={`category-${category}`}
                           checked={filters.categories.includes(category)}
                           onChange={() => handleFilterChange('categories', category)}
-                          className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
+                          className="mr-2 rounded text-biblical-brown focus:ring-biblical-burgundy"
                         />
                         <span className="flex-1">{category}</span>
                         <span className="text-xs text-biblical-brown/60">
@@ -184,7 +184,7 @@ const SearchPage: React.FC = () => {
                           name={`subcategory-${subCategory}`}
                           checked={filters.subCategories.includes(subCategory)}
                           onChange={() => handleFilterChange('subCategories', subCategory)}
-                          className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
+                          className="mr-2 rounded text-biblical-brown focus:ring-biblical-burgundy"
                         />
                         <span className="flex-1">{subCategory}</span>
                         <span className="text-xs text-biblical-brown/60">
@@ -207,7 +207,7 @@ const SearchPage: React.FC = () => {
                           name={`sefer-${sefer}`}
                           checked={filters.sefarim.includes(sefer)}
                           onChange={() => handleFilterChange('sefarim', sefer)}
-                          className="mr-2 rounded text-biblical-burgundy focus:ring-biblical-burgundy"
+                          className="mr-2 rounded text-biblical-brown focus:ring-biblical-burgundy"
                         />
                         <span className="flex-1">{sefer}</span>
                         <span className="text-xs text-biblical-brown/60">
@@ -241,13 +241,13 @@ const SearchPage: React.FC = () => {
                   className="bg-white/90 rounded-lg shadow-sm p-4 flex items-center justify-between hover:shadow-md transition-shadow"
                 >
                   <div className="flex-1 mr-4 flex flex-col gap-1">
-                    <Link to={`/shiur/${shiur.id}`} className="text-biblical-burgundy hover:underline">
+                    <Link to={`/shiur/${shiur.id}`} className="text-biblical-brown hover:underline">
                       <h3 className="text-lg font-medium leading-tight">
                         {shiur.english_title}
                       </h3>
                     </Link>
                     {shiur.hebrew_title && (
-                      <p className="text-biblical-burgundy font-hebrew">
+                      <p className="text-biblical-brown font-hebrew">
                         {shiur.hebrew_title}
                       </p>
                     )}
