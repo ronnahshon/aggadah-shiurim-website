@@ -377,6 +377,7 @@ const DaroshDarashMoshePage: React.FC = () => {
 
           {/* Middle Column - Main Content */}
           <div 
+            id="darosh-main-content"
             style={{ width: isMobile ? '100%' : `${mainWidth}%` }}
             className="w-full md:w-auto md:min-w-[480px] pl-4 md:pl-8 pr-2 py-6 h-screen overflow-y-auto"
           >
@@ -527,6 +528,7 @@ const DaroshDarashMoshePage: React.FC = () => {
 
           {/* Right Column - Footnotes (Hidden on Mobile) */}
           <div 
+            id="darosh-footnotes-content"
             style={{ width: `${footnotesWidth}%` }}
             className="hidden md:block min-w-[480px] bg-biblical-brown/5 sticky top-0 h-screen overflow-y-auto"
           >

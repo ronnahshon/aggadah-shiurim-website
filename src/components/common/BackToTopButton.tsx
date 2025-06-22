@@ -1,31 +1,129 @@
 
 import React, { useState, useEffect } from 'react';
 import { ArrowUp } from 'lucide-react';
+import { useLocation } from 'react-router-dom';
 
 const BackToTopButton: React.FC = () => {
   const [isVisible, setIsVisible] = useState(false);
+  const location = useLocation();
 
   const toggleVisibility = () => {
+    let shouldShow = false;
+    
+    // Check window scroll for most pages
     if (window.scrollY > 300) {
-      setIsVisible(true);
-    } else {
-      setIsVisible(false);
+      shouldShow = true;
     }
+    
+    // For Darosh Darash Moshe page, also check container scrolling
+    if (location.pathname === '/sefer/darosh-darash-moshe') {
+      // Check middle content container
+      const middleContainer = document.getElementById('darosh-main-content');
+      if (middleContainer && middleContainer.scrollTop > 300) {
+        shouldShow = true;
+        console.log('BackToTopButton: Middle container scrolled, showing button');
+      }
+      
+      // Check footnotes container
+      const footnotesContainer = document.getElementById('darosh-footnotes-content');
+      if (footnotesContainer && footnotesContainer.scrollTop > 300) {
+        shouldShow = true;
+        console.log('BackToTopButton: Footnotes container scrolled, showing button');
+      }
+    }
+    
+    setIsVisible(shouldShow);
   };
 
   const scrollToTop = () => {
+    // Scroll window to top
     window.scrollTo({
       top: 0,
       behavior: 'smooth'
     });
+    
+    // For Darosh Darash Moshe page, also scroll containers to top
+    if (location.pathname === '/sefer/darosh-darash-moshe') {
+      // Scroll middle content container to top
+      const middleContainer = document.getElementById('darosh-main-content');
+      if (middleContainer) {
+        middleContainer.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
+      }
+      
+      // Scroll footnotes container to top
+      const footnotesContainer = document.getElementById('darosh-footnotes-content');
+      if (footnotesContainer) {
+        footnotesContainer.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
+      }
+    }
   };
 
   useEffect(() => {
-    window.addEventListener('scroll', toggleVisibility);
-    return () => {
-      window.removeEventListener('scroll', toggleVisibility);
+    const handleScroll = () => {
+      toggleVisibility();
     };
-  }, []);
+
+    // Add window scroll listener
+    window.addEventListener('scroll', handleScroll);
+    
+    // For Darosh Darash Moshe page, also add container scroll listeners
+    if (location.pathname === '/sefer/darosh-darash-moshe') {
+      // Add a small delay to ensure DOM elements are ready
+      const setupContainerListeners = () => {
+        const middleContainer = document.getElementById('darosh-main-content');
+        const footnotesContainer = document.getElementById('darosh-footnotes-content');
+        
+        console.log('BackToTopButton: Setting up container listeners', {
+          middleContainer: !!middleContainer,
+          footnotesContainer: !!footnotesContainer,
+          pathname: location.pathname
+        });
+        
+        if (middleContainer) {
+          middleContainer.addEventListener('scroll', handleScroll);
+          console.log('BackToTopButton: Added scroll listener to middle container');
+        }
+        
+        if (footnotesContainer) {
+          footnotesContainer.addEventListener('scroll', handleScroll);
+          console.log('BackToTopButton: Added scroll listener to footnotes container');
+        }
+        
+        return { middleContainer, footnotesContainer };
+      };
+
+      // Try immediately, then with a delay if needed
+      let containers = setupContainerListeners();
+      
+      // If containers aren't found, try again after a short delay
+      const timeoutId = setTimeout(() => {
+        if (!containers.middleContainer || !containers.footnotesContainer) {
+          containers = setupContainerListeners();
+        }
+      }, 100);
+      
+      return () => {
+        clearTimeout(timeoutId);
+        window.removeEventListener('scroll', handleScroll);
+        if (containers.middleContainer) {
+          containers.middleContainer.removeEventListener('scroll', handleScroll);
+        }
+        if (containers.footnotesContainer) {
+          containers.footnotesContainer.removeEventListener('scroll', handleScroll);
+        }
+      };
+    }
+    
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, [location.pathname]);
 
   return (
     <button
