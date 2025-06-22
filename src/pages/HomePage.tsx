@@ -111,7 +111,7 @@ const HomePage: React.FC = () => {
             </p>
             <p className="text-lg max-w-3xl mx-auto mb-12 text-biblical-brown animate-fade-in">
               Search below to explore hundreds of free audio shiurim,<br />
-              or read through <Link to="/sefarim" className="text-biblical-brown hover:text-black underline font-medium">original sefarim</Link> on midrash aggadah (in Hebrew and English).
+              or read through <Link to="/sefarim" className="text-biblical-brown hover:text-black underline font-medium">original Sefarim</Link> all about midrash aggadah.
             </p>
           </div>
 
