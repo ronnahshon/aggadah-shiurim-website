@@ -63,18 +63,31 @@ const SefarimPage: React.FC = () => {
             </div>
           </Link>
           
-          {/* Future sefarim can be added here */}
+          {/* Commentary on Ein Yaakov - Coming Soon */}
           <div className="bg-white/80 rounded-lg shadow-md overflow-hidden border border-dashed border-parchment-dark">
-            <div className="h-48 bg-parchment flex items-center justify-center">
-              <span className="text-biblical-brown/50 text-lg font-medium">Coming Soon</span>
+            <div className="h-48 bg-gray-700/20 flex items-center justify-center relative">
+              <OptimizedImage 
+                src="/images/ein_yaakov.png" 
+                alt="Ein Yaakov - Coming Soon" 
+                width={400}
+                height={300}
+                loading="lazy"
+                className="h-full w-full object-contain p-2 opacity-75"
+              />
+              <div className="absolute inset-0 bg-black/20 flex items-center justify-center">
+                <span className="text-white text-lg font-bold bg-black/60 px-4 py-2 rounded-lg shadow-lg">Coming Soon</span>
+              </div>
             </div>
-            <div className="p-6 text-center">
-              <h2 className="text-xl font-semibold mb-2 text-black">
-                More sefarim coming soon
-              </h2>
-              <p className="text-black">
-                Our collection is constantly growing. Check back later for more sefarim on midrash aggadah.
-              </p>
+            <div className="p-8 py-16 space-y-8 text-center">
+              <div className="pt-8">
+                <h2 className="text-3xl font-bold text-black mb-3">
+                  Commentary on Ein Yaakov
+                </h2>
+                <br />
+                <p className="text-biblical-brown leading-relaxed">
+                  חידושים on the aggadic sections of Seder Nezikin, Seder Kodashim and Seder Toharot. Based on insights from hundreds of weekly shiurim delivered over several years.
+                </p>
+              </div>
             </div>
           </div>
         </div>
