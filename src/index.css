@@ -771,16 +771,39 @@ sup {
   text-align-last: left;
 }
 
+/* RTL text justification for Hebrew content */
+[dir="rtl"] .midrash-content .prose {
+  text-align: justify;
+  text-align-last: right;
+}
+
+[dir="rtl"] .midrash-content .prose p {
+  text-align: justify;
+  text-align-last: right;
+}
+
 /* Text justification for all content */
 .text-justify {
   text-align: justify;
   text-align-last: left;
 }
 
+/* RTL text justification */
+[dir="rtl"] .text-justify {
+  text-align: justify;
+  text-align-last: right;
+}
+
 /* Ensure prose content is justified */
 .prose-biblical {
   text-align: justify;
   text-align-last: left;
+}
+
+/* RTL prose biblical */
+[dir="rtl"] .prose-biblical {
+  text-align: justify;
+  text-align-last: right;
 }
 
 /* Keep headers centered even in justified content */
@@ -797,6 +820,12 @@ sup {
 .prose-biblical p {
   text-align: justify;
   text-align-last: left;
+}
+
+/* RTL paragraphs are justified with right-aligned last line */
+[dir="rtl"] .prose-biblical p {
+  text-align: justify;
+  text-align-last: right;
 }
 
 /* Responsive margins for desktop */
