@@ -29,11 +29,11 @@ const AboutPage: React.FC = () => {
             </h2>
             
             <p className="text-biblical-brown mb-4">
-              Midrash Aggadah is dedicated to making the rich tradition of midrashic storytelling and rabbinic wisdom accessible to English-speaking audiences. Our goal is to provide high-quality shiurim (lectures) and source texts that illuminate the depth and beauty of aggadic literature in Jewish tradition.
+              Midrash aggadah was given much prominence and importance in the period of the Tannaim and Amoraim as an indispensable supplement to halachah and other areas of Torah study. חז״ל understood that aside from expounding the laws in all their minutiae which govern the mitzvot and how a Jew is meant to behave, there is also a need for teachings that embody the rest of day-to-day life. Aggadot were woven into the Talmudim as an integral, inseparable part of Torah SheBeAl Peh (the Oral Law), and many Sefarim were written with additional aggadot even into the period of the Rishonim. Yet in recent centuries, knowledge - and arguably, appreciation - for the aggadic part of our mesorah has declined. There are not nearly as many commentaries or works written which deal in a deep, comprehensive way with aggadot the way that a myriad of Sefarim have been written about halachic topics. And yet, midrash aggadah has much to offer Torah-observant Jews who seek a rich, vibrant Judaism, something that is needed especially in today's world.
             </p>
             
             <p className="text-biblical-brown mb-4">
-              Through our catalog of shiurim, we hope to create a bridge between ancient wisdom and contemporary understanding, allowing students of all backgrounds to engage with these timeless texts.
+              This website therefore aims to provide accessible shiurim and Sefarim on various concepts and ideas that are explored in חז״ל with the goal of helping to address this need. In the spirit of the Torah being something which should be accessible to everyone, all sources on this website are free to use and share (and should be shared in order to increase הרבצת התורה).
             </p>
             
             <h2 className="text-2xl font-semibold mt-8 mb-4 text-black">
@@ -46,6 +46,10 @@ const AboutPage: React.FC = () => {
             
             <p className="text-biblical-brown mb-4">
               Aggadic midrashim can be found throughout rabbinic literature, including the Talmud, dedicated midrashic collections like Midrash Rabbah, and medieval compilations. These texts have profoundly influenced Jewish thought, art, literature, and spirituality throughout the centuries.
+            </p>
+            
+            <p className="text-biblical-brown mb-4">
+              This website has shiurim on Ein Yaakov, a work by Rabbi Yaakov Ibn Habib that compiled all the aggadic (i.e. non-halachic) sections of the Talmud, on the weekly parsha, and on other midrashic works (i.e. Tanna Devei Eliyahu). It also contains original, standalone Sefarim written in English and Rabbinic Hebrew.
             </p>
             
             <h2 className="text-2xl font-semibold mt-8 mb-4 text-black">
