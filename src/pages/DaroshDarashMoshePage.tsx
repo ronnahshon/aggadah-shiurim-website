@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowUp, Download, Home } from 'lucide-react';
+import { Download, Home } from 'lucide-react';
 import { Helmet } from 'react-helmet-async';
 import { useNavigate } from 'react-router-dom';
+import BackToTopButton from '@/components/common/BackToTopButton';
 import SEOHead from '@/components/seo/SEOHead';
 import { generateBreadcrumbStructuredData } from '@/utils/seoUtils';
 import {
@@ -19,7 +20,6 @@ const DaroshDarashMoshePage: React.FC = () => {
   const [tableOfContents, setTableOfContents] = useState<DaroshTableOfContents | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [showBackToTop, setShowBackToTop] = useState(false);
   const [activeSection, setActiveSection] = useState<string>('');
   
   // Resizable columns state
@@ -88,11 +88,9 @@ const DaroshDarashMoshePage: React.FC = () => {
     loadContent();
   }, []);
 
-  // Back to top functionality
+  // Active section tracking
   useEffect(() => {
     const handleScroll = () => {
-      setShowBackToTop(window.scrollY > 400);
-      
       // Update active section based on scroll position
       const sections = document.querySelectorAll('[data-section-id]');
       let currentSection = '';
@@ -110,10 +108,6 @@ const DaroshDarashMoshePage: React.FC = () => {
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
-
-  const scrollToTop = () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
 
   const scrollToSection = (sectionId: string) => {
     const element = document.getElementById(sectionId);
@@ -590,16 +584,7 @@ const DaroshDarashMoshePage: React.FC = () => {
           </div>
         </div>
 
-        {/* Back to Top Button */}
-        {showBackToTop && (
-          <button
-            onClick={scrollToTop}
-            className="fixed bottom-8 right-8 bg-biblical-brown text-white p-3 rounded-full shadow-lg hover:bg-biblical-brown/90 transition-all duration-300 z-50"
-            aria-label="Back to top"
-          >
-            <ArrowUp size={20} />
-          </button>
-        )}
+        <BackToTopButton />
 
       </div>
 
