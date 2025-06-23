@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowUp, Download } from 'lucide-react';
+import { ArrowUp, Download, Home } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 import { parseMidrashContent, renderContentWithFootnotes, cleanMarkdownEscapes, type MidrashContent } from '../utils/midrashParser';
 
 const MidrashHaaliyahPage: React.FC = () => {
+  const navigate = useNavigate();
   const [midrashContent, setMidrashContent] = useState<MidrashContent | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -825,6 +827,18 @@ const MidrashHaaliyahPage: React.FC = () => {
   return (
     <div className="min-h-screen bg-parchment" dir="rtl">
       <div className="max-w-6xl lg:max-w-7xl mx-auto px-4 py-8">
+        {/* Back to Sefarim Button */}
+        <div className="mb-6 flex justify-center">
+          <button
+            onClick={() => navigate('/sefarim')}
+            className="flex flex-col items-center gap-1 p-3 text-biblical-brown hover:text-biblical-brown/80 hover:bg-biblical-cream/50 rounded-lg transition-all duration-200 group"
+            aria-label="Back to Sefarim Page"
+          >
+            <Home size={24} className="group-hover:scale-110 transition-transform duration-200" />
+            <span className="text-sm font-medium">Back to Sefarim Page</span>
+          </button>
+        </div>
+        
         {/* Title */}
         <div className="relative text-center mb-8">
           {/* Desktop Layout - Button to the left */}

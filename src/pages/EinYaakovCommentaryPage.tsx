@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowUp, Download } from 'lucide-react';
+import { ArrowUp, Download, Home } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 import { cleanMarkdownEscapes } from '../utils/midrashParser';
 
 const EinYaakovCommentaryPage: React.FC = () => {
+  const navigate = useNavigate();
   const [content, setContent] = useState<string>('');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -95,6 +97,18 @@ const EinYaakovCommentaryPage: React.FC = () => {
   return (
     <div className="min-h-screen bg-subtle-parchment py-8 pt-20 md:pt-8" dir="rtl">
       <div className="content-container">
+        {/* Back to Sefarim Button */}
+        <div className="mb-6 flex justify-center">
+          <button
+            onClick={() => navigate('/sefarim')}
+            className="flex flex-col items-center gap-1 p-3 text-biblical-brown hover:text-biblical-brown/80 hover:bg-biblical-cream/50 rounded-lg transition-all duration-200 group"
+            aria-label="Back to Sefarim Page"
+          >
+            <Home size={24} className="group-hover:scale-110 transition-transform duration-200" />
+            <span className="text-sm font-medium">Back to Sefarim Page</span>
+          </button>
+        </div>
+        
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-black mb-4 font-hebrew">

@@ -53,8 +53,8 @@ const SefarimPage: React.FC = () => {
             </div>
             <div className="p-8 py-16 space-y-8 text-center">
               <div className="pt-8">
-                <h2 className="text-3xl font-bold text-black font-hebrew mb-3">
-                  מדרש העלייה
+                <h2 className="text-3xl font-bold text-black mb-3">
+                  Midrash HaAliyah
                 </h2>
                 <p className="text-biblical-brown leading-relaxed">
                   A midrashic work written in Hebrew, מדרש העלייה is a companion to Darosh Darash Moshe, summarizing the work in the style of classic aggadic ספרים. It combines teachings of חז״ל with original ideas and חידושים.
