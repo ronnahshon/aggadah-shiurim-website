@@ -97,9 +97,11 @@ const Sidebar: React.FC = () => {
       case '/catalog':
         return 'Shiurim Catalog';
       case '/search':
-        return 'Search Shiurim';
+        return 'Shiurim Search';
       case '/sefarim':
         return 'Original Sefarim';
+      case '/sefer/ein-yaakov-commentary':
+        return 'Ein Yaakov Commentary';
       case '/about':
         return 'About Midrash Aggadah';
       case '/':
@@ -111,9 +113,11 @@ const Sidebar: React.FC = () => {
 
   const navigationLinks = [
     { to: '/', icon: Home, label: 'Home Page' },
-    { to: '/catalog', icon: Book, label: 'Shiurim Catalog' },
+    { to: '/search', icon: Search, label: 'Shiurim Search' },
+    { to: '/catalog', icon: Search, label: 'Shiurim Catalog' },
     { to: '/sefer/darosh-darash-moshe', icon: BookOpen, label: 'Darosh Darash Moshe' },
-    { to: '/sefer/midrash-haaliyah', icon: BookOpen, label: 'מדרש העלייה' },
+    { to: '/sefer/midrash-haaliyah', icon: BookOpen, label: 'Midrash HaAliyah' },
+    { to: '/sefer/ein-yaakov-commentary', icon: BookOpen, label: 'Ein Yaakov Commentary' },
     { to: '/about', icon: Info, label: 'About Midrash Aggadah' },
   ];
 
