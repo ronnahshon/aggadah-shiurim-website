@@ -473,6 +473,8 @@ export function cleanMarkdownFormatting(content: string): string {
     .replace(/\*\*\*([^*]+)\*\*\*/g, '<strong><em>$1</em></strong>')
     // Handle footnotes specially - don't add line breaks around them
     .replace(/\*\*(\^?\[\d+\]\{\.underline\}\^?)\*\*/g, '<strong>$1</strong>')
+    // Handle images with alt text: ![alt text](image_path)
+    .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<div class="image-container my-4 text-center"><img src="$2" alt="$1" class="max-w-full h-auto mx-auto rounded-lg shadow-md" loading="lazy" /></div>')
     // Handle other bold text inline (no line breaks)
     .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
     .replace(/\*([^*]+)\*/g, '<em>$1</em>')

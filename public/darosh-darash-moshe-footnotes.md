@@ -592,7 +592,7 @@ Another example of the second miracle is repeated, albeit in a different context
 <br/>
 <br/>
 
-!(images/media/image2.png){width="6.375in" height="3.589377734033246in"}
+![Diagram showing relationship between concepts](/images/darosh_darash_moshe-1.png)
 <br/>
 <br/>
 
@@ -826,7 +826,7 @@ David came from Ram son of Hetzron, not Kalev son of Hetzron. So how could the m
 <br/>
 <br/>
 
-!(images/media/image3.png){width="6.44204615048119in" height="3.6302088801399823in"}
+![Diagram illustrating the concept](/images/darosh_darash_moshe-2.png)
 
 **52.** **Tanchuma Yelamdenu Ki Tisa 13**
 <br/>
@@ -1196,7 +1196,7 @@ In this sense separating the second passage from the first removes the need Rash
 <br/>
 <br/>
 
-!(images/media/image4.png){width="4.451983814523184in" height="4.494792213473316in"}
+![Diagram showing four crowns arrangement](/images/darosh_darash_moshe-3.png)
 
 **83.** While satisfying, the midrash by no means feels bound by any time constraint confining the issuance of these crowns to a single period of Jewish history, as **Note 67.** demonstrates. There are even opinions which directly assign Moshe and Aharon to the crowns of Torah and Kehunah, but then assign the crowns of Malchut and Shem Tov to David and Avraham respectively:
 <br/>
@@ -1268,7 +1268,7 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 <br/>
 <br/>
 
-!(images/media/image5.png){width="3.4791666666666665in" height="3.414886264216973in"}
+![Diagram showing arrangement during battle](/images/darosh_darash_moshe-4.png)
 
 **87.** **Tehillim 133:1-3.**
 
@@ -5561,7 +5561,7 @@ To summarize: *makat bechorot* happened on the 15th of Nissan. The most straight
 <br/>
 <br/>
 
-!(images/media/image6.png){width="5.5270494313210845in" height="1.7447922134733158in"}
+![Final diagram or illustration](/images/darosh_darash_moshe-5.png)
 
 **342.** **Devarim 22:6-7.**
 
