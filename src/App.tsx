@@ -18,6 +18,7 @@ const ShiurPage = React.lazy(() => import("./pages/ShiurPage"));
 const SefarimPage = React.lazy(() => import("./pages/SefarimPage"));
 const SeferPage = React.lazy(() => import("./pages/SeferPage"));
 const MidrashHaaliyahPage = React.lazy(() => import("./pages/MidrashHaaliyahPage"));
+const EinYaakovCommentaryPage = React.lazy(() => import("./pages/EinYaakovCommentaryPage"));
 const DaroshDarashMoshePage = React.lazy(() => import("./pages/DaroshDarashMoshePage"));
 const AboutPage = React.lazy(() => import("./pages/AboutPage"));
 const NotFound = React.lazy(() => import("./pages/NotFound"));
@@ -47,6 +48,7 @@ const App = () => (
                 <Route path="/sefarim" element={<Layout><SefarimPage /></Layout>} />
                 <Route path="/sefer/:seferId" element={<Layout><SeferPage /></Layout>} />
                 <Route path="/sefer/midrash-haaliyah" element={<Layout><MidrashHaaliyahPage /></Layout>} />
+                <Route path="/sefer/ein-yaakov-commentary" element={<Layout><EinYaakovCommentaryPage /></Layout>} />
                 <Route path="/sefer/darosh-darash-moshe" element={<DaroshDarashMoshePage />} />
                 <Route path="/about" element={<Layout><AboutPage /></Layout>} />
                 <Route path="*" element={<NotFound />} />

@@ -63,20 +63,20 @@ const SefarimPage: React.FC = () => {
             </div>
           </Link>
           
-          {/* Commentary on Ein Yaakov - Coming Soon */}
-          <div className="bg-white/80 rounded-lg shadow-md overflow-hidden border border-dashed border-parchment-dark">
+          {/* Commentary on Ein Yaakov - Now Clickable */}
+          <Link 
+            to="/sefer/ein-yaakov-commentary"
+            className="bg-white/80 rounded-lg shadow-md overflow-hidden block hover:shadow-lg hover:bg-white/90 transition-all duration-200 cursor-pointer"
+          >
             <div className="h-48 bg-gray-700/20 flex items-center justify-center relative">
               <OptimizedImage 
                 src="/images/ein_yaakov.png" 
-                alt="Ein Yaakov - Coming Soon" 
+                alt="Ein Yaakov Commentary" 
                 width={400}
                 height={300}
                 loading="lazy"
-                className="h-full w-full object-contain p-2 opacity-75"
+                className="h-full w-full object-contain p-2"
               />
-              <div className="absolute inset-0 bg-black/20 flex items-center justify-center">
-                <span className="text-white text-lg font-bold bg-black/60 px-4 py-2 rounded-lg shadow-lg">Coming Soon</span>
-              </div>
             </div>
             <div className="p-8 py-16 space-y-8 text-center">
               <div className="pt-8">
@@ -89,7 +89,7 @@ const SefarimPage: React.FC = () => {
                 </p>
               </div>
             </div>
-          </div>
+          </Link>
         </div>
       </div>
     </div>
