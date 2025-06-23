@@ -127,7 +127,7 @@ const EinYaakovCommentaryPage: React.FC = () => {
         <div className="max-w-6xl mx-auto">
           <div className="bg-white/90 rounded-lg shadow-sm p-8 md:p-12">
             <div 
-              className="prose-hebrew prose-xl max-w-none leading-relaxed text-black"
+              className="prose-hebrew prose-xl max-w-none leading-relaxed text-black text-justify"
               dangerouslySetInnerHTML={{ 
                 __html: cleanMarkdownEscapes(processContent(content))
               }}
