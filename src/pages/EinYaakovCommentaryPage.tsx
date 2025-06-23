@@ -98,15 +98,33 @@ const EinYaakovCommentaryPage: React.FC = () => {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-black mb-4 font-hebrew">
-            פירוש עין יעקב
+            פירוש על העין יעקב
           </h1>
           <p className="text-lg text-biblical-brown">
             חידושים על האגדות בסדר נזיקין, קדשים וטהרות
           </p>
         </div>
 
+        {/* Introduction Section */}
+        <div className="max-w-6xl mx-auto mb-8">
+          <div className="bg-white/90 rounded-lg shadow-sm p-6 md:p-8">
+            <p className="text-lg text-black leading-relaxed text-center">
+              This commentary is based on insights and ideas from hundreds of shiurim delivered over several years on Ein Yaakov (the aggadic portions of the Talmud Bavli)
+            </p>
+          </div>
+        </div>
+
+        {/* Work in Progress Note */}
+        <div className="max-w-6xl mx-auto mb-12">
+          <div className="bg-yellow-50/90 border border-yellow-200 rounded-lg shadow-sm p-4 md:p-6">
+            <p className="text-center text-black font-medium">
+              Note: This commentary is still a work in progress
+            </p>
+          </div>
+        </div>
+
         {/* Main Content */}
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-6xl mx-auto">
           <div className="bg-white/90 rounded-lg shadow-sm p-8 md:p-12">
             <div 
               className="prose-hebrew prose-xl max-w-none leading-relaxed text-black"
