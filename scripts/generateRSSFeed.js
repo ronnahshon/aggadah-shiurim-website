@@ -39,8 +39,8 @@ function generateEnclosure(shiur) {
 }
 
 function generateRSSFeed() {
-  // Get the latest 50 shiurim (or all if less than 50)
-  const latestShiurim = shiurimData.slice(0, 50);
+  // Get all shiurim (RSS feeds can handle large numbers of entries)
+  const latestShiurim = shiurimData;
   
   const buildDate = new Date().toUTCString();
   
@@ -109,7 +109,7 @@ function generateRSSFeed() {
 }
 
 function generateAtomFeed() {
-  const latestShiurim = shiurimData.slice(0, 20);
+  const latestShiurim = shiurimData;
   const buildDate = new Date().toISOString();
   
   let atom = `<?xml version="1.0" encoding="UTF-8"?>
@@ -166,9 +166,9 @@ try {
   fs.writeFileSync(atomOutputPath, atomContent, 'utf8');
   
   console.log('✅ RSS feed generated successfully at', rssOutputPath);
-  console.log('📊 RSS items:', shiurimData.slice(0, 50).length);
+  console.log('📊 RSS items:', shiurimData.length);
   console.log('✅ Atom feed generated successfully at', atomOutputPath);
-  console.log('📊 Atom entries:', shiurimData.slice(0, 20).length);
+  console.log('📊 Atom entries:', shiurimData.length);
 } catch (error) {
   console.error('❌ Error generating feeds:', error);
   process.exit(1);
