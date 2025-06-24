@@ -58,15 +58,28 @@ const EinYaakovCommentaryPage: React.FC = () => {
   // Simple markdown-to-HTML processor for Hebrew commentary
   const processContent = (rawContent: string): string => {
     return rawContent
-      // Convert bold markdown to HTML
-      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-      // Convert italic markdown to HTML
-      .replace(/\*([^*]+)\*/g, '<em>$1</em>')
-      // Convert line breaks to paragraphs
       .split('\n\n')
       .map(paragraph => paragraph.trim())
       .filter(paragraph => paragraph.length > 0)
-      .map(paragraph => `<p>${paragraph.replace(/\n/g, '<br>')}</p>`)
+      .map(paragraph => {
+        // Check if the entire paragraph is wrapped in bold markdown (no non-bolded text outside **)
+        const isFullyBolded = /^\*\*[^*]+\*\*$/.test(paragraph.trim());
+        
+        let processedParagraph = paragraph
+          // Convert bold markdown to HTML
+          .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+          // Convert italic markdown to HTML
+          .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+          // Convert line breaks within paragraph
+          .replace(/\n/g, '<br>');
+        
+        // If the entire paragraph was bolded, apply special styling
+        if (isFullyBolded) {
+          return `<p class="fully-bolded-line">${processedParagraph}</p>`;
+        } else {
+          return `<p>${processedParagraph}</p>`;
+        }
+      })
       .join('');
   };
 
@@ -96,6 +109,17 @@ const EinYaakovCommentaryPage: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-subtle-parchment py-8 pt-20 md:pt-8" dir="rtl">
+      {/* Add styles for fully bolded lines */}
+      <style>
+        {`
+          .fully-bolded-line {
+            font-size: 1.25em !important;
+            text-decoration: underline !important;
+            font-weight: bold !important;
+            margin: 1.5em 0 !important;
+          }
+        `}
+      </style>
       <div className="content-container">
         {/* Back to Sefarim Button */}
         <div className="mb-6 flex justify-center">
@@ -119,14 +143,7 @@ const EinYaakovCommentaryPage: React.FC = () => {
           </p>
         </div>
 
-        {/* Introduction Section */}
-        <div className="max-w-6xl mx-auto mb-8">
-          <div className="bg-white/90 rounded-lg shadow-sm p-6 md:p-8">
-            <p className="text-lg text-black leading-relaxed text-center">
-              This commentary is based on insights and ideas from hundreds of shiurim delivered over several years on Ein Yaakov (the aggadic portions of the Talmud Bavli)
-            </p>
-          </div>
-        </div>
+
 
         {/* Work in Progress Note */}
         <div className="max-w-6xl mx-auto mb-12">
