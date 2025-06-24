@@ -160,6 +160,13 @@
         {
           "@type": "SiteNavigationElement",
           "position": 5,
+          "name": "Ein Yaakov Commentary",
+          "url": "https://midrashaggadah.com/sefer/ein-yaakov-commentary",
+          "description": "Commentary on the aggadic portions of the Talmud focusing on Seder Nezikin, Kodashim, and Taharot"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 6,
           "name": "Search",
           "url": "https://midrashaggadah.com/search"
         }
@@ -198,6 +205,12 @@
           "position": 5,
           "name": "Sefarim",
           "item": "https://midrashaggadah.com/sefarim"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Ein Yaakov Commentary",
+          "item": "https://midrashaggadah.com/sefer/ein-yaakov-commentary"
         }
       ]
     }

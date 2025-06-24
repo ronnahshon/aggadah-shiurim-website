@@ -26,6 +26,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://midrashaggadah.com/sefer/ein-yaakov-commentary</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://midrashaggadah.com/search</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>

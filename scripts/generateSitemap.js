@@ -21,6 +21,7 @@ const staticPages = [
   { url: '/catalog', priority: '0.9', changefreq: 'weekly' },
   { url: '/sefarim', priority: '0.8', changefreq: 'monthly' },
   { url: '/sefer/midrash-haaliyah', priority: '0.8', changefreq: 'monthly' },
+  { url: '/sefer/ein-yaakov-commentary', priority: '0.8', changefreq: 'monthly' },
   { url: '/search', priority: '0.7', changefreq: 'monthly' },
   { url: '/about', priority: '0.6', changefreq: 'monthly' }
 ];
