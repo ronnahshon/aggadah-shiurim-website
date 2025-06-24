@@ -826,7 +826,7 @@ const MidrashHaaliyahPage: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-parchment" dir="rtl">
-      <div className="max-w-6xl lg:max-w-7xl mx-auto px-4 py-8">
+      <div className="max-w-6xl lg:max-w-7xl mx-auto px-4 py-8 pt-16 md:pt-8">
         {/* Back to Sefarim Button */}
         <div className="mb-6 flex justify-center">
           <button
