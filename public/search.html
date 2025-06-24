@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Search Shiurim | Midrash Aggadah</title>
+    <meta name="description" content="Search through hundreds of midrash aggadah shiurim by category, subcategory, or sefer. Find audio lectures on Ein Yaakov, Tanach midrashim, and classical Jewish texts.">
+    <meta name="keywords" content="search shiurim, find lectures, midrash search, ein yaakov search, jewish lectures">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph meta tags for social sharing -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Search Shiurim | Midrash Aggadah">
+    <meta property="og:description" content="Search through hundreds of midrash aggadah shiurim by category, subcategory, or sefer. Find audio lectures on Ein Yaakov, Tanach midrashim, and classical Jewish texts.">
+    <meta property="og:url" content="https://midrashaggadah.com/search">
+    <meta property="og:site_name" content="Midrash Aggadah">
+    <meta property="og:image" content="https://midrashaggadah.com/images/moshe_aharon_hur_img.png">
+    <meta property="og:image:alt" content="Midrash Aggadah - Search Shiurim">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="he_IL">
+    
+    <!-- Twitter Card meta tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@midrashaggadah">
+    <meta name="twitter:title" content="Search Shiurim | Midrash Aggadah">
+    <meta name="twitter:description" content="Search through hundreds of midrash aggadah shiurim by category, subcategory, or sefer.">
+    <meta name="twitter:image" content="https://midrashaggadah.com/images/moshe_aharon_hur_img.png">
+    <meta name="twitter:image:alt" content="Midrash Aggadah - Search Shiurim">
+    
+    <link rel="canonical" href="https://midrashaggadah.com/search">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&display=swap">
+    
+    <!-- Favicon and app icons -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#8B4513">
+    <meta name="msapplication-TileColor" content="#8B4513">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Midrash Aggadah">
+    
+    <!-- RSS and Atom feeds -->
+    <link rel="alternate" type="application/rss+xml" title="Midrash Aggadah RSS Feed" href="/rss.xml">
+    <link rel="alternate" type="application/atom+xml" title="Midrash Aggadah Atom Feed" href="/atom.xml">
+    
+    <!-- Structured Data for Search Page -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Search Shiurim",
+      "description": "Search through hundreds of midrash aggadah shiurim by category, subcategory, or sefer. Find audio lectures on Ein Yaakov, Tanach midrashim, and classical Jewish texts.",
+      "url": "https://midrashaggadah.com/search",
+      "mainEntity": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://midrashaggadah.com/search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Midrash Aggadah",
+        "url": "https://midrashaggadah.com"
+      },
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://midrashaggadah.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Search",
+            "item": "https://midrashaggadah.com/search"
+          }
+        ]
+      }
+    }
+    </script>
+    
+    <style>
+      body {
+        font-family: 'David Libre', serif;
+        background-color: #f8f6f0;
+        color: #8b4513;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 2rem;
+      }
+      h1 {
+        text-align: center;
+        color: #8b4513;
+        font-size: 2.5rem;
+        margin-bottom: 2rem;
+      }
+      .search-info {
+        background: white;
+        padding: 2rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        margin-bottom: 2rem;
+        text-align: center;
+      }
+      .categories {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 1rem;
+        margin-top: 2rem;
+      }
+      .category {
+        background: white;
+        padding: 1.5rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      }
+      .category h3 {
+        color: #8b4513;
+        margin-top: 0;
+      }
+      .redirect-notice {
+        background: #e6f3ff;
+        border: 1px solid #b3d9ff;
+        padding: 1rem;
+        border-radius: 4px;
+        margin-bottom: 2rem;
+        text-align: center;
+      }
+      .button {
+        display: inline-block;
+        background: #8b4513;
+        color: white;
+        padding: 12px 24px;
+        text-decoration: none;
+        border-radius: 4px;
+        margin-top: 1rem;
+      }
+      .button:hover {
+        background: #6a3410;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>Search Shiurim</h1>
+      
+      <div class="redirect-notice">
+        <p>This page provides information about our search functionality for search engines. For the interactive search experience, please <a href="/search" class="button">use our full search interface</a>.</p>
+      </div>
+      
+      <div class="search-info">
+        <h2>Search Through Our Complete Shiurim Collection</h2>
+        <p>Search through hundreds of midrash aggadah shiurim by category, subcategory, or sefer. Find audio lectures on Ein Yaakov, Tanach midrashim, and classical Jewish texts.</p>
+        <p><strong>Our collection includes over 238 shiurim</strong> covering various topics in Jewish learning and midrash aggadah.</p>
+      </div>
+      
+      <div class="categories">
+        <div class="category">
+          <h3>Ein Yaakov</h3>
+          <p>Comprehensive study of aggadic portions of the Talmud through audio shiurim and detailed source sheets. Explore the wisdom of our sages through careful analysis of non-legal Talmudic passages.</p>
+        </div>
+        
+        <div class="category">
+          <h3>Tanach Midrashim</h3>
+          <p>Midrashic interpretations and expansions of biblical texts with comprehensive Hebrew sources and commentary. Discover deeper meanings in biblical narratives through classical midrashic literature.</p>
+        </div>
+        
+        <div class="category">
+          <h3>Classical Midrash Collections</h3>
+          <p>Study of traditional midrashic literature and commentary including Tanna Devei Eliyahu and other classical sources. Access centuries of Jewish wisdom and interpretation.</p>
+        </div>
+        
+        <div class="category">
+          <h3>Weekly Parsha</h3>
+          <p>Weekly Torah portion studies incorporating midrashic insights and classical commentaries. Connect weekly Torah readings with aggadic interpretations.</p>
+        </div>
+      </div>
+      
+      <div class="search-info">
+        <h2>How to Search</h2>
+        <p>Use our search interface to:</p>
+        <ul style="text-align: left; display: inline-block;">
+          <li>Search by keyword or topic</li>
+          <li>Filter by category (Ein Yaakov, Tanach, etc.)</li>
+          <li>Filter by subcategory or specific tractate</li>
+          <li>Filter by sefer or source text</li>
+          <li>Browse by year or duration</li>
+        </ul>
+        <a href="/search" class="button">Start Searching Now</a>
+      </div>
+    </div>
+    
+    <!-- JavaScript redirect for users -->
+    <script>
+      // Only redirect if this is not a crawler
+      if (!/bot|crawler|spider|crawling/i.test(navigator.userAgent)) {
+        // Add a small delay to ensure crawlers can read the content
+        setTimeout(function() {
+          if (window.location.pathname === '/search.html') {
+            window.location.replace('/search');
+          }
+        }, 100);
+      }
+    </script>
+  </body>
+</html> 

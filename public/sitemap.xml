@@ -32,8 +32,9 @@
   </url>
   <url>
     <loc>https://midrashaggadah.com/search</loc>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+    <lastmod>2025-06-24</lastmod>
   </url>
   <url>
     <loc>https://midrashaggadah.com/about</loc>
