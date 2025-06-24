@@ -114,7 +114,7 @@ const SearchPage: React.FC = () => {
       />
       <div className="content-container">
         <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-brown">
-          Search Shiurim
+          Shiurim Search
         </h1>
         
         {/* Search form */}

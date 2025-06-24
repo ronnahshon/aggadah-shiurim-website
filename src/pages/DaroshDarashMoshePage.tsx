@@ -396,12 +396,6 @@ const DaroshDarashMoshePage: React.FC = () => {
 
               {/* Page Title */}
               <div className="mb-8 text-center">
-                <h1 className="text-3xl md:text-4xl font-bold text-biblical-brown mb-2">
-                  Darosh Darash Moshe
-                </h1>
-                <p className="text-lg text-biblical-brown/80">
-                  The Life and Legacy of Moshe Rabbeinu
-                </p>
               </div>
               
               {/* Download PDF Button - Mobile Only */}

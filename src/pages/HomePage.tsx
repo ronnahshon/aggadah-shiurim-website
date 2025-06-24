@@ -106,9 +106,6 @@ const HomePage: React.FC = () => {
       <section className="pt-12 pb-6 bg-parchment-texture bg-cover bg-center">
         <div className="content-container">
           <div className="text-center mb-12">
-            <h1 className="text-3xl md:text-4xl font-bold mb-6 text-biblical-brown animate-fade-in">
-              Midrash Aggadah - Jewish Learning & Shiurim
-            </h1>
             <p className="text-lg md:text-xl max-w-4xl mx-auto mb-6 text-biblical-brown animate-fade-in">
               Welcome to Midrash Aggadah, a website dedicated to spreading the timeless wisdom and profound teachings of חז״ל.
             </p>
