@@ -2,7 +2,80 @@
   "rewrites": [
     {
       "source": "/search",
-      "destination": "/search.html"
+      "destination": "/search.html",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(?:bot|crawler|spider|crawling).*"
+        }
+      ]
+    },
+    {
+      "source": "/catalog",
+      "destination": "/catalog.html",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(?:bot|crawler|spider|crawling).*"
+        }
+      ]
+    },
+    {
+      "source": "/sefarim",
+      "destination": "/sefarim.html",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(?:bot|crawler|spider|crawling).*"
+        }
+      ]
+    },
+    {
+      "source": "/about",
+      "destination": "/about.html",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(?:bot|crawler|spider|crawling).*"
+        }
+      ]
+    },
+    {
+      "source": "/sefer/darosh-darash-moshe",
+      "destination": "/sefer/darosh-darash-moshe.html",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(?:bot|crawler|spider|crawling).*"
+        }
+      ]
+    },
+    {
+      "source": "/sefer/midrash-haaliyah",
+      "destination": "/sefer/midrash-haaliyah.html",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(?:bot|crawler|spider|crawling).*"
+        }
+      ]
+    },
+    {
+      "source": "/sefer/ein-yaakov-commentary",
+      "destination": "/sefer/ein-yaakov-commentary.html",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(?:bot|crawler|spider|crawling).*"
+        }
+      ]
     },
     {
       "source": "/(.*)",
