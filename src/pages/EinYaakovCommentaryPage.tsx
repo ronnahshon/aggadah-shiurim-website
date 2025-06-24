@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowUp, Download, Home } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import SEOHead from '@/components/seo/SEOHead';
 import { cleanMarkdownEscapes } from '../utils/midrashParser';
 
 const EinYaakovCommentaryPage: React.FC = () => {
@@ -109,6 +110,12 @@ const EinYaakovCommentaryPage: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-subtle-parchment py-8 pt-20 md:pt-8" dir="rtl">
+      <SEOHead
+        title="Ein Yaakov Commentary - Classical Hebrew Commentary"
+        description="Read our Hebrew commentary on Ein Yaakov (פירוש על העין יעקב) with original insights on aggadic sections of Nezikin, Kodashim, and Toharot. Written in traditional Hebrew and Aramaic style."
+        keywords={['ein yaakov commentary', 'פירוש עין יעקב', 'talmud commentary', 'hebrew commentary', 'aggadah commentary', 'nezikin kodashim toharot']}
+        ogType="book"
+      />
       {/* Add styles for fully bolded lines */}
       <style>
         {`
@@ -138,6 +145,9 @@ const EinYaakovCommentaryPage: React.FC = () => {
           <h1 className="text-4xl md:text-5xl font-bold text-black mb-4 font-hebrew">
             פירוש על העין יעקב
           </h1>
+          <h2 className="text-2xl md:text-3xl font-bold text-biblical-brown mb-2">
+            Ein Yaakov Commentary
+          </h2>
           <p className="text-lg text-biblical-brown">
             חידושים על האגדות בסדר נזיקין, קדשים וטהרות
           </p>

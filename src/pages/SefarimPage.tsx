@@ -2,11 +2,21 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { BookOpen, ExternalLink } from 'lucide-react';
 import OptimizedImage from '@/components/ui/OptimizedImage';
+import SEOHead from '@/components/seo/SEOHead';
 
 const SefarimPage: React.FC = () => {
   return (
     <div className="min-h-screen py-8 pt-20 md:pt-8 flex items-center">
+      <SEOHead
+        title="Sefarim - Original Jewish Texts"
+        description="Read original midrashic works including Darosh Darash Moshe, Midrash HaAliyah, and Commentary on Ein Yaakov. Free access to comprehensive Jewish learning materials and source texts."
+        keywords={['jewish sefarim', 'original texts', 'darosh darash moshe', 'midrash haaliyah', 'ein yaakov commentary', 'free jewish books']}
+        ogType="website"
+      />
       <div className="content-container">
+        <h1 className="text-3xl md:text-4xl font-bold mb-8 text-center text-biblical-brown">
+          Sefarim - Original Jewish Texts
+        </h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {/* Darosh Darash Moshe (now on the left) */}
           <Link 

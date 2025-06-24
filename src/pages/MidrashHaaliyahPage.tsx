@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowUp, Download, Home } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import SEOHead from '@/components/seo/SEOHead';
 import { parseMidrashContent, renderContentWithFootnotes, cleanMarkdownEscapes, type MidrashContent } from '../utils/midrashParser';
 
 const MidrashHaaliyahPage: React.FC = () => {
@@ -826,6 +827,12 @@ const MidrashHaaliyahPage: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-parchment" dir="rtl">
+      <SEOHead
+        title="Midrash HaAliyah - Hebrew Midrashic Work"
+        description="Read Midrash HaAliyah (מדרש העלייה), a comprehensive Hebrew midrashic work exploring the three ascents of Moshe Rabbeinu with classical sources and original insights."
+        keywords={['midrash haaliyah', 'מדרש העלייה', 'hebrew midrash', 'moshe rabbeinu', 'three ascents', 'jewish texts', 'hebrew sefarim']}
+        ogType="book"
+      />
       <div className="max-w-6xl lg:max-w-7xl mx-auto px-4 py-8 pt-16 md:pt-8">
         {/* Back to Sefarim Button */}
         <div className="mb-6 flex justify-center">
