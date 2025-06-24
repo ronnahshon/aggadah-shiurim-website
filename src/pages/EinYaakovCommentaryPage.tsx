@@ -15,7 +15,7 @@ const EinYaakovCommentaryPage: React.FC = () => {
       try {
         // Add cache-busting parameter to ensure latest version is loaded
         const timestamp = new Date().getTime();
-        const response = await fetch(`/ein_yaakov_commentary.md?v=${timestamp}`, {
+        const response = await fetch(`/sefarim/ein_yaakov_commentary.md?v=${timestamp}`, {
           cache: 'no-cache',
           headers: {
             'Cache-Control': 'no-cache, no-store, must-revalidate',

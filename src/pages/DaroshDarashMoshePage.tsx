@@ -48,7 +48,7 @@ const DaroshDarashMoshePage: React.FC = () => {
         
         // Load main content and footnotes
         const [mainResponse, footnotesResponse] = await Promise.all([
-          fetch(`/darosh-darash-moshe.md?v=${timestamp}`, {
+          fetch(`/sefarim/darosh-darash-moshe.md?v=${timestamp}`, {
             cache: 'no-cache',
             headers: {
               'Cache-Control': 'no-cache, no-store, must-revalidate',
@@ -56,7 +56,7 @@ const DaroshDarashMoshePage: React.FC = () => {
               'Expires': '0'
             }
           }),
-          fetch(`/darosh-darash-moshe-footnotes.md?v=${timestamp}`, {
+          fetch(`/sefarim/darosh-darash-moshe-footnotes.md?v=${timestamp}`, {
             cache: 'no-cache',
             headers: {
               'Cache-Control': 'no-cache, no-store, must-revalidate',
@@ -306,7 +306,7 @@ const DaroshDarashMoshePage: React.FC = () => {
               <button
                 onClick={() => {
                   const link = document.createElement('a');
-                  link.href = '/darosh_darash_moshe_enhanced.pdf';
+                  link.href = '/sefarim/darosh_darash_moshe_enhanced.pdf';
                   link.download = 'darosh_darash_moshe_enhanced.pdf';
                   link.click();
                 }}
@@ -399,7 +399,7 @@ const DaroshDarashMoshePage: React.FC = () => {
                 <button
                   onClick={() => {
                     const link = document.createElement('a');
-                    link.href = '/darosh_darash_moshe_enhanced.pdf';
+                    link.href = '/sefarim/darosh_darash_moshe_enhanced.pdf';
                     link.download = 'darosh_darash_moshe_enhanced.pdf';
                     link.click();
                   }}
