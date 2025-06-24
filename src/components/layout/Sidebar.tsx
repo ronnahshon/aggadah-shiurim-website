@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { useSidebar } from './SidebarProvider';
 import { cn } from '@/lib/utils';
-import { Book, BookOpen, Search, Home, Info, Menu, X } from 'lucide-react';
+import { Book, BookOpen, Search, Home, Info, Menu, X, Library } from 'lucide-react';
 
 // Helper functions for Hebrew and English dates
 const getHebrewMonths = () => [
@@ -99,7 +99,11 @@ const Sidebar: React.FC = () => {
       case '/search':
         return 'Shiurim Search';
       case '/sefarim':
-        return 'Original Sefarim';
+        return 'Sefarim';
+      case '/sefer/darosh-darash-moshe':
+        return 'Darosh Darash Moshe';
+      case '/sefer/midrash-haaliyah':
+        return 'Midrash HaAliyah';
       case '/sefer/ein-yaakov-commentary':
         return 'Ein Yaakov Commentary';
       case '/about':
@@ -115,9 +119,10 @@ const Sidebar: React.FC = () => {
     { to: '/', icon: Home, label: 'Home Page' },
     { to: '/search', icon: Search, label: 'Shiurim Search' },
     { to: '/catalog', icon: Search, label: 'Shiurim Catalog' },
-    { to: '/sefer/darosh-darash-moshe', icon: BookOpen, label: 'Darosh Darash Moshe' },
-    { to: '/sefer/midrash-haaliyah', icon: BookOpen, label: 'Midrash HaAliyah' },
-    { to: '/sefer/ein-yaakov-commentary', icon: BookOpen, label: 'Ein Yaakov Commentary' },
+    { to: '/sefarim', icon: Library, label: 'Sefarim', isParent: true },
+    { to: '/sefer/darosh-darash-moshe', icon: BookOpen, label: 'Darosh Darash Moshe', isChild: true, parentPath: '/sefarim' },
+    { to: '/sefer/midrash-haaliyah', icon: BookOpen, label: 'Midrash HaAliyah', isChild: true, parentPath: '/sefarim' },
+    { to: '/sefer/ein-yaakov-commentary', icon: BookOpen, label: 'Ein Yaakov Commentary', isChild: true, parentPath: '/sefarim' },
     { to: '/about', icon: Info, label: 'About Midrash Aggadah' },
   ];
 
@@ -150,14 +155,15 @@ const Sidebar: React.FC = () => {
           {mobileMenuOpen && (
             <div className="bg-parchment border-t border-parchment-dark">
               <div className="px-4 py-2 space-y-1">
-                {navigationLinks.map(({ to, icon: Icon, label }) => (
+                {navigationLinks.map(({ to, icon: Icon, label, isChild }) => (
                   <Link
                     key={to}
                     to={to}
                     onClick={() => setMobileMenuOpen(false)}
                     className={cn(
                       'flex items-center gap-3 px-3 py-3 rounded-md text-biblical-brown hover:bg-biblical-burgundy/10 hover:text-biblical-brown transition-all',
-                      isActive(to) && 'bg-biblical-burgundy/10 text-biblical-brown font-medium'
+                      isActive(to) && 'bg-biblical-burgundy/10 text-biblical-brown font-medium',
+                      isChild && 'ml-4' // Add indentation for child items in mobile menu
                     )}
                   >
                     <Icon size={20} />
@@ -210,13 +216,14 @@ const Sidebar: React.FC = () => {
         {/* Navigation links */}
         <div className="flex-1 overflow-y-auto py-4">
           <nav className="space-y-1 px-2">
-            {navigationLinks.map(({ to, icon: Icon, label }) => (
+            {navigationLinks.map(({ to, icon: Icon, label, isChild }) => (
             <Link 
                 key={to}
                 to={to}
               className={cn(
                 'sidebar-link',
-                  isActive(to) && 'active'
+                isActive(to) && 'active',
+                isChild && isOpen && 'ml-6' // Add indentation for child items when sidebar is open
               )}
             >
                 <Icon size={20} />
