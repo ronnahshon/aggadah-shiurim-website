@@ -548,7 +548,7 @@ const MidrashHaaliyahPage: React.FC = () => {
             <div class="cover-author">נכתב ע״י רון שמואל בן נדב צבי הכהן</div>
           </div>
           <div class="cover-image">
-            <img src="/images/moshe_aharon_hur_img.png" alt="משה אהרון וחור" />
+            <img src="/images/moshe_aharon_hur_img.jpg" alt="משה אהרון וחור" width="1234" height="894" />
           </div>
         </div>
         

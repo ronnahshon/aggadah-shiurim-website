@@ -25,11 +25,12 @@ const SefarimPage: React.FC = () => {
           >
             <div className="h-64 bg-gray-700/20 flex items-center justify-center relative">
               <OptimizedImage 
-                src="/images/moshe_aharon_hur_img.png" 
+                src="/images/moshe_aharon_hur_img.jpg" 
                 alt="Illustration of Moshe Rabbeinu with Aharon and Hur - representing the three ascents described in Darosh Darash Moshe" 
                 width={400}
                 height={300}
-                loading="lazy"
+                loading="eager"
+                priority={true}
                 className="h-full w-full object-contain p-4"
               />
             </div>
@@ -52,7 +53,7 @@ const SefarimPage: React.FC = () => {
           >
             <div className="h-64 bg-gray-700/20 flex items-center justify-center relative">
               <OptimizedImage 
-                src="/images/moshe_aharon_hur_img.png" 
+                src="/images/moshe_aharon_hur_img.jpg" 
                 alt="Illustration of Moshe Rabbeinu with Aharon and Hur - representing the three ascents described in Midrash HaAliyah" 
                 width={400}
                 height={300}
