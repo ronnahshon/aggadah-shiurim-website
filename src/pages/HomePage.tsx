@@ -307,6 +307,9 @@ const HomePage: React.FC = () => {
               <Book className="mr-2" size={20} />
               View All Shiurim
             </Link>
+            <p className="text-xs text-biblical-brown/60 mt-2">
+              Last Updated June 2025
+            </p>
           </div>
         </div>
       </section>
