@@ -5,12 +5,15 @@ import OptimizedImage from '@/components/ui/OptimizedImage';
 import SEOHead from '@/components/seo/SEOHead';
 
 const SefarimPage: React.FC = () => {
+  const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
+
   return (
     <div className="min-h-screen py-8 pt-20 md:pt-8 flex items-center">
       <SEOHead
         title="Sefarim - Original Jewish Texts"
         description="Read original midrashic works including Darosh Darash Moshe, Midrash HaAliyah, and Commentary on Ein Yaakov. Free access to comprehensive Jewish learning materials and source texts."
         keywords={['jewish sefarim', 'original texts', 'darosh darash moshe', 'midrash haaliyah', 'ein yaakov commentary', 'free jewish books']}
+        canonicalUrl={`${baseUrl}/sefarim`}
         ogType="website"
       />
       <div className="content-container">

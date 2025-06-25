@@ -119,12 +119,15 @@ const SearchPage: React.FC = () => {
     setShowFilters(prev => !prev);
   };
 
+  const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
+
   return (
     <div className="min-h-screen py-8 pt-20 md:pt-8">
       <SEOHead
         title="Search Shiurim"
         description="Search through hundreds of midrash aggadah shiurim by category, subcategory, or sefer. Find audio lectures on Ein Yaakov, Tanach midrashim, and classical Jewish texts."
         keywords={['search shiurim', 'find lectures', 'midrash search', 'ein yaakov search', 'jewish lectures']}
+        canonicalUrl={`${baseUrl}/search`}
         ogType="website"
       />
       <div className="content-container">

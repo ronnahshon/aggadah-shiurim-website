@@ -24,7 +24,11 @@ const SEOHead: React.FC<SEOHeadProps> = ({
 }) => {
   const fullTitle = title === "Midrash Aggadah" ? title : `${title} | Midrash Aggadah`;
   const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
-  const canonical = canonicalUrl || (typeof window !== 'undefined' ? window.location.href : baseUrl);
+  
+  // Use provided canonicalUrl or construct clean URL without query parameters
+  const canonical = canonicalUrl || (typeof window !== 'undefined' 
+    ? `${window.location.origin}${window.location.pathname}` 
+    : baseUrl);
 
   const defaultKeywords = [
     'midrash', 'aggadah', 'jewish learning', 'talmud', 'shiurim', 'lectures', 

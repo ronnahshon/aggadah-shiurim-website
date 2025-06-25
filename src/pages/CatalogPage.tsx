@@ -175,12 +175,15 @@ const CatalogPage: React.FC = () => {
     return '--:--';
   };
 
+  const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
+
   return (
     <div className="min-h-screen py-8 pt-20 md:pt-8">
       <SEOHead
         title="Browse Shiurim Catalog"
         description={generateEnhancedMetaDescription('catalog')}
         keywords={generateContextualKeywords('catalog')}
+        canonicalUrl={`${baseUrl}/catalog`}
         ogType="website"
       />
       {/* Hidden audio element for metadata loading */}

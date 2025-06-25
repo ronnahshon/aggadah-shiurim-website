@@ -113,6 +113,7 @@ const HomePage: React.FC = () => {
         title="Midrash Aggadah"
         description={generateMetaDescription('home')}
         keywords={generateKeywords('home')}
+        canonicalUrl={`${baseUrl}/`}
         structuredData={structuredData}
         ogType="website"
       />

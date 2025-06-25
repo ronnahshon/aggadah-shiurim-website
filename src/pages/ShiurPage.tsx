@@ -138,6 +138,7 @@ const ShiurPage: React.FC = () => {
         title={shiur.english_title}
         description={generateMetaDescription('shiur', shiur)}
         keywords={generateKeywords('shiur', shiur)}
+        canonicalUrl={`${baseUrl}/shiur/${shiur.id}`}
         structuredData={[structuredData, breadcrumbStructuredData]}
         ogType="article"
       />
