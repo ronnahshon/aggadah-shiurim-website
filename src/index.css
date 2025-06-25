@@ -867,3 +867,13 @@ sup {
   font-family: 'Noto Sans Hebrew', 'Arial Hebrew', 'David', serif;
   font-feature-settings: 'kern' 1;
 }
+
+/* Hebrew prose styling for Ein Yaakov Commentary - matches midrash-content font */
+.prose-hebrew {
+  font-family: 'David Libre', serif;
+  direction: rtl;
+  text-align: right;
+  line-height: 1.8;
+  word-spacing: 0.1em;
+  font-feature-settings: "kern" 1, "liga" 1;
+}
