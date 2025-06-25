@@ -72,12 +72,17 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
    }
    ```
 
-2. **Regenerate sitemap**:
+2. **Add the source sheet and audio to AWS S3**
+- There are two objects in S3, "audio" and "source_sheets"
+- Use the same naming convention as the existing files for it to work
+- Link https://eu-north-1.console.aws.amazon.com/s3/buckets/midrash-aggadah?region=eu-north-1&bucketType=general&tab=objects
+
+3. **Regenerate sitemap**:
    ```bash
    npm run sitemap
    ```
 
-3. **Build and deploy** to ensure SEO updates are applied.
+4. **Build and deploy** to ensure SEO updates are applied.
 
 ### Adding a New Page
 
