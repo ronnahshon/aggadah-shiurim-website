@@ -200,9 +200,41 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
    />
    ```
 
-2. **Update sitemap** in `scripts/generateSitemap.js`
+2. **Update sitemap** in `scripts/generateSitemap.js`:
+   ```javascript
+   const staticPages = [
+     // ... existing pages
+     { url: '/your-new-page', priority: '0.8', changefreq: 'monthly' }
+   ];
+   ```
 
-3. **Add structured data** if applicable (in `src/utils/seoUtils.ts`)
+3. **Build and deploy** the site:
+   ```bash
+   npm run build
+   # Deploy to your hosting platform
+   ```
+
+4. **Search Engine Submission** (Complete within 24-48 hours of deployment):
+
+   **Google Search Console:**
+   - Go to [Google Search Console](https://search.google.com/search-console)
+   - Select your property (midrashaggadah.com)
+   - **Sitemaps** → Submit updated sitemap: `https://midrashaggadah.com/sitemap.xml`
+   - **URL Inspection** → Test new page URL: `https://midrashaggadah.com/your-new-page`
+   - Click "Request Indexing" if URL is valid
+   - **Performance** → Monitor for new page appearance in search results (7-14 days)
+
+   **Bing Webmaster Tools:**
+   - Go to [Bing Webmaster Tools](https://www.bing.com/webmasters)
+   - Select your site
+   - **Sitemaps** → Submit/resubmit sitemap: `https://midrashaggadah.com/sitemap.xml`
+   - **URL Inspection** → Submit new URL for indexing
+   - **Site Scan** → Run to check for issues
+
+5. **Validation & Testing**:
+   - **Rich Results Test**: Test structured data at [search.google.com/test/rich-results](https://search.google.com/test/rich-results)
+   - **PageSpeed Insights**: Check performance at [pagespeed.web.dev](https://pagespeed.web.dev)
+   - **Mobile-Friendly Test**: Verify at [search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
 
 #### For New Shiurim:
 - **Automatic SEO**: New shiurim in `shiurim_data.json` automatically get:
@@ -212,17 +244,60 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
   - Inclusion in sitemap
   - Breadcrumb navigation
 
+**Manual Steps Required:**
+1. **Build and deploy** after updating `shiurim_data.json`
+2. **Resubmit sitemap** in Google Search Console and Bing Webmaster Tools
+3. **Bulk URL submission** (if adding many shiurim):
+   - Google Search Console → **Sitemaps** → Monitor "Submitted" vs "Indexed" counts
+   - Use **Batch URL submission** in Bing Webmaster Tools for 10+ new URLs
+
 #### For New Sefarim:
 1. **Create structured data** following Book schema pattern
 2. **Add to navigation** and breadcrumbs
 3. **Include in sitemap** with appropriate priority
 4. **Optimize content** with proper headings and semantic markup
+5. **Follow same search engine submission process as new pages above**
 
-### SEO Monitoring
-- **Files to check**: `public/sitemap.xml`, `public/robots.txt`
-- **Analytics**: Track organic traffic growth
-- **Tools**: Google Search Console, Rich Results Test
-- **Performance**: Monitor Core Web Vitals
+### SEO Monitoring & Maintenance
+
+#### Weekly Tasks:
+- **Google Search Console**:
+  - Check **Coverage** report for indexing issues
+  - Monitor **Performance** for ranking changes
+  - Review **Core Web Vitals** for performance issues
+  - Check **Manual Actions** for penalties
+
+- **Bing Webmaster Tools**:
+  - Review **Reports & Data** → **Search Performance**
+  - Check **Crawl** → **Crawl Errors** for issues
+  - Monitor **SEO Reports** for optimization opportunities
+
+#### Monthly Tasks:
+- **Analytics Review**:
+  - Track organic traffic growth
+  - Monitor bounce rate and engagement
+  - Analyze top-performing pages and keywords
+  - Review mobile vs desktop performance
+
+- **Technical SEO Audit**:
+  - Validate sitemap coverage: Should show ~245 URLs indexed
+  - Check `robots.txt` accessibility
+  - Test structured data with Google's Rich Results Test
+  - Run PageSpeed Insights on key pages
+
+#### Tools & Resources:
+- **Google Search Console**: [search.google.com/search-console](https://search.google.com/search-console)
+- **Bing Webmaster Tools**: [bing.com/webmasters](https://www.bing.com/webmasters)
+- **Rich Results Test**: [search.google.com/test/rich-results](https://search.google.com/test/rich-results)
+- **PageSpeed Insights**: [pagespeed.web.dev](https://pagespeed.web.dev)
+- **Mobile-Friendly Test**: [search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
+
+#### Key Performance Indicators:
+- **Sitemap Coverage**: 245+ URLs indexed (check monthly)
+- **Core Web Vitals**: All metrics in "Good" range
+- **Mobile Usability**: Zero errors
+- **Rich Results**: Structured data showing in search results
+- **Search Visibility**: Growing organic impressions and clicks
 
 ## 🚀 Development Setup
 
