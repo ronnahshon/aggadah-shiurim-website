@@ -4,6 +4,8 @@ A comprehensive React-based website for exploring midrash aggadah, featuring shi
 
 Claude-4-Sonnet was used to write the initial code. It was first given a Prompt and Product Requirements Document (PRD) - which can be found in public/docs - to generate the base website structure, and then further improvements and changes were made via discussions with the model's 'Agent' mode.
 
+**LAST UPDATE: JUNE 2025**
+
 ## 🏗️ Website Structure & Code Organization
 
 ### Main Page Components (`src/pages/`)
