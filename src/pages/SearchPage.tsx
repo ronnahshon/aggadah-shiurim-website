@@ -3,7 +3,6 @@ import { Link, useSearchParams } from 'react-router-dom';
 import { Search, X, Headphones, Book, Filter, Clock } from 'lucide-react';
 import BackToTopButton from '@/components/common/BackToTopButton';
 import SEOHead from '@/components/seo/SEOHead';
-import shiurimData from '@/data/shiurim_data.json';
 import { Shiur, SearchFilters } from '@/types/shiurim';
 import { 
   searchShiurim, 
@@ -16,6 +15,7 @@ import {
 
 const SearchPage: React.FC = () => {
   const [shiurim, setShiurim] = useState<Shiur[]>([]);
+  const [loading, setLoading] = useState(true);
   const [query, setQuery] = useState('');
   const [filters, setFilters] = useState<SearchFilters>({
     categories: [],
@@ -41,8 +41,23 @@ const SearchPage: React.FC = () => {
   const [searchParams] = useSearchParams();
   
   useEffect(() => {
-    // Load shiurim data
-    setShiurim(shiurimData as unknown as Shiur[]);
+    // Load shiurim data from public folder
+    const loadShiurimData = async () => {
+      try {
+        const response = await fetch('/data/shiurim_data.json');
+        if (!response.ok) {
+          throw new Error('Failed to load shiurim data');
+        }
+        const data = await response.json();
+        setShiurim(data as Shiur[]);
+      } catch (error) {
+        console.error('Error loading shiurim data:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    loadShiurimData();
   }, []);
 
   useEffect(() => {

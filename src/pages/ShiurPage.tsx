@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { Calendar, Clock, Download } from 'lucide-react';
-import shiurimData from '@/data/shiurim_data.json';
 import { Shiur } from '@/types/shiurim';
 import { formatTitle, getAudioDuration } from '@/utils/dataUtils';
 import { generateShiurStructuredData, generateBreadcrumbStructuredData, generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
@@ -13,28 +12,47 @@ import SourceSheetRenderer from '@/components/common/SourceSheetRenderer';
 const ShiurPage: React.FC = () => {
   const { shiurId } = useParams<{ shiurId: string }>();
   const [shiur, setShiur] = useState<Shiur | null>(null);
+  const [loading, setLoading] = useState(true);
   const [notFound, setNotFound] = useState(false);
   const [audioDuration, setAudioDuration] = useState<string | null>(null);
   const [loadingDuration, setLoadingDuration] = useState(false);
 
   useEffect(() => {
     if (shiurId) {
-      const foundShiur = (shiurimData as unknown as Shiur[]).find(s => s.id === shiurId);
-      
-      if (foundShiur) {
-        setShiur(foundShiur);
-        
-        // First check if the shiur has a pre-loaded length in the data
-        if ('length' in foundShiur && foundShiur.length) {
-          setAudioDuration(foundShiur.length as string);
+      // Load shiurim data from public folder
+      const loadShiurData = async () => {
+        try {
+          const response = await fetch('/data/shiurim_data.json');
+          if (!response.ok) {
+            throw new Error('Failed to load shiurim data');
+          }
+          const data = await response.json();
+          const shiurimData = data as Shiur[];
+          const foundShiur = shiurimData.find(s => s.id === shiurId);
+          
+          if (foundShiur) {
+            setShiur(foundShiur);
+            
+            // First check if the shiur has a pre-loaded length in the data
+            if ('length' in foundShiur && foundShiur.length) {
+              setAudioDuration(foundShiur.length as string);
+            }
+            // If not, fetch it dynamically
+            else {
+              fetchAudioDuration(foundShiur.id);
+            }
+          } else {
+            setNotFound(true);
+          }
+        } catch (error) {
+          console.error('Error loading shiur data:', error);
+          setNotFound(true);
+        } finally {
+          setLoading(false);
         }
-        // If not, fetch it dynamically
-        else {
-          fetchAudioDuration(foundShiur.id);
-        }
-      } else {
-        setNotFound(true);
-      }
+      };
+
+      loadShiurData();
     }
   }, [shiurId]);
 

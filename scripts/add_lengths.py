@@ -4,7 +4,7 @@ import os
 import random
 
 # Path to the JSON file (relative to project root)
-DATA_FILE_PATH = 'src/data/shiurim_data.json'
+DATA_FILE_PATH = 'public/data/shiurim_data.json'
 
 # Sample durations for specific IDs we've defined
 SAMPLE_DURATIONS = {

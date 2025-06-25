@@ -7,11 +7,11 @@ import { organizeShiurimByHierarchy, getAudioDuration } from '@/utils/dataUtils'
 import { generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
 import { generateEnhancedMetaDescription, generateContextualKeywords } from '@/utils/additionalSeoUtils';
 import SEOHead from '@/components/seo/SEOHead';
-import shiurimData from '@/data/shiurim_data.json';
 import { getAudioUrl } from '@/utils/s3Utils';
 
 const CatalogPage: React.FC = () => {
   const [categories, setCategories] = useState<Category[]>([]);
+  const [loading, setLoading] = useState(true);
   const [audioDurations, setAudioDurations] = useState<Record<string, string>>({});
   const [loadingDurations, setLoadingDurations] = useState(false);
   const tocRefs = useRef<Record<string, HTMLHeadingElement | null>>({});
@@ -79,44 +79,59 @@ const CatalogPage: React.FC = () => {
   }, []);
 
   useEffect(() => {
-    // Convert the imported JSON to the required type
-    const shiurim = shiurimData as unknown as Shiur[];
-    const organizedData = organizeShiurimByHierarchy(shiurim);
-    setCategories(organizedData);
-    
-    // First, collect all pre-loaded lengths from the data
-    const preloadedDurations: Record<string, string> = {};
-    let shiurimNeedingDurations: string[] = [];
-    
-    shiurim.forEach(shiur => {
-      // Check if the shiur has a pre-loaded length
-      if ('length' in shiur && shiur.length) {
-        preloadedDurations[shiur.id] = shiur.length as string;
-      } else {
-        shiurimNeedingDurations.push(shiur.id);
-      }
-    });
-    
-    // Set all preloaded durations immediately
-    setAudioDurations(preloadedDurations);
-    
-    // If any shiurim need dynamic duration loading
-    if (shiurimNeedingDurations.length > 0) {
-      setLoadingDurations(true);
-      
-      // Load durations for shiurim without pre-loaded lengths
-      const loadMissingDurations = async () => {
-        // Process 3 shiurim at a time to be gentler on the browser
-        for (let i = 0; i < shiurimNeedingDurations.length; i += 3) {
-          const batch = shiurimNeedingDurations.slice(i, i + 3);
-          await Promise.all(batch.map(id => loadDuration(id)));
+    // Load shiurim data from public folder
+    const loadShiurimData = async () => {
+      try {
+        const response = await fetch('/data/shiurim_data.json');
+        if (!response.ok) {
+          throw new Error('Failed to load shiurim data');
         }
+        const data = await response.json();
+        const shiurim = data as Shiur[];
+        const organizedData = organizeShiurimByHierarchy(shiurim);
+        setCategories(organizedData);
         
-        setLoadingDurations(false);
-      };
-      
-      loadMissingDurations();
-    }
+        // First, collect all pre-loaded lengths from the data
+        const preloadedDurations: Record<string, string> = {};
+        let shiurimNeedingDurations: string[] = [];
+        
+        shiurim.forEach(shiur => {
+          // Check if the shiur has a pre-loaded length
+          if ('length' in shiur && shiur.length) {
+            preloadedDurations[shiur.id] = shiur.length as string;
+          } else {
+            shiurimNeedingDurations.push(shiur.id);
+          }
+        });
+        
+        // Set all preloaded durations immediately
+        setAudioDurations(preloadedDurations);
+        
+        // If any shiurim need dynamic duration loading
+        if (shiurimNeedingDurations.length > 0) {
+          setLoadingDurations(true);
+          
+          // Load durations for shiurim without pre-loaded lengths
+          const loadMissingDurations = async () => {
+            // Process 3 shiurim at a time to be gentler on the browser
+            for (let i = 0; i < shiurimNeedingDurations.length; i += 3) {
+              const batch = shiurimNeedingDurations.slice(i, i + 3);
+              await Promise.all(batch.map(id => loadDuration(id)));
+            }
+            
+            setLoadingDurations(false);
+          };
+          
+          loadMissingDurations();
+        }
+      } catch (error) {
+        console.error('Error loading shiurim data:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    loadShiurimData();
   }, [loadDuration]);
 
   // Handle anchor scrolling when page loads or hash changes

@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Import shiurim data
-const shiurimDataPath = path.join(__dirname, '../src/data/shiurim_data.json');
+const shiurimDataPath = path.join(__dirname, '../public/data/shiurim_data.json');
 const shiurimData = JSON.parse(fs.readFileSync(shiurimDataPath, 'utf8'));
 
 // Base URL - you should update this to your actual domain

@@ -32,7 +32,7 @@ def seconds_to_readable(total_seconds):
 
 def calculate_total_time():
     # Read the shiurim data
-    with open('../src/data/shiurim_data.json', 'r', encoding='utf-8') as f:
+    with open('../public/data/shiurim_data.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
     print(f"Loading {len(data)} shiurim entries...")

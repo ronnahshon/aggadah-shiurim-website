@@ -5,12 +5,12 @@ import { Shiur, SearchFilters } from '@/types/shiurim';
 import { formatTitle, searchShiurim, getUniqueCategories, getUniqueSubCategories, getUniqueSefarim, countShiurimInFilter } from '@/utils/dataUtils';
 import { generateWebsiteStructuredData, generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
 import SEOHead from '@/components/seo/SEOHead';
-import shiurimData from '@/data/shiurim_data.json';
 
 const HomePage: React.FC = () => {
   const navigate = useNavigate();
   const [featuredShiurim, setFeaturedShiurim] = useState<Shiur[]>([]);
   const [shiurim, setShiurim] = useState<Shiur[]>([]);
+  const [loading, setLoading] = useState(true);
   const [query, setQuery] = useState('');
   const [filters, setFilters] = useState<SearchFilters>({
     categories: [],
@@ -32,16 +32,31 @@ const HomePage: React.FC = () => {
   );
 
   useEffect(() => {
-    // Load shiurim data
-    const allShiurim = shiurimData as unknown as Shiur[];
-    setShiurim(allShiurim);
+    // Load shiurim data from public folder
+    const loadShiurimData = async () => {
+      try {
+        const response = await fetch('/data/shiurim_data.json');
+        if (!response.ok) {
+          throw new Error('Failed to load shiurim data');
+        }
+        const data = await response.json();
+        const allShiurim = data as Shiur[];
+        setShiurim(allShiurim);
 
-    // Filter Ein Yaakov shiurim and randomly select 3
-    const einYaakovShiurim = allShiurim.filter(shiur => shiur.category === 'ein_yaakov');
-    
-    // Randomly select 3 shiurim
-    const shuffled = einYaakovShiurim.sort(() => 0.5 - Math.random());
-    setFeaturedShiurim(shuffled.slice(0, 3));
+        // Filter Ein Yaakov shiurim and randomly select 3
+        const einYaakovShiurim = allShiurim.filter(shiur => shiur.category === 'ein_yaakov');
+        
+        // Randomly select 3 shiurim
+        const shuffled = einYaakovShiurim.sort(() => 0.5 - Math.random());
+        setFeaturedShiurim(shuffled.slice(0, 3));
+      } catch (error) {
+        console.error('Error loading shiurim data:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    loadShiurimData();
   }, []);
 
   const handleSearch = (e: React.FormEvent) => {

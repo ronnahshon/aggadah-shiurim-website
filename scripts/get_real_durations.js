@@ -14,7 +14,7 @@ const __dirname = path.dirname(__filename);
 const S3_BUCKET = "midrash-aggadah";
 const S3_REGION = "eu-north-1";
 const AUDIO_FOLDER = "audio";
-const DATA_FILE_PATH = path.resolve(__dirname, '../src/data/shiurim_data.json');
+const DATA_FILE_PATH = path.resolve(__dirname, '../public/data/shiurim_data.json');
 const TEMP_DIR = path.resolve(__dirname, '../temp');
 const FORCE_UPDATE = true; // Force update all durations, even if they already exist
 

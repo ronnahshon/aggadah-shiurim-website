@@ -23,10 +23,6 @@ export default defineConfig(({ mode }) => ({
     rollupOptions: {
       output: {
         manualChunks: (id) => {
-          // Large data files first
-          if (id.includes('shiurim_data.json')) {
-            return 'data-shiurim';
-          }
           // Core React and ALL React-based libraries together to avoid dependency issues
           if (id.includes('react') || 
               id.includes('react-dom') ||

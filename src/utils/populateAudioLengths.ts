@@ -29,7 +29,7 @@ const SAMPLE_DURATIONS: Record<string, string> = {
 export async function populateAudioLengths() {
   try {
     // Path to the data file
-    const dataPath = path.resolve(__dirname, '../data/shiurim_data.json');
+    const dataPath = path.resolve(__dirname, '../../public/data/shiurim_data.json');
     
     // Read the JSON file
     const jsonString = fs.readFileSync(dataPath, 'utf8');
