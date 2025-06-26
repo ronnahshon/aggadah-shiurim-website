@@ -63,22 +63,35 @@ const EinYaakovCommentaryPage: React.FC = () => {
     });
   }, []);
 
-  // Simplified content processing - no regex operations for better mobile performance
+  // Memoized content processing to avoid re-processing on every render
   const processedContent = useMemo(() => {
     if (!content || !contentVisible) return '';
     
     try {
-      // Very simple processing - just split into paragraphs and wrap in <p> tags
+      // Optimized markdown-to-HTML processor
       const paragraphs = content.split('\n\n');
       const processedParagraphs: string[] = [];
       
+      // Use a more efficient loop
       for (let i = 0; i < paragraphs.length; i++) {
         const paragraph = paragraphs[i].trim();
         if (paragraph.length === 0) continue;
         
-        // Simple paragraph wrapping - no regex processing
-        const processedParagraph = paragraph.replace(/\n/g, '<br>');
-        processedParagraphs.push(`<p>${processedParagraph}</p>`);
+        // Check if the entire paragraph is wrapped in bold markdown
+        const isFullyBolded = /^\*\*[^*]+\*\*$/.test(paragraph);
+        
+        // Process paragraph with minimal regex operations
+        let processedParagraph = paragraph
+          .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+          .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+          .replace(/\n/g, '<br>');
+        
+        // Apply special styling for fully bolded paragraphs
+        if (isFullyBolded) {
+          processedParagraphs.push(`<p class="fully-bolded-line">${processedParagraph}</p>`);
+        } else {
+          processedParagraphs.push(`<p>${processedParagraph}</p>`);
+        }
       }
       
       return processedParagraphs.join('');
@@ -118,9 +131,15 @@ const EinYaakovCommentaryPage: React.FC = () => {
         keywords={['ein yaakov commentary', 'פירוש עין יעקב', 'talmud commentary', 'hebrew commentary', 'aggadah commentary', 'nezikin kodashim toharot']}
         ogType="book"
       />
-      {/* Simplified styles - removed custom bold formatting */}
+      {/* Add styles for fully bolded lines */}
       <style>
         {`
+          .fully-bolded-line {
+            font-size: 1.25em !important;
+            text-decoration: underline !important;
+            font-weight: bold !important;
+            margin: 1.5em 0 !important;
+          }
           /* Optimize font rendering for better performance */
           .prose-hebrew {
             text-rendering: optimizeSpeed;
