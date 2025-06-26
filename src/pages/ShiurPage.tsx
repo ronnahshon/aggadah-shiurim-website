@@ -148,17 +148,17 @@ const ShiurPage: React.FC = () => {
         <div className="max-w-full sm:max-w-4xl mx-auto">
           {/* Breadcrumb navigation */}
           <nav className={`flex flex-wrap text-xs sm:text-sm mb-4 sm:mb-6 text-black overflow-hidden ${isMobile ? 'mt-6' : ''}`}>
-            <Link to="/catalog" className="hover:text-biblical-brown flex-shrink-0">
+            <Link to="/catalog" className="text-biblical-burgundy hover:text-biblical-brown flex-shrink-0">
               Catalog
             </Link>
-            <span className="mx-1 sm:mx-2 flex-shrink-0">/</span>
-            <span className="truncate flex-shrink min-w-0">{formatTitle(shiur.category)}</span>
-            <span className="mx-1 sm:mx-2 flex-shrink-0">/</span>
-            <span className="truncate flex-shrink min-w-0">{formatTitle(shiur.sub_category)}</span>
-            <span className="mx-1 sm:mx-2 flex-shrink-0">/</span>
+            <span className="mx-1 sm:mx-2 flex-shrink-0 text-gray-500">/</span>
+            <span className="truncate flex-shrink min-w-0 text-gray-600">{formatTitle(shiur.category)}</span>
+            <span className="mx-1 sm:mx-2 flex-shrink-0 text-gray-500">/</span>
+            <span className="truncate flex-shrink min-w-0 text-gray-600">{formatTitle(shiur.sub_category)}</span>
+            <span className="mx-1 sm:mx-2 flex-shrink-0 text-gray-500">/</span>
             <Link 
               to={`/catalog#${createCatalogAnchor()}`}
-              className="truncate flex-shrink min-w-0 hover:text-biblical-brown"
+              className="truncate flex-shrink min-w-0 text-biblical-burgundy hover:text-biblical-brown"
             >
               {formatTitle(shiur.english_sefer)}
             </Link>
