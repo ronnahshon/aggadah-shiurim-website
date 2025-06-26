@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useMemo, useCallback } from 'react';
-import { ArrowUp, Download, Home } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { ArrowUp, Home } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import SEOHead from '@/components/seo/SEOHead';
 import { cleanMarkdownEscapes } from '../utils/midrashParser';
@@ -10,20 +10,25 @@ const EinYaakovCommentaryPage: React.FC = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [showBackToTop, setShowBackToTop] = useState(false);
-  const [contentVisible, setContentVisible] = useState(false);
 
   useEffect(() => {
     const loadContent = async () => {
       try {
-        // Remove cache-busting for better performance and caching
-        const response = await fetch(`/sefarim/ein-yaakov-commentary.md`);
+        // Add cache-busting parameter to ensure latest version is loaded
+        const timestamp = new Date().getTime();
+        const response = await fetch(`/sefarim/ein-yaakov-commentary.md?v=${timestamp}`, {
+          cache: 'no-cache',
+          headers: {
+            'Cache-Control': 'no-cache, no-store, must-revalidate',
+            'Pragma': 'no-cache',
+            'Expires': '0'
+          }
+        });
         if (!response.ok) {
           throw new Error('Failed to load Ein Yaakov Commentary content');
         }
         const text = await response.text();
         setContent(text);
-        // Delay content processing slightly to improve perceived performance
-        setTimeout(() => setContentVisible(true), 100);
       } catch (err) {
         setError(err instanceof Error ? err.message : 'An error occurred');
       } finally {
@@ -34,82 +39,55 @@ const EinYaakovCommentaryPage: React.FC = () => {
     loadContent();
   }, []);
 
-  // Optimized scroll handler with throttling
-  const handleScroll = useCallback(() => {
-    setShowBackToTop(window.scrollY > 400);
-  }, []);
-
+  // Back to top functionality
   useEffect(() => {
-    // Throttle scroll events for better performance
-    let ticking = false;
-    const throttledScroll = () => {
-      if (!ticking) {
-        requestAnimationFrame(() => {
-          handleScroll();
-          ticking = false;
-        });
-        ticking = true;
-      }
+    const handleScroll = () => {
+      setShowBackToTop(window.scrollY > 400);
     };
 
-    window.addEventListener('scroll', throttledScroll, { passive: true });
-    return () => window.removeEventListener('scroll', throttledScroll);
-  }, [handleScroll]);
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
-  const scrollToTop = useCallback(() => {
+  const scrollToTop = () => {
     window.scrollTo({
       top: 0,
       behavior: 'smooth'
     });
-  }, []);
+  };
 
-  // Memoized content processing to avoid re-processing on every render
-  const processedContent = useMemo(() => {
-    if (!content || !contentVisible) return '';
+  // Process content for rendering - simplified to match the new content structure
+  const processContent = (text: string): string => {
+    if (!text) return '';
     
     try {
-      // Optimized markdown-to-HTML processor
-      const paragraphs = content.split('\n\n');
+      // Split content into paragraphs
+      const paragraphs = text.split('\n\n');
       const processedParagraphs: string[] = [];
       
-      // Use a more efficient loop
       for (let i = 0; i < paragraphs.length; i++) {
         const paragraph = paragraphs[i].trim();
         if (paragraph.length === 0) continue;
         
-        // Check if the entire paragraph is wrapped in bold markdown
-        const isFullyBolded = /^\*\*[^*]+\*\*$/.test(paragraph);
-        
-        // Process paragraph with minimal regex operations
+        // Process basic markdown
         let processedParagraph = paragraph
           .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
           .replace(/\*([^*]+)\*/g, '<em>$1</em>')
           .replace(/\n/g, '<br>');
         
-        // Apply special styling for fully bolded paragraphs
-        if (isFullyBolded) {
-          processedParagraphs.push(`<p class="fully-bolded-line">${processedParagraph}</p>`);
-        } else {
-          processedParagraphs.push(`<p>${processedParagraph}</p>`);
-        }
+        processedParagraphs.push(`<p>${processedParagraph}</p>`);
       }
       
-      return processedParagraphs.join('');
+      return cleanMarkdownEscapes(processedParagraphs.join(''));
     } catch (err) {
       console.error('Error processing content:', err);
       return '';
     }
-  }, [content, contentVisible]);
-
-  // Memoized final HTML content
-  const finalHtmlContent = useMemo(() => {
-    if (!processedContent) return '';
-    return cleanMarkdownEscapes(processedContent);
-  }, [processedContent]);
+  };
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-subtle-parchment flex items-center justify-center" dir="rtl">
+      <div className="min-h-screen bg-parchment flex items-center justify-center" dir="rtl">
         <div className="text-biblical-brown text-xl font-hebrew">טוען...</div>
       </div>
     );
@@ -117,38 +95,21 @@ const EinYaakovCommentaryPage: React.FC = () => {
 
   if (error) {
     return (
-      <div className="min-h-screen bg-subtle-parchment flex items-center justify-center" dir="rtl">
+      <div className="min-h-screen bg-parchment flex items-center justify-center" dir="rtl">
         <div className="text-red-600 text-xl font-hebrew">שגיאה: {error}</div>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-subtle-parchment py-8 pt-20 md:pt-8" dir="rtl">
+    <div className="min-h-screen bg-parchment" dir="rtl">
       <SEOHead
         title="Ein Yaakov Commentary - Classical Hebrew Commentary"
         description="Read our Hebrew commentary on Ein Yaakov (פירוש על העין יעקב) with original insights on aggadic sections of Nezikin, Kodashim, and Toharot. Written in traditional Hebrew and Aramaic style."
         keywords={['ein yaakov commentary', 'פירוש עין יעקב', 'talmud commentary', 'hebrew commentary', 'aggadah commentary', 'nezikin kodashim toharot']}
         ogType="book"
       />
-      {/* Add styles for fully bolded lines */}
-      <style>
-        {`
-          .fully-bolded-line {
-            font-size: 1.25em !important;
-            text-decoration: underline !important;
-            font-weight: bold !important;
-            margin: 1.5em 0 !important;
-          }
-          /* Optimize font rendering for better performance */
-          .prose-hebrew {
-            text-rendering: optimizeSpeed;
-            -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
-          }
-        `}
-      </style>
-      <div className="content-container">
+      <div className="max-w-6xl lg:max-w-7xl mx-auto px-4 py-8 pt-16 md:pt-8">
         {/* Back to Sefarim Button */}
         <div className="mb-6 flex justify-center">
           <button
@@ -161,57 +122,50 @@ const EinYaakovCommentaryPage: React.FC = () => {
           </button>
         </div>
         
-        {/* Header */}
-        <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold text-black mb-4 font-hebrew">
+        {/* Title */}
+        <div className="relative text-center mb-8">
+          <h1 className="text-5xl font-bold text-black font-hebrew mb-2">
             פירוש על העין יעקב
           </h1>
-          <h2 className="text-2xl md:text-3xl font-bold text-biblical-brown mb-2">
-            Ein Yaakov Commentary
-          </h2>
-          <p className="text-lg text-biblical-brown">
-            חידושים על האגדות בסדר נזיקין, קדשים וטהרות
-          </p>
         </div>
 
         {/* Work in Progress Note */}
-        <div className="max-w-6xl mx-auto mb-12">
-          <div className="bg-yellow-50/90 border border-yellow-200 rounded-lg shadow-sm p-4 md:p-6">
+        <div className="max-w-6xl mx-auto mb-8">
+          <div className="bg-white/70 rounded-lg border border-biblical-gold/20 shadow-sm p-4 md:p-6">
+            <p className="text-center text-black font-medium mb-2">
+              This commentary aims to summarize the original ideas from hundreds of shiurim delivered over several years on Ein Yaakov
+            </p>
             <p className="text-center text-black font-medium">
-              Note: This commentary is still a work in progress
+              <strong>NOTE:</strong> It is still a work in progress
             </p>
           </div>
         </div>
 
-        {/* Main Content - Text directly on parchment background */}
-        <div className="max-w-6xl mx-auto">
-          {contentVisible ? (
-            <div 
-              className="prose-hebrew prose-xl max-w-none leading-relaxed text-black text-justify px-8 md:px-12"
-              dangerouslySetInnerHTML={{ 
-                __html: finalHtmlContent
-              }}
-            />
-          ) : (
-            <div className="prose-hebrew prose-xl max-w-none leading-relaxed text-black text-justify px-8 md:px-12">
-              <div className="flex items-center justify-center py-12">
-                <div className="text-biblical-brown text-lg font-hebrew">מעבד את התוכן...</div>
-              </div>
-            </div>
-          )}
+        {/* Section separator */}
+        <div className="section-separator my-8">
+          <div className="border-t-4 border-biblical-gold/40"></div>
         </div>
 
-        {/* Back to Top Button */}
-        {showBackToTop && (
-          <button
-            onClick={scrollToTop}
-            className="fixed bottom-8 right-8 bg-biblical-brown text-white p-3 rounded-full shadow-lg hover:bg-opacity-80 transition-all duration-200 z-50"
-            aria-label="חזור למעלה"
-          >
-            <ArrowUp size={20} />
-          </button>
-        )}
+        {/* Main Content */}
+        <div className="midrash-content-container">
+          <div id="main-content" className="midrash-content font-hebrew text-lg leading-relaxed">
+            <div className="prose prose-lg max-w-none text-black text-right">
+              <div dangerouslySetInnerHTML={{ __html: processContent(content) }} />
+            </div>
+          </div>
+        </div>
       </div>
+
+      {/* Back to Top Button */}
+      {showBackToTop && (
+        <button
+          onClick={scrollToTop}
+          className="back-to-top-btn"
+          aria-label="חזור למעלה"
+        >
+          <ArrowUp width="24" height="24" />
+        </button>
+      )}
     </div>
   );
 };
