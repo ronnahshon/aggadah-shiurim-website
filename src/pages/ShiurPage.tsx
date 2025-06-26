@@ -8,6 +8,7 @@ import { getAudioUrl, getGoogleDriveDownloadUrl, getPdfUrl } from '@/utils/s3Uti
 import SEOHead from '@/components/seo/SEOHead';
 import AudioPlayer from '@/components/common/AudioPlayer';
 import SourceSheetRenderer from '@/components/common/SourceSheetRenderer';
+import { useIsMobile } from '@/hooks/use-mobile';
 
 const ShiurPage: React.FC = () => {
   const { shiurId } = useParams<{ shiurId: string }>();
@@ -16,6 +17,7 @@ const ShiurPage: React.FC = () => {
   const [notFound, setNotFound] = useState(false);
   const [audioDuration, setAudioDuration] = useState<string | null>(null);
   const [loadingDuration, setLoadingDuration] = useState(false);
+  const isMobile = useIsMobile();
 
   useEffect(() => {
     if (shiurId) {
@@ -145,7 +147,7 @@ const ShiurPage: React.FC = () => {
       <div className="content-container">
         <div className="max-w-full sm:max-w-4xl mx-auto">
           {/* Breadcrumb navigation */}
-          <nav className="flex flex-wrap text-xs sm:text-sm mb-4 sm:mb-6 text-black overflow-hidden">
+          <nav className={`flex flex-wrap text-xs sm:text-sm mb-4 sm:mb-6 text-black overflow-hidden ${isMobile ? 'mt-6' : ''}`}>
             <Link to="/catalog" className="hover:text-biblical-brown flex-shrink-0">
               Catalog
             </Link>
