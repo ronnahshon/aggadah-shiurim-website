@@ -86,24 +86,16 @@ const EinYaakovCommentaryPage: React.FC = () => {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-subtle-parchment py-8 pt-20 md:pt-8">
-        <div className="content-container">
-          <div className="flex items-center justify-center py-20">
-            <div className="text-biblical-brown text-lg">טוען פירוש עין יעקב...</div>
-          </div>
-        </div>
+      <div className="min-h-screen bg-subtle-parchment flex items-center justify-center" dir="rtl">
+        <div className="text-biblical-brown text-xl font-hebrew">טוען...</div>
       </div>
     );
   }
 
   if (error) {
     return (
-      <div className="min-h-screen bg-subtle-parchment py-8 pt-20 md:pt-8">
-        <div className="content-container">
-          <div className="flex items-center justify-center py-20">
-            <div className="text-red-600 text-lg">שגיאה בטעינת התוכן: {error}</div>
-          </div>
-        </div>
+      <div className="min-h-screen bg-subtle-parchment flex items-center justify-center" dir="rtl">
+        <div className="text-red-600 text-xl font-hebrew">שגיאה: {error}</div>
       </div>
     );
   }
@@ -153,8 +145,6 @@ const EinYaakovCommentaryPage: React.FC = () => {
           </p>
         </div>
 
-
-
         {/* Work in Progress Note */}
         <div className="max-w-6xl mx-auto mb-12">
           <div className="bg-yellow-50/90 border border-yellow-200 rounded-lg shadow-sm p-4 md:p-6">
@@ -164,16 +154,14 @@ const EinYaakovCommentaryPage: React.FC = () => {
           </div>
         </div>
 
-        {/* Main Content */}
+        {/* Main Content - Text directly on parchment background */}
         <div className="max-w-6xl mx-auto">
-          <div className="bg-white/90 rounded-lg shadow-sm p-8 md:p-12">
-            <div 
-              className="prose-hebrew prose-xl max-w-none leading-relaxed text-black text-justify"
-              dangerouslySetInnerHTML={{ 
-                __html: cleanMarkdownEscapes(processContent(content))
-              }}
-            />
-          </div>
+          <div 
+            className="prose-hebrew prose-xl max-w-none leading-relaxed text-black text-justify px-8 md:px-12"
+            dangerouslySetInnerHTML={{ 
+              __html: cleanMarkdownEscapes(processContent(content))
+            }}
+          />
         </div>
 
         {/* Back to Top Button */}
