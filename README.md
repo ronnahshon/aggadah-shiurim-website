@@ -75,7 +75,7 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
 2. **Add the source sheet and audio to AWS S3**
 - There are two objects in S3, "audio" and "source_sheets"
 - Use the same naming convention as the existing files for it to work
-- Link https://eu-north-1.console.aws.amazon.com/s3/buckets/midrash-aggadah?region=eu-north-1&bucketType=general&tab=objects
+- Link: https://eu-north-1.console.aws.amazon.com/s3/buckets/midrash-aggadah?region=eu-north-1&bucketType=general&tab=objects
 
 3. **Regenerate sitemap**:
    ```bash
@@ -426,3 +426,13 @@ For questions about website structure, adding content, or technical issues, refe
 - Component patterns: `src/components/`
 - Data structure: `public/data/shiurim_data.json`
 - Build scripts: `scripts/`
+
+## Other Info
+
+#### Hosting Platform: Vercel
+- Link: https://vercel.com/ron-nahshons-projects/aggadah-shiurim-website
+
+#### Domain Registrar: Squarespace (Google)
+- Link: https://account.squarespace.com/domains/managed/midrashaggadah.com 
+- Note: Note: the cost with Squarespace is ~$20 USD / year to host the domain
+

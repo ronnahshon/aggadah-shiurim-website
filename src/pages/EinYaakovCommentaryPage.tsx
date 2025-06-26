@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { ArrowUp, Download, Home } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import SEOHead from '@/components/seo/SEOHead';
@@ -10,25 +10,20 @@ const EinYaakovCommentaryPage: React.FC = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [showBackToTop, setShowBackToTop] = useState(false);
+  const [contentVisible, setContentVisible] = useState(false);
 
   useEffect(() => {
     const loadContent = async () => {
       try {
-        // Add cache-busting parameter to ensure latest version is loaded
-        const timestamp = new Date().getTime();
-        const response = await fetch(`/sefarim/ein-yaakov-commentary.md?v=${timestamp}`, {
-          cache: 'no-cache',
-          headers: {
-            'Cache-Control': 'no-cache, no-store, must-revalidate',
-            'Pragma': 'no-cache',
-            'Expires': '0'
-          }
-        });
+        // Remove cache-busting for better performance and caching
+        const response = await fetch(`/sefarim/ein-yaakov-commentary.md`);
         if (!response.ok) {
           throw new Error('Failed to load Ein Yaakov Commentary content');
         }
         const text = await response.text();
         setContent(text);
+        // Delay content processing slightly to improve perceived performance
+        setTimeout(() => setContentVisible(true), 100);
       } catch (err) {
         setError(err instanceof Error ? err.message : 'An error occurred');
       } finally {
@@ -39,50 +34,78 @@ const EinYaakovCommentaryPage: React.FC = () => {
     loadContent();
   }, []);
 
-  // Back to top functionality
-  useEffect(() => {
-    const handleScroll = () => {
-      setShowBackToTop(window.scrollY > 400);
-    };
-
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
+  // Optimized scroll handler with throttling
+  const handleScroll = useCallback(() => {
+    setShowBackToTop(window.scrollY > 400);
   }, []);
 
-  const scrollToTop = () => {
+  useEffect(() => {
+    // Throttle scroll events for better performance
+    let ticking = false;
+    const throttledScroll = () => {
+      if (!ticking) {
+        requestAnimationFrame(() => {
+          handleScroll();
+          ticking = false;
+        });
+        ticking = true;
+      }
+    };
+
+    window.addEventListener('scroll', throttledScroll, { passive: true });
+    return () => window.removeEventListener('scroll', throttledScroll);
+  }, [handleScroll]);
+
+  const scrollToTop = useCallback(() => {
     window.scrollTo({
       top: 0,
       behavior: 'smooth'
     });
-  };
+  }, []);
 
-  // Simple markdown-to-HTML processor for Hebrew commentary
-  const processContent = (rawContent: string): string => {
-    return rawContent
-      .split('\n\n')
-      .map(paragraph => paragraph.trim())
-      .filter(paragraph => paragraph.length > 0)
-      .map(paragraph => {
-        // Check if the entire paragraph is wrapped in bold markdown (no non-bolded text outside **)
-        const isFullyBolded = /^\*\*[^*]+\*\*$/.test(paragraph.trim());
+  // Memoized content processing to avoid re-processing on every render
+  const processedContent = useMemo(() => {
+    if (!content || !contentVisible) return '';
+    
+    try {
+      // Optimized markdown-to-HTML processor
+      const paragraphs = content.split('\n\n');
+      const processedParagraphs: string[] = [];
+      
+      // Use a more efficient loop
+      for (let i = 0; i < paragraphs.length; i++) {
+        const paragraph = paragraphs[i].trim();
+        if (paragraph.length === 0) continue;
         
+        // Check if the entire paragraph is wrapped in bold markdown
+        const isFullyBolded = /^\*\*[^*]+\*\*$/.test(paragraph);
+        
+        // Process paragraph with minimal regex operations
         let processedParagraph = paragraph
-          // Convert bold markdown to HTML
           .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-          // Convert italic markdown to HTML
           .replace(/\*([^*]+)\*/g, '<em>$1</em>')
-          // Convert line breaks within paragraph
           .replace(/\n/g, '<br>');
         
-        // If the entire paragraph was bolded, apply special styling
+        // Apply special styling for fully bolded paragraphs
         if (isFullyBolded) {
-          return `<p class="fully-bolded-line">${processedParagraph}</p>`;
+          processedParagraphs.push(`<p class="fully-bolded-line">${processedParagraph}</p>`);
         } else {
-          return `<p>${processedParagraph}</p>`;
+          processedParagraphs.push(`<p>${processedParagraph}</p>`);
         }
-      })
-      .join('');
-  };
+      }
+      
+      return processedParagraphs.join('');
+    } catch (err) {
+      console.error('Error processing content:', err);
+      return '';
+    }
+  }, [content, contentVisible]);
+
+  // Memoized final HTML content
+  const finalHtmlContent = useMemo(() => {
+    if (!processedContent) return '';
+    return cleanMarkdownEscapes(processedContent);
+  }, [processedContent]);
 
   if (loading) {
     return (
@@ -116,6 +139,12 @@ const EinYaakovCommentaryPage: React.FC = () => {
             text-decoration: underline !important;
             font-weight: bold !important;
             margin: 1.5em 0 !important;
+          }
+          /* Optimize font rendering for better performance */
+          .prose-hebrew {
+            text-rendering: optimizeSpeed;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
           }
         `}
       </style>
@@ -156,12 +185,20 @@ const EinYaakovCommentaryPage: React.FC = () => {
 
         {/* Main Content - Text directly on parchment background */}
         <div className="max-w-6xl mx-auto">
-          <div 
-            className="prose-hebrew prose-xl max-w-none leading-relaxed text-black text-justify px-8 md:px-12"
-            dangerouslySetInnerHTML={{ 
-              __html: cleanMarkdownEscapes(processContent(content))
-            }}
-          />
+          {contentVisible ? (
+            <div 
+              className="prose-hebrew prose-xl max-w-none leading-relaxed text-black text-justify px-8 md:px-12"
+              dangerouslySetInnerHTML={{ 
+                __html: finalHtmlContent
+              }}
+            />
+          ) : (
+            <div className="prose-hebrew prose-xl max-w-none leading-relaxed text-black text-justify px-8 md:px-12">
+              <div className="flex items-center justify-center py-12">
+                <div className="text-biblical-brown text-lg font-hebrew">מעבד את התוכן...</div>
+              </div>
+            </div>
+          )}
         </div>
 
         {/* Back to Top Button */}
