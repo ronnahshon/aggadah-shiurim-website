@@ -69,13 +69,22 @@ const EinYaakovCommentaryPage: React.FC = () => {
         const paragraph = paragraphs[i].trim();
         if (paragraph.length === 0) continue;
         
-        // Process basic markdown
-        let processedParagraph = paragraph
-          .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-          .replace(/\*([^*]+)\*/g, '<em>$1</em>')
-          .replace(/\n/g, '<br>');
+        // Check if the paragraph is entirely bold (starts with ** and ends with ** and has no other content)
+        const isEntirelyBold = /^\*\*[^*]+\*\*$/.test(paragraph.trim());
         
-        processedParagraphs.push(`<p>${processedParagraph}</p>`);
+        if (isEntirelyBold) {
+          // Extract the text without the ** markers and render as centered header
+          const headerText = paragraph.replace(/^\*\*([^*]+)\*\*$/, '$1');
+          processedParagraphs.push(`<div class="text-center my-6"><h2 class="text-2xl font-bold text-biblical-brown">${headerText}</h2></div>`);
+        } else {
+          // Process basic markdown for mixed content
+          let processedParagraph = paragraph
+            .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+            .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+            .replace(/\n/g, '<br>');
+          
+          processedParagraphs.push(`<p>${processedParagraph}</p>`);
+        }
       }
       
       return cleanMarkdownEscapes(processedParagraphs.join(''));
