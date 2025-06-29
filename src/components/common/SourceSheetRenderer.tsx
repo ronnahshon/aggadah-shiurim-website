@@ -14,54 +14,35 @@ const SourceSheetRenderer: React.FC<SourceSheetRendererProps> = ({
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
   
-  // Function to remove lines containing author references
+  // Function to remove lines containing author references using string replacement (CSP-safe)
   const removeAuthorReferences = (htmlContent: string): string => {
     if (!htmlContent) return htmlContent;
     
-    // Create a temporary DOM element to work with the HTML
-    const tempDiv = document.createElement('div');
-    tempDiv.innerHTML = htmlContent;
+    // Simple string-based approach to avoid DOM manipulation that might trigger CSP
+    let cleanedContent = htmlContent;
     
-    // Function to check if a node contains author references
-    const containsAuthorReference = (text: string): boolean => {
-      return text.includes('רון נחשון') || text.includes('Ron Nahshon');
-    };
+         // Remove paragraphs, divs, and spans containing author references
+     const authorPatterns = [
+       /<p[^>]*>.*?רון נחשון.*?<\/p>/gi,
+       /<p[^>]*>.*?Ron Nahshon.*?<\/p>/gi,
+      /<div[^>]*>.*?רון נחשון.*?<\/div>/gi,
+      /<div[^>]*>.*?Ron Nahshon.*?<\/div>/gi,
+      /<span[^>]*>.*?רון נחשון.*?<\/span>/gi,
+      /<span[^>]*>.*?Ron Nahshon.*?<\/span>/gi,
+      // Handle cases where author name might be in plain text
+      /.*?רון נחשון.*?\n/gi,
+      /.*?Ron Nahshon.*?\n/gi
+    ];
     
-    // Get all text nodes and their parent elements
-    const walker = document.createTreeWalker(
-      tempDiv,
-      NodeFilter.SHOW_TEXT,
-      null
-    );
-    
-    const nodesToRemove: Node[] = [];
-    let textNode: Text | null;
-    
-    while (textNode = walker.nextNode() as Text) {
-      if (containsAuthorReference(textNode.textContent || '')) {
-        // Find the parent element to remove (paragraph, div, etc.)
-        let parentToRemove = textNode.parentElement;
-        
-        // If the parent is an inline element, go up to find a block element
-        while (parentToRemove && ['SPAN', 'STRONG', 'EM', 'B', 'I'].includes(parentToRemove.tagName)) {
-          parentToRemove = parentToRemove.parentElement;
-        }
-        
-        // If we found a suitable parent, mark it for removal
-        if (parentToRemove && !nodesToRemove.includes(parentToRemove)) {
-          nodesToRemove.push(parentToRemove);
-        }
-      }
-    }
-    
-    // Remove the marked nodes
-    nodesToRemove.forEach(node => {
-      if (node.parentNode) {
-        node.parentNode.removeChild(node);
-      }
+    authorPatterns.forEach(pattern => {
+      cleanedContent = cleanedContent.replace(pattern, '');
     });
     
-    return tempDiv.innerHTML;
+    // Clean up any empty paragraphs or divs that might be left
+    cleanedContent = cleanedContent.replace(/<p[^>]*>\s*<\/p>/gi, '');
+    cleanedContent = cleanedContent.replace(/<div[^>]*>\s*<\/div>/gi, '');
+    
+    return cleanedContent;
   };
 
   useEffect(() => {

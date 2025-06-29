@@ -6,6 +6,9 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   
+  # Content Security Policy - Secure but functional
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://www.googletagmanager.com https://www.google-analytics.com 'sha256-+c4b4D/LYnDFGFgLtHF8KKF+f8Fy6bJZGHYJQB8NnWw=' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://www.google-analytics.com https:; frame-src 'self' https://docs.google.com; object-src 'none'; base-uri 'self'; upgrade-insecure-requests;
+  
   # Cache control for better performance
   Cache-Control: public, max-age=31536000, immutable
 
