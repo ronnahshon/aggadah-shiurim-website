@@ -1,4 +1,41 @@
 {
+  "redirects": [
+    {
+      "source": "/search.html",
+      "destination": "/search",
+      "permanent": true
+    },
+    {
+      "source": "/catalog.html", 
+      "destination": "/catalog",
+      "permanent": true
+    },
+    {
+      "source": "/sefarim.html",
+      "destination": "/sefarim", 
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/sefer/darosh-darash-moshe.html",
+      "destination": "/sefer/darosh-darash-moshe",
+      "permanent": true
+    },
+    {
+      "source": "/sefer/midrash-haaliyah.html", 
+      "destination": "/sefer/midrash-haaliyah",
+      "permanent": true
+    },
+    {
+      "source": "/sefer/ein-yaakov-commentary.html",
+      "destination": "/sefer/ein-yaakov-commentary", 
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
       "source": "/search",
