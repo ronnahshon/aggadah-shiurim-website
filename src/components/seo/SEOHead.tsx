@@ -10,6 +10,18 @@ interface SEOHeadProps {
   keywords?: string[];
   structuredData?: any | any[];
   hreflang?: { [key: string]: string };
+  // New social media props
+  twitterHandle?: string;
+  facebookAppId?: string;
+  socialMediaUrls?: {
+    facebook?: string;
+    twitter?: string;
+    linkedin?: string;
+    youtube?: string;
+    instagram?: string;
+    whatsapp?: string;
+    telegram?: string;
+  };
 }
 
 const SEOHead: React.FC<SEOHeadProps> = ({
@@ -20,7 +32,13 @@ const SEOHead: React.FC<SEOHeadProps> = ({
   ogType = "website",
   keywords = [],
   structuredData,
-  hreflang
+  hreflang,
+  twitterHandle = "@midrashaggadah",
+  facebookAppId,
+  socialMediaUrls = {
+    twitter: "https://twitter.com/midrashaggadah",
+    // Add other URLs when accounts are created
+  }
 }) => {
   const fullTitle = title === "Midrash Aggadah" ? title : `${title} | Midrash Aggadah`;
   const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
@@ -37,6 +55,11 @@ const SEOHead: React.FC<SEOHeadProps> = ({
   ];
   
   const allKeywords = [...defaultKeywords, ...keywords].join(', ');
+
+  // Enhanced description with social media call-to-action
+  const enhancedDescription = ogType === 'article' || ogType === 'book' 
+    ? `${description} Follow @midrashaggadah for more Jewish learning content.`
+    : description;
 
   return (
     <Helmet>
@@ -56,21 +79,43 @@ const SEOHead: React.FC<SEOHeadProps> = ({
       {/* Canonical URL */}
       <link rel="canonical" href={canonical} />
       
-      {/* Open Graph Meta Tags */}
+      {/* Enhanced Open Graph Meta Tags */}
       <meta property="og:title" content={fullTitle} />
-      <meta property="og:description" content={description} />
+      <meta property="og:description" content={enhancedDescription} />
       <meta property="og:type" content={ogType} />
       <meta property="og:url" content={canonical} />
       <meta property="og:image" content={ogImage} />
+      <meta property="og:image:alt" content={`${fullTitle} - Midrash Aggadah`} />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="630" />
       <meta property="og:site_name" content="Midrash Aggadah" />
       <meta property="og:locale" content="en_US" />
+      <meta property="og:locale:alternate" content="he_IL" />
       
-      {/* Twitter Card Meta Tags */}
+      {/* Facebook specific tags */}
+      {facebookAppId && <meta property="fb:app_id" content={facebookAppId} />}
+      <meta property="fb:admins" content="midrashaggadah" />
+      
+      {/* Enhanced Twitter Card Meta Tags */}
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:site" content="@midrashaggadah" />
+      <meta name="twitter:site" content={twitterHandle} />
+      <meta name="twitter:creator" content={twitterHandle} />
       <meta name="twitter:title" content={fullTitle} />
-      <meta name="twitter:description" content={description} />
+      <meta name="twitter:description" content={enhancedDescription} />
       <meta name="twitter:image" content={ogImage} />
+      <meta name="twitter:image:alt" content={`${fullTitle} - Midrash Aggadah`} />
+      
+      {/* LinkedIn specific meta tags */}
+      <meta property="article:author" content="Midrash Aggadah" />
+      <meta property="article:publisher" content={socialMediaUrls.linkedin || ''} />
+      
+      {/* WhatsApp specific optimization */}
+      <meta property="og:image:secure_url" content={ogImage} />
+      <meta property="og:image:type" content="image/png" />
+      
+      {/* Additional Social Media Optimization */}
+      <meta name="pinterest-rich-pin" content="true" />
+      <meta name="format-detection" content="telephone=no" />
       
       {/* Additional SEO Meta Tags */}
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />

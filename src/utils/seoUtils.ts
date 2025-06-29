@@ -64,6 +64,18 @@ export interface WebsiteStructuredData extends StructuredDataBase {
     "@type": "WebPage";
     "@id": string;
   };
+  contactPoint?: {
+    "@type": "ContactPoint";
+    email: string;
+    contactType: string;
+    availableLanguage: string[];
+  };
+  foundingDate?: string;
+  areaServed?: string;
+  availableLanguage?: string[];
+  educationalCredentialAwarded?: string;
+  publishingPrinciples?: string;
+  knowsAbout?: string[];
 }
 
 export interface BreadcrumbStructuredData extends StructuredDataBase {
@@ -75,6 +87,68 @@ export interface BreadcrumbStructuredData extends StructuredDataBase {
     item?: string;
   }>;
 }
+
+// Social Media Configuration
+export const SOCIAL_MEDIA_CONFIG = {
+  // Primary accounts (already set up)
+  twitter: {
+    handle: "@midrashaggadah",
+    url: "https://twitter.com/midrashaggadah"
+  },
+  
+  // TODO: Update these URLs when accounts are created
+  // Replace empty strings with your actual social media URLs
+  facebook: {
+    url: "https://www.facebook.com/profile.php?id=61577753708266",
+    appId: "" // UPDATE: Add Facebook App ID for better integration (optional)
+  },
+  linkedin: {
+    url: "https://www.linkedin.com/company/107936990/",
+  },
+  youtube: {
+    url: "", // UPDATE: Add your YouTube channel URL (e.g., "https://youtube.com/@midrashaggadah")
+  },
+  instagram: {
+    url: "", // UPDATE: Add your Instagram URL (e.g., "https://instagram.com/midrashaggadah")
+  },
+  whatsapp: {
+    // WhatsApp Business number or link
+    url: "", // UPDATE: Add your WhatsApp Business link (e.g., "https://wa.me/1234567890")
+  },
+  telegram: {
+    url: "", // UPDATE: Add your Telegram channel URL (e.g., "https://t.me/midrashaggadah")
+  }
+};
+
+// Get active social media URLs (only those that are set up)
+export const getActiveSocialMediaUrls = (): string[] => {
+  const urls: string[] = [];
+  
+  Object.values(SOCIAL_MEDIA_CONFIG).forEach(platform => {
+    if (typeof platform === 'object' && platform.url && platform.url.trim()) {
+      urls.push(platform.url);
+    }
+  });
+  
+  return urls;
+};
+
+// Generate social media sharing URLs
+export const generateSocialSharingUrls = (url: string, title: string, description: string) => {
+  const encodedUrl = encodeURIComponent(url);
+  const encodedTitle = encodeURIComponent(title);
+  const encodedDescription = encodeURIComponent(description);
+  const twitterHandle = SOCIAL_MEDIA_CONFIG.twitter.handle.replace('@', '');
+  
+  return {
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+    twitter: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}&via=${twitterHandle}`,
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`,
+    whatsapp: `https://wa.me/?text=${encodedTitle}%20${encodedUrl}`,
+    telegram: `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`,
+    email: `mailto:?subject=${encodedTitle}&body=${encodedDescription}%20${encodedUrl}`
+  };
+};
 
 // Generate structured data for individual shiur
 export const generateShiurStructuredData = (shiur: Shiur, baseUrl: string): LectureStructuredData => {
@@ -145,15 +219,25 @@ export const generateShiurStructuredData = (shiur: Shiur, baseUrl: string): Lect
 
 // Generate structured data for the main website
 export const generateWebsiteStructuredData = (baseUrl: string): WebsiteStructuredData => {
+  const socialMediaUrls = getActiveSocialMediaUrls();
+  
   return {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
     name: "Midrash Aggadah",
     description: "A comprehensive resource for exploring midrash aggadah, featuring shiurim, source texts, and sefarim. Thousands of pages of written source sheets and hundreds of hours of audio shiurim.",
     url: baseUrl,
-    sameAs: [
-      "https://twitter.com/midrashaggadah"
-    ],
+    sameAs: socialMediaUrls,
+    contactPoint: {
+      "@type": "ContactPoint",
+      email: "midrashaggadah@gmail.com",
+      contactType: "customer service",
+      availableLanguage: ["English", "Hebrew"]
+    },
+    foundingDate: "2023",
+    areaServed: "Worldwide",
+    availableLanguage: ["en", "he"],
+    educationalCredentialAwarded: "Certificate of Completion",
     potentialAction: {
       "@type": "SearchAction",
       target: `${baseUrl}/search?q={search_term_string}`,
@@ -162,7 +246,18 @@ export const generateWebsiteStructuredData = (baseUrl: string): WebsiteStructure
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": baseUrl
-    }
+    },
+    // Enhanced social media presence
+    publishingPrinciples: `${baseUrl}/about`,
+    knowsAbout: [
+      "Midrash Aggadah",
+      "Jewish Learning",
+      "Talmudic Studies", 
+      "Ein Yaakov",
+      "Hebrew Literature",
+      "Torah Study",
+      "Jewish Education"
+    ]
   };
 };
 

@@ -8,6 +8,7 @@ import { getAudioUrl, getGoogleDriveDownloadUrl, getPdfUrl } from '@/utils/s3Uti
 import SEOHead from '@/components/seo/SEOHead';
 import AudioPlayer from '@/components/common/AudioPlayer';
 import SourceSheetRenderer from '@/components/common/SourceSheetRenderer';
+import SocialShareButtons from '@/components/common/SocialShareButtons';
 import { useIsMobile } from '@/hooks/use-mobile';
 
 const ShiurPage: React.FC = () => {
@@ -205,32 +206,46 @@ const ShiurPage: React.FC = () => {
               </div>
             </div>
 
-            {/* Download Buttons - Bottom Left Corner */}
-            <div className="absolute bottom-4 left-4 flex flex-row gap-2">
-              {/* Download PDF Button */}
-              {shiur.source_sheet_link && (
+            {/* Action Buttons - Bottom Corner */}
+            <div className="absolute bottom-4 left-4 right-4 flex flex-row justify-between items-end">
+              {/* Download Buttons - Left Side */}
+              <div className="flex flex-row gap-2">
+                {/* Download PDF Button */}
+                {shiur.source_sheet_link && (
+                  <a
+                    href={getPdfUrl(shiur.source_sheet_link)}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200 text-sm"
+                    title="Download as PDF"
+                  >
+                    <Download size={16} />
+                    <span>PDF</span>
+                  </a>
+                )}
+                
+                {/* Download Audio Button */}
                 <a
-                  href={getPdfUrl(shiur.source_sheet_link)}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-2 px-4 py-2 bg-biblical-burgundy text-white rounded-lg hover:bg-biblical-burgundy/90 transition-colors duration-200 text-sm"
-                  title="Download as PDF"
+                  href={googleDriveDownloadUrl}
+                  download={`${shiur.english_title}.mp3`}
+                  className="flex items-center gap-2 px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-700/90 transition-colors duration-200 text-sm"
+                  title="Download Audio"
                 >
                   <Download size={16} />
-                  <span>PDF</span>
+                  <span>MP3</span>
                 </a>
-              )}
+              </div>
               
-              {/* Download Audio Button */}
-              <a
-                href={googleDriveDownloadUrl}
-                download={`${shiur.english_title}.mp3`}
-                className="flex items-center gap-2 px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-700/90 transition-colors duration-200 text-sm"
-                title="Download Audio"
-              >
-                <Download size={16} />
-                <span>MP3</span>
-              </a>
+              {/* Social Share Buttons - Right Side */}
+              <div>
+                <SocialShareButtons
+                  title={shiur.english_title}
+                  description={generateMetaDescription('shiur', shiur)}
+                  url={`${baseUrl}/shiur/${shiur.id}`}
+                  variant="compact"
+                  showLabel={false}
+                />
+              </div>
             </div>
           </div>
           
