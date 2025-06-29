@@ -1,19 +1,22 @@
 import React, { useEffect, useState, useRef, useCallback } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Headphones, Book, ArrowUp, Clock } from 'lucide-react';
+import { Headphones, Book, ArrowUp, Clock, Download } from 'lucide-react';
 import BackToTopButton from '@/components/common/BackToTopButton';
-import { Category, Shiur } from '@/types/shiurim';
+import { Category, Shiur, Sefer } from '@/types/shiurim';
 import { organizeShiurimByHierarchy, getAudioDuration } from '@/utils/dataUtils';
 import { generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
 import { generateEnhancedMetaDescription, generateContextualKeywords } from '@/utils/additionalSeoUtils';
 import SEOHead from '@/components/seo/SEOHead';
-import { getAudioUrl } from '@/utils/s3Utils';
+import { getAudioUrl, getGoogleDriveDownloadUrl } from '@/utils/s3Utils';
 
 const CatalogPage: React.FC = () => {
   const [categories, setCategories] = useState<Category[]>([]);
   const [loading, setLoading] = useState(true);
   const [audioDurations, setAudioDurations] = useState<Record<string, string>>({});
   const [loadingDurations, setLoadingDurations] = useState(false);
+  const [selectedShiurim, setSelectedShiurim] = useState<Set<string>>(new Set());
+  const [downloading, setDownloading] = useState(false);
+  const [showDownloadModal, setShowDownloadModal] = useState(false);
   const tocRefs = useRef<Record<string, HTMLHeadingElement | null>>({});
   const audioRef = useRef<HTMLAudioElement>(null);
   const location = useLocation();
@@ -175,6 +178,125 @@ const CatalogPage: React.FC = () => {
     return '--:--';
   };
 
+  // Download functionality
+  const downloadShiur = (shiur: Shiur) => {
+    try {
+      const googleDriveDownloadUrl = getGoogleDriveDownloadUrl(shiur.audio_recording_link);
+      const a = document.createElement('a');
+      a.href = googleDriveDownloadUrl;
+      a.download = `${shiur.english_title}.mp3`;
+      a.target = '_blank'; // Open in new tab to avoid navigation issues
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+    } catch (error) {
+      console.error('Error downloading shiur:', error);
+    }
+  };
+
+  const downloadSelectedShiurim = async () => {
+    if (selectedShiurim.size === 0) return;
+    
+    // Get all shiurim objects for selected IDs
+    const allShiurim: Shiur[] = [];
+    categories.forEach(category => {
+      category.subCategories.forEach(subCategory => {
+        subCategory.sefarim.forEach(sefer => {
+          allShiurim.push(...sefer.shiurim);
+        });
+      });
+    });
+    
+    const shiurimToDownload = allShiurim.filter(shiur => selectedShiurim.has(shiur.id));
+    
+    if (shiurimToDownload.length === 1) {
+      // Single download - direct approach
+      downloadShiur(shiurimToDownload[0]);
+      setSelectedShiurim(new Set());
+    } else {
+      // Multiple downloads - show modal
+      setShowDownloadModal(true);
+    }
+  };
+
+  const downloadAllFromModal = async () => {
+    setDownloading(true);
+    
+    try {
+      // Get all shiurim objects for selected IDs
+      const allShiurim: Shiur[] = [];
+      categories.forEach(category => {
+        category.subCategories.forEach(subCategory => {
+          subCategory.sefarim.forEach(sefer => {
+            allShiurim.push(...sefer.shiurim);
+          });
+        });
+      });
+      
+      const shiurimToDownload = allShiurim.filter(shiur => selectedShiurim.has(shiur.id));
+      
+      // Use window.open approach with longer delays for better success rate
+      for (let i = 0; i < shiurimToDownload.length; i++) {
+        const shiur = shiurimToDownload[i];
+        const googleDriveDownloadUrl = getGoogleDriveDownloadUrl(shiur.audio_recording_link);
+        
+        // Use window.open instead of anchor elements for better compatibility
+        setTimeout(() => {
+          window.open(googleDriveDownloadUrl, '_blank');
+        }, i * 1000); // 1 second delay between each download
+      }
+      
+      // Clear selections and close modal after a delay
+      setTimeout(() => {
+        setSelectedShiurim(new Set());
+        setShowDownloadModal(false);
+        setDownloading(false);
+      }, shiurimToDownload.length * 1000 + 1000);
+      
+    } catch (error) {
+      console.error('Error downloading selected shiurim:', error);
+      setDownloading(false);
+    }
+  };
+
+  // Handle individual shiur selection
+  const handleShiurSelection = (shiurId: string, checked: boolean) => {
+    setSelectedShiurim(prev => {
+      const newSet = new Set(prev);
+      if (checked) {
+        newSet.add(shiurId);
+      } else {
+        newSet.delete(shiurId);
+      }
+      return newSet;
+    });
+  };
+
+  // Handle select all for a sefer
+  const handleSelectAllSefer = (sefer: Sefer, checked: boolean) => {
+    setSelectedShiurim(prev => {
+      const newSet = new Set(prev);
+      sefer.shiurim.forEach(shiur => {
+        if (checked) {
+          newSet.add(shiur.id);
+        } else {
+          newSet.delete(shiur.id);
+        }
+      });
+      return newSet;
+    });
+  };
+
+  // Check if all shiurim in a sefer are selected
+  const isAllSeferSelected = (sefer: Sefer): boolean => {
+    return sefer.shiurim.every(shiur => selectedShiurim.has(shiur.id));
+  };
+
+  // Check if some shiurim in a sefer are selected (for indeterminate state)
+  const isSomeSeferSelected = (sefer: Sefer): boolean => {
+    return sefer.shiurim.some(shiur => selectedShiurim.has(shiur.id));
+  };
+
   const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
 
   return (
@@ -188,6 +310,88 @@ const CatalogPage: React.FC = () => {
       />
       {/* Hidden audio element for metadata loading */}
       <audio ref={audioRef} preload="metadata" style={{ display: 'none' }} />
+      
+      {/* Download Button - Fixed Position */}
+      {selectedShiurim.size > 0 && (
+        <div className="fixed top-4 right-4 z-50">
+          <button
+            onClick={downloadSelectedShiurim}
+            disabled={downloading}
+            className="bg-biblical-brown text-white px-4 py-2 rounded-lg shadow-lg hover:bg-biblical-brown/90 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+          >
+            <Download size={16} />
+            {downloading ? `Downloading... (${selectedShiurim.size})` : `Download (${selectedShiurim.size})`}
+          </button>
+        </div>
+      )}
+
+      {/* Download Modal */}
+      {showDownloadModal && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
+          <div className="bg-white rounded-lg shadow-xl max-w-2xl w-full max-h-[80vh] overflow-hidden">
+            <div className="p-6 border-b">
+              <h2 className="text-xl font-bold text-biblical-brown mb-2">Download Selected Shiurim</h2>
+              <p className="text-gray-600">
+                {selectedShiurim.size} shiurim selected. You can download them individually or all at once.
+              </p>
+            </div>
+            
+            <div className="p-6 max-h-96 overflow-y-auto">
+              <div className="space-y-3">
+                {(() => {
+                  const allShiurim: Shiur[] = [];
+                  categories.forEach(category => {
+                    category.subCategories.forEach(subCategory => {
+                      subCategory.sefarim.forEach(sefer => {
+                        allShiurim.push(...sefer.shiurim);
+                      });
+                    });
+                  });
+                  
+                  const shiurimToDownload = allShiurim.filter(shiur => selectedShiurim.has(shiur.id));
+                  
+                  return shiurimToDownload.map((shiur, index) => (
+                    <div key={shiur.id} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                      <div className="flex-1 min-w-0">
+                        <h3 className="font-medium text-biblical-brown truncate">
+                          {shiur.english_title}
+                        </h3>
+                        <p className="text-sm text-gray-600">
+                          {shiur.english_sefer} • {shiur.english_year}
+                        </p>
+                      </div>
+                      <button
+                        onClick={() => downloadShiur(shiur)}
+                        className="ml-3 px-3 py-1 bg-biblical-brown text-white rounded hover:bg-biblical-brown/90 text-sm flex items-center gap-1"
+                      >
+                        <Download size={14} />
+                        Download
+                      </button>
+                    </div>
+                  ));
+                })()}
+              </div>
+            </div>
+            
+            <div className="p-6 border-t bg-gray-50 flex gap-3 justify-end">
+              <button
+                onClick={() => setShowDownloadModal(false)}
+                className="px-4 py-2 text-gray-600 hover:text-gray-800"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={downloadAllFromModal}
+                disabled={downloading}
+                className="px-4 py-2 bg-biblical-brown text-white rounded-lg hover:bg-biblical-brown/90 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+              >
+                <Download size={16} />
+                {downloading ? 'Starting Downloads...' : 'Download All'}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
       
       <div className="content-container">
         <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-biblical-brown">
@@ -268,6 +472,19 @@ const CatalogPage: React.FC = () => {
                         <table className="catalog-table">
                           <thead>
                             <tr>
+                              <th className="w-12 text-center">
+                                <input
+                                  type="checkbox"
+                                  checked={isAllSeferSelected(sefer)}
+                                  ref={checkbox => {
+                                    if (checkbox) {
+                                      checkbox.indeterminate = !isAllSeferSelected(sefer) && isSomeSeferSelected(sefer);
+                                    }
+                                  }}
+                                  onChange={(e) => handleSelectAllSefer(sefer, e.target.checked)}
+                                  className="rounded border-gray-300"
+                                />
+                              </th>
                               <th className="w-8 sm:w-12 text-center">#</th>
                               <th className="text-center">English Title</th>
                               <th className="text-center hidden sm:table-cell">Hebrew Title</th>
@@ -278,6 +495,14 @@ const CatalogPage: React.FC = () => {
                           <tbody>
                             {sefer.shiurim.map((shiur, index) => (
                               <tr key={shiur.id}>
+                                <td className="text-center">
+                                  <input
+                                    type="checkbox"
+                                    checked={selectedShiurim.has(shiur.id)}
+                                    onChange={(e) => handleShiurSelection(shiur.id, e.target.checked)}
+                                    className="rounded border-gray-300"
+                                  />
+                                </td>
                                 <td className="text-center">{index + 1}</td>
                                 <td className="text-center">
                                   <Link 
