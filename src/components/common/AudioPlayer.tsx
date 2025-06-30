@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Play, Pause, ArrowDown, Volume2, Gauge } from 'lucide-react';
+import { Play, Pause, Volume2, Gauge } from 'lucide-react';
 import { getAudioUrl } from '@/utils/s3Utils';
 
 interface AudioPlayerProps {
@@ -121,8 +121,6 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
     setShowVolumeSlider(false); // Close volume slider when opening speed
   };
 
-
-
   // Format time in mm:ss
   const formatTime = (time: number) => {
     if (isNaN(time)) return "00:00";
@@ -229,19 +227,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
             </div>
           )}
         </div>
-
-        {/* Download button */}
-        <a 
-          href={download}
-          download={fileName || 'audio.mp3'}
-          className="flex items-center justify-center w-8 h-8 text-black hover:text-biblical-brown transition-colors flex-shrink-0"
-          aria-label="Download audio"
-        >
-          <ArrowDown size={18} className="sm:w-[20px] sm:h-[20px]" />
-        </a>
       </div>
-
-
     </div>
   );
 };

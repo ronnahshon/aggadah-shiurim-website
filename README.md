@@ -244,6 +244,7 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
    - **Mobile-Friendly Test**: Verify at [search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
 
 #### For New Shiurim:
+
 - **Automatic SEO**: New shiurim in `shiurim_data.json` automatically get:
   - Dynamic page titles and descriptions
   - Learning Resource structured data
@@ -416,20 +417,7 @@ aggadah-shiurim-website/
 - **Alt text** for images
 - **Keyboard navigation** support
 
----
-
-## 📞 Support & Contributing
-
-For questions about website structure, adding content, or technical issues, refer to the documentation in `public/docs/` or examine the existing code patterns for guidance.
-
-**Key files for reference:**
-- SEO implementation: `public/docs/seo/seo-improvements.md`
-- Google SEO action plan: `public/docs/seo/google-seo-action-plan.md`
-- Component patterns: `src/components/`
-- Data structure: `public/data/shiurim_data.json`
-- Build scripts: `scripts/`
-
-## Other Info
+## Other Important Info
 
 #### Hosting Platform: Vercel
 - Link: https://vercel.com/ron-nahshons-projects/aggadah-shiurim-website
@@ -438,81 +426,9 @@ For questions about website structure, adding content, or technical issues, refe
 - Link: https://account.squarespace.com/domains/managed/midrashaggadah.com 
 - Note: Note: the cost with Squarespace is ~$20 USD / year to host the domain
 
-## SEO Strategy for Google Rankings Improvement
-
-### Current Status
-- **Bing Rankings**: #1 for "Midrash Aggadah" ✅
-- **Google Rankings**: Page 5 for "Midrash Aggadah" ⚠️
-
-### Key Differences Between Google and Bing SEO
-
-#### Why We Rank #1 on Bing:
-- Exact-match domain strategy works well
-- Strong social signals integration
-- Direct keyword usage in meta descriptions
-- Established domain with consistent branding
-
-#### Why Google Rankings Need Improvement:
-- Google prioritizes semantic understanding over exact keywords
-- Requires more comprehensive, contextual content
-- Needs stronger topical authority and E-A-T signals
-- Requires more frequent content updates
-
-### Implemented Improvements
-
-#### 1. Enhanced Semantic Keywords
-- Expanded from exact-match to semantic variations
-- Added related terms: "aggadic midrash", "midrashic literature", "rabbinical literature"
-- Improved context around "Jewish exegesis" and "talmudic aggadah"
-
-#### 2. Improved Meta Descriptions
-- Enhanced from keyword-focused to value-focused descriptions
-- Added compelling, detailed explanations of content value
-- Maintained keyword relevance while improving user appeal
-
-#### 3. Content Authority Signals
-- Enhanced author bio requirements for all content
-- Improved structured data with comprehensive organization info
-- Added detailed "About" sections explaining expertise
-
-### Next Phase Recommendations
-
-#### 1. Content Expansion Strategy
-```
-Priority Content Areas:
-- "What is Midrash Aggadah?" - Comprehensive guide
-- "Difference between Midrash Halacha and Midrash Aggadah"
-- "Classical Midrashic Literature: Complete Guide"
-- "Study Guide: How to Learn Midrash Aggadah"
-- "Historical Development of Aggadic Literature"
-```
-
-#### 2. Internal Linking Architecture
-- Create content clusters around main topics
-- Link related shiurim to conceptual overview pages
-- Build category landing pages with comprehensive introductions
-
-#### 3. Technical SEO Enhancements
-- Implement FAQ structured data on key pages
-- Add breadcrumb navigation with structured data
-- Create topic-based sitemaps
-- Optimize Core Web Vitals scores
-
-#### 4. Fresh Content Strategy
-- Weekly blog posts on midrashic topics
-- Regular updates to existing shiur descriptions
-- Seasonal content around Jewish holidays and Torah portions
-- Guest content from recognized scholars
-
-#### 5. E-A-T (Expertise, Authoritativeness, Trustworthiness)
-- Add detailed author bios with credentials
-- Include institutional affiliations
-- Add testimonials and endorsements
-- Create "About Our Methodology" page
-
-### Monitoring & Metrics
-- Track Google Search Console performance for key terms
-- Monitor Core Web Vitals scores
-- Track user engagement metrics (time on page, bounce rate)
-- Monitor social signals and backlink acquisition
-
+**Key files for reference:**
+- SEO implementation: `public/docs/seo/seo-improvements.md`
+- Google SEO action plan: `public/docs/seo/google-seo-action-plan.md`
+- Component patterns: `src/components/`
+- Data structure: `public/data/shiurim_data.json`
+- Build scripts: `scripts/`
