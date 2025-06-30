@@ -28,7 +28,7 @@ const SEOHead: React.FC<SEOHeadProps> = ({
   title = "Midrash Aggadah",
   description = "A comprehensive resource for exploring midrash aggadah, featuring shiurim, source texts, and sefarim.",
   canonicalUrl,
-  ogImage = "https://lovable.dev/opengraph-image-p98pqg.png",
+  ogImage = "https://midrashaggadah.com/favicons/icon-512x512.png",
   ogType = "website",
   keywords = [],
   structuredData,
@@ -49,7 +49,7 @@ const SEOHead: React.FC<SEOHeadProps> = ({
     : baseUrl);
 
   const defaultKeywords = [
-    'midrash', 'aggadah', 'jewish learning', 'talmud', 'shiurim', 'lectures', 
+    'midrash', 'aggadah', 'midrash aggadah', 'jewish learning', 'talmud', 'shiurim', 'lectures', 
     'torah study', 'ein yaakov', 'jewish texts', 'sefarim', 'hebrew learning',
     'מדרש', 'אגדה', 'שיעורים', 'תלמוד', 'עין יעקב'
   ];
