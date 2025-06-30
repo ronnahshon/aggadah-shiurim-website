@@ -348,6 +348,7 @@ aggadah-shiurim-website/
 │   ├── sefarim/           # Markdown sefarim content
 │   ├── sefer/             # Static HTML sefarim pages
 │   └── docs/              # Documentation
+│       └── seo/           # SEO-related documentation
 ├── src/
 │   ├── components/        # React components
 │   ├── pages/             # Page components
@@ -422,7 +423,8 @@ aggadah-shiurim-website/
 For questions about website structure, adding content, or technical issues, refer to the documentation in `public/docs/` or examine the existing code patterns for guidance.
 
 **Key files for reference:**
-- SEO implementation: `public/docs/SEO_IMPROVEMENTS.md`
+- SEO implementation: `public/docs/seo/seo-improvements.md`
+- Google SEO action plan: `public/docs/seo/google-seo-action-plan.md`
 - Component patterns: `src/components/`
 - Data structure: `public/data/shiurim_data.json`
 - Build scripts: `scripts/`
