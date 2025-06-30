@@ -3,7 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { Book, Search, X, Filter, Clock } from 'lucide-react';
 import { Shiur, SearchFilters } from '@/types/shiurim';
 import { formatTitle, searchShiurim, getUniqueCategories, getUniqueSubCategories, getUniqueSefarim, countShiurimInFilter } from '@/utils/dataUtils';
-import { generateWebsiteStructuredData, generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
+import { generateWebsiteStructuredData, generateHomepageFAQStructuredData, generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
 import SEOHead from '@/components/seo/SEOHead';
 
 const HomePage: React.FC = () => {
@@ -105,7 +105,9 @@ const HomePage: React.FC = () => {
   };
 
   const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
-  const structuredData = generateWebsiteStructuredData(baseUrl);
+  const websiteStructuredData = generateWebsiteStructuredData(baseUrl);
+  const faqStructuredData = generateHomepageFAQStructuredData(baseUrl);
+  const combinedStructuredData = [websiteStructuredData, faqStructuredData];
 
   return (
     <div className="min-h-screen">
@@ -114,7 +116,7 @@ const HomePage: React.FC = () => {
         description={generateMetaDescription('home')}
         keywords={generateKeywords('home')}
         canonicalUrl={`${baseUrl}/`}
-        structuredData={structuredData}
+        structuredData={combinedStructuredData}
         ogType="website"
       />
 
@@ -330,7 +332,96 @@ const HomePage: React.FC = () => {
         </div>
       </section>
 
+      {/* Featured Shiurim */}
+      {!loading && featuredShiurim.length > 0 && (
+        <div className="max-w-6xl mx-auto mt-16">
+          <h2 className="text-2xl md:text-3xl font-bold text-center mb-8 text-biblical-brown">
+            Featured Shiurim
+          </h2>
+          
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {featuredShiurim.map((shiur) => (
+              <Link
+                key={shiur.id}
+                to={`/shiur/${shiur.id}`}
+                className="bg-white/90 rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow"
+              >
+                <div className="mb-3">
+                  <span className="text-sm text-biblical-brown/70 font-medium">
+                    {formatTitle(shiur.category)} • {formatTitle(shiur.sub_category)}
+                  </span>
+                </div>
+                <h3 className="font-semibold text-lg mb-2 text-biblical-brown">
+                  {shiur.english_title}
+                </h3>
+                <p className="text-sm text-biblical-brown/80 mb-3">
+                  From {formatTitle(shiur.english_sefer)}
+                </p>
+                {(shiur as any).length && (
+                  <div className="flex items-center text-xs text-biblical-brown/60">
+                    <Clock size={14} className="mr-1" />
+                    {(shiur as any).length}
+                  </div>
+                )}
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
 
+      {/* FAQ Section for SEO */}
+      <div className="max-w-4xl mx-auto mt-16 bg-white/90 rounded-lg shadow-md p-8">
+        <h2 className="text-2xl md:text-3xl font-bold text-center mb-8 text-biblical-brown">
+          About Midrash Aggadah
+        </h2>
+        
+        <div className="space-y-6">
+          <div className="border-b border-parchment-dark pb-4">
+            <h3 className="text-lg font-semibold text-biblical-brown mb-2">
+              What is Midrash Aggadah?
+            </h3>
+            <p className="text-biblical-brown/90">
+              Midrash Aggadah refers to the non-legal exegetical texts in rabbinic literature that explore ethical principles, theological concepts, and narrative expansions of biblical stories. Unlike Midrash Halakha which focuses on Jewish law, Aggadic midrashim illuminate the deeper meanings, moral teachings, and spiritual insights found within the Torah and Tanach.
+            </p>
+          </div>
+
+          <div className="border-b border-parchment-dark pb-4">
+            <h3 className="text-lg font-semibold text-biblical-brown mb-2">
+              How is Midrash Aggadah different from other Jewish texts?
+            </h3>
+            <p className="text-biblical-brown/90">
+              While Talmudic discussions often focus on legal matters, and biblical commentary (peshat) seeks the literal meaning, Midrash Aggadah employs creative interpretation to uncover hidden wisdom, moral lessons, and spiritual truths. These texts often fill in narrative gaps, explore character motivations, and connect seemingly unrelated biblical passages to reveal deeper theological principles.
+            </p>
+          </div>
+
+          <div className="border-b border-parchment-dark pb-4">
+            <h3 className="text-lg font-semibold text-biblical-brown mb-2">
+              What can I find on this website?
+            </h3>
+            <p className="text-biblical-brown/90">
+              Our comprehensive collection includes hundreds of hours of expert shiurim (lectures), thousands of pages of classical midrashic texts with Hebrew sources and English explanations, original sefarim with detailed commentary, and study materials covering Ein Yaakov, Talmudic aggadot, and biblical midrashim. All content is organized by topic, tractate, and difficulty level.
+            </p>
+          </div>
+
+          <div className="border-b border-parchment-dark pb-4">
+            <h3 className="text-lg font-semibold text-biblical-brown mb-2">
+              Who is this content suitable for?
+            </h3>
+            <p className="text-biblical-brown/90">
+              Our materials serve students, scholars, educators, and anyone interested in deepening their understanding of Jewish wisdom literature. Content ranges from introductory explanations for beginners to advanced scholarly analysis for experienced learners. Each shiur includes comprehensive source sheets to support study at any level.
+            </p>
+          </div>
+
+          <div>
+            <h3 className="text-lg font-semibold text-biblical-brown mb-2">
+              How do I get started with studying Midrash Aggadah?
+            </h3>
+            <p className="text-biblical-brown/90">
+              Begin by exploring our <Link to="/catalog" className="text-biblical-burgundy hover:underline font-medium">organized catalog</Link> to find topics that interest you. New learners might start with Ein Yaakov selections, while those seeking deeper study can explore our original sefarim. Each shiur includes background context and source materials to support your learning journey.
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };

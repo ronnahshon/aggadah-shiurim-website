@@ -88,6 +88,18 @@ export interface BreadcrumbStructuredData extends StructuredDataBase {
   }>;
 }
 
+export interface FAQStructuredData extends StructuredDataBase {
+  "@type": "FAQPage";
+  mainEntity: Array<{
+    "@type": "Question";
+    name: string;
+    acceptedAnswer: {
+      "@type": "Answer";
+      text: string;
+    };
+  }>;
+}
+
 // Social Media Configuration
 export const SOCIAL_MEDIA_CONFIG = {
   // Primary accounts (already set up)
@@ -282,34 +294,34 @@ export const generateBreadcrumbStructuredData = (
 export const generateMetaDescription = (page: string, shiur?: Shiur): string => {
   switch (page) {
     case 'home':
-      return "Explore thousands of pages of midrash aggadah source texts and hundreds of hours of shiurim. Access comprehensive Jewish learning resources including Ein Yaakov, Talmud, and classical sefarim.";
+      return "Discover the profound wisdom of Midrash Aggadah through our comprehensive collection of Jewish learning resources. Access hundreds of hours of expert shiurim, thousands of pages of classical texts including Ein Yaakov and Talmudic commentary, plus original sefarim with Hebrew sources and English explanations. Perfect for students, scholars, and anyone seeking to deepen their understanding of rabbinical literature and Jewish exegesis.";
     
     case 'catalog':
-      return "Browse our comprehensive catalog of midrash aggadah shiurim organized by category, subcategory, and sefer. Find lectures on Ein Yaakov, Talmud, and other classical Jewish texts.";
+      return "Browse our organized catalog of Midrash Aggadah shiurim and study materials. Find lectures systematically arranged by category, subcategory, and classical texts including Ein Yaakov, Talmudic tractates, and biblical commentary. Each shiur includes audio recordings and comprehensive source sheets for in-depth study.";
     
     case 'search':
-      return "Search through our extensive collection of midrash aggadah shiurim and source texts. Find specific topics, keywords, and teachings across our entire library.";
+      return "Search our extensive digital library of Midrash Aggadah content with advanced filtering options. Find specific topics, teachings, or concepts across hundreds of shiurim and thousands of pages of source materials from classical Jewish literature.";
     
     case 'sefarim':
-      return "Access complete sefarim with our unique collection of midrashic texts and commentaries. Explore classical Jewish literature with comprehensive source materials.";
+      return "Access our unique collection of original sefarim dedicated to Midrash Aggadah studies. These comprehensive works include full Hebrew texts with detailed footnotes, English commentary, and scholarly analysis of classical midrashic literature.";
     
     case 'sefer':
       if (shiur && (shiur as any).includes && (shiur as any).includes('darosh-darash-moshe')) {
-        return "Read Darosh Darash Moshe - A comprehensive work exploring the life and legacy of Moshe Rabbeinu through the lens of Midrash Aggadah. Features three ascents with full Hebrew text, footnotes, and commentary.";
+        return "Explore 'Darosh Darash Moshe' - our featured comprehensive work examining the life and spiritual journey of Moshe Rabbeinu through the lens of Midrash Aggadah. This detailed study covers three pivotal ascents with full Hebrew text, extensive footnotes, and scholarly commentary connecting biblical narrative to rabbinical interpretation.";
       }
-      return "Explore this complete sefer from our midrash aggadah collection with comprehensive Hebrew texts and commentary.";
+      return "Read this complete sefer from our Midrash Aggadah collection, featuring comprehensive Hebrew texts with detailed commentary and analysis of classical Jewish literature.";
     
     case 'about':
-      return "Learn about the Midrash Aggadah project, our mission to make ancient Jewish wisdom accessible, and the people behind this comprehensive learning resource.";
+      return "Learn about our mission to make the profound teachings of Midrash Aggadah accessible to modern learners. Discover how our team of scholars and educators creates comprehensive study resources that bridge ancient wisdom with contemporary Jewish learning.";
     
     case 'shiur':
       if (shiur) {
-        return `Listen to "${shiur.english_title}" from ${formatTitle(shiur.english_sefer)} in our ${formatTitle(shiur.category)} collection. Includes audio shiur and comprehensive source sheet materials.`;
+        return `Study "${shiur.english_title}" from ${formatTitle(shiur.english_sefer)} with expert analysis and comprehensive source materials. This shiur from our ${formatTitle(shiur.category)} collection includes audio recording and detailed source sheets connecting classical texts to contemporary understanding.`;
       }
-      return "Access detailed shiur with audio recording and comprehensive source materials from our midrash aggadah collection.";
+      return "Access this detailed shiur with professional audio recording and comprehensive source materials from our curated Midrash Aggadah collection.";
     
     default:
-      return "A comprehensive resource for exploring midrash aggadah, featuring shiurim, source texts, and sefarim.";
+      return "Comprehensive resources for exploring Midrash Aggadah, featuring expert shiurim, classical source texts, and original scholarly works.";
   }
 };
 
@@ -319,7 +331,26 @@ export const generateKeywords = (page: string, shiur?: Shiur): string[] => {
   
   switch (page) {
     case 'home':
-      return [...baseKeywords, 'shiurim', 'lectures', 'ein yaakov', 'sefarim', 'jewish texts'];
+      return [
+        ...baseKeywords, 
+        'midrash aggadah',
+        'aggadic midrash',
+        'midrashic literature',
+        'rabbinical literature',
+        'jewish exegesis',
+        'talmudic aggadah',
+        'classical jewish texts',
+        'shiurim', 
+        'lectures', 
+        'ein yaakov', 
+        'sefarim', 
+        'jewish texts',
+        'jewish study resources',
+        'online jewish learning',
+        'torah commentary',
+        'rabbinic teachings',
+        'hebrew literature'
+      ];
     
     case 'catalog':
       return [...baseKeywords, 'catalog', 'browse', 'organized learning', 'structured study'];
@@ -365,4 +396,54 @@ export const generateKeywords = (page: string, shiur?: Shiur): string[] => {
     default:
       return baseKeywords;
   }
+};
+
+// Generate FAQ structured data for homepage
+export const generateHomepageFAQStructuredData = (baseUrl: string): FAQStructuredData => {
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: "What is Midrash Aggadah?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Midrash Aggadah refers to the non-legal exegetical texts in rabbinic literature that explore ethical principles, theological concepts, and narrative expansions of biblical stories. Unlike Midrash Halakha which focuses on Jewish law, Aggadic midrashim illuminate the deeper meanings, moral teachings, and spiritual insights found within the Torah and Tanach."
+        }
+      },
+      {
+        "@type": "Question",
+        name: "How is Midrash Aggadah different from other Jewish texts?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "While Talmudic discussions often focus on legal matters, and biblical commentary (peshat) seeks the literal meaning, Midrash Aggadah employs creative interpretation to uncover hidden wisdom, moral lessons, and spiritual truths. These texts often fill in narrative gaps, explore character motivations, and connect seemingly unrelated biblical passages to reveal deeper theological principles."
+        }
+      },
+      {
+        "@type": "Question",
+        name: "What can I find on the Midrash Aggadah website?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Our comprehensive collection includes hundreds of hours of expert shiurim (lectures), thousands of pages of classical midrashic texts with Hebrew sources and English explanations, original sefarim with detailed commentary, and study materials covering Ein Yaakov, Talmudic aggadot, and biblical midrashim. All content is organized by topic, tractate, and difficulty level."
+        }
+      },
+      {
+        "@type": "Question",
+        name: "Who is Midrash Aggadah content suitable for?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Our materials serve students, scholars, educators, and anyone interested in deepening their understanding of Jewish wisdom literature. Content ranges from introductory explanations for beginners to advanced scholarly analysis for experienced learners. Each shiur includes comprehensive source sheets to support study at any level."
+        }
+      },
+      {
+        "@type": "Question",
+        name: "How do I get started with studying Midrash Aggadah?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Begin by exploring our organized catalog to find topics that interest you. New learners might start with Ein Yaakov selections, while those seeking deeper study can explore our original sefarim. Each shiur includes background context and source materials to support your learning journey."
+        }
+      }
+    ]
+  };
 }; 
