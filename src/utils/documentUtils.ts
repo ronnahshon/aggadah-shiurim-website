@@ -41,58 +41,38 @@ function fixImageUrls(htmlContent: string, docUrl: string): string {
   const docIdMatch = docUrl.match(/\/d\/([a-zA-Z0-9-_]+)/);
   const docId = docIdMatch ? docIdMatch[1] : null;
   
-  console.log('Processing images for document:', docId);
-  
   return htmlContent.replace(/<img[^>]*>/gi, (imgTag) => {
-    console.log('Processing image tag:', imgTag);
-    
     // Extract the src attribute
     const srcMatch = imgTag.match(/src=["']([^"']+)["']/i);
     if (!srcMatch) {
-      console.log('No src found in image tag');
       return imgTag;
     }
     
     let src = srcMatch[1];
     const originalSrc = src;
-    console.log('Original image src:', src);
     
     // Handle different types of Google image URLs
     if (src.startsWith('https://lh') && src.includes('googleusercontent.com')) {
       // Google User Content URLs (both traditional and new docsz format) - keep as-is
       // These URLs should be publicly accessible if the document is public
-      console.log('Processing googleusercontent URL (keeping original with key if present)');
       
       // Only remove size restrictions for URLs that don't have a key parameter
       if (!src.includes('?key=')) {
         src = src.replace(/=w\d+(-h\d+)?(-no)?(-c)?(-k)?$/, '');
         src = src.replace(/=h\d+(-no)?(-c)?(-k)?$/, '');
         src = src.replace(/=s\d+(-no)?(-c)?(-k)?$/, '');
-        console.log('Removed size restrictions from googleusercontent URL:', src);
-      } else {
-        console.log('Keeping keyed googleusercontent URL as-is:', src);
       }
     } else if (src.includes('docs.google.com/drawings')) {
       // Google Drawings - usually publicly accessible if doc is public
-      console.log('Google Drawings URL detected, keeping as-is');
     } else if (src.startsWith('data:image/')) {
       // Base64 encoded images - leave as is
-      console.log('Base64 image detected, keeping as-is');
     } else if (src.startsWith('/') && docId) {
       // Relative URLs - convert to absolute but keep original path
-      console.log('Processing relative URL');
       src = 'https://docs.google.com' + src;
-      console.log('Converted to absolute URL:', src);
     } else if (!src.startsWith('http') && docId) {
       // Non-HTTP URLs that might be relative
-      console.log('Processing non-HTTP URL');
       src = `https://docs.google.com/document/d/${docId}/${src}`;
-      console.log('Constructed URL:', src);
-    } else {
-      console.log('Keeping URL as-is:', src);
     }
-    
-    console.log('Final processed src:', src);
     
     // Add responsive styling but don't hide images on error
     let styledImgTag = imgTag.replace(/src=["'][^"']*["']/i, `src="${src}"`);
@@ -102,9 +82,9 @@ function fixImageUrls(htmlContent: string, docUrl: string): string {
       styledImgTag = styledImgTag.replace(/<img/, '<img loading="lazy"');
     }
     
-    // Add basic error handling without aggressive placeholder
+    // Add basic error handling
     if (!styledImgTag.includes('onerror=')) {
-      styledImgTag = styledImgTag.replace(/<img/, `<img onerror="console.log('Image failed to load:', this.src);"`);
+      styledImgTag = styledImgTag.replace(/<img/, `<img onerror="this.style.display='none';"`);
     }
     
     // Handle existing style attribute
@@ -131,7 +111,6 @@ function fixImageUrls(htmlContent: string, docUrl: string): string {
       styledImgTag = styledImgTag.replace(/<img/, '<img style="max-width: 100%; height: auto;"');
     }
     
-    console.log('Final styled image tag:', styledImgTag);
     return styledImgTag;
   });
 }

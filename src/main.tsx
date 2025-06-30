@@ -1,18 +1,21 @@
-import { createRoot } from 'react-dom/client'
-import App from './App.tsx'
-import './index.css'
+import React from "react";
+import ReactDOM from "react-dom/client";
+import App from "./App.tsx";
+import "./index.css";
 
-// Simple service worker for static asset caching
+// Register the service worker
 if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js')
-      .then(() => {
-        console.log('SW registered');
-      })
-      .catch(() => {
-        console.log('SW registration failed');
-      });
-  });
+  navigator.serviceWorker.register('/sw.js')
+    .then(() => {
+      // Service worker registered successfully
+    })
+    .catch(() => {
+      // Service worker registration failed
+    });
 }
 
-createRoot(document.getElementById("root")!).render(<App />);
+ReactDOM.createRoot(document.getElementById("root")!).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+);

@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { ArrowUp } from 'lucide-react';
 import { useLocation } from 'react-router-dom';
@@ -21,14 +20,12 @@ const BackToTopButton: React.FC = () => {
       const middleContainer = document.getElementById('darosh-main-content');
       if (middleContainer && middleContainer.scrollTop > 300) {
         shouldShow = true;
-        console.log('BackToTopButton: Middle container scrolled, showing button');
       }
       
       // Check footnotes container
       const footnotesContainer = document.getElementById('darosh-footnotes-content');
       if (footnotesContainer && footnotesContainer.scrollTop > 300) {
         shouldShow = true;
-        console.log('BackToTopButton: Footnotes container scrolled, showing button');
       }
     }
     
@@ -79,20 +76,12 @@ const BackToTopButton: React.FC = () => {
         const middleContainer = document.getElementById('darosh-main-content');
         const footnotesContainer = document.getElementById('darosh-footnotes-content');
         
-        console.log('BackToTopButton: Setting up container listeners', {
-          middleContainer: !!middleContainer,
-          footnotesContainer: !!footnotesContainer,
-          pathname: location.pathname
-        });
-        
         if (middleContainer) {
           middleContainer.addEventListener('scroll', handleScroll);
-          console.log('BackToTopButton: Added scroll listener to middle container');
         }
         
         if (footnotesContainer) {
           footnotesContainer.addEventListener('scroll', handleScroll);
-          console.log('BackToTopButton: Added scroll listener to footnotes container');
         }
         
         return { middleContainer, footnotesContainer };
