@@ -33,7 +33,8 @@
     <!-- Note: subtle-parchment.png removed from preload as it's only used in CSS backgrounds and is very small (72B) -->
     
     <!-- Favicon and app icons -->
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -195,7 +196,10 @@
       ]
     }
     </script>
-  </head>
+    
+    <!-- Bing-specific optimizations -->
+    <meta name="msapplication-config" content="none">
+    <meta name="format-detection" content="telephone=no">
 
   <body>
     <div id="root"></div>
