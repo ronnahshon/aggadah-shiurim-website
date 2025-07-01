@@ -25,10 +25,13 @@ const numberToHebrew = (num: number): string => {
   return hebrewNumerals[num] || `${num}׳`;
 };
 
-const getCurrentHebrewDate = (): string => {
+// This function will be called from within the component
+const getDisplayHebrewDate = (fetchedDate: string): string => {
+  return fetchedDate || getFallbackHebrewDate();
+};
+
+const getFallbackHebrewDate = (): string => {
   const now = new Date();
-  // More accurate Hebrew calendar conversion
-  // Hebrew year starts in Tishrei (September/October)
   const gregorianYear = now.getFullYear();
   const month = now.getMonth(); // 0-11
   
@@ -40,8 +43,7 @@ const getCurrentHebrewDate = (): string => {
     hebrewYear = gregorianYear + 3760;
   }
   
-  // Hebrew months start from Tishrei (around September)
-  // Map Gregorian months to Hebrew months (approximate)
+  // Hebrew months mapping (approximate)
   const hebrewMonthMap = [
     'טבת',    // January -> Tevet
     'שבט',    // February -> Shevat  
@@ -77,6 +79,7 @@ const Sidebar: React.FC = () => {
   const location = useLocation();
   const [isMobile, setIsMobile] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [hebrewDate, setHebrewDate] = useState<string>('');
 
   useEffect(() => {
     const checkIsMobile = () => {
@@ -86,6 +89,34 @@ const Sidebar: React.FC = () => {
     checkIsMobile();
     window.addEventListener('resize', checkIsMobile);
     return () => window.removeEventListener('resize', checkIsMobile);
+  }, []);
+
+  useEffect(() => {
+    const fetchHebrewDate = async () => {
+      try {
+        const today = new Date();
+        const year = today.getFullYear();
+        const month = String(today.getMonth() + 1).padStart(2, '0');
+        const day = String(today.getDate()).padStart(2, '0');
+        const dateStr = `${year}-${month}-${day}`;
+        
+        const response = await fetch(`https://www.hebcal.com/converter?cfg=json&date=${dateStr}&g2h=1&strict=1`);
+        const data = await response.json();
+        
+        if (data && data.hebrew) {
+          setHebrewDate(data.hebrew);
+        } else {
+          // Fallback to basic approximation if API fails
+          setHebrewDate(getFallbackHebrewDate());
+        }
+      } catch (error) {
+        console.error('Error fetching Hebrew date:', error);
+        // Fallback to basic approximation if API fails
+        setHebrewDate(getFallbackHebrewDate());
+      }
+    };
+    
+    fetchHebrewDate();
   }, []);
 
   const isActive = (path: string) => {
@@ -175,7 +206,7 @@ const Sidebar: React.FC = () => {
                 <div className="px-3 py-2 border-t border-parchment-dark mt-2">
                   <div className="text-xs text-biblical-brown">
                     <div className="font-hebrew mb-1" style={{ fontFamily: '"Times New Roman", serif', fontWeight: 'normal' }}>
-                      {getCurrentHebrewDate()}
+                      {getDisplayHebrewDate(hebrewDate)}
                     </div>
                     <div>
                       {getCurrentEnglishDate()}
@@ -237,7 +268,7 @@ const Sidebar: React.FC = () => {
         <div className="p-4 border-t border-parchment-dark">
           <div className="text-xs text-biblical-brown">
             <div className="font-hebrew mb-1" style={{ fontFamily: '"Times New Roman", serif', fontWeight: 'normal' }}>
-              {getCurrentHebrewDate()}
+              {getDisplayHebrewDate(hebrewDate)}
             </div>
             <div>
               {getCurrentEnglishDate()}
