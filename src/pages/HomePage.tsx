@@ -8,7 +8,6 @@ import SEOHead from '@/components/seo/SEOHead';
 
 const HomePage: React.FC = () => {
   const navigate = useNavigate();
-  const [featuredShiurim, setFeaturedShiurim] = useState<Shiur[]>([]);
   const [shiurim, setShiurim] = useState<Shiur[]>([]);
   const [loading, setLoading] = useState(true);
   const [query, setQuery] = useState('');
@@ -42,13 +41,6 @@ const HomePage: React.FC = () => {
         const data = await response.json();
         const allShiurim = data as Shiur[];
         setShiurim(allShiurim);
-
-        // Filter Ein Yaakov shiurim and randomly select 3
-        const einYaakovShiurim = allShiurim.filter(shiur => shiur.category === 'ein_yaakov');
-        
-        // Randomly select 3 shiurim
-        const shuffled = einYaakovShiurim.sort(() => 0.5 - Math.random());
-        setFeaturedShiurim(shuffled.slice(0, 3));
       } catch (error) {
         console.error('Error loading shiurim data:', error);
       } finally {
@@ -254,69 +246,9 @@ const HomePage: React.FC = () => {
         </div>
       </section>
 
-      {/* Sample shiurim section */}
-      <section className="py-1">
+      {/* Call to action section */}
+      <section className="py-8">
         <div className="content-container">
-          <div className="text-center mb-12">
-            <p className="text-lg max-w-3xl mx-auto text-biblical-brown animate-fade-in">
-              Or, start by browsing through some sample shiurim.
-            </p>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-            {featuredShiurim.map(shiur => (
-              <div key={shiur.id} className="group bg-white/90 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 p-6 border border-biblical-gold/20 hover:border-biblical-gold/40">
-                <div className="flex flex-col h-full">
-                  {/* Main content area */}
-                  <div className="flex-grow mb-4">
-                    <Link 
-                      to={`/shiur/${shiur.id}`} 
-                      className="block text-biblical-brown hover:text-black transition-colors duration-200"
-                    >
-                      <h3 className="text-xl font-semibold leading-tight mb-3 group-hover:text-biblical-brown/90 text-biblical-brown">
-                        {shiur.english_title}
-                      </h3>
-                    </Link>
-                    
-                    {shiur.hebrew_title && (
-                      <p className="text-black font-hebrew mb-3 text-lg leading-relaxed">
-                        {shiur.hebrew_title}
-                      </p>
-                    )}
-                    
-                    {/* Category breadcrumb */}
-                    <div className="mb-3 p-2 bg-parchment/30 rounded-lg">
-                      <p className="text-sm text-biblical-brown font-medium">
-                        {formatTitle(shiur.category)} → {formatTitle(shiur.sub_category)} → {formatTitle(shiur.english_sefer)}
-                      </p>
-                    </div>
-                    
-                    {/* Metadata */}
-                    <div className="flex items-center justify-between text-xs text-black mb-4">
-                      <span className="bg-gray-700/10 px-2 py-1 rounded-full">
-                        {shiur.english_year} ({shiur.hebrew_year})
-                      </span>
-                      <div className="flex items-center">
-                        <Clock size={12} className="mr-1" />
-                        <span>{(shiur as any).length || '--:--'}</span>
-                      </div>
-                    </div>
-                  </div>
-                  
-                  {/* Action button */}
-                  <div className="mt-auto">
-                    <Link 
-                      to={`/shiur/${shiur.id}`} 
-                      className="inline-flex items-center justify-center w-full px-4 py-3 bg-gray-700 text-white rounded-lg hover:bg-gray-700/90 transition-colors duration-200 font-medium text-sm group-hover:shadow-md"
-                    >
-                      Listen to Shiur
-                      <span className="ml-2 transition-transform duration-200 group-hover:translate-x-1">→</span>
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
-          
           <div className="text-center">
             <Link 
               to="/catalog" 
@@ -332,96 +264,7 @@ const HomePage: React.FC = () => {
         </div>
       </section>
 
-      {/* Featured Shiurim */}
-      {!loading && featuredShiurim.length > 0 && (
-        <div className="max-w-6xl mx-auto mt-16">
-          <h2 className="text-2xl md:text-3xl font-bold text-center mb-8 text-biblical-brown">
-            Featured Shiurim
-          </h2>
-          
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {featuredShiurim.map((shiur) => (
-              <Link
-                key={shiur.id}
-                to={`/shiur/${shiur.id}`}
-                className="bg-white/90 rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow"
-              >
-                <div className="mb-3">
-                  <span className="text-sm text-biblical-brown/70 font-medium">
-                    {formatTitle(shiur.category)} • {formatTitle(shiur.sub_category)}
-                  </span>
-                </div>
-                <h3 className="font-semibold text-lg mb-2 text-biblical-brown">
-                  {shiur.english_title}
-                </h3>
-                <p className="text-sm text-biblical-brown/80 mb-3">
-                  From {formatTitle(shiur.english_sefer)}
-                </p>
-                {(shiur as any).length && (
-                  <div className="flex items-center text-xs text-biblical-brown/60">
-                    <Clock size={14} className="mr-1" />
-                    {(shiur as any).length}
-                  </div>
-                )}
-              </Link>
-            ))}
-          </div>
-        </div>
-      )}
 
-      {/* FAQ Section for SEO */}
-      <div className="max-w-4xl mx-auto mt-16 bg-white/90 rounded-lg shadow-md p-8">
-        <h2 className="text-2xl md:text-3xl font-bold text-center mb-8 text-biblical-brown">
-          About Midrash Aggadah
-        </h2>
-        
-        <div className="space-y-6">
-          <div className="border-b border-parchment-dark pb-4">
-            <h3 className="text-lg font-semibold text-biblical-brown mb-2">
-              What is Midrash Aggadah?
-            </h3>
-            <p className="text-biblical-brown/90">
-              Midrash Aggadah refers to the non-legal exegetical texts in rabbinic literature that explore ethical principles, theological concepts, and narrative expansions of biblical stories. Unlike Midrash Halakha which focuses on Jewish law, Aggadic midrashim illuminate the deeper meanings, moral teachings, and spiritual insights found within the Torah and Tanach.
-            </p>
-          </div>
-
-          <div className="border-b border-parchment-dark pb-4">
-            <h3 className="text-lg font-semibold text-biblical-brown mb-2">
-              How is Midrash Aggadah different from other Jewish texts?
-            </h3>
-            <p className="text-biblical-brown/90">
-              While Talmudic discussions often focus on legal matters, and biblical commentary (peshat) seeks the literal meaning, Midrash Aggadah employs creative interpretation to uncover hidden wisdom, moral lessons, and spiritual truths. These texts often fill in narrative gaps, explore character motivations, and connect seemingly unrelated biblical passages to reveal deeper theological principles.
-            </p>
-          </div>
-
-          <div className="border-b border-parchment-dark pb-4">
-            <h3 className="text-lg font-semibold text-biblical-brown mb-2">
-              What can I find on this website?
-            </h3>
-            <p className="text-biblical-brown/90">
-              Our comprehensive collection includes hundreds of hours of expert shiurim (lectures), thousands of pages of classical midrashic texts with Hebrew sources and English explanations, original sefarim with detailed commentary, and study materials covering Ein Yaakov, Talmudic aggadot, and biblical midrashim. All content is organized by topic, tractate, and difficulty level.
-            </p>
-          </div>
-
-          <div className="border-b border-parchment-dark pb-4">
-            <h3 className="text-lg font-semibold text-biblical-brown mb-2">
-              Who is this content suitable for?
-            </h3>
-            <p className="text-biblical-brown/90">
-              Our materials serve students, scholars, educators, and anyone interested in deepening their understanding of Jewish wisdom literature. Content ranges from introductory explanations for beginners to advanced scholarly analysis for experienced learners. Each shiur includes comprehensive source sheets to support study at any level.
-            </p>
-          </div>
-
-          <div>
-            <h3 className="text-lg font-semibold text-biblical-brown mb-2">
-              How do I get started with studying Midrash Aggadah?
-            </h3>
-            <p className="text-biblical-brown/90">
-              Begin by exploring our <Link to="/catalog" className="text-biblical-burgundy hover:underline font-medium">organized catalog</Link> to find topics that interest you. New learners might start with Ein Yaakov selections, while those seeking deeper study can explore our original sefarim. Each shiur includes background context and source materials to support your learning journey.
-            </p>
-          </div>
-        </div>
-      </div>
     </div>
   );
 };
