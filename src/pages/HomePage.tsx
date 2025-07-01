@@ -8,6 +8,7 @@ import SEOHead from '@/components/seo/SEOHead';
 
 const HomePage: React.FC = () => {
   const navigate = useNavigate();
+  const [featuredShiurim, setFeaturedShiurim] = useState<Shiur[]>([]);
   const [shiurim, setShiurim] = useState<Shiur[]>([]);
   const [loading, setLoading] = useState(true);
   const [query, setQuery] = useState('');
@@ -41,6 +42,13 @@ const HomePage: React.FC = () => {
         const data = await response.json();
         const allShiurim = data as Shiur[];
         setShiurim(allShiurim);
+
+        // Filter Ein Yaakov shiurim and randomly select 3
+        const einYaakovShiurim = allShiurim.filter(shiur => shiur.category === 'ein_yaakov');
+        
+        // Randomly select 3 shiurim
+        const shuffled = einYaakovShiurim.sort(() => 0.5 - Math.random());
+        setFeaturedShiurim(shuffled.slice(0, 3));
       } catch (error) {
         console.error('Error loading shiurim data:', error);
       } finally {
@@ -246,9 +254,69 @@ const HomePage: React.FC = () => {
         </div>
       </section>
 
-      {/* Call to action section */}
-      <section className="py-8">
+      {/* Sample shiurim section */}
+      <section className="py-1">
         <div className="content-container">
+          <div className="text-center mb-12">
+            <p className="text-lg max-w-3xl mx-auto text-biblical-brown animate-fade-in">
+              Or, browse through some sample shiurim on Ein Yaakov.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+            {featuredShiurim.map(shiur => (
+              <div key={shiur.id} className="group bg-white/90 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 p-6 border border-biblical-gold/20 hover:border-biblical-gold/40">
+                <div className="flex flex-col h-full">
+                  {/* Main content area */}
+                  <div className="flex-grow mb-4">
+                    <Link 
+                      to={`/shiur/${shiur.id}`} 
+                      className="block text-biblical-brown hover:text-black transition-colors duration-200"
+                    >
+                      <h3 className="text-xl font-semibold leading-tight mb-3 group-hover:text-biblical-brown/90 text-biblical-brown">
+                        {shiur.english_title}
+                      </h3>
+                    </Link>
+                    
+                    {shiur.hebrew_title && (
+                      <p className="text-black font-hebrew mb-3 text-lg leading-relaxed">
+                        {shiur.hebrew_title}
+                      </p>
+                    )}
+                    
+                    {/* Category breadcrumb */}
+                    <div className="mb-3 p-2 bg-parchment/30 rounded-lg">
+                      <p className="text-sm text-biblical-brown font-medium">
+                        {formatTitle(shiur.category)} → {formatTitle(shiur.sub_category)} → {formatTitle(shiur.english_sefer)}
+                      </p>
+                    </div>
+                    
+                    {/* Metadata */}
+                    <div className="flex items-center justify-between text-xs text-black mb-4">
+                      <span className="bg-gray-700/10 px-2 py-1 rounded-full">
+                        {shiur.english_year} ({shiur.hebrew_year})
+                      </span>
+                      <div className="flex items-center">
+                        <Clock size={12} className="mr-1" />
+                        <span>{(shiur as any).length || '--:--'}</span>
+                      </div>
+                    </div>
+                  </div>
+                  
+                  {/* Action button */}
+                  <div className="mt-auto">
+                    <Link 
+                      to={`/shiur/${shiur.id}`} 
+                      className="inline-flex items-center justify-center w-full px-4 py-3 bg-gray-700 text-white rounded-lg hover:bg-gray-700/90 transition-colors duration-200 font-medium text-sm group-hover:shadow-md"
+                    >
+                      Listen to Shiur
+                      <span className="ml-2 transition-transform duration-200 group-hover:translate-x-1">→</span>
+                    </Link>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+          
           <div className="text-center">
             <Link 
               to="/catalog" 
