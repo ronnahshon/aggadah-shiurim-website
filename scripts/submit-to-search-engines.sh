@@ -6,6 +6,7 @@
 echo "🚀 Starting SEO submission process for Midrash Aggadah..."
 echo "⭐ PRIORITY: Darosh Darash Moshe - Featured Sefer!"
 echo "📖 NEW: Ein Yaakov Commentary - Recent Addition!"
+echo "🟣 YAHOO: Now optimized for Yahoo Search Engine!"
 
 BASE_URL="https://midrashaggadah.com"
 SITEMAP_URL="${BASE_URL}/sitemap.xml"
@@ -62,6 +63,13 @@ else
 fi
 echo ""
 
+# Submit to Yahoo (powered by Bing, but has separate interface)
+echo "🟣 Submitting to Yahoo..."
+echo "ℹ️  Note: Yahoo Search is powered by Bing since 2009"
+echo "📤 Yahoo uses Bing's index, so Bing submission covers Yahoo"
+echo "✅ Yahoo optimization included via Bing submission"
+echo ""
+
 # Open useful URLs in browser (macOS)
 echo "🌐 Opening SEO tools in browser..."
 if [[ "$OSTYPE" == "darwin"* ]]; then
@@ -115,6 +123,12 @@ echo ""
 echo "2. 🔍 Bing Webmaster Tools:"
 echo "   - Visit: https://www.bing.com/webmasters"
 echo "   - Submit sitemap and request indexing"
+echo "   - This covers Yahoo Search (powered by Bing)"
+echo ""
+echo "3. 🟣 Yahoo-Specific Optimization:"
+echo "   - Yahoo Local: Submit business to local.yahoo.com"
+echo "   - Yahoo Finance: Ensure business info is accurate if applicable"
+echo "   - Yahoo News: Submit press releases if relevant"
 echo ""
 echo "3. 📱 Social Media Testing:"
 echo "   - Facebook: https://developers.facebook.com/tools/debug/"
@@ -123,4 +137,9 @@ echo "   - LinkedIn: https://www.linkedin.com/post-inspector/"
 echo ""
 echo "✨ SEO submission process completed!"
 echo "⏰ Expected indexing timeline: 3-7 days"
-echo "📊 Monitor progress in Google Search Console" 
+echo "📊 Monitor progress in:"
+echo "   - Google Search Console for Google rankings"
+echo "   - Bing Webmaster Tools for Bing and Yahoo rankings"
+echo "   - Yahoo Local for local business visibility"
+echo ""
+echo "🎯 Triple Search Engine Coverage: Google + Bing + Yahoo ✅" 

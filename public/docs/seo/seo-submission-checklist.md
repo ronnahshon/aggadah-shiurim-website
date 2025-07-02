@@ -22,14 +22,27 @@
 - [ ] **Submit Sitemap**: https://www.bing.com/webmasters
   - Submit: `https://midrashaggadah.com/sitemap.xml`
   - Request URL inspection for new page
+  - Note: This also covers Yahoo Search (powered by Bing since 2009)
 
-### 3. Manual Submission URLs
+### 3. Yahoo-Specific Optimization
+- [ ] **Yahoo Local Business Listing**: 
+  - Visit: https://local.yahoo.com or use Yext PowerListings
+  - Submit business information for local search visibility
+  - Verify business listing and update details
+
+- [ ] **Yahoo Directory Submission**:
+  - Submit website to relevant Yahoo categories
+  - Focus on educational/religious categories for Jewish learning content
+
+### 4. Manual Submission URLs
 ```bash
 # Google
 https://www.google.com/ping?sitemap=https://midrashaggadah.com/sitemap.xml
 
-# Bing  
+# Bing (covers Yahoo Search)  
 https://www.bing.com/ping?sitemap=https://midrashaggadah.com/sitemap.xml
+
+# Note: Yahoo Search uses Bing's index, so Bing submission covers Yahoo
 ```
 
 ## 🔧 SEO Validation Tools

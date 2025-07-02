@@ -231,12 +231,18 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
    - Click "Request Indexing" if URL is valid
    - **Performance** → Monitor for new page appearance in search results (7-14 days)
 
-   **Bing Webmaster Tools:**
+   **Bing Webmaster Tools (covers Yahoo Search):**
    - Go to [Bing Webmaster Tools](https://www.bing.com/webmasters)
    - Select your site
    - **Sitemaps** → Submit/resubmit sitemap: `https://midrashaggadah.com/sitemap.xml`
    - **URL Inspection** → Submit new URL for indexing
    - **Site Scan** → Run to check for issues
+   - Note: This also optimizes for Yahoo Search (powered by Bing since 2009)
+
+   **Yahoo-Specific Optimization:**
+   - **Yahoo Local**: Claim business listing at [local.yahoo.com](https://local.yahoo.com)
+   - **Yahoo Directory**: Submit to relevant educational/religious categories
+   - **Social Integration**: Leverage Yahoo Mail, Tumblr, Flickr for additional visibility
 
 5. **Validation & Testing**:
    - **Rich Results Test**: Test structured data at [search.google.com/test/rich-results](https://search.google.com/test/rich-results)
@@ -295,10 +301,12 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
 
 #### Tools & Resources:
 - **Google Search Console**: [search.google.com/search-console](https://search.google.com/search-console)
-- **Bing Webmaster Tools**: [bing.com/webmasters](https://www.bing.com/webmasters)
+- **Bing Webmaster Tools**: [bing.com/webmasters](https://www.bing.com/webmasters) (covers Yahoo)
+- **Yahoo Local**: [local.yahoo.com](https://local.yahoo.com)
 - **Rich Results Test**: [search.google.com/test/rich-results](https://search.google.com/test/rich-results)
 - **PageSpeed Insights**: [pagespeed.web.dev](https://pagespeed.web.dev)
 - **Mobile-Friendly Test**: [search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
+- **Yahoo SEO Guide**: [/public/docs/seo/yahoo-seo-guide.md](./public/docs/seo/yahoo-seo-guide.md)
 
 #### Key Performance Indicators:
 - **Sitemap Coverage**: 245+ URLs indexed (check monthly)
