@@ -193,6 +193,76 @@ Priority Content Areas:
 - Establish topical authority for Jewish learning content
 - Become the go-to resource for Midrash Aggadah online
 
+## Google Site Name Display Optimization
+
+### Issue: Domain Name vs. Brand Name in Search Results
+Google was displaying "midrashaggadah.com" instead of "Midrash Aggadah" as the site name in search results.
+
+### Implementation Details
+
+#### 1. Enhanced WebSite Structured Data
+```json
+{
+  "@type": "WebSite",
+  "@id": "https://midrashaggadah.com/#website",
+  "url": "https://midrashaggadah.com",
+  "name": "Midrash Aggadah",
+  "alternateName": ["Midrash Aggadah", "midrashaggadah.com", "Midrash Aggadah - Jewish Learning"],
+  "description": "Explore thousands of pages of midrash aggadah source texts and hundreds of hours of audio shiurim",
+  "publisher": {"@id": "https://midrashaggadah.com/#organization"},
+  "inLanguage": ["en-US", "he-IL"],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://midrashaggadah.com/search?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+```
+
+#### 2. Additional Meta Tags for Site Name Recognition
+```html
+<meta name="application-name" content="Midrash Aggadah">
+<meta property="og:site_name" content="Midrash Aggadah">
+<meta name="twitter:domain" content="midrashaggadah.com">
+<meta name="twitter:app:name:iphone" content="Midrash Aggadah">
+<meta name="twitter:app:name:ipad" content="Midrash Aggadah">
+<meta name="twitter:app:name:googleplay" content="Midrash Aggadah">
+```
+
+#### 3. Key Properties Added
+- **alternateName**: Array including the preferred name and variations
+- **inLanguage**: Specifies site languages (English and Hebrew)
+- **application-name**: Microsoft/Windows tile name
+- **og:site_name**: Facebook Open Graph site name
+- **twitter:domain**: Twitter domain association
+
+### Expected Results
+- Google search results should display "Midrash Aggadah" as the site name
+- Consistent branding across all search engines
+- Better brand recognition in search results
+- Enhanced social media sharing with correct site name
+
+### Monitoring & Validation
+1. **Google Search Console**: Monitor site name display in search results
+2. **Google Rich Results Test**: Validate structured data implementation
+3. **Social Media Debuggers**: Test Facebook and Twitter sharing
+4. **Search Result Monitoring**: Check actual Google search appearances
+
+### Timeline
+- **Implementation**: Immediate (structured data changes)
+- **Google Recognition**: 1-4 weeks for site name changes to appear
+- **Full Rollout**: 2-8 weeks for consistent display across all search results
+
+### Troubleshooting
+If site name doesn't change:
+1. Verify structured data with Google's Rich Results Test
+2. Request re-indexing via Google Search Console
+3. Ensure consistent naming across all pages
+4. Check for conflicting title tags or meta tags
+
 ---
 
 *This action plan should be reviewed and updated monthly based on performance data and algorithm changes.* 
