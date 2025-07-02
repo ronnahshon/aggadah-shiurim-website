@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/favicon.ico",
+      "destination": "/favicons/favicon.ico",
+      "permanent": true
+    },
+    {
       "source": "/search.html",
       "destination": "/search",
       "permanent": true

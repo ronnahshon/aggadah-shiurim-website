@@ -362,4 +362,96 @@ Homepage (Priority: 1.0)
 
 **Remember**: Yahoo SEO is primarily about optimizing for Bing while leveraging Yahoo's unique services and user base. Focus on quality content, exact keyword matching, social signals, and comprehensive optimization across all Yahoo properties.
 
-For questions or updates to this guide, contact the SEO team or refer to the latest Bing Webmaster Tools documentation. 
+For questions or updates to this guide, contact the SEO team or refer to the latest Bing Webmaster Tools documentation.
+
+## Yahoo Favicon Optimization
+
+### Common Issue: Missing Favicon in Yahoo Search Results
+
+If your website appears in Yahoo search results with a greyed-out earth icon instead of your actual favicon, this indicates that Yahoo/Bing cannot properly access or recognize your favicon.
+
+### Root Cause Analysis
+
+Yahoo Search (powered by Bing) has specific requirements for favicon recognition:
+
+1. **Root Domain Access**: Yahoo/Bing prefers favicon.ico to be accessible at the root domain (`/favicon.ico`)
+2. **Proper File Format**: Must be a valid .ico, .png, or .svg file with minimum 16x16 pixels
+3. **Correct HTML Implementation**: Proper `<link>` tags in the correct order
+4. **Accessibility**: File must not be blocked by robots.txt or server configuration
+
+### Implementation Solution
+
+#### 1. Vercel Configuration Fix
+```json
+{
+  "redirects": [
+    {
+      "source": "/favicon.ico",
+      "destination": "/favicons/favicon.ico", 
+      "permanent": true
+    }
+  ]
+}
+```
+
+#### 2. Optimized HTML Favicon Declaration
+```html
+<!-- Favicon and app icons (optimized for Yahoo/Bing) -->
+<link rel="icon" href="/favicon.ico" sizes="16x16 32x32" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" href="/favicons/favicon.svg" type="image/svg+xml">
+
+<!-- Bing/Yahoo specific meta tags -->
+<meta name="msapplication-TileColor" content="#8B4513">
+<meta name="msapplication-TileImage" content="/favicons/icon-192x192.png">
+<meta name="msapplication-square70x70logo" content="/favicons/favicon-32x32.png">
+<meta name="msapplication-square150x150logo" content="/favicons/icon-192x192.png">
+<meta name="msapplication-square310x310logo" content="/favicons/icon-512x512.png">
+```
+
+#### 3. File Structure Requirements
+```
+public/
+├── favicon.ico (copy of favicon file for root access)
+├── favicons/
+│   ├── favicon.ico (original file)
+│   ├── favicon-16x16.png
+│   ├── favicon-32x32.png
+│   └── favicon.svg
+```
+
+### Verification Steps
+
+1. **Test Root Domain Access**:
+   ```bash
+   curl -I https://midrashaggadah.com/favicon.ico
+   ```
+   Should return `content-type: image/vnd.microsoft.icon` or similar
+
+2. **Validate HTML Implementation**:
+   - Use browser dev tools to check favicon links
+   - Ensure no 404 errors for favicon requests
+
+3. **Submit to Bing Webmaster Tools**:
+   - Request re-crawling after implementing fixes
+   - Monitor indexing status and search appearance
+
+### Expected Timeline
+
+- **Immediate**: Root domain favicon accessibility
+- **24-48 hours**: Bing/Yahoo crawler recognition  
+- **1-2 weeks**: Updated favicon in search results
+- **Contact Bing Support**: If no improvement after 2 weeks
+
+### Troubleshooting
+
+If favicon still doesn't appear:
+
+1. **Clear Cache**: Browser and CDN cache may need time to update
+2. **Verify File Size**: Ensure favicon.ico is not too large (recommended < 50KB)
+3. **Check Format**: Validate .ico file format using online tools
+4. **Contact Bing Support**: Use Bing Webmaster Tools support for manual review
+
+--- 

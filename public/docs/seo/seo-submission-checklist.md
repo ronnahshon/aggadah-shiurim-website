@@ -34,6 +34,12 @@
   - Submit website to relevant Yahoo categories
   - Focus on educational/religious categories for Jewish learning content
 
+- [ ] **Yahoo Favicon Fix** (CRITICAL for search result appearance):
+  - Verify `/favicon.ico` is accessible at root domain
+  - Check Vercel redirect configuration for favicon
+  - Test: `curl -I https://midrashaggadah.com/favicon.ico`
+  - Should return proper image content-type, not HTML
+
 ### 4. Manual Submission URLs
 ```bash
 # Google
