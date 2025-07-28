@@ -592,7 +592,7 @@ Another example of the second miracle is repeated, albeit in a different context
 <br/>
 <br/>
 
-![Diagram showing relationship between concepts](/images/darosh_darash_moshe-1.png)
+![Diagram showing family tree based on peshat](/images/darosh_darash_moshe-family-tree-simple.png)
 <br/>
 <br/>
 
@@ -826,7 +826,7 @@ David came from Ram son of Hetzron, not Kalev son of Hetzron. So how could the m
 <br/>
 <br/>
 
-![Diagram illustrating the concept](/images/darosh_darash_moshe-2.png)
+![Diagram showing family tree based on derash](/images/darosh_darash_moshe-family-tree-complex.png)
 
 **52.** **Tanchuma Yelamdenu Ki Tisa 13**
 <br/>
@@ -1196,7 +1196,7 @@ In this sense separating the second passage from the first removes the need Rash
 <br/>
 <br/>
 
-![Diagram showing four crowns arrangement](/images/darosh_darash_moshe-3.png)
+![Diagram showing four crowns arranged based on peshat](/images/darosh_darash_moshe-crowns-simple.png)
 
 **83.** While satisfying, the midrash by no means feels bound by any time constraint confining the issuance of these crowns to a single period of Jewish history, as **Note 67.** demonstrates. There are even opinions which directly assign Moshe and Aharon to the crowns of Torah and Kehunah, but then assign the crowns of Malchut and Shem Tov to David and Avraham respectively:
 <br/>
@@ -1268,7 +1268,7 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 <br/>
 <br/>
 
-![Diagram showing arrangement during battle](/images/darosh_darash_moshe-4.png)
+![Diagram showing four crowns arranged based on derash](/images/darosh_darash_moshe-crows-complex.png)
 
 **87.** **Tehillim 133:1-3.**
 
@@ -1630,23 +1630,10 @@ There is another school of thought which accepts the general idea that grandchil
 <br/>
 
 It follows that the case of a son's daughter is subject to contention in the various sources. The halachah follows Rava who holds that even this permutation is acceptable:
+<br/>
+<br/>
 
----------------------------- ------------------------------ ------------------------------ ------------------------------
-**Scenario**          בן בנו + בת                       בן                           בת
-בתו   בתו   בנו
-
-Rava, Yevamot 62b                    Yes                            Yes                            Yes
-
-Abaye, Yevamot 62b                   Yes                            Yes                             No
-
-Pirkei DeRabbi Eliezer 36                Yes                            Yes                            N/A
-
-Breishit Rabbah 94:6 (R'                Yes                            N/A                             No Yehudah)
-
-Talmud Yerushalmi Yevamot                Yes                             No                             No 6:6
-
-Talmud Yerushalmi Gittin 5:3               No                             No                             No (R' Yosi)
----------------------------- ------------------------------ ------------------------------ ------------------------------
+![Diagram showing timeline of the exodus based on derash](/images/darosh_darash_moshe-timeline-exodus.png)
 <br/>
 <br/>
 
@@ -5561,7 +5548,7 @@ To summarize: *makat bechorot* happened on the 15th of Nissan. The most straight
 <br/>
 <br/>
 
-![Final diagram or illustration](/images/darosh_darash_moshe-5.png)
+![Diagram showing timeline of the exodus based on derash](/images/darosh_darash_moshe-timeline-exodus.png)
 
 **342.** **Devarim 22:6-7.**
 
