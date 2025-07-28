@@ -3153,24 +3153,15 @@ This question of why Moshe and Aharon are assumed to be excluded from *atzilei b
 *"This means the eighth day of the consecration, as Targum Yonatan translates elsewhere as well."*
 
 **185.** This table summarizes the different perspectives on this question. Of course, the source listed for each one is merely a sample and not exhaustive:
-
------------------ ----------------- ----------------- -----------------
-Source     Was it because   *Was it Nadav   If so, was the
-of the foreign      and Avihu's     sin physical or fire?          fault?        spiritual?
-
-Vayikra Rabbah          Yes               Yes           Closeness = 20:8                                               Spiritual; Offering = Physical
-
-Vayikra Rabbah          No                Yes            Physical 20:9-10
-
-Targum Yonatan to        No                Yes          Spiritual \* Shmot 24:11
-
-Pesikta Rabbati         No                No                \- 47:1
------------------ ----------------- ----------------- -----------------
 <br/>
 <br/>
 
-*\* This is not made explicit in Targum Yonatan but is clearly his
-intent, as will be seen shortly.*
+![Diagram showing table of reasons for Nadav and Avihu sin based on derash](/images/darosh_darash_moshe-table-sin-reason.png)
+<br/>
+<br/>
+
+NOTE: This is not made explicit in Targum Yonatan but is clearly his
+intent, as will be seen shortly.
 
 **186.** **Midrash Tanchuma Yelamdenu Beha'alotcha 16.**
 
