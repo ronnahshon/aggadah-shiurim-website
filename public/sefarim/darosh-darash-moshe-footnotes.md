@@ -2380,15 +2380,10 @@ The claim that Divine flames branch upward is consistent with Abba Yosi Ben Dost
 **151.** The opinion that Nadav and Avihus' clothes remained unburned is not Abba Yosi Ben Dostai's opinion directly but rather inferred by the Talmud as the opinion of the Tanna Kamma based on his agreement with Abba Yosi Ben Dostai. Nevertheless, for simplicity's sake we will refer to this as Abba Yosi Ben Dostai's opinion.
 
 **152.** See the summary of each opinion in the table below.
+<br/>
+<br/>
 
------------------ ----------------- ----------------- -----------------
-**Opinion**       **Clothes**        **Body**          **Soul**
-
-Rabbi Elazar   Not Consumed     Not Consumed          Burnt
-
-Tanna Kamma /    Not Consumed          Burnt           Burnt 
-Abba Yosi Ben Dostai
------------------ ----------------- ----------------- -----------------
+![Diagram showing table of how Nadav and Avihu were killed based on derash](/images/darosh_darash_moshe-table-clothes-body-soul.png)
 <br/>
 <br/>
 
