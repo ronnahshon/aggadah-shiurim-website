@@ -3470,18 +3470,13 @@ Metatron is shown to be nothing more than a servant of the one true G-d and lash
 
 **210.** This table summarizes the different levels of prophecy according
 to Maharsha, both from the aspect of the Divine (back vs face) and from the aspect of the prophet (obscure vs clear):
-
--------------------------- ----------------------- ---------------------
--                 His Back           His Face
-
-Obscure Looking Glass    "They saw the  "I saw Hashem
-(not Moshe)        G-d of Yisrael" (Shmot  sitting on a throne" 24:1)            (Yishayahu 6:1)
-
-Transparent Looking     "I shall pass   "Man cannot
-Glass (Moshe)       all My goodness before  see My face and live" you" (Shmot 33:19)      (Shmot 33:20)
--------------------------- ----------------------- ---------------------
 <br/>
 <br/>
+
+![Diagram showing table of level of Moshe's prophecy according to derash](/images/darosh_darash_moshe-tabl-prophecy-level.png)
+<br/>
+<br/>
+
 
 Case 4 is indisputably the highest level of prophecy, and the level at which man cannot survive the encounter. As understood by Maharsha, Case 1 is lower than Case 2, which is why Case 1 cannot be brought as an initial challenge to Case 4. And while Case 3 must be lower than Case 4 and higher than Case 1, it is not clear from Maharsha which is a higher level, Case 2 (Yishayahu's vision of His face but seen obscurely) or Case 3 (Moshe's unobstructed vision of G-d on Har Sinai, but only of His back). It follows there are three possible ways to rank these levels of prophecy:
 <br/>
