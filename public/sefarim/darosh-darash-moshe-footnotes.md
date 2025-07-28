@@ -1268,7 +1268,7 @@ The crowns were stripped away from Bnai Yisrael after the sin of the golden calf
 <br/>
 <br/>
 
-![Diagram showing four crowns arranged based on derash](/images/darosh_darash_moshe-crows-complex.png)
+![Diagram showing four crowns arranged based on derash](/images/darosh_darash_moshe-crowns-complex.png)
 
 **87.** **Tehillim 133:1-3.**
 
@@ -1633,7 +1633,7 @@ It follows that the case of a son's daughter is subject to contention in the var
 <br/>
 <br/>
 
-![Diagram showing timeline of the exodus based on derash](/images/darosh_darash_moshe-timeline-exodus.png)
+![Diagram showing table of sons and daughters according to halachah](/images/darosh_darash_moshe-table-grandchild.png)
 <br/>
 <br/>
 
@@ -1989,8 +1989,6 @@ As for the fourth possible approach, namely literally and unfavorably, this is a
 <br/>
 
 ![Diagram showing table of eating and drinking on Har Sinai based on derash](/images/darosh_darash_moshe-table-eating-drinking.png)
-<br/>
-<br/>
 
 As Rabbi Hoshayah notes, there is no mention of the nobles bringing any food with them to the top of Har Sinai, which raises the question according to the approach of Ramban and Ibn Ezra that the feast should be taken literally to mean a physical feast. However, one could simply respond that from the fact that the nobility feasted we can infer that they brought the food up with them, despite the Torah not mentioning it explicitly beforehand.
 
@@ -2384,10 +2382,8 @@ The claim that Divine flames branch upward is consistent with Abba Yosi Ben Dost
 <br/>
 
 ![Diagram showing table of how Nadav and Avihu were killed based on derash](/images/darosh_darash_moshe-table-clothes-body-soul.png)
-<br/>
-<br/>
 
-Note: Clothes Not Consumed and Soul Burnt are not mentioned in the Talmud but inferred by applying kal vachomer to each respective opinion.
+Note: The sections 'Clothes Not Consumed' and 'Soul Burnt' are not mentioned in the Talmud but inferred by applying kal vachomer to each respective opinion.
 
 **153.** **Vayikra 10:4-5.**
 <br/>
@@ -3157,11 +3153,8 @@ This question of why Moshe and Aharon are assumed to be excluded from *atzilei b
 <br/>
 
 ![Diagram showing table of reasons for Nadav and Avihu sin based on derash](/images/darosh_darash_moshe-table-sin-reason.png)
-<br/>
-<br/>
 
-NOTE: This is not made explicit in Targum Yonatan but is clearly his
-intent, as will be seen shortly.
+NOTE: The sin being 'Spiritual' is not made explicit in Targum Yonatan but is clearly his intent, as will be seen shortly.
 
 **186.** **Midrash Tanchuma Yelamdenu Beha'alotcha 16.**
 
@@ -3473,17 +3466,16 @@ to Maharsha, both from the aspect of the Divine (back vs face) and from the aspe
 <br/>
 <br/>
 
-![Diagram showing table of level of Moshe's prophecy according to derash](/images/darosh_darash_moshe-tabl-prophecy-level.png)
-<br/>
-<br/>
-
+![Diagram showing table of level of Moshe's prophecy according to derash](/images/darosh_darash_moshe-table-prophecy-level.png)
 
 Case 4 is indisputably the highest level of prophecy, and the level at which man cannot survive the encounter. As understood by Maharsha, Case 1 is lower than Case 2, which is why Case 1 cannot be brought as an initial challenge to Case 4. And while Case 3 must be lower than Case 4 and higher than Case 1, it is not clear from Maharsha which is a higher level, Case 2 (Yishayahu's vision of His face but seen obscurely) or Case 3 (Moshe's unobstructed vision of G-d on Har Sinai, but only of His back). It follows there are three possible ways to rank these levels of prophecy:
 <br/>
 <br/>
 
 - Case 4 > Case 2 > Case 3 > Case 1
+<br/>
 - Case 4 > Case 2 < Case 3 > Case 1
+<br/>
 - Case 4 > Case 2 = Case 3 > Case 1
 
 **211.** **Chiddushei Geonim Ein Yaakov Yevamot 49b d"h matzati megillat yuchsin.**
