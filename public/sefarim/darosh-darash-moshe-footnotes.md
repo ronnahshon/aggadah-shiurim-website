@@ -1985,17 +1985,10 @@ Nor is this relationship between eating and drinking and a violated sense of ser
 <br/>
 
 As for the fourth possible approach, namely literally and unfavorably, this is arguably the simplest reading of the pasuk, the *peshat*, leading us to the following summary:
+<br/>
+<br/>
 
------------------------ -------------------- --------------------------
-**Was the eating and       **Literal**           **Metaphorical**
-drinking:**
-
-**Positive**         Ramban, Ibn Ezra    Rav, Rav Achi Bar Rabbi
-Yishayah
-
-**Negative**             *Peshat*       Rabbis Hoshayah / Yohanan
-/ Tanhuma
------------------------ -------------------- --------------------------
+![Diagram showing table of eating and drinking on Har Sinai based on derash](/images/darosh_darash_moshe-table-eating-drinking.png)
 <br/>
 <br/>
 
