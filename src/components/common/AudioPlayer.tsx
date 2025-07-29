@@ -132,8 +132,13 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
 
   return (
     <div className="audio-player bg-parchment rounded-lg p-3 sm:p-4 shadow-md flex flex-col relative">
-      {/* Hidden audio element */}
-      <audio ref={audioRef} src={src} preload="metadata" />
+      {/* Hidden audio element - optimized for immediate loading */}
+      <audio 
+        ref={audioRef} 
+        src={src} 
+        preload="metadata"
+        crossOrigin="anonymous"
+      />
 
       {/* Main audio controls */}
       <div className="flex items-center gap-2">
