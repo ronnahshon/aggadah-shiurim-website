@@ -63,15 +63,8 @@ const SourceSheetRenderer: React.FC<SourceSheetRendererProps> = ({
       
       try {
         if (isGoogleDoc || docUrl.includes('docs.google.com')) {
-          // Use a timeout and signal for better performance
-          const timeoutPromise = new Promise((_, reject) => {
-            setTimeout(() => reject(new Error('Request timeout')), 15000); // 15 second timeout
-          });
-          
-          const contentPromise = convertGoogleDocToContent(docUrl);
-          
-          // Race between content loading and timeout
-          const extractedContent = await Promise.race([contentPromise, timeoutPromise]) as string;
+          // Extract content from Google Doc
+          const extractedContent = await convertGoogleDocToContent(docUrl);
           
           // Check if component is still mounted and request wasn't aborted
           if (!abortControllerRef.current?.signal.aborted) {
