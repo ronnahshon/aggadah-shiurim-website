@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import { convertGoogleDocToContent } from '@/utils/documentUtils';
 
 interface SourceSheetRendererProps {
@@ -13,7 +13,6 @@ const SourceSheetRenderer: React.FC<SourceSheetRendererProps> = ({
   const [content, setContent] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
-  const abortControllerRef = useRef<AbortController | null>(null);
   
   // Function to remove lines containing author references using string replacement (CSP-safe)
   const removeAuthorReferences = (htmlContent: string): string => {
@@ -49,14 +48,6 @@ const SourceSheetRenderer: React.FC<SourceSheetRendererProps> = ({
   useEffect(() => {
     if (!docUrl) return;
     
-    // Cancel any previous request
-    if (abortControllerRef.current) {
-      abortControllerRef.current.abort();
-    }
-    
-    // Create new abort controller for this request
-    abortControllerRef.current = new AbortController();
-    
     const fetchContent = async () => {
       setIsLoading(true);
       setError(null);
@@ -65,56 +56,25 @@ const SourceSheetRenderer: React.FC<SourceSheetRendererProps> = ({
         if (isGoogleDoc || docUrl.includes('docs.google.com')) {
           // Extract content from Google Doc
           const extractedContent = await convertGoogleDocToContent(docUrl);
-          
-          // Check if component is still mounted and request wasn't aborted
-          if (!abortControllerRef.current?.signal.aborted) {
-            // Remove author references before setting content
-            const cleanedContent = removeAuthorReferences(extractedContent);
-            setContent(cleanedContent);
-          }
+          // Remove author references before setting content
+          const cleanedContent = removeAuthorReferences(extractedContent);
+          setContent(cleanedContent);
         } else {
           // For non-Google docs, you might want to implement other content extraction methods
           // For now, fall back to a simple message
-          if (!abortControllerRef.current?.signal.aborted) {
-            setContent('<p>Content extraction not yet implemented for this document type.</p>');
-          }
+          setContent('<p>Content extraction not yet implemented for this document type.</p>');
         }
       } catch (err) {
-        // Don't show error if request was aborted (component unmounted)
-        if (!abortControllerRef.current?.signal.aborted) {
-          console.error('Error fetching source sheet content:', err);
-          setError('Failed to load source sheet content. Please try downloading the PDF instead.');
-          setContent(null);
-        }
+        console.error('Error fetching source sheet content:', err);
+        setError('Failed to load source sheet content. Please try downloading the PDF instead.');
+        setContent(null);
       } finally {
-        if (!abortControllerRef.current?.signal.aborted) {
-          setIsLoading(false);
-        }
+        setIsLoading(false);
       }
     };
     
-    // Use setTimeout to make this async and non-blocking
-    const timeoutId = setTimeout(() => {
-      fetchContent();
-    }, 0);
-    
-    // Cleanup function
-    return () => {
-      clearTimeout(timeoutId);
-      if (abortControllerRef.current) {
-        abortControllerRef.current.abort();
-      }
-    };
+    fetchContent();
   }, [docUrl, isGoogleDoc]);
-
-  // Cleanup on unmount
-  useEffect(() => {
-    return () => {
-      if (abortControllerRef.current) {
-        abortControllerRef.current.abort();
-      }
-    };
-  }, []);
   
   if (isLoading) {
     return (

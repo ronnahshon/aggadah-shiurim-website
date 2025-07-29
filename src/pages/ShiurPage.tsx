@@ -1,4 +1,4 @@
-import React, { useEffect, useState, Suspense } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { Calendar, Clock, Download } from 'lucide-react';
 import { Shiur } from '@/types/shiurim';
@@ -7,54 +7,9 @@ import { generateShiurStructuredData, generateBreadcrumbStructuredData, generate
 import { getAudioUrl, getGoogleDriveDownloadUrl, getPdfUrl } from '@/utils/s3Utils';
 import SEOHead from '@/components/seo/SEOHead';
 import AudioPlayer from '@/components/common/AudioPlayer';
-
-// Lazy load the SourceSheetRenderer to prevent blocking audio player
-const SourceSheetRenderer = React.lazy(() => import('@/components/common/SourceSheetRenderer'));
+import SourceSheetRenderer from '@/components/common/SourceSheetRenderer';
 
 import { useIsMobile } from '@/hooks/use-mobile';
-
-// Loading component for source sheet
-const SourceSheetLoading = () => (
-  <div className="flex justify-center items-center h-32">
-    <div className="text-center">
-      <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-biblical-burgundy mx-auto mb-2"></div>
-      <p className="text-biblical-brown text-sm">Loading source sheet...</p>
-    </div>
-  </div>
-);
-
-// Error boundary for source sheet to prevent errors from affecting audio player
-class SourceSheetErrorBoundary extends React.Component<
-  { children: React.ReactNode },
-  { hasError: boolean }
-> {
-  constructor(props: { children: React.ReactNode }) {
-    super(props);
-    this.state = { hasError: false };
-  }
-
-  static getDerivedStateFromError(): { hasError: boolean } {
-    return { hasError: true };
-  }
-
-  componentDidCatch(error: Error, errorInfo: React.ErrorInfo) {
-    console.error('Source sheet error:', error, errorInfo);
-  }
-
-  render() {
-    if (this.state.hasError) {
-      return (
-        <div className="text-center py-8">
-          <p className="text-biblical-brown mb-4">
-            Unable to load source sheet. Please try downloading the PDF instead.
-          </p>
-        </div>
-      );
-    }
-
-    return this.props.children;
-  }
-}
 
 const ShiurPage: React.FC = () => {
   const { shiurId } = useParams<{ shiurId: string }>();
@@ -292,14 +247,10 @@ const ShiurPage: React.FC = () => {
           {/* Source document - rendered as content */}
           {shiur.source_sheet_link && (
             <div className="mb-6 sm:mb-8">
-              <SourceSheetErrorBoundary>
-                <Suspense fallback={<SourceSheetLoading />}>
-                  <SourceSheetRenderer 
-                    docUrl={shiur.source_sheet_link} 
-                    isGoogleDoc={isGoogleDoc} 
-                  />
-                </Suspense>
-              </SourceSheetErrorBoundary>
+              <SourceSheetRenderer 
+                docUrl={shiur.source_sheet_link} 
+                isGoogleDoc={isGoogleDoc} 
+              />
             </div>
           )}
           
