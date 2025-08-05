@@ -6140,13 +6140,19 @@ There is a striking Chiastic, A-B-B-A structure to these pesukim as compared to 
 <br/>
 <br/>
 
-* Moshe took the Ohel Moed and moved it outside the camp
+*-* Moshe took the Ohel Moed and moved it outside the camp
 <br/>
-* Anyone who wanted to seek out Hashem would leave the camp and go to the tent
 <br/>
-* The cloud would descend when Moshe would go to the tent
+
+*-* Anyone who wanted to seek out Hashem would leave the camp and go to the tent
 <br/>
-* Hashem would talk to Moshe like a friend, face to face
+<br/>
+
+*-* The cloud would descend when Moshe would go to the tent
+<br/>
+<br/>
+
+*-* Hashem would talk to Moshe like a friend, face to face
 <br/>
 <br/>
 
@@ -6154,13 +6160,19 @@ In contrast, we find in Bemidbar 12:
 <br/>
 <br/>
 
-* Moshe, Miriam and Aharon are called to the Ohel Moed outside the camp
+*-* Moshe, Miriam and Aharon are called to the Ohel Moed outside the camp
 <br/>
-* Hashem seeks them out suddenly, not the other way around (where they seek Him)
 <br/>
-* The cloud descended and told Miriam and Aharon to go into the tent
+
+*-* Hashem seeks them out suddenly, not the other way around (where they seek Him)
 <br/>
-* Hashem rebuked Miriam and Aharon about how He talks to Moshe like a friend
+<br/>
+
+*-* The cloud descended and told Miriam and Aharon to go into the tent
+<br/>
+<br/>
+
+*-* Hashem rebuked Miriam and Aharon about how He talks to Moshe like a friend
 <br/>
 <br/>
 
