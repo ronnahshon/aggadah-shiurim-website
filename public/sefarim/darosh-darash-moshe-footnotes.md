@@ -810,8 +810,6 @@ David came from Ram son of Hetzron, not Kalev son of Hetzron. So how could the m
 <br/>
 
 *"Hetzron was Yehudah's grandson, as it says: 'The children of Peretz were Hetzron and Hamul' (Breishit 46:12) ... When Hetzron died, Kalev came to Efrat - this is Miriam, since Yisrael increased and multiplied through her. And it says: 'Azuvah died, and Kalev took Efrat i.e. Miriam and she gave birth to Hur, and Hur gave birth to Uri, and Uri gave birth to Betzalel' (Divrei HaYamim Aleph 2:19-20)."*
-<br/>
-<br/>
 
 **53.** **Pirkei DeRabbi Eliezer 45.**
 
@@ -824,8 +822,6 @@ David came from Ram son of Hetzron, not Kalev son of Hetzron. So how could the m
 <br/>
 
 *"'They came to Nachal Eshkol' (Bemidbar 13:23). They didn't want to take from the fruits of Eretz Yisrael, and had Kalev not pulled his sword and ran before them and said: If you don't take it, either you will have to kill me or I will kill you - they would not have taken it. This is why;' If not the land which your foot tread on shall be yours' (Yehoshua 14:9)*
-<br/>
-<br/>
 
 **55.** By way of comparison, the Talmud notes that Elisheva was particularly well-connected and had five noble relatives which gave her reason to be joyous:
 <br/>
@@ -871,8 +867,6 @@ A similar list could be construction for Hur: (1) His uncle Moshe was a king, (2
 <br/>
 
 Kalev married Miriam, sister to Aharon and Moshe. If Kalev had checked the brothers of his potential wife before marrying her, he would not have been disappointed: Aharon and Moshe are, after all, model brothers-in-law to have. Since "most sons are similar to their mother's brothers", odds were that Hur was destined to be similar to Aharon and Moshe. Therefore, when Kalev married Miriam he was ensuring that his son would be similar to his two uncles.
-<br/>
-<br/>
 
 **57.** This concept is explored in depth in **Parts II** and **III**.
 
@@ -1973,8 +1967,6 @@ As Rabbi Hoshayah notes, there is no mention of the nobles bringing any food wit
 <br/>
 
 *"Rabbi Chiya Bar Abba said in the name of Rabbi Yochanan: if a crack even as small as the point of a sewing needle had been left in the cave where Moshe and Eliyahu stood, they could not have survived the intensity of His light, as it says: 'No person can see Me and live' (Shmot 33:20)."*
-<br/>
-<br/>
 
 **131.** **Shmot 20:15-16**
 <br/>
@@ -2940,8 +2932,6 @@ A related tradition implicitly acknowledges the pagan undertones of the Torah's 
 <br/>
 
 *"It was taught: 'You shall place' (Devarim 11:18), read it as a perfect elixir. The Torah is compared to a perfect elixir. A parable: a man hits his son with a strong blow and places a bandage on his wound, and says to him, my son, as long as this bandage is on your wound, eat whatever you'd like and drink whatever you'd like and wash in either hot or cold water, and do not be afraid. But if you remove it, you will become gangrenous. So too HaKadosh Baruch Hu said to them, Yisrael My sons, I created the evil inclination, I created the Torah as an antidote. If you deal with Torah you will not be handed over into his hands, as it says: 'If you do well, shall it not be lifted up' (Breishit 4:7). But if you do not deal with Torah, you will be handed over to his hands, as it says: 'Sin crouches at the door'. And not only that, but all of his dealings will be with you, as it says: 'And to you is its desire'. But if you wish, you can rule over it, as it says: 'You shall rule over it.'"*
-<br/>
-<br/>
 
 **176.** **See Vayikra Rabbah 20:10** as quoted in **Note 36**.**
 
@@ -3462,8 +3452,6 @@ Case 4 is indisputably the highest level of prophecy, and the level at which man
 <br/>
 
 * Case 4 > Case 2 = Case 3 > Case 1
-<br/>
-<br/>
 
 **211.** **Chiddushei Geonim Ein Yaakov Yevamot 49b d"h matzati megillat yuchsin.**
 
@@ -4294,10 +4282,8 @@ Assuming Amram was so young is tenous at best, yet in truth we know from elsewhe
 <br/>
 
 *"'He declares the end from the beginning' (Yishayahu 46:10). Even when Moshe was at the bush, HaKadosh Baruch Hu showed him how Pharaoh was destined to act treacherously in the future."*
-<br/>
-<br/>
 
-**266.** Ibn Ezra, quoting Rav Shmuel Bar Chofni, puts forth a similar argument:
+66.** Ibn Ezra, quoting Rav Shmuel Bar Chofni, puts forth a similar argument:
 <br/>
 <br/>
 
