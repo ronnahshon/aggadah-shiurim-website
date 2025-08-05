@@ -4196,7 +4196,7 @@ See previous note. This explanation does not contradict that given by the Sifra;
 
 Beyond addressing the linguistic difficulty of "seeing" here, this midrash is also noticing an important thematic parallel. The previous generation "saw" that Moshe had not come down from Har Sinai as expected, and aggressively accosted Aharon with disastrous results (Shmot 32:1-6). Here again the people see that someone did not come down from a mountain, though this time the roles are reversed: it is Aharon who went up and never returned while Moshe received the ire of the people. Also, just as the "seeing" of Aharon is taken here to mean a literal seeing of Aharon's death, the Talmud similarly understands that Bnai Yisrael saw Moshe's bier. The difference is that while Aharon had actually died and his body was suspended miraculously by G-d, by the Golden Calf an illusion of Moshe's body was conjured up by Satan in an attempt to confuse the people.
 
-**259.** HaKadosh Baruch Hu is - as it were, *keveyachol* - can also be considered family to Moshe, indeed to every Jew, for the following reason: The Talmud teaches that HaKadosh Baruch Hu is a partner in the creation of man along with his father and mother, and as such can be considered a parent to every person:
+**259.** HaKadosh Baruch Hu - as it were - can also be considered family to Moshe, indeed to every Jew, for the following reason: The Talmud teaches that HaKadosh Baruch Hu is a partner in the creation of man along with his father and mother, and as such can be considered a parent to every person:
 <br/>
 <br/>
 
@@ -4396,7 +4396,7 @@ Moshe wins the argument, mounting them on the donkey almost against their own wi
 
 *"The angel became like a snake and swallowed Moshe from his head to his thighs, and then returned and swallowed him from his feet to that place his member."*
 
-**274.** See Ibn Ezra in Note **21** above, Rav Saadia Gaon, Rabbeinu Chananel, and Ramban to these pesukim.
+**274.** See Ibn Ezra in **Note 21** above, Rav Saadia Gaon, Rabbeinu Chananel, and Ramban to these pesukim.
 
 **275.** **Mechilta DeRabbi Yishmael Yitro 1.**
 
@@ -4662,11 +4662,11 @@ The Torah views Esav swearing away his personal birthright negatively. By employ
 <br/>
 <br/>
 
-הדא הוא דכתיב (תהלים סה, ה): אשרי תבחר ותקרב, אשרי מי שבחרו הקדוש ברוך הוא אף על פי שלא הקריבו, ואשרי איש שקרבו אף על פי שלא בחרו ... רבי נחמיה בשם רבי שמואל בר רב יצחק לא כל הקרוב קרוב ולא כל הרחוק רחוק, יש נבחר ונדחה ונתקרב, יש נבחר ונדחה ולא נתקרב ...:
+הדא הוא דכתיב (תהלים סה, ה): אשרי תבחר ותקרב, אשרי מי שבחרו הקדוש ברוך הוא אף על פי שלא הקריבו, ואשרי איש שקרבו אף על פי שלא בחרו ... רבי נחמיה בשם רבי שמואל בר רב יצחק לא כל הקרוב קרוב ולא כל הרחוק רחוק, יש נבחר ונדחה ונתקרב, יש נבחר ונדחה ולא נתקרב:
 <br/>
 <br/>
 
-*"This is as it says: 'Praiseworthy is he who is chosen and comes close' (Tehillim 65:5) - praiseworthy is he who HaKadosh Baruch Hu chose, even if He did not bring him close, and praiseworthy is he who He brought close, even if He did not choose him ... Rabbi Nehemiah in the name of Rabbi Shmuel Bar Rav Yitzhak said, not every close one is close, and not every far one is far. There are those who are chosen, rejected and then come close, and there are those who are chosen, rejected and then do not come close \...."*
+*"This is as it says: 'Praiseworthy is he who is chosen and comes close' (Tehillim 65:5) - praiseworthy is he who HaKadosh Baruch Hu chose, even if He did not bring him close, and praiseworthy is he who He brought close, even if He did not choose him ... Rabbi Nehemiah in the name of Rabbi Shmuel Bar Rav Yitzhak said, not every close one is close, and not every far one is far. There are those who are chosen, rejected and then come close, and there are those who are chosen, rejected and then do not come close."*
 
 **286.** **Devarim 30:15-20.**
 
@@ -4706,7 +4706,11 @@ Understood in this light, the familial divide between brothers can be extended f
 
 The description for Gershom relates to being a *"stranger in a foreign land"* while Eliezer's name relates to *"the G-d of my father"*. Gershom is the child of strange foreigners; Eliezer is the child of G-d.
 
-**291.** Divrei HaYamim Aleph 23:13-17. In particular, Shevu'el was in charge of the treasury:
+**291.** **Divrei HaYamim Aleph 23:13-17** 
+<br/>
+<br/>
+
+In particular, Shevu'el was in charge of the treasury:
 <br/>
 <br/>
 
@@ -4893,9 +4897,13 @@ To summarize: two distinct pesukim at the end of Sefer Shoftim indicate that bot
 <br/>
 <br/>
 
-- Yehonatan must have been alive no earlier than Yeravam's first year of rule
-- Achav took the throne 20 + 38 = 58 years after Yeravam's first year of rule
-- Eliyahu must have been alive no later than 58 + 22 = 80 years after Yeravam's first year of rule
+* Yehonatan must have been alive no earlier than Yeravam's first year of rule
+<br/>
+<br/>
+* Achav took the throne 20 + 38 = 58 years after Yeravam's first year of rule
+<br/>
+<br/>
+* Eliyahu must have been alive no later than 58 + 22 = 80 years after Yeravam's first year of rule
 <br/>
 <br/>
 
@@ -5217,11 +5225,11 @@ If Tzipporah did not know Moshe's true purpose in descending to Egypt, then when
 <br/>
 <br/>
 
-יָרַד משֶׁה מִן הָרָקִיעַ וְהָיוּ הַלּוּחוֹת בְּיָדוֹ וְלֹא שִׁבְּרָן עַד שֶׁרָאָה בְּעֵינָיו, מִנַּיִן שֶׁנֶּאֱמַר (שמות לב, יט): וַיְהִי כַּאֲשֶׁר קָרַב אֶל הַמַּחֲנֶה וַיַּרְא אֶת הָעֵגֶל, אוֹתָהּ שָׁעָה (שמות לב, יט): וַיִּחַר אַף משֶׁה וַיַּשְׁלֵךְ מִיָּד אֶת הַלֻּחוֹת, אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא, משֶׁה, לֹא הָיִיתָ מַאֲמִין לִי שֶׁעָשׂוּ לָהֶן עֵגֶל, שֶׁנֶּאֱמַר (שמות לב, ח): סָרוּ מַהֵר מִן הַדֶּרֶךְ אֲשֶׁר צִוִּיתִם. רַבָּנִין אָמְרֵי מִן הַדָּבָר הַזֶּה שָׁקַד משֶׁה הֵיאַךְ לְזַכּוֹת אֶת יִשְׂרָאֵל, שֶׁאָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא אֲשֶׁר צִוִּיתִם, אָמַר לְפָנָיו רִבּוֹנוֹ שֶׁל עוֹלָם אֲנִי נִצְטַוֵּיתִי, שֶׁמָּא עָבַרְתִּי עַל הַצִּוּוּי, הֵם לֹא נִצְטַוּוּ וְלֹא הָיוּ יוֹדְעִים. אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא, משֶׁה, לֹא נִצְטַוּוּ, אָמַר לוֹ: לָאו....:
+יָרַד משֶׁה מִן הָרָקִיעַ וְהָיוּ הַלּוּחוֹת בְּיָדוֹ וְלֹא שִׁבְּרָן עַד שֶׁרָאָה בְּעֵינָיו, מִנַּיִן שֶׁנֶּאֱמַר (שמות לב, יט): וַיְהִי כַּאֲשֶׁר קָרַב אֶל הַמַּחֲנֶה וַיַּרְא אֶת הָעֵגֶל, אוֹתָהּ שָׁעָה (שמות לב, יט): וַיִּחַר אַף משֶׁה וַיַּשְׁלֵךְ מִיָּד אֶת הַלֻּחוֹת, אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא, משֶׁה, לֹא הָיִיתָ מַאֲמִין לִי שֶׁעָשׂוּ לָהֶן עֵגֶל, שֶׁנֶּאֱמַר (שמות לב, ח): סָרוּ מַהֵר מִן הַדֶּרֶךְ אֲשֶׁר צִוִּיתִם. רַבָּנִין אָמְרֵי מִן הַדָּבָר הַזֶּה שָׁקַד משֶׁה הֵיאַךְ לְזַכּוֹת אֶת יִשְׂרָאֵל, שֶׁאָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא אֲשֶׁר צִוִּיתִם, אָמַר לְפָנָיו רִבּוֹנוֹ שֶׁל עוֹלָם אֲנִי נִצְטַוֵּיתִי, שֶׁמָּא עָבַרְתִּי עַל הַצִּוּוּי, הֵם לֹא נִצְטַוּוּ וְלֹא הָיוּ יוֹדְעִים. אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא, משֶׁה, לֹא נִצְטַוּוּ, אָמַר לוֹ: לָאו:
 <br/>
 <br/>
 
-*"Moshe descended from the heavens and had the luchot in his hand, but he did not break them until he saw Bnai Yisrael sinning with his own eyes. How do we know this? As it says: 'And it was when Moshe came close to the camp he saw the calf' (Shmot 32:19), and at that time: 'Moshe got angry and threw the luchot from his hand' (Shmot 32:19). HaKadosh Baruch Hu said to him: Moshe, did you not believe Me that they had made the calf, as it says: 'They have turned quickly from the path that they were commanded on' (Shmot 32:8). The Rabbis say: From this you can learn that Moshe tried whatever he could to find merit for Yisrael, so that when HaKadosh Baruch Hu said to him 'that they were commanded on' he said to Him: Master of the Universe: I was commanded so perhaps I violated the commandment, but they were not commanded and didn't know any better. HaKadosh Baruch Hu said to him: Moshe, they weren't commanded? He said to Him: No ...."*
+*"Moshe descended from the heavens and had the luchot in his hand, but he did not break them until he saw Bnai Yisrael sinning with his own eyes. How do we know this? As it says: 'And it was when Moshe came close to the camp he saw the calf' (Shmot 32:19), and at that time: 'Moshe got angry and threw the luchot from his hand' (Shmot 32:19). HaKadosh Baruch Hu said to him: Moshe, did you not believe Me that they had made the calf, as it says: 'They have turned quickly from the path that they were commanded on' (Shmot 32:8). The Rabbis say: From this you can learn that Moshe tried whatever he could to find merit for Yisrael, so that when HaKadosh Baruch Hu said to him 'that they were commanded on' he said to Him: Master of the Universe: I was commanded so perhaps I violated the commandment, but they were not commanded and didn't know any better. HaKadosh Baruch Hu said to him: Moshe, they weren't commanded? He said to Him: No."*
 <br/>
 <br/>
 
@@ -5320,6 +5328,9 @@ An iron smelting pot is actually an earthenware utensil that refines metals heat
 <br/>
 
 **Sifra, Metzora Section 1:8**
+<br/>
+<br/>
+
  וצוה הכהן ולקח - הציווי בכהן והלקיחה בכל אדם:
 <br/>
 <br/>
@@ -5398,11 +5409,11 @@ As an aside, there is a *machloket* in Torat Kohanim (Sifra) about whether a non
 <br/>
 <br/>
 
-... והפסח והמילה מצות עשה דעל אלו חייבין על זדונו כרת ועל שגגתו חטאת:
+והפסח והמילה מצות עשה דעל אלו חייבין על זדונו כרת ועל שגגתו חטאת:
 <br/>
 <br/>
 
-*"... And korban pesach and brit milah are the only two positive mitzvot for which, in addition to 34 negative mitzvot one receives karet Divine death for their willful violation and is required to bring a sin offering for their accidental violation."*
+*"And korban pesach and brit milah are the only two positive mitzvot for which, in addition to 34 negative mitzvot one receives karet Divine death for their willful violation and is required to bring a sin offering for their accidental violation."*
 <br/>
 <br/>
 
@@ -5806,7 +5817,7 @@ This idea that Miriam was punished first so that there would be precedent to pun
 
 *And it should not be asked, why would it not be easier to explain Chatzerot as a reference to Miriam, namely that she angered HaMakom and spoke against her brothers as the Torah states explicitly, and not as a reference to Korach's rebellion where there is doubt whether it even happened in Chatzerot or somewhere else, for we can say that because Miriam's sin is the sin of an individual it might not be appropriate to count it with the national rebukes which are for sins of the many."*
 
-**363.** See for example Bemidbar Rabbah 16:6 in the earlier note quoted above.
+**363.** See for example **Bemidbar Rabbah 16:6** in the earlier note quoted above.
 
 **364.** Chizkuni attempts to brush off the dramatic implications of Rashi's comment by claiming he meant to say that Korach's rebellion happened while Bnai Yisrael were traveling near Chatzerot, not while they were encamped in it:
 <br/>
@@ -5885,6 +5896,8 @@ Not only does HaKadosh Baruch Hu pay man back based on his actions - not allowin
 *"Moshe separated himself from his wife and his thought agreed with the thought of HaMakom He agreed. How? Moshe said: if Yisrael, who were only commanded to sanctify themselves one time and it was only in order to receive the Aseret HaDibrot from Har Sinai - about them HaKadosh Baruch Hu said to me: 'Go to the nation and sanctify them today and tomorrow' (Shmot 19:10). I, who should be ready to receive it every day at every moment, and I don't know when He will speak with me, whether during the day or at night - how much more so should I sanctify myself by separating from my wife? And his thought agreed with the thought of HaMakom. Rabbi Yehudah Ben Beteirah says: Moshe did not separate from his wife except because he was told to by G-d, as it says: 'I speak to him mouth to mouth' (Bemidbar 12:8). Mouth to mouth I told him to separate himself from his wife, and he separated. There are those who say similarly, that Moshe did not separate from his wife except because he was told to by G-d, as it says: 'Go say to them, go back to your tents' (Devarim 5:28), and it says after that: 'You Moshe stand here with Me'. Moshe turned back and separated from Tzipporah, and his thought agreed with the thought of HaMakom."*
 
 **372.** **Sifre Bemidbar 99**
+<br/>
+<br/>
 
 מנין היתה מרים יודעת שפירש משה מפריה ורביה? אלא שראתה צפורה שאינה מתקשטת בתכשיטי נשים. אמרה לה: מה לך שאין את מתקשטת בתכשיטי נשים? אמרה לה: אין אחיך מקפיד בדבר. לכך ידעה מרים, ואמרה לאחיה, ושניהם דברו בו. והרי דברים ק״ו: ומה מרים, שלא נתכוונה לדבר באחיה לגנאי אלא לשבח, ולא למעט מפריה ורביה אלא לרבות, בינה לבין עצמה - כך נענשה; המתכוון לדבר בחברו לגנאי ולא לשבח, ולמעט מפריה ורביה ולא לרבות, בינו לבין אחרים ולא בינו לבין עצמו - על אחת כמה וכמה:
 <br/>
@@ -6144,10 +6157,13 @@ There is a striking Chiastic, A-B-B-A structure to these pesukim as compared to 
 <br/>
 <br/>
 
-- Moshe took the Ohel Moed and moved it outside the camp
-- Anyone who wanted to seek out Hashem would leave the camp and go to the tent
-- The cloud would descend when Moshe would go to the tent
-- Hashem would talk to Moshe like a friend, face to face
+* Moshe took the Ohel Moed and moved it outside the camp
+<br/>
+* Anyone who wanted to seek out Hashem would leave the camp and go to the tent
+<br/>
+* The cloud would descend when Moshe would go to the tent
+<br/>
+* Hashem would talk to Moshe like a friend, face to face
 <br/>
 <br/>
 
@@ -6155,10 +6171,13 @@ In contrast, we find in Bemidbar 12:
 <br/>
 <br/>
 
-- Moshe, Miriam and Aharon are called to the Ohel Moed outside the camp
-- Hashem seeks them out suddenly, not the other way around (where they seek Him)
-- The cloud descended and told Miriam and Aharon to go into the tent
-- Hashem rebuked Miriam and Aharon about how He talks to Moshe like a friend
+* Moshe, Miriam and Aharon are called to the Ohel Moed outside the camp
+<br/>
+* Hashem seeks them out suddenly, not the other way around (where they seek Him)
+<br/>
+* The cloud descended and told Miriam and Aharon to go into the tent
+<br/>
+* Hashem rebuked Miriam and Aharon about how He talks to Moshe like a friend
 <br/>
 <br/>
 
