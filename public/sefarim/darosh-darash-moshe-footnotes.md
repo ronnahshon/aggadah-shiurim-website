@@ -1890,7 +1890,7 @@ Additionally, the language used to describe David is reminiscent of Kalev Ben Ye
 
 **Har Sinai -** הר סיני
 
-**128. Shmot Rabbah 29:9**
+**128.** **Shmot Rabbah 29:9**
 <br/>
 <br/>
 
@@ -2044,7 +2044,7 @@ As Rabbi Hoshayah notes, there is no mention of the nobles bringing any food wit
 
 Apparently man can outlive an encounter with an angel of G-d, but it is important to note that such an encounter was enough to strike horror in the heart of a warrior like Gideon. Clearly, one who actually does see G-d should not be able to survive, as noted above.
 
-**133.** See **Part I** Notes **87** and **88** for another example of this phenomenon.
+**133.** See **Part I Notes 87 & 88** for another example of this phenomenon.
 
 **134.** **Shabbat 88a**
 <br/>
@@ -2377,7 +2377,7 @@ The claim that Divine flames branch upward is consistent with Abba Yosi Ben Dost
 
 **151.** The opinion that Nadav and Avihus' clothes remained unburned is not Abba Yosi Ben Dostai's opinion directly but rather inferred by the Talmud as the opinion of the Tanna Kamma based on his agreement with Abba Yosi Ben Dostai. Nevertheless, for simplicity's sake we will refer to this as Abba Yosi Ben Dostai's opinion.
 
-**152.** See the summary of each opinion in the table below.
+**152.** See the summary of each opinion in the table below:
 <br/>
 <br/>
 
@@ -2689,7 +2689,7 @@ As an aside, this custom to serve lentils at a house of mourning is preserved as
 <br/>
 <br/>
 
-**Yalkut Shimon on Torah Remez 525**
+**Yalkut Shimoni on Torah Remez 525**
 <br/>
 <br/>
 
@@ -2971,7 +2971,7 @@ A related tradition implicitly acknowledges the pagan undertones of the Torah's 
 <br/>
 <br/>
 
-**176.** **See Vayikra Rabbah 20:10 quoted in **Note 36**.**
+**176.** **See Vayikra Rabbah 20:10** as quoted in **Note 36**.**
 
 **177.** This foil in motivation actually parallels a foil in action: while Nadav and Avihu brought non-holy fire into a holy place, Aharon is being asked to bring a holy fire out to a non-holy place. While both acts are forbidden, the difference between them also creates a conceptual distance between the behavior of Aharon compared to his sons.
 
@@ -2979,10 +2979,19 @@ A related tradition implicitly acknowledges the pagan undertones of the Torah's 
 <br/>
 <br/>
 
-- Vayikra 10:1-3 regarding Nadav and Avihu
-- Bemidbar 11:1-3 regarding the complainers as mentioned in **Note 12** and discussed further below
-- Bemidbar 16:35 regarding to the followers of Korach
-- Bemidbar 21:7-9 regarding the fiery serpents
+* Vayikra 10:1-3 regarding Nadav and Avihu
+<br/>
+<br/>
+
+* Bemidbar 11:1-3 regarding the complainers as mentioned in **Note 12** and discussed further below
+<br/>
+<br/>
+
+* Bemidbar 16:35 regarding to the followers of Korach
+<br/>
+<br/>
+
+* Bemidbar 21:7-9 regarding the fiery serpents
 <br/>
 <br/>
 
@@ -3154,7 +3163,7 @@ This question of why Moshe and Aharon are assumed to be excluded from *atzilei b
 
 ![Diagram showing table of reasons for Nadav and Avihu sin based on derash](/images/darosh_darash_moshe-table-sin-reason.png)
 
-NOTE: The sin being 'Spiritual' is not made explicit in Targum Yonatan but is clearly his intent, as will be seen shortly.
+NOTE: The sin being 'Spiritual' is not made explicit in Targum Yonatan but is clearly his intent, as will be seen below.
 
 **186.** **Midrash Tanchuma Yelamdenu Beha'alotcha 16.**
 
@@ -3472,11 +3481,17 @@ Case 4 is indisputably the highest level of prophecy, and the level at which man
 <br/>
 <br/>
 
-- Case 4 > Case 2 > Case 3 > Case 1
+* Case 4 > Case 2 > Case 3 > Case 1
 <br/>
-- Case 4 > Case 2 < Case 3 > Case 1
 <br/>
-- Case 4 > Case 2 = Case 3 > Case 1
+
+* Case 4 > Case 2 < Case 3 > Case 1
+<br/>
+<br/>
+
+* Case 4 > Case 2 = Case 3 > Case 1
+<br/>
+<br/>
 
 **211.** **Chiddushei Geonim Ein Yaakov Yevamot 49b d"h matzati megillat yuchsin.**
 
@@ -3652,7 +3667,7 @@ The sin of the golden calf was the paradigmatic rebellion of Bnai Yisrael agains
 <br/>
 <br/>
 
-Alternatively, given that Nadav and Avihu were consumed by fire on the day the Mishkan was consecrated, their death occurred on the first of Nisan as well. Assigning the date of Moshe and Aharons' death sentence to the date of Nadav and Avihus' deaths thirty nine years earlier is very significant, for there is a very
+Alternatively, given that Nadav and Avihu were consumed by fire on the day the Mishkan was consecrated, their death occurred on the first of Nisan as well. Assigning the date of Moshe and Aharons' death sentence to the date of Nadav and Avihus' deaths thirty nine years earlier is clearly very significant.
 <br/>
 <br/>
 
@@ -3731,6 +3746,8 @@ Mei Merivah condemned Moshe and Aharon to die in the wilderness and not lead the
 *"'Hashem said to Moshe, say to Aharon' (Shmot 7:19). Rabbi Tanchum said, why were the waters not struck by Moshe? HaKadosh Baruch Hu said to him, the waters which protected you when you were thrown into the Nile - it is not proper for them to be afflicted by you. By your life they will be afflicted only through Aharon."*
 
 **227.** The midrash emphasizes this point by noting that just as Moshe was redeemed through water, he had also been destined to be punished by water since the days of Avraham Avinu:
+<br/>
+<br/>
 
 **Bemidbar Rabbah 19:14**
 <br/>
@@ -3808,7 +3825,11 @@ Another reason why the aggadah chose to avoid implicating Moshe may include the 
 
 Another potential issue with this approach will be dealt with in the next section.
 
-**231.** **Pesikta DeRav Kahana 25:1.** A similar version of this midrash is recounted in the Talmud:
+**231.** **Pesikta DeRav Kahana 25:1** 
+<br/>
+<br/>
+
+A similar version of this midrash is recounted in the Talmud:
 <br/>
 <br/>
 
@@ -3894,7 +3915,11 @@ There is much more to say about this concept of the need to balance peace and tr
 
 *"Moshe announced to those arguing with him: 'You have taken too much upon yourselves, children of Levi'. HaKadosh Baruch Hu is extremely strict with His tzaddikim like a hair's breadth, and so He punished accordingly."*
 
-**236.** Avodah Zarah 17b-18a. A variant of this midrash concludes with a conversation between the Romans and a philosopher missing from the Talmud's version:
+**236.** **Avodah Zarah 17b-18a** 
+<br/>
+<br/>
+
+A variant of this midrash concludes with a conversation between the Romans and a philosopher missing from the Talmud's version:
 <br/>
 <br/>
 
