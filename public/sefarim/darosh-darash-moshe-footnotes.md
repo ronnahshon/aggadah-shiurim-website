@@ -75,8 +75,6 @@ The distance of 400 parasangs mentioned here is alternatively given as the lengt
 <br/>
 
 *"Remember what Amalek did to you on the way, as you were leaving Egypt. He surprised you on the way, and cut down all of the weak ones in the rear, and you were tired and weary; he was not afraid of G-d. When Hashem your G-d will leave you free on all your enemies around you in the land that Hashem your G-d is giving you as a portion to inherit - you shall erase the memory of Amalek from under the heavens; do not forget."*
-<br/>
-<br/>
 
 **3.** While *na'ar* is often translated as lad or youth, Yehoshua was already 56 years old during the battle with Amalek. This leads Ibn Ezra and Ramban to conclude that a more correct translation here would be deputy or attendant. Either way it seems clear that at the time he was an attendant to Moshe and not yet a holder of high office:
 <br/>
@@ -119,8 +117,6 @@ Yehoshua himself also felt unworthy to be chosen for this role, recognizing that
 <br/>
 
 *"Yehoshua said, there are so many great people in this generation: Aharon, Hur, the seventy elders. And yet, Moshe did not command anyone other than me to lead the battle against Amalek. He did not command me for naught but rather must have seen that Amalek will fall into my hands. Therefore: 'Yehoshua did as Moshe told him, to fight against Amalek' (Shmot 17:10)."*
-<br/>
-<br/>
 
 **4.** An allusion to this idea may come from the fact that this is the first time we hear of Yehoshua in the Torah and he is referred to as such, yet the Torah informs us in Bemidbar 13:16 that Yehoshua's original name was actually Hoshea; Moshe had renamed him by inserting a *yud* at the beginning of his name. The midrash explains that this was meant to strengthen Yehoshua and give him the courage and fortitude to stand up against the rest of the spies:
 <br/>
@@ -139,8 +135,6 @@ Yehoshua himself also felt unworthy to be chosen for this role, recognizing that
 <br/>
 
 Perhaps Yehoshua is referred to with the *yud* in the battle of Amalek as well because at this point too he was an inexperienced warrior and needed the prayer of *"May Yah save you",* that HaKadosh Baruch Hu should grant him victory in the campaign against Amalek. More than a year later, before dispatching the spies, Moshe then reconfirmed the name change in prayer that Yehoshua should be saved from their negative influence.
-<br/>
-<br/>
 
 **5.** This follows from observing that Moshe did not merely assign Yehoshua to command the people in battle, but also felt it necessary to take action of his own:
 <br/>
@@ -155,8 +149,6 @@ Perhaps Yehoshua is referred to with the *yud* in the battle of Amalek as well b
 <br/>
 
 *"And this whole thing which Moshe Rabbeinu did, was because Amalek was a very powerful and strong nation, and additionally Yisrael were not taught in the ways of war and had never seen it before, as it says: 'Lest the nation will regret when they see war' (Shmot 13:17). Additionally, the nation was tired and weak, as it says in Mishneh Torah i.e. Sefer Devarim (Devarim 25:18). Therefore, Moshe was afraid for Bnai Yisrael and felt it was necessary to also pray and supplicate as much as possible."*
-<br/>
-<br/>
 
 **6.** The word *machar*, usually translated as 'tomorrow', can also connote a sense of immediacy and urgency, and here seems appropriate given the hurried response to sudden war:
 <br/>
@@ -199,8 +191,6 @@ Whether *machar* is referring to Yehoshua meeting Amalek in battle - so that Mos
 <br/>
 
 *"And similarly 'tomorrow': Is it referring to the battle, and then 'I will stand at the top of the hill' - today, to pray before the battle, as it says: 'Will your limitless wealth help you' (Iyov 36:19)? Or is it referring to 'I will stand' - tomorrow, to pray?"*
-<br/>
-<br/>
 
 **7.** The concept of facing off against Amalek *machar* also appears in the Purim story. Queen Esther invites King Achashverosh and Haman to an intimate feast, during which she invites them again to a second feast the following day. It is not clear from the Megillah itself why Esther feels the need to do this; she accused Haman of attempting genocide against her people at the second feast, but she could have just as easily done that at the first one. Clearly something motivated Esther to drag her plan out, and for the midrash this was a realization that when Amalek presents a sudden and unexpected danger - as Haman's decree clearly did - the only way to defeat him is by fighting back 'tomorrow':
 <br/>
@@ -219,12 +209,8 @@ Whether *machar* is referring to Yehoshua meeting Amalek in battle - so that Mos
 <br/>
 
 It follows that *machar* is used in the context of the battle with Amalek both in the immediate, 'now' sense, and in the abstract, distant future sense.
-<br/>
-<br/>
 
 **8.** This point will be more fully developed in **Part I**.
-<br/>
-<br/>
 
 **9.** The simple, *peshat* translation of the word *emunah* is steadiness and permanence:
 <br/>
@@ -271,16 +257,10 @@ The Targum understands *emunah* as a reference to Moshe's faith in Hashem, and i
 <br/>
 
 *"Moshe's hands were heavy, so they brought a rock and placed it under him, and he sat on it. Aharon and Hur supported his hands, one on each side, and his hands were spread outward in prayer until the sun set."*
-<br/>
-<br/>
 
 **10.** **Mishnah Rosh HaShanah 3:8.**
-<br/>
-<br/>
 
 **11.** In particular, the relationship between Hur on the one hand vs Moshe and Aharon on the other will be a critical component of our analysis. Understanding who Hur was and what his role is this story represents is essential to the larger question of how Bnai Yisrael's leadership is meant to operate.
-<br/>
-<br/>
 
 **12.** **Shmot 24:13-14.**
 
@@ -295,12 +275,8 @@ The Targum understands *emunah* as a reference to Moshe's faith in Hashem, and i
 <br/>
 
 *"Rabbi Yehoshua Ben Levi said, why does it say: 'The nation saw that Moshe delayed' (Shmot 32:1)? Don't read it as delayed, but rather as 'six passed'. When Moshe went up to the Heavens he said to Yisrael, I will come back at the end of forty days, at the beginning of the sixth hour. At the end of forty days Satan came and confused the world. He said to Bnai Yisrael: Where is Moshe your Rabbi? They said to him: He went up to heaven. He said to them: The sixth hour has come, but they ignored him. He said to them: He has died, but they ignored him. He showed them a vision of Moshe's bier, and this is what it means when they say to Aharon: 'For this man Moshe' (Shmot 32:1)."*
-<br/>
-<br/>
 
 **15.** Between Shmot 24:14 when Hur is last explicitly mentioned, and Shmot 32:1-6 when he is inexplicably absent, are Parshiyot Terumah, Tetzaveh and the beginning of Ki Tisa, all of which detail various halachot about the Mishkan and other matters. There are no narratives recording what happened at the bottom of Har Sinai during those 40 days when Moshe was receiving those mitzvot.
-<br/>
-<br/>
 
 **16.** **Vayikra Rabbah 10:3.**
 
@@ -318,7 +294,7 @@ The Targum understands *emunah* as a reference to Moshe's faith in Hashem, and i
 
 *"Another idea: 'To the nut garden'. Reish Lakish said, just as a nut is smooth, as it was taught: Rabbi Shimon says, just like with the trees of nuts, that whoever goes up to its head and does not think about how he is going up, will fall and die and get his portion from the nut, so too whoever leads the community of Yisrael and does not think about how he should be leading Yisrael, will end up falling and getting his portion from them, as it says: 'Yisrael is holy to Hashem, the first crop, whoever eats from it will be held guilty' (Yirmiyahu 2:3)."*
 
-**20.** As noted above in **Note 17** Vayikra Rabbah was composed centuries earlier than Shmot Rabbah, which itself rewrote and reworked earlier midrashic traditions. Vayikra Rabbah is shorter, more cryptic; it aims to address the linguistic challenges of Shmot 32:1-6 and fill in the thematic gaps in the narrative. Shmot Rabbah is significantly more vivid, elaborating and sharpening the focus on Hur as a foil to Aharon in order to emphasize the message about what it means to be a leader in times of crisis.
+**20.** As noted above in **Note 17**, Vayikra Rabbah was composed centuries earlier than Shmot Rabbah, which itself rewrote and reworked earlier midrashic traditions. Vayikra Rabbah is shorter, more cryptic; it aims to address the linguistic challenges of Shmot 32:1-6 and fill in the thematic gaps in the narrative. Shmot Rabbah is significantly more vivid, elaborating and sharpening the focus on Hur as a foil to Aharon in order to emphasize the message about what it means to be a leader in times of crisis.
 
 **21.** **Sanhedrin 74a**
 <br/>
@@ -377,8 +353,6 @@ A variant on this tradition gives Aharon more credit, attributing Aharon receivi
 <br/>
 
 *"What flaring anger was there? The Kehunah was taken from Moshe and given to Aharon. The Rabbis of blessed memory say, 'Aharon your brother the Levi' - from the fact that it says 'your brother', don't I know that he was a Levi? Rather, this means that you Moshe were worthy to be a Kohen and he Aharon a Levi, but because you refuse My words, you will be Levi and he will be Kohen. 'I know that he can speak', for you said: 'I am not a man of words'; therefore he will speak on your behalf, and that which you reasoned that he is distressed about you, it is not so, for he is happy, as it says: 'He will see you and be happy in his heart'. Rabbi Shimon Ben Rabbi Yosi said, the heart which was happy in the greatness of his brother shall merit to wear the Urim VeTumim, as it says: 'They will be on Aharon's heart'."*
-<br/>
-<br/>
 
 **24.** **Shmot 31:1-5.**
 
@@ -593,8 +567,6 @@ Another example of the second miracle is repeated, albeit in a different context
 <br/>
 
 ![Diagram showing family tree based on peshat](/images/darosh_darash_moshe-family-tree-simple.png)
-<br/>
-<br/>
 
 The relationship between Moshe and Kalev Ben Hetzron was that of third cousins; Moshe and Betzalel were third cousins thrice removed.
 <br/>
@@ -712,7 +684,7 @@ One of the more striking examples of this can be found in a discussion of Moshe 
 
 *"Kalev said, whoever strikes Kiryat Sefer and conquers it - I will give him my daughter Achsah in marriage. Otniel Ben Kenaz conquered it - he was Kalev's younger brother - and Kalev gave Achsah his daughter to Otniel as a wife."*
 
-**46.** **Temurah 16a.**
+**46.** **Temurah 16a**
 <br/>
 <br/>
 
@@ -1148,7 +1120,7 @@ In this sense separating the second passage from the first removes the need Rash
 
 *"Rabbi Shimon Bar Yochai said, a good name is more beloved than the Aron, because the Aron only travels for three days, as it says: 'The Aron of Hashem traveled before them for three days' (Bemidbar 10:33), while a good name travels from one end of the world to the other. How do we know this? From David, as it says: 'David's name went out to all the lands, and Hashem instilled a fear of him in all the nations' (Divrei HaYamim Aleph 14:17). A good name is more beloved than Kehunah and Malchut, for both Kehunah and Malchut have ceased while a good name has not and never will cease."*
 
-**78.** **Rabbi Ovadiah MiBartenura to Pirkei Avot 4:13 d"h v eketer shem tov**
+**78.** **Rabbi Ovadiah MiBartenura to Pirkei Avot 4:13 d"h veketer shem tov**
 <br/>
 <br/>
 
@@ -1426,7 +1398,9 @@ Note this explanation is different from one we perhaps assumed was underpinning 
 
 *"Betzalel Ben Uri Ben Hur. The grandfather of Betzalel is mentioned, unlike by Oholiav Ben Achisamach, because Hur was killed during the incident of the calf, and the construction of the Mishkan came to atone for that sin. This is why Hur is mentioned in connection with it."*
 
-**101.** Yalkut Reuveni Parshat Shelach. This work is a compilation of earlier Kabbalistic teachings compiled and edited by Rabbi Reuven HaKohen in the 17th century CE.
+**101.** **Yalkut Reuveni Parshat Shelach.** 
+
+This work is a compilation of earlier Kabbalistic teachings compiled and edited by Rabbi Reuven HaKohen in the 17th century CE.
 
 **102.** The concept of *gilgul*, or transmigration of souls, can be found in medieval Kabbalah, though its usage is systematized and greatly expanded upon in later Cordoveran and Lurianic Kabbalah respectively, as a solution to the age-old question of *tzaddik vera lo*, how come bad things happen to good people. Here Yalkut Reuveni argues that Hur was reincarnated in some sense in the essence of his father Kalev to explain how he did in fact receive a reward from Above, even though it is not apparent to one who looks purely at the world of material things.
 <br/>
@@ -1634,8 +1608,6 @@ It follows that the case of a son's daughter is subject to contention in the var
 <br/>
 
 ![Diagram showing table of sons and daughters according to halachah](/images/darosh_darash_moshe-table-grandchild.png)
-<br/>
-<br/>
 
 Regardless, for our purposes of applying this concept to Hur and Betzalel it is a case of the son's son, and so Betzlalel can be considered like Hur's son according to virtually all opinions.
 
@@ -1852,7 +1824,7 @@ In the future, it was Esav's grandson Amalek who specifically attacked the rear 
 <br/>
 <br/>
 
-**Shmuel Aleph 30:1-2, 5, 10, 17-18:**
+**Shmuel Aleph 30:1-2, 5, 10, 17-18**
 <br/>
 <br/>
 
