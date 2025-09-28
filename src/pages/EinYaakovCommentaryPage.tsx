@@ -136,23 +136,9 @@ const EinYaakovCommentaryPage: React.FC = () => {
           <h1 className="text-5xl font-bold text-black font-hebrew mb-2">
             פירוש על העין יעקב
           </h1>
-        </div>
-
-        {/* Work in Progress Note */}
-        <div className="max-w-6xl mx-auto mb-8">
-          <div className="bg-white/70 rounded-lg border border-biblical-gold/20 shadow-sm p-4 md:p-6">
-            <p className="text-center text-black font-medium mb-2">
-              This commentary aims to summarize the original ideas from hundreds of shiurim delivered over several years on Ein Yaakov
-            </p>
-            <p className="text-center text-black font-medium">
-              <strong>NOTE:</strong> It is still a work in progress
-            </p>
-          </div>
-        </div>
-
-        {/* Section separator */}
-        <div className="section-separator my-8">
-          <div className="border-t-4 border-biblical-gold/40"></div>
+          <p className="text-center text-black font-hebrew text-lg mt-4">
+            נערך ע״י רון שמואל בן נדב צבי הכהן, אלול תשפ״ה
+          </p>
         </div>
 
         {/* Main Content */}
