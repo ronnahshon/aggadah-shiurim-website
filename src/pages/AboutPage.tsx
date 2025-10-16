@@ -57,7 +57,7 @@ const AboutPage: React.FC = () => {
             </h2>
             
             <p className="text-biblical-brown mb-4 leading-relaxed">
-              Ron Nahshon grew up in New Jersey and studied Torah and Talmud at Yeshivat Har Etzion. He has a Bachelor of Arts Degree from Yeshiva University in New York and a Masters Degree in Tanach and Parshanut from Machon Herzog in Gush Etzion, and he has Rabbinical Sofrut certification (Semicha) from Va'ad Mishmeret Stam and Machon Eliya in Jerusalem. He currently lives in Kiryat Gat, Israel with his wife Sara and four children. 
+              Ron Nahshon studied Torah and Talmud at Yeshivat Har Etzion. He has a Bachelor of Arts Degree from Yeshiva University in New York, a Masters Degree in Tanach and Parshanut from Machon Herzog in Gush Etzion, and Sofrut ST"M Certification (Semicha) from Va'ad Mishmeret Stam and Machon Eliya in Jerusalem. He currently lives in Kiryat Gat, Israel with his wife Sara and four children. 
             </p>
             
             <h2 className="text-2xl font-semibold mt-8 mb-4 text-biblical-brown">
@@ -73,13 +73,6 @@ const AboutPage: React.FC = () => {
                 ronnahshon@gmail.com
               </a>
             </div>
-          </div>
-          
-          {/* Work in progress banner */}
-          <div className="bg-biblical-gold/20 border-l-4 border-biblical-gold rounded-lg p-4 mt-8">
-            <p className="text-biblical-brown font-medium text-center">
-              Note: This website is still a work in progress, thanks for your patience!
-            </p>
           </div>
         </div>
       </div>
