@@ -57,7 +57,7 @@ const AboutPage: React.FC = () => {
             </h2>
             
             <p className="text-biblical-brown mb-4 leading-relaxed">
-              Ron Nahshon grew up in New Jersey and studied Torah and Talmud at Yeshivat Har Etzion. He received a BA from Yeshiva University, and has Rabbinical Sofrut certification from Va'ad Mishmeret Stam and Machon Eliya in Jerusalem. He currently lives in Kiryat Gat, Israel.
+              Ron Nahshon grew up in New Jersey and studied Torah and Talmud at Yeshivat Har Etzion. He has a Bachelor of Arts Degree from Yeshiva University in New York and a Masters Degree in Tanach and Parshanut from Machon Herzog in Gush Etzion, and he has Rabbinical Sofrut certification (Semicha) from Va'ad Mishmeret Stam and Machon Eliya in Jerusalem. He currently lives in Kiryat Gat, Israel with his wife Sara and four children. 
             </p>
             
             <h2 className="text-2xl font-semibold mt-8 mb-4 text-biblical-brown">
