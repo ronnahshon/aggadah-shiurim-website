@@ -137,7 +137,7 @@ const EinYaakovCommentaryPage: React.FC = () => {
             פירוש על העין יעקב
           </h1>
           <p className="text-center text-black font-hebrew text-lg mt-4">
-            נערך ע״י רון שמואל בן נדב צבי הכהן, אלול תשפ״ה
+            נערך ע״י רון שמואל בן נדב צבי הכהן, תשרי תשפ״ו
           </p>
         </div>
 
