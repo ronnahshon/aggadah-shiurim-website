@@ -15,28 +15,54 @@ const SourceSheetRenderer: React.FC<SourceSheetRendererProps> = ({
   const [error, setError] = useState<string | null>(null);
   
   // Function to remove lines containing author references using string replacement (CSP-safe)
+  // Uses safe string operations to avoid catastrophic regex backtracking
   const removeAuthorReferences = (htmlContent: string): string => {
     if (!htmlContent) return htmlContent;
     
-    // Simple string-based approach to avoid DOM manipulation that might trigger CSP
+    const authorNames = ['רון נחשון', 'Ron Nahshon'];
     let cleanedContent = htmlContent;
     
-         // Remove paragraphs, divs, and spans containing author references
-     const authorPatterns = [
-       /<p[^>]*>.*?רון נחשון.*?<\/p>/gi,
-       /<p[^>]*>.*?Ron Nahshon.*?<\/p>/gi,
-      /<div[^>]*>.*?רון נחשון.*?<\/div>/gi,
-      /<div[^>]*>.*?Ron Nahshon.*?<\/div>/gi,
-      /<span[^>]*>.*?רון נחשון.*?<\/span>/gi,
-      /<span[^>]*>.*?Ron Nahshon.*?<\/span>/gi,
-      // Handle cases where author name might be in plain text
-      /.*?רון נחשון.*?\n/gi,
-      /.*?Ron Nahshon.*?\n/gi
-    ];
-    
-    authorPatterns.forEach(pattern => {
-      cleanedContent = cleanedContent.replace(pattern, '');
+    // Process line by line for plain text author references
+    const lines = cleanedContent.split('\n');
+    const filteredLines = lines.filter(line => {
+      const lineLower = line.toLowerCase();
+      return !authorNames.some(name => lineLower.includes(name.toLowerCase()));
     });
+    cleanedContent = filteredLines.join('\n');
+    
+    // For HTML elements containing author names, use simple indexOf checks
+    // and remove the containing element
+    for (const authorName of authorNames) {
+      // Simple approach: if content contains author name, we've already filtered lines
+      // For remaining embedded cases, do targeted removal
+      let idx = cleanedContent.toLowerCase().indexOf(authorName.toLowerCase());
+      while (idx !== -1) {
+        // Find the enclosing tag
+        let tagStart = cleanedContent.lastIndexOf('<', idx);
+        let tagEnd = cleanedContent.indexOf('>', idx);
+        
+        if (tagStart !== -1 && tagEnd !== -1) {
+          // Find the tag name
+          const tagMatch = cleanedContent.substring(tagStart + 1, tagEnd).match(/^(\w+)/);
+          if (tagMatch) {
+            const tagName = tagMatch[1];
+            const closeTag = `</${tagName}>`;
+            const closeIdx = cleanedContent.toLowerCase().indexOf(closeTag.toLowerCase(), tagEnd);
+            
+            if (closeIdx !== -1) {
+              // Remove the entire element
+              cleanedContent = cleanedContent.substring(0, tagStart) + 
+                              cleanedContent.substring(closeIdx + closeTag.length);
+              idx = cleanedContent.toLowerCase().indexOf(authorName.toLowerCase());
+              continue;
+            }
+          }
+        }
+        
+        // If we couldn't find proper tags, just move past this occurrence
+        idx = cleanedContent.toLowerCase().indexOf(authorName.toLowerCase(), idx + 1);
+      }
+    }
     
     // Clean up any empty paragraphs or divs that might be left
     cleanedContent = cleanedContent.replace(/<p[^>]*>\s*<\/p>/gi, '');

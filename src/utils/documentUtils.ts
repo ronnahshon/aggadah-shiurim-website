@@ -49,7 +49,6 @@ function fixImageUrls(htmlContent: string, docUrl: string): string {
     }
     
     let src = srcMatch[1];
-    const originalSrc = src;
     
     // Handle different types of Google image URLs
     if (src.startsWith('https://lh') && src.includes('googleusercontent.com')) {
@@ -116,6 +115,84 @@ function fixImageUrls(htmlContent: string, docUrl: string): string {
 }
 
 /**
+ * Safely removes blocks with nested braces (like @media queries) from CSS content.
+ * Uses iterative brace-depth tracking to avoid catastrophic regex backtracking.
+ * 
+ * @param css CSS content
+ * @param blockStart The block identifier to remove (e.g., '@media', '@page')
+ * @returns CSS content with the specified blocks removed
+ */
+function removeNestedBlock(css: string, blockStart: string): string {
+  let result = '';
+  let i = 0;
+  const blockStartLower = blockStart.toLowerCase();
+  const blockLen = blockStart.length;
+  
+  while (i < css.length) {
+    // Check if we're at the start of a block to remove
+    if (css.substring(i, i + blockLen).toLowerCase() === blockStartLower) {
+      // Find the opening brace
+      let braceStart = css.indexOf('{', i);
+      if (braceStart === -1) {
+        // No opening brace found, just add character and continue
+        result += css[i];
+        i++;
+        continue;
+      }
+      
+      // Track brace depth to find the matching closing brace
+      let depth = 1;
+      let j = braceStart + 1;
+      while (j < css.length && depth > 0) {
+        if (css[j] === '{') depth++;
+        else if (css[j] === '}') depth--;
+        j++;
+      }
+      
+      // Skip past the entire block
+      i = j;
+    } else {
+      result += css[i];
+      i++;
+    }
+  }
+  
+  return result;
+}
+
+/**
+ * Safely removes script tags from HTML content.
+ * Uses simple string searching to avoid catastrophic regex backtracking.
+ * 
+ * @param html HTML content
+ * @returns HTML content with script tags removed
+ */
+function removeScriptTags(html: string): string {
+  let result = '';
+  let i = 0;
+  
+  while (i < html.length) {
+    // Check for <script (case insensitive)
+    if (html.substring(i, i + 7).toLowerCase() === '<script') {
+      // Find the closing </script> tag
+      const closeTag = html.toLowerCase().indexOf('</script>', i);
+      if (closeTag === -1) {
+        // No closing tag found, skip past <script and continue
+        i += 7;
+        continue;
+      }
+      // Skip past the entire script block including </script>
+      i = closeTag + 9;
+    } else {
+      result += html[i];
+      i++;
+    }
+  }
+  
+  return result;
+}
+
+/**
  * Cleans and formats the raw HTML content from Google Docs.
  * Preserves original formatting while removing unnecessary elements.
  * 
@@ -127,54 +204,64 @@ export function formatDocContent(htmlContent: string, docUrl: string): string {
   if (!htmlContent) return '';
   
   // Extract both head and body content to preserve styles
-  const headContent = htmlContent.match(/<head[^>]*>([\s\S]*?)<\/head>/i)?.[1] || '';
-  const bodyContent = htmlContent.match(/<body[^>]*>([\s\S]*?)<\/body>/i)?.[1] || htmlContent;
+  const headMatch = htmlContent.match(/<head[^>]*>([\s\S]*?)<\/head>/i);
+  const headContent = headMatch ? headMatch[1] : '';
+  
+  const bodyMatch = htmlContent.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
+  const bodyContent = bodyMatch ? bodyMatch[1] : htmlContent;
   
   // Extract and clean up the style tag content
   let styleContent = '';
   const styleMatches = headContent.match(/<style[^>]*>([\s\S]*?)<\/style>/gi);
   if (styleMatches) {
-    styleContent = styleMatches.join('\n')
-      // Remove Google Docs specific imports and metadata
-      .replace(/@import[^;]+;/gi, '') // Remove imports
-      .replace(/@media[^{]*{[^{}]*(?:{[^{}]*}[^{}]*)*}/gi, '') // Remove media queries
-      // Remove only the most problematic Google Docs classes, keep formatting ones
-      .replace(/\.kix-[^{]*{[^}]*}/gi, '') // Remove kix-specific classes
-      .replace(/\.docs-[^{]*{[^}]*}/gi, '') // Remove docs-specific classes
-      // Only remove font-family, preserve all colors, sizes, weights, etc.
-      .replace(/font-family:\s*["'][^"']*["']/gi, 'font-family: inherit')
-      // Remove page-level styling that interferes with layout
-      .replace(/body\s*{[^}]*margin[^}]*}/gi, '') // Remove body margins
-      .replace(/body\s*{[^}]*padding[^}]*}/gi, '') // Remove body padding
-      .replace(/@page[^{]*{[^}]*}/gi, '') // Remove page break styling
-      // Clean up excessive whitespace
-      .replace(/\s+/g, ' ') // Normalize whitespace
-      .replace(/;\s*;/g, ';') // Remove duplicate semicolons
-      .replace(/{\s*}/g, '') // Remove empty rules
-      .trim();
-      
-    // Remove any remaining empty CSS rules
-    styleContent = styleContent.replace(/[^{}]+{\s*}/g, '');
+    styleContent = styleMatches.join('\n');
+    
+    // Remove @import statements (simple pattern, safe)
+    styleContent = styleContent.replace(/@import[^;]*;/gi, '');
+    
+    // Use safe iterative function for removing @media and @page blocks
+    styleContent = removeNestedBlock(styleContent, '@media');
+    styleContent = removeNestedBlock(styleContent, '@page');
+    
+    // Remove kix-specific and docs-specific classes (simple patterns, safe)
+    styleContent = styleContent.replace(/\.kix-[^{]*\{[^}]*\}/gi, '');
+    styleContent = styleContent.replace(/\.docs-[^{]*\{[^}]*\}/gi, '');
+    
+    // Only remove font-family, preserve all colors, sizes, weights, etc.
+    styleContent = styleContent.replace(/font-family:\s*["'][^"']*["']/gi, 'font-family: inherit');
+    
+    // Remove body margins and padding (simple patterns)
+    styleContent = styleContent.replace(/body\s*\{[^}]*\}/gi, '');
+    
+    // Clean up excessive whitespace
+    styleContent = styleContent.replace(/\s+/g, ' ');
+    styleContent = styleContent.replace(/;\s*;/g, ';');
+    styleContent = styleContent.replace(/\{\s*\}/g, '');
+    styleContent = styleContent.trim();
   }
   
   // Clean up body content while preserving formatting
-  let cleanedContent = bodyContent
-    // Remove Google Docs specific scripts
-    .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '')
-    // Remove Google Docs header/footer
-    .replace(/<div id="header">[\s\S]*?<\/div>/gi, '')
-    .replace(/<div id="footer">[\s\S]*?<\/div>/gi, '')
-    // Only remove specific problematic Google Docs classes, keep formatting ones
-    .replace(/class="docs-gm[^"]*"/gi, '') // Remove docs-gm classes
-    .replace(/class="kix-[^"]*"/gi, '') // Remove kix classes  
-    // Remove empty span elements that don't have style attributes
-    .replace(/<span(?!\s+style)([^>]*)>\s*<\/span>/gi, '')
-    // Remove empty divs that don't have style attributes  
-    .replace(/<div(?!\s+style)([^>]*)>\s*<\/div>/gi, '')
-    // Clean up excessive whitespace but preserve line breaks
-    .replace(/[ \t]+/g, ' ') // Replace multiple spaces/tabs with single space
-    .replace(/(\r\n|\n|\r){3,}/gm, '\n\n') // Limit to max 2 consecutive line breaks
-    .trim();
+  let cleanedContent = bodyContent;
+  
+  // Use safe function to remove script tags
+  cleanedContent = removeScriptTags(cleanedContent);
+  
+  // Remove Google Docs header/footer (simple patterns)
+  cleanedContent = cleanedContent.replace(/<div id="header">[^]*?<\/div>/gi, '');
+  cleanedContent = cleanedContent.replace(/<div id="footer">[^]*?<\/div>/gi, '');
+  
+  // Remove specific problematic Google Docs classes
+  cleanedContent = cleanedContent.replace(/class="docs-gm[^"]*"/gi, '');
+  cleanedContent = cleanedContent.replace(/class="kix-[^"]*"/gi, '');
+  
+  // Remove empty span and div elements (simple patterns)
+  cleanedContent = cleanedContent.replace(/<span[^>]*>\s*<\/span>/gi, '');
+  cleanedContent = cleanedContent.replace(/<div[^>]*>\s*<\/div>/gi, '');
+  
+  // Clean up excessive whitespace but preserve line breaks
+  cleanedContent = cleanedContent.replace(/[ \t]+/g, ' ');
+  cleanedContent = cleanedContent.replace(/(\r\n|\n|\r){3,}/gm, '\n\n');
+  cleanedContent = cleanedContent.trim();
   
   // Fix image URLs to make them publicly accessible
   cleanedContent = fixImageUrls(cleanedContent, docUrl);
@@ -205,4 +292,4 @@ export async function convertGoogleDocToContent(docUrl: string): Promise<string>
     console.error('Error converting Google Doc to content:', error);
     return '<p>Failed to convert document content. Please view the PDF instead.</p>';
   }
-} 
+}
