@@ -326,7 +326,7 @@ const HomePage: React.FC = () => {
               View All Shiurim
             </Link>
             <p className="text-xs text-biblical-brown/60 mt-2">
-              Last Updated September 2025
+              Last Updated December 2025
             </p>
           </div>
         </div>
