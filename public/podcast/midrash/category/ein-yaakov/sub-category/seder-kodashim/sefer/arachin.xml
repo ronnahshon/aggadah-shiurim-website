@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title><![CDATA[כרמי ציון | Carmei Zion – Ein Yaakov / Seder Kodashim / Arachin]]></title>
+    <link>https://phylloid-edmund-interfraternal.ngrok-free.dev</link>
+    <description><![CDATA[Ein Yaakov – Seder Kodashim – Arachin shiurim from רון נחשון (Ron Nahshon).]]></description>
+    <language>he</language>
+    <lastBuildDate>Thu, 01 Jan 2026 13:36:22 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 13:36:22 GMT</pubDate>
+    <ttl>1440</ttl>
+    <atom:link href="https://phylloid-edmund-interfraternal.ngrok-free.dev/podcast/midrash/category/ein-yaakov/sub-category/seder-kodashim/sefer/arachin.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+    <itunes:summary><![CDATA[Ein Yaakov – Seder Kodashim – Arachin shiurim from רון נחשון (Ron Nahshon).]]></itunes:summary>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:name>
+      <itunes:email>ronnahshon@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://phylloid-edmund-interfraternal.ngrok-free.dev/favicons/carmei_zion_logo.png"/>
+
+    <item>
+      <title><![CDATA[Arachin 32b - This teaches that Yirmiyahu brought the 10 tribes back from exile]]></title>
+      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/ein-yaakov-seder_kodashim-arachin-8</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-arachin-8</guid>
+      <description><![CDATA[Arachin 32b - This teaches that Yirmiyahu brought the 10 tribes back from exile — ערכין לב: - אלא מלמד שהחזירן ירמיה — Source sheet: https://docs.google.com/document/d/1kGw6GnTSPjKBEFljL4ukFF6KvX_LSC6-WECYQLSUmuw/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Thu, 01 Jan 5784 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Arachin]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>39:34</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-8.mp3" type="audio/mpeg" length="41488657"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Arachin 17a - One said the generation follows its leader, and one said the leader follows his generation]]></title>
+      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/ein-yaakov-seder_kodashim-arachin-7</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-arachin-7</guid>
+      <description><![CDATA[Arachin 17a - One said the generation follows its leader, and one said the leader follows his generation — ערכין יז. - חד אמר דור לפי פרנס וחד אמר פרנס לפי דור — Source sheet: https://docs.google.com/document/d/10wooq0qddNmjKE4G-VVR9mtXcizM5YL_8IFwOpnnPEM/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Thu, 01 Jan 5784 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Arachin]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>39:55</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-7.mp3" type="audio/mpeg" length="41855659"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Arachin 16b - How far must one go to rebuke his fellow?]]></title>
+      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/ein-yaakov-seder_kodashim-arachin-6</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-arachin-6</guid>
+      <description><![CDATA[Arachin 16b - How far must one go to rebuke his fellow? — ערכין טז: - עד היכן תוכחה — Source sheet: https://docs.google.com/document/d/17giJ5epsSjQ3xDVpD_892z49UQooDSpfjb4tJ8q1a-4/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Thu, 01 Jan 5784 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Arachin]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>37:10</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-6.mp3" type="audio/mpeg" length="38972075"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Arachin 16a - Tzaarat afflicts people due to one of seven sins]]></title>
+      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/ein-yaakov-seder_kodashim-arachin-5</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-arachin-5</guid>
+      <description><![CDATA[Arachin 16a - Tzaarat afflicts people due to one of seven sins — ערכין טז. - על שבעה דברים נגעים באים — Source sheet: https://docs.google.com/document/d/157kGDCwlEFlqYY90OlPWxvaMNvHKXPzAoyti2JIcuhA/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Thu, 01 Jan 5784 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Arachin]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>30:04</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-5.mp3" type="audio/mpeg" length="31527185"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Arachin 15b - Such as if one gossiped and said, there is a fire in the house of so-and-so]]></title>
+      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/ein-yaakov-seder_kodashim-arachin-4</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-arachin-4</guid>
+      <description><![CDATA[Arachin 15b - Such as if one gossiped and said, there is a fire in the house of so-and-so — ערכין טו: - כגון דאמר איכא נורא בי פלניא — Source sheet: https://docs.google.com/document/d/1IDy0LJOOD-Ty7RV8H80M5YnnNQVALjN7fin1J9iiIUc/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Thu, 01 Jan 5784 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Arachin]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>37:51</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-4.mp3" type="audio/mpeg" length="39688602"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Arachin 15a - Our forefathers tested G-d ten times]]></title>
+      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/ein-yaakov-seder_kodashim-arachin-3</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-arachin-3</guid>
+      <description><![CDATA[Arachin 15a - Our forefathers tested G-d ten times — ערכין טו. - עשר נסיונות ניסו אבותינו להקב״ה — Source sheet: https://docs.google.com/document/d/1F43TnyBPR5o8nbRaHpESChKTn-TBBLZNiH_7ttWrm6E/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Thu, 01 Jan 5784 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Arachin]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>47:03</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-3.mp3" type="audio/mpeg" length="49335501"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Arachin 15a - Don't read it as 'than us' but rather 'than Him']]></title>
+      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/ein-yaakov-seder_kodashim-arachin-2</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-arachin-2</guid>
+      <description><![CDATA[Arachin 15a - Don't read it as 'than us' but rather 'than Him' — ערכין טו. - אל תקרי ממנו אלא ממנו — Source sheet: https://docs.google.com/document/d/1-SeBXclOYvtyFsX_JJIxPUMimtm9mfo7KfK0UhFLheo/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Thu, 01 Jan 5784 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Arachin]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>33:38</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-2.mp3" type="audio/mpeg" length="35267106"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Arachin 10b - The king issued a command, and they widened the opening of the Shiloah so that more water should come out]]></title>
+      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/ein-yaakov-seder_kodashim-arachin-1</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-arachin-1</guid>
+      <description><![CDATA[Arachin 10b - The king issued a command, and they widened the opening of the Shiloah so that more water should come out — ערכין י: - צוה המלך והרחיבוהו כדי שיתרבו מימיו — Source sheet: https://docs.google.com/document/d/1Xrx7qTtY2cu6PFh9P1wyXFFAj0yRaPyRcPLFkqBq5SE/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Thu, 01 Jan 5784 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Arachin]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>38:03</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-1.mp3" type="audio/mpeg" length="39898317"/>
+    </item>
+  </channel>
+</rss>

@@ -5,11 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/generateSitemap.js && node scripts/generateRSSFeed.js && vite build",
-    "build:dev": "node scripts/generateSitemap.js && node scripts/generateRSSFeed.js && vite build --mode development",
+    "build": "node scripts/generateSitemap.js && node scripts/generateRSSFeed.js && node scripts/generatePodcastFeeds.js && vite build",
+    "build:dev": "node scripts/generateSitemap.js && node scripts/generateRSSFeed.js && node scripts/generatePodcastFeeds.js && vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview",
-    "sitemap": "node scripts/generateSitemap.js"
+    "sitemap": "node scripts/generateSitemap.js",
+    "podcast:generate": "node scripts/generatePodcastFeeds.js"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
