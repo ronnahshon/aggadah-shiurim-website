@@ -18,7 +18,7 @@ const FEED_BASE_URL = process.env.FEED_BASE_URL || `${SITE_URL}/podcast`;
 
 const PODCAST_TITLE = 'כרמי ציון | Carmei Zion';
 const PODCAST_TOPIC = 'Midrash'; // content focus; kept for descriptions only
-const PODCAST_AUTHOR = 'רון נחשון (Ron Nahshon)';
+const PODCAST_AUTHOR = 'קהילת כרמי ציון';
 const PODCAST_EMAIL = process.env.PODCAST_OWNER_EMAIL || 'ronnahshon@gmail.com';
 const COVER_ART_URL = process.env.COVER_ART_URL || `${SITE_URL}/favicons/carmei_zion_logo_squared.png`;
 
@@ -222,7 +222,7 @@ const buildFeedDefinitions = (shiurim) => {
   feeds.push({
     segments: ['carmei-zion', 'all'],
     title: `${PODCAST_TITLE}`,
-    description: `All ${PODCAST_TOPIC} shiurim from ${PODCAST_AUTHOR}.`,
+    description: 'שיעורי תורה מקהילת כרמי ציון בקרית גת, ישראל.',
     items: shiurim,
   });
 
