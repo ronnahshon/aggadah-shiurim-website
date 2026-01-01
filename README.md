@@ -4,7 +4,18 @@ A comprehensive React-based website for exploring midrash aggadah, featuring shi
 
 Claude-4-Sonnet was used to write the initial code. It was first given a Prompt and Product Requirements Document (PRD) - which can be found in public/docs - to generate the base website structure, and then further improvements and changes were made via discussions with the model's 'Agent' mode.
 
-**LAST UPDATE: JUNE 2025**
+**LAST UPDATE: JAN 2026**
+
+## 🎙️ Podcast Feeds (Carmei Zion)
+- Primary feed URL (production): `https://www.midrashaggadah.com/podcast/midrash/all.xml`
+- Artwork: `public/favicons/carmei_zion_logo_squared.png` (square, 1400–3000px; currently the default cover art).
+- Generation: `scripts/generatePodcastFeeds.js` runs in `npm run build` and outputs under `public/podcast/...` (per category/subcategory/sefer).
+- Audio URLs: derived from S3 `audio/<shiur.id>.mp3` (matching site playback). `audio_recording_link` can override if it’s already a direct URL (non-GDrive).
+- Podcast-only entries: add to `public/data/podcast_only.json` (same schema as `shiurim_data.json`) to include in feeds without showing on the site.
+- Preview/validation: you can override host/art URLs via env:
+  - `SITE_URL` and `FEED_BASE_URL` for self links (e.g., ngrok)
+  - `COVER_ART_URL` if you need a different art host during validation
+
 
 ## 🏗️ Website Structure & Code Organization
 
@@ -340,12 +351,13 @@ npm run dev
 npm run dev              # Start development server with hot reload
 
 # Building
-npm run build           # Production build with sitemap/RSS generation
+npm run build           # Production build with sitemap/RSS + podcast feed generation
 npm run build:dev       # Development build with debugging
 npm run preview         # Preview production build locally
 
 # Utilities
 npm run sitemap         # Generate sitemap.xml only
+npm run podcast:generate # Generate podcast feeds only
 npm run lint            # Run ESLint
 ```
 
