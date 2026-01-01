@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title><![CDATA[כרמי ציון | Carmei Zion – Ein Yaakov / Seder Kodashim / Temurah]]></title>
-    <link>https://phylloid-edmund-interfraternal.ngrok-free.dev</link>
+    <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Kodashim – Temurah shiurim from רון נחשון (Ron Nahshon).]]></description>
     <language>he</language>
-    <lastBuildDate>Thu, 01 Jan 2026 13:36:22 GMT</lastBuildDate>
-    <pubDate>Thu, 01 Jan 2026 13:36:22 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 13:51:06 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 13:51:06 GMT</pubDate>
     <ttl>1440</ttl>
-    <atom:link href="https://phylloid-edmund-interfraternal.ngrok-free.dev/podcast/midrash/category/ein-yaakov/sub-category/seder-kodashim/sefer/temurah.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.midrashaggadah.com/podcast/midrash/category/ein-yaakov/sub-category/seder-kodashim/sefer/temurah.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
     <itunes:summary><![CDATA[Ein Yaakov – Seder Kodashim – Temurah shiurim from רון נחשון (Ron Nahshon).]]></itunes:summary>
     <itunes:category text="Religion &amp; Spirituality">
@@ -19,11 +19,11 @@
       <itunes:name><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:name>
       <itunes:email>ronnahshon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://phylloid-edmund-interfraternal.ngrok-free.dev/favicons/carmei_zion_logo.png"/>
+    <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_squared.png"/>
 
     <item>
       <title><![CDATA[Temurah 16a - A prophet is not permitted to innovate anything new]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/ein-yaakov-seder_kodashim-temurah-2</link>
+      <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_kodashim-temurah-2</link>
       <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-temurah-2</guid>
       <description><![CDATA[Temurah 16a - A prophet is not permitted to innovate anything new — תמורה טז. - אין נביא רשאי לחדש דבר — Source sheet: https://docs.google.com/document/d/1qrqLuhbbI7fmbSSbUaaPUtfJVu4_SsJJ6M1ziWhBDBs/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Thu, 01 Jan 5784 00:00:00 GMT</pubDate>
@@ -40,7 +40,7 @@
 
     <item>
       <title><![CDATA[Temurah 14b - Forty years after Bnai Yisrael had asked for a king]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/ein-yaakov-seder_kodashim-temurah-1</link>
+      <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_kodashim-temurah-1</link>
       <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-temurah-1</guid>
       <description><![CDATA[Temurah 14b - Forty years after Bnai Yisrael had asked for a king — תמורה יד: - מקץ ארבעים שנה ששאלו להם מלך — Source sheet: https://docs.google.com/document/d/1LToSGzGZ3ZE0sLFi-8SGT7968xlBu6hTYruY0EaL2Zo/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Thu, 01 Jan 5784 00:00:00 GMT</pubDate>

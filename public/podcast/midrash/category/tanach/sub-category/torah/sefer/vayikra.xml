@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title><![CDATA[כרמי ציון | Carmei Zion – Tanach / Torah / Vayikra]]></title>
-    <link>https://phylloid-edmund-interfraternal.ngrok-free.dev</link>
+    <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Tanach – Torah – Vayikra shiurim from רון נחשון (Ron Nahshon).]]></description>
     <language>he</language>
-    <lastBuildDate>Thu, 01 Jan 2026 13:36:22 GMT</lastBuildDate>
-    <pubDate>Thu, 01 Jan 2026 13:36:22 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 13:51:06 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 13:51:06 GMT</pubDate>
     <ttl>1440</ttl>
-    <atom:link href="https://phylloid-edmund-interfraternal.ngrok-free.dev/podcast/midrash/category/tanach/sub-category/torah/sefer/vayikra.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.midrashaggadah.com/podcast/midrash/category/tanach/sub-category/torah/sefer/vayikra.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
     <itunes:summary><![CDATA[Tanach – Torah – Vayikra shiurim from רון נחשון (Ron Nahshon).]]></itunes:summary>
     <itunes:category text="Religion &amp; Spirituality">
@@ -19,11 +19,11 @@
       <itunes:name><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:name>
       <itunes:email>ronnahshon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://phylloid-edmund-interfraternal.ngrok-free.dev/favicons/carmei_zion_logo.png"/>
+    <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_squared.png"/>
 
     <item>
       <title><![CDATA[Parshat Behukotai – When is it Appropriate to Stand Tall]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-vayikra-10</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-vayikra-10</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-vayikra-10</guid>
       <description><![CDATA[Parshat Behukotai – When is it Appropriate to Stand Tall — פרשת בחוקותי — Source sheet: https://docs.google.com/document/d/16Q4Tss0aplaFPiAynfViRyiSq3z6c3Fvtfd7J3ZbShc/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -40,7 +40,7 @@
 
     <item>
       <title><![CDATA[Parshat Behar – Why Is There Still Shabbat During a Shemittah Year]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-vayikra-9</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-vayikra-9</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-vayikra-9</guid>
       <description><![CDATA[Parshat Behar – Why Is There Still Shabbat During a Shemittah Year — פרשת בהר — Source sheet: https://docs.google.com/document/d/1W4SJuBno8XxAtUcRhAKbyKBP7Be1Ct_ANWy_F11E77w/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -57,7 +57,7 @@
 
     <item>
       <title><![CDATA[Parshat Emor – The Blasphemer]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-vayikra-8</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-vayikra-8</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-vayikra-8</guid>
       <description><![CDATA[Parshat Emor – The Blasphemer — פרשת אמור — Source sheet: https://docs.google.com/document/d/1RGWSMJLRfEzU7JHjL9wKmzKtPNQt1_m9myHrXMEDdzA/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -74,7 +74,7 @@
 
     <item>
       <title><![CDATA[Parshat Kedoshim – Love Your Fellow as Yourself, the Golden Rule, and Rashi]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-vayikra-7</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-vayikra-7</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-vayikra-7</guid>
       <description><![CDATA[Parshat Kedoshim – Love Your Fellow as Yourself, the Golden Rule, and Rashi — פרשת קדושים — Source sheet: https://docs.google.com/document/d/12t0ntUSZ4grawFEIElpcrT3HraF0G2XMB3t05e-i53c/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -91,7 +91,7 @@
 
     <item>
       <title><![CDATA[Parshat Aharei Mot – Eating Meat, Back Then and Today]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-vayikra-6</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-vayikra-6</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-vayikra-6</guid>
       <description><![CDATA[Parshat Aharei Mot – Eating Meat, Back Then and Today — פרשת אחרי מות — Source sheet: https://docs.google.com/document/d/13nSHZX2H4Om6-FYajgKPpDe7TMETSlTbDjhXsZHogEU/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -108,7 +108,7 @@
 
     <item>
       <title><![CDATA[Parshat Metzora – Starting Anew]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-vayikra-5</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-vayikra-5</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-vayikra-5</guid>
       <description><![CDATA[Parshat Metzora – Starting Anew — פרשת מצורע — Source sheet: https://docs.google.com/document/d/1HV_37QXvo0AzAlctsgRXjuB6Ol7vzjXtFIBrt87Ihgo/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -125,7 +125,7 @@
 
     <item>
       <title><![CDATA[Parshat Tazria – The Whole is Greater than the Sum of its Parts]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-vayikra-4</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-vayikra-4</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-vayikra-4</guid>
       <description><![CDATA[Parshat Tazria – The Whole is Greater than the Sum of its Parts — פרשת תזריע — Source sheet: https://docs.google.com/document/d/1xdvmmYfOCMPixIcxktwN8-M1zjWGZ-VXzp9YEDF77fg/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -142,7 +142,7 @@
 
     <item>
       <title><![CDATA[Parshat Shemini – The Dangers of Losing Your Temper]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-vayikra-3</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-vayikra-3</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-vayikra-3</guid>
       <description><![CDATA[Parshat Shemini – The Dangers of Losing Your Temper — פרשת שמיני — Source sheet: https://docs.google.com/document/d/1T1js_vgrzqjtK0NlBbnz7-FIZAKIcZmytFD8VJIG3kY/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -159,7 +159,7 @@
 
     <item>
       <title><![CDATA[Parshat Tzav – Stop Making Excuses]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-vayikra-2</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-vayikra-2</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-vayikra-2</guid>
       <description><![CDATA[Parshat Tzav – Stop Making Excuses — פרשת צו — Source sheet: https://docs.google.com/document/d/1tQgab09wK_ThxdUxE13eNHwS5kpoIpjVC0wc1KBdQn8/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -176,7 +176,7 @@
 
     <item>
       <title><![CDATA[Parshat Vayikra – What Makes a True Jewish Leader]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-vayikra-1</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-vayikra-1</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-vayikra-1</guid>
       <description><![CDATA[Parshat Vayikra – What Makes a True Jewish Leader — פרשת ויקרא — Source sheet: https://docs.google.com/document/d/1l9jjChIlBJn7U3bflBfbkFnAvM1netTwcIsrfkgUwuU/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>

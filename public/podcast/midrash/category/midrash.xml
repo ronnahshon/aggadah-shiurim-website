@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title><![CDATA[כרמי ציון | Carmei Zion – Midrash]]></title>
-    <link>https://phylloid-edmund-interfraternal.ngrok-free.dev</link>
+    <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Midrash shiurim from רון נחשון (Ron Nahshon).]]></description>
     <language>he</language>
-    <lastBuildDate>Thu, 01 Jan 2026 13:36:22 GMT</lastBuildDate>
-    <pubDate>Thu, 01 Jan 2026 13:36:22 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 13:51:06 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 13:51:06 GMT</pubDate>
     <ttl>1440</ttl>
-    <atom:link href="https://phylloid-edmund-interfraternal.ngrok-free.dev/podcast/midrash/category/midrash.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.midrashaggadah.com/podcast/midrash/category/midrash.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
     <itunes:summary><![CDATA[Midrash shiurim from רון נחשון (Ron Nahshon).]]></itunes:summary>
     <itunes:category text="Religion &amp; Spirituality">
@@ -19,11 +19,11 @@
       <itunes:name><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:name>
       <itunes:email>ronnahshon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://phylloid-edmund-interfraternal.ngrok-free.dev/favicons/carmei_zion_logo.png"/>
+    <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_squared.png"/>
 
     <item>
       <title><![CDATA[Perek 31 Part 3]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-42</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-42</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-42</guid>
       <description><![CDATA[Perek 31 Part 3 — פרק לא חלק ג — Source sheet: https://docs.google.com/document/d/1eQ-h7uVADEm3L3iT9iduRgoSc3gppLqBNYpmw4QOSK4/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -40,7 +40,7 @@
 
     <item>
       <title><![CDATA[Perek 31 Part 2]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-41</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-41</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-41</guid>
       <description><![CDATA[Perek 31 Part 2 — פרק לא חלק ב — Source sheet: https://docs.google.com/document/d/1p57R_-33SWl-4udlVmf3OP3RhEQs737g8SMNLU9_Mck/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -57,7 +57,7 @@
 
     <item>
       <title><![CDATA[Perek 31 Part 1]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-40</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-40</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-40</guid>
       <description><![CDATA[Perek 31 Part 1 — פרק לא חלק א — Source sheet: https://docs.google.com/document/d/1gRIMzGmoN9sjT48Sr2HplqaVzP4f8fYMLUQfyr-Fk9s/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -74,7 +74,7 @@
 
     <item>
       <title><![CDATA[Perek 30]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-39</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-39</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-39</guid>
       <description><![CDATA[Perek 30 — פרק ל — Source sheet: https://docs.google.com/document/d/1Ed2IXppEesDGZjOHLlYbrG5Jclq8tAhD37-1ulngva0/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -91,7 +91,7 @@
 
     <item>
       <title><![CDATA[Perek 29]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-38</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-38</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-38</guid>
       <description><![CDATA[Perek 29 — פרק כט — Source sheet: https://docs.google.com/document/d/1-wf1Uj_aXoGGb1sTGpNm4lApHr3jX-V8gx6jWv8ML-M/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -108,7 +108,7 @@
 
     <item>
       <title><![CDATA[Perek 28]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-37</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-37</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-37</guid>
       <description><![CDATA[Perek 28 — פרק כח — Source sheet: https://docs.google.com/document/d/19bKZYv17szmMaJ2Fd0S8uvXILOvxHHIxYm9JphBhIog/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -125,7 +125,7 @@
 
     <item>
       <title><![CDATA[Perek 27]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-36</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-36</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-36</guid>
       <description><![CDATA[Perek 27 — פרק כז — Source sheet: https://docs.google.com/document/d/1h2EdCuaWE_fE_XUlffiOMjV7xYCEIpsWcJVbHcAGuyI/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -142,7 +142,7 @@
 
     <item>
       <title><![CDATA[Perek 26 Part 2]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-35</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-35</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-35</guid>
       <description><![CDATA[Perek 26 Part 2 — פרק כו חלק ב — Source sheet: https://docs.google.com/document/d/1Pki-JKLfcwStzGiLSEICnzPefNVoAZKXQYUA3Imu3L4/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -159,7 +159,7 @@
 
     <item>
       <title><![CDATA[Perek 26 Part 1]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-34</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-34</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-34</guid>
       <description><![CDATA[Perek 26 Part 1 — פרק כו חלק א — Source sheet: https://docs.google.com/document/d/1zaIoTLyXqsBzVXfjSJcYMd26jVExaBPbBDLBdLnSTgE/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -176,7 +176,7 @@
 
     <item>
       <title><![CDATA[Perek 25]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-33</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-33</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-33</guid>
       <description><![CDATA[Perek 25 — פרק כה — Source sheet: https://docs.google.com/document/d/1fIsg_RRoYFqW2S-aTNe0h1YejnI6nKuCExjW3jkjNQQ/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -193,7 +193,7 @@
 
     <item>
       <title><![CDATA[Perek 24]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-32</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-32</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-32</guid>
       <description><![CDATA[Perek 24 — פרק כד — Source sheet: https://docs.google.com/document/d/1PxmP9DNPQClwsmesYbtuDvVN8vkvWem7oruvUuRxBHI/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -210,7 +210,7 @@
 
     <item>
       <title><![CDATA[Perek 23]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-31</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-31</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-31</guid>
       <description><![CDATA[Perek 23 — פרק כג — Source sheet: https://docs.google.com/document/d/1pF0dVF1Q7X5aAx8CowWad14daOcvuS1o4pdZN_HDHl8/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -227,7 +227,7 @@
 
     <item>
       <title><![CDATA[Perek 22]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-30</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-30</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-30</guid>
       <description><![CDATA[Perek 22 — פרק כב — Source sheet: https://docs.google.com/document/d/1eNtj8axwiXeYkQS-Yb4EcYAuFK5FhSBuDqnB7wnfmlY/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -244,7 +244,7 @@
 
     <item>
       <title><![CDATA[Perek 21 Part 2]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-29</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-29</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-29</guid>
       <description><![CDATA[Perek 21 Part 2 — פרק כא חלק ב — Source sheet: https://docs.google.com/document/d/1YctEBc2rYeghr-QbC_DQFDMTXrNJPfDm0yo7RLZHMIA/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -261,7 +261,7 @@
 
     <item>
       <title><![CDATA[Perek 21 Part 1]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-28</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-28</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-28</guid>
       <description><![CDATA[Perek 21 Part 1 — פרק כא חלק א — Source sheet: https://docs.google.com/document/d/1UObZ-UNt_CQpKvAqhM5Yr-kE664pV7Z-ahIf1LCQxYk/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -278,7 +278,7 @@
 
     <item>
       <title><![CDATA[Perek 20]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-27</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-27</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-27</guid>
       <description><![CDATA[Perek 20 — פרק כ — Source sheet: https://docs.google.com/document/d/1tIPsUSpPixPLc80n-HLSiEp8X3hjSehsDe028ybzR0U/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -295,7 +295,7 @@
 
     <item>
       <title><![CDATA[Perek 19]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-26</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-26</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-26</guid>
       <description><![CDATA[Perek 19 — פרק יט — Source sheet: https://docs.google.com/document/d/1MZ3md1QO9bH5Jck-zaT7jlNvzDaR_Y8S2ejHoD4Y9qo/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -312,7 +312,7 @@
 
     <item>
       <title><![CDATA[Perek 18 Part 5]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-25</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-25</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-25</guid>
       <description><![CDATA[Perek 18 Part 5 — פרק יח חלק ה — Source sheet: https://docs.google.com/document/d/1V2w3ogmt6TH96HAabpw1-Ldbae7zBTCZsHR5p1DYX8w/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -329,7 +329,7 @@
 
     <item>
       <title><![CDATA[Perek 18 Part 4]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-24</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-24</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-24</guid>
       <description><![CDATA[Perek 18 Part 4 — פרק יח חלק ד — Source sheet: https://docs.google.com/document/d/1FNh2IxvK9r_yxiBUIBLl8H_2qiwA6iMUkRVQXFi1-jg/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -346,7 +346,7 @@
 
     <item>
       <title><![CDATA[Perek 18 Part 3]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-23</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-23</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-23</guid>
       <description><![CDATA[Perek 18 Part 3 — פרק יח חלק ג — Source sheet: https://docs.google.com/document/d/19YE7XPXFHZuq7MAedETBJp0VhlFXwq3YOUBm8PcHyM8/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -363,7 +363,7 @@
 
     <item>
       <title><![CDATA[Perek 18 Part 2]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-22</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-22</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-22</guid>
       <description><![CDATA[Perek 18 Part 2 — פרק יח חלק ב — Source sheet: https://docs.google.com/document/d/19s1KrBasw1mPULZIWD6vFurPLnrWOCgMTG02KhXtu8I/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -380,7 +380,7 @@
 
     <item>
       <title><![CDATA[Perek 18 Part 1]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-21</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-21</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-21</guid>
       <description><![CDATA[Perek 18 Part 1 — פרק יח חלק א — Source sheet: https://docs.google.com/document/d/1w9pMwTxl65qiCId-5khpB4Tz5sUh1YGG48CgwuA9_FE/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -397,7 +397,7 @@
 
     <item>
       <title><![CDATA[Perek 17]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-20</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-20</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-20</guid>
       <description><![CDATA[Perek 17 — פרק יז — Source sheet: https://docs.google.com/document/d/1GCQAOwK51bIlry67puKs1m9fNFCJ9IHgXBc0JwdOqlY/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -414,7 +414,7 @@
 
     <item>
       <title><![CDATA[Perek 16]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-19</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-19</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-19</guid>
       <description><![CDATA[Perek 16 — פרק טז — Source sheet: https://docs.google.com/document/d/1gQHg4mhJ2H1Sbn9nt06vDBa1RuVKkQ4tGQhT5rGqSB8/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -431,7 +431,7 @@
 
     <item>
       <title><![CDATA[Perek 15]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-18</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-18</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-18</guid>
       <description><![CDATA[Perek 15 — פרק טו — Source sheet: https://docs.google.com/document/d/1OE6pQzMm6BEMhbIjRK2nogPM3KPTHBWZErkAYQp4Q5k/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -448,7 +448,7 @@
 
     <item>
       <title><![CDATA[Perek 14]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-17</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-17</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-17</guid>
       <description><![CDATA[Perek 14 — פרק יד — Source sheet: https://docs.google.com/document/d/1bUrNNrSzXiXY4uzcBkVusWKsaBL7ALGpUqovdnSxTJ8/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -465,7 +465,7 @@
 
     <item>
       <title><![CDATA[Perek 13]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-16</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-16</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-16</guid>
       <description><![CDATA[Perek 13 — פרק יג — Source sheet: https://docs.google.com/document/d/1N1-k8e91_MlnToCBdf7sNtyFXm_ZdbNQ24fDf6q0c4E/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -482,7 +482,7 @@
 
     <item>
       <title><![CDATA[Perek 12]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-15</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-15</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-15</guid>
       <description><![CDATA[Perek 12 — פרק יב — Source sheet: https://docs.google.com/document/d/1_wtp79nmntre2sUi-B6IBrmwnPIVjCfmEluxglGK_uc/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -499,7 +499,7 @@
 
     <item>
       <title><![CDATA[Perek 11]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-14</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-14</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-14</guid>
       <description><![CDATA[Perek 11 — פרק יא — Source sheet: https://docs.google.com/document/d/1YlnJZHinNfolyV6y6Aq-A0XNZPb6m6IMlEcUNnOI4kY/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -516,7 +516,7 @@
 
     <item>
       <title><![CDATA[Perek 10]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-13</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-13</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-13</guid>
       <description><![CDATA[Perek 10 — פרק י — Source sheet: https://docs.google.com/document/d/13Tkd8KU60fIALjI8QlFhLEEKpWKIbo6i0co_j50Fgl0/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -533,7 +533,7 @@
 
     <item>
       <title><![CDATA[Perek 09]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-12</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-12</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-12</guid>
       <description><![CDATA[Perek 09 — פרק ט — Source sheet: https://docs.google.com/document/d/1IGR3MSJdol1aDoGqLaEKwJyymheM2i0YJR2lyYJ51Kw/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -550,7 +550,7 @@
 
     <item>
       <title><![CDATA[Perek 08]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-11</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-11</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-11</guid>
       <description><![CDATA[Perek 08 — פרק ח — Source sheet: https://docs.google.com/document/d/1NL7OmLS5-oA3Xyod7rMVeLFCrik7xWnwTlWXX7HAnvo/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -567,7 +567,7 @@
 
     <item>
       <title><![CDATA[Perek 07]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-10</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-10</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-10</guid>
       <description><![CDATA[Perek 07 — פרק ז — Source sheet: https://docs.google.com/document/d/1LRzNjo79zYVtQLti-Qn1ikf-iX25LuKPpqd-wWwsexs/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -584,7 +584,7 @@
 
     <item>
       <title><![CDATA[Perek 06 Part 2]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-9</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-9</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-9</guid>
       <description><![CDATA[Perek 06 Part 2 — פרק ו חלק ב — Source sheet: https://docs.google.com/document/d/1WG1VVUHn_UEeM4-74Rxy-aYlttD-wlyXqF27kXp1Rnk/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -601,7 +601,7 @@
 
     <item>
       <title><![CDATA[Perek 06 Part 1]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-8</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-8</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-8</guid>
       <description><![CDATA[Perek 06 Part 1 — פרק ו חלק א — Source sheet: https://docs.google.com/document/d/1TM-ZKUcEM3LyH2xuu2J-4Oc4dzgnus9-3MmwWzys-6c/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -618,7 +618,7 @@
 
     <item>
       <title><![CDATA[Perek 05 Part 2]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-7</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-7</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-7</guid>
       <description><![CDATA[Perek 05 Part 2 — פרק ה חלק ב — Source sheet: https://docs.google.com/document/d/1EKxHMHvYA8OD8cXj1fyjZ5DGJkpHCe_R90rvxG7CzZM/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -635,7 +635,7 @@
 
     <item>
       <title><![CDATA[Perek 05 Part 1]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-6</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-6</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-6</guid>
       <description><![CDATA[Perek 05 Part 1 — פרק ה חלק א — Source sheet: https://docs.google.com/document/d/17XEjA5P5PXbN6JjYIKUf998AA3KTodHENGHj8Actxwo/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -652,7 +652,7 @@
 
     <item>
       <title><![CDATA[Perek 04]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-5</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-5</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-5</guid>
       <description><![CDATA[Perek 04 — פרק ד — Source sheet: https://docs.google.com/document/d/1HaKyd-Dy_NHY6dKdxeNTQCkBoUzp1aH82Ik1VYPgeoU/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -669,7 +669,7 @@
 
     <item>
       <title><![CDATA[Perek 03]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-4</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-4</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-4</guid>
       <description><![CDATA[Perek 03 — פרק ג — Source sheet: https://docs.google.com/document/d/1CqGYB9xshNogE7Q3POoHuvJhtqvmFWazt-45Fm01LB8/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -686,7 +686,7 @@
 
     <item>
       <title><![CDATA[Perek 02]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-3</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-3</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-3</guid>
       <description><![CDATA[Perek 02 — פרק ב — Source sheet: https://docs.google.com/document/d/1LAJquhoybLTgUj0nrBtUesrwY6TVkL3HJ9kzSYbCmAg/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -703,7 +703,7 @@
 
     <item>
       <title><![CDATA[Perek 01]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-2</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-2</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-2</guid>
       <description><![CDATA[Perek 01 — פרק א — Source sheet: https://docs.google.com/document/d/1x3pidzilAeyyKaNrLikkBHahO-VJT0cfZVxAdlLP-Uo/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>
@@ -720,7 +720,7 @@
 
     <item>
       <title><![CDATA[Introduction]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-1</link>
+      <link>https://www.midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-1</link>
       <guid isPermaLink="false">carmei-zion-midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-1</guid>
       <description><![CDATA[Introduction — מבוא — Source sheet: https://docs.google.com/document/d/1Nqf7_ApqgmGfn7JQCbjNgLtZKF-kcJeJmZjfqBXvXlc/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Tue, 01 Jan 5782 00:00:00 GMT</pubDate>

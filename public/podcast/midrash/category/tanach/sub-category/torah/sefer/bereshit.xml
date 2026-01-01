@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title><![CDATA[כרמי ציון | Carmei Zion – Tanach / Torah / Bereshit]]></title>
-    <link>https://phylloid-edmund-interfraternal.ngrok-free.dev</link>
+    <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Tanach – Torah – Bereshit shiurim from רון נחשון (Ron Nahshon).]]></description>
     <language>he</language>
-    <lastBuildDate>Thu, 01 Jan 2026 13:36:22 GMT</lastBuildDate>
-    <pubDate>Thu, 01 Jan 2026 13:36:22 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 13:51:06 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 13:51:06 GMT</pubDate>
     <ttl>1440</ttl>
-    <atom:link href="https://phylloid-edmund-interfraternal.ngrok-free.dev/podcast/midrash/category/tanach/sub-category/torah/sefer/bereshit.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.midrashaggadah.com/podcast/midrash/category/tanach/sub-category/torah/sefer/bereshit.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
     <itunes:summary><![CDATA[Tanach – Torah – Bereshit shiurim from רון נחשון (Ron Nahshon).]]></itunes:summary>
     <itunes:category text="Religion &amp; Spirituality">
@@ -19,11 +19,11 @@
       <itunes:name><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:name>
       <itunes:email>ronnahshon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://phylloid-edmund-interfraternal.ngrok-free.dev/favicons/carmei_zion_logo.png"/>
+    <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_squared.png"/>
 
     <item>
       <title><![CDATA[Parshat Vayehi – Did Yaakov Ever Find Out that the Brothers Sold Yosef]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-12</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-12</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-12</guid>
       <description><![CDATA[Parshat Vayehi – Did Yaakov Ever Find Out that the Brothers Sold Yosef — פרשת ויחי — Source sheet: https://docs.google.com/document/d/1NvM8vvdOqEqLqT2Uj72x3jmAmF7xH58kteYj-nXSxak/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -40,7 +40,7 @@
 
     <item>
       <title><![CDATA[Parshat Vayigash – Hushim ben Dan]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-11</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-11</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-11</guid>
       <description><![CDATA[Parshat Vayigash – Hushim ben Dan — פרשת ויגש — Source sheet: https://docs.google.com/document/d/1Uw4qnSo45gztA94A6WcdayQu6xzgJsqy5SF1kdqirFI/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -57,7 +57,7 @@
 
     <item>
       <title><![CDATA[Parshat Miketz – Meraglim Atem, You Are Spies]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-10</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-10</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-10</guid>
       <description><![CDATA[Parshat Miketz – Meraglim Atem, You Are Spies — פרשת מקץ — Source sheet: https://docs.google.com/document/d/1lebDVLR3d9z8blgH6qicy046H3UZCIitiTW14sbAlpk/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -74,7 +74,7 @@
 
     <item>
       <title><![CDATA[Parshat Vayeishev – Embarrassing Someone in Public]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-9</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-9</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-9</guid>
       <description><![CDATA[Parshat Vayeishev – Embarrassing Someone in Public — פרשת וישב — Source sheet: https://docs.google.com/document/d/16H2YfWOjbRRvNWArTFXTmwND4vR2CaIpYVcN4M4OnmI/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -91,7 +91,7 @@
 
     <item>
       <title><![CDATA[Parshat Vayishlah – When Should We Rely on Miracles]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-8</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-8</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-8</guid>
       <description><![CDATA[Parshat Vayishlah – When Should We Rely on Miracles — פרשת וישלח — Source sheet: https://docs.google.com/document/d/1l0xphTiy_LDa_lHV5RxIzPPI3XpeUMPJVqm6Xheixuw/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -108,7 +108,7 @@
 
     <item>
       <title><![CDATA[Parshat Vayetzei – Seize the Day]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-7</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-7</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-7</guid>
       <description><![CDATA[Parshat Vayetzei – Seize the Day — פרשת ויצא — Source sheet: https://docs.google.com/document/d/1uVCpYyNQEUMseA0MTG6c-d5WLbPlApegvNnJP4O1L_0/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -125,7 +125,7 @@
 
     <item>
       <title><![CDATA[Parshat Toldot – Was Esav Also Trying to Trick Yaakov]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-6</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-6</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-6</guid>
       <description><![CDATA[Parshat Toldot – Was Esav Also Trying to Trick Yaakov — פרשת תולדות — Source sheet: https://docs.google.com/document/d/1X6TBEfiIgJaAPppvYIiUBGEco59vm0HRmc7_9pJJsYs/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -142,7 +142,7 @@
 
     <item>
       <title><![CDATA[Parshat Hayei Sara – Protective Angels]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-5</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-5</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-5</guid>
       <description><![CDATA[Parshat Hayei Sara – Protective Angels — פרשת חיי שרה — Source sheet: https://docs.google.com/document/d/1yYecT1rTCvcRorvr8gPz0Yc3c_Mdnmdm40r7N0zKQ0U/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -159,7 +159,7 @@
 
     <item>
       <title><![CDATA[Parshat Vayera – The Connection Between Avraham, Lot and Pesach]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-4</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-4</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-4</guid>
       <description><![CDATA[Parshat Vayera – The Connection Between Avraham, Lot and Pesach — פרשת  וירא — Source sheet: https://docs.google.com/document/d/18YmhZDK18dJdafxo_pPfb1xiecgV7DhWK3dJohquqrY/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -176,7 +176,7 @@
 
     <item>
       <title><![CDATA[Parshat Lech Lecha – Sacrificing for Eretz Yisrael]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-3</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-3</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-3</guid>
       <description><![CDATA[Parshat Lech Lecha – Sacrificing for Eretz Yisrael — פרשת לך לך — Source sheet: https://docs.google.com/document/d/1mLQSmp0Ea1wJgr_-rZ1F2IyhmxPOyhujrOTza8S7Les/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -193,7 +193,7 @@
 
     <item>
       <title><![CDATA[Parshat Noah – Empathizing with the Suffering of Others]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-2</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-2</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-2</guid>
       <description><![CDATA[Parshat Noah – Empathizing with the Suffering of Others — פרשת נח — Source sheet: https://docs.google.com/document/d/1FsDEkQ6TE-WE4jGCYzneaAhy6Fy5aWFTTP8tJ_hfWGY/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>
@@ -210,7 +210,7 @@
 
     <item>
       <title><![CDATA[Parshat Breishit – What Was the Snake Thinking]]></title>
-      <link>https://phylloid-edmund-interfraternal.ngrok-free.dev/shiur/tanach-torah-bereshit-1</link>
+      <link>https://www.midrashaggadah.com/shiur/tanach-torah-bereshit-1</link>
       <guid isPermaLink="false">carmei-zion-tanach-torah-bereshit-1</guid>
       <description><![CDATA[Parshat Breishit – What Was the Snake Thinking — פרשת בראשית — Source sheet: https://docs.google.com/document/d/1-JFvW31BG9WcPoLv4ICWhsKGBS60LPrQFyvGcuShCJA/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
       <pubDate>Sat, 01 Jan 5780 00:00:00 GMT</pubDate>

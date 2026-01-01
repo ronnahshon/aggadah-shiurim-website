@@ -20,7 +20,7 @@ const PODCAST_TITLE = 'כרמי ציון | Carmei Zion';
 const PODCAST_TOPIC = 'Midrash';
 const PODCAST_AUTHOR = 'רון נחשון (Ron Nahshon)';
 const PODCAST_EMAIL = process.env.PODCAST_OWNER_EMAIL || 'ronnahshon@gmail.com';
-const COVER_ART_URL = process.env.COVER_ART_URL || `${SITE_URL}/favicons/carmei_zion_logo.png`;
+const COVER_ART_URL = process.env.COVER_ART_URL || `${SITE_URL}/favicons/carmei_zion_logo_squared.png`;
 
 // Match site playback behavior: derive S3 audio URL from the shiur id (id + ".mp3")
 const S3_BUCKET = 'midrash-aggadah';
