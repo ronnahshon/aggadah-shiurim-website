@@ -15,6 +15,11 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
 - Preview/validation: you can override host/art URLs via env:
   - `SITE_URL` and `FEED_BASE_URL` for self links (e.g., ngrok)
   - `COVER_ART_URL` if you need a different art host during validation
+- Midrash shiurim are also available for streaming via the קהילת כרמי ציון | Carmei Zion podcast:
+  - Apple: https://apple.co/3MSLcEH
+  - Amazon: https://amzn.to/3L9MMl0
+  - Spotify: https://bit.ly/cz-spotify
+  - YouTube: https://bit.ly/cz-youtube
 
 
 ## 🏗️ Website Structure & Code Organization
