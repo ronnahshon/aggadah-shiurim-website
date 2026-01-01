@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title><![CDATA[כרמי ציון | Carmei Zion – Ein Yaakov / Seder Kodashim / Zevahim]]></title>
+    <link>https://www.midrashaggadah.com</link>
+    <description><![CDATA[Ein Yaakov – Seder Kodashim – Zevahim shiurim from רון נחשון (Ron Nahshon).]]></description>
+    <language>he</language>
+    <lastBuildDate>Thu, 01 Jan 2026 14:08:10 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 14:08:10 GMT</pubDate>
+    <ttl>1440</ttl>
+    <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-kodashim/sefer/zevahim.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+    <itunes:summary><![CDATA[Ein Yaakov – Seder Kodashim – Zevahim shiurim from רון נחשון (Ron Nahshon).]]></itunes:summary>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:name>
+      <itunes:email>ronnahshon@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_squared.png"/>
+
+    <item>
+      <title><![CDATA[Zevahim 116b - Ifra Hormizd, the mother of King Shapur]]></title>
+      <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_kodashim-zevahim-5</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-zevahim-5</guid>
+      <description><![CDATA[Zevahim 116b - Ifra Hormizd, the mother of King Shapur — זבחים קטז: - איפרא הורמיז אימיה דשבור מלכא — Source sheet: https://docs.google.com/document/d/1MHDwmHb3w6daitMTw2g3RB9-jtMBIVgtEa8eeZuV9mI/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Wed, 01 Jan 5783 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Zevahim]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>34:25</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-5.mp3" type="audio/mpeg" length="36088491"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Zevahim 115b - There are times when a man is silent and receives reward for his silence]]></title>
+      <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_kodashim-zevahim-4</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-zevahim-4</guid>
+      <description><![CDATA[Zevahim 115b - There are times when a man is silent and receives reward for his silence — זבחים קטו: - פעמים שאדם שותק ומקבל שכר — Source sheet: https://docs.google.com/document/d/1t3Y1qBJJaGzV9xhTvBaIjIt99AYzhv5wcFKoDYDXiYA/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Wed, 01 Jan 5783 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Zevahim]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>25:35</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-4.mp3" type="audio/mpeg" length="26826069"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Zevahim 113a - The flood of Noah did not descend into Eretz Yisrael]]></title>
+      <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_kodashim-zevahim-3</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-zevahim-3</guid>
+      <description><![CDATA[Zevahim 113a - The flood of Noah did not descend into Eretz Yisrael — זבחים קיג. - לא ירד מבול לארץ ישראל — Source sheet: https://docs.google.com/document/d/17hPcsUAyDCTBFqzNoF15b5GxBuR98u1yO9mGOKknrDk/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Wed, 01 Jan 5783 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Zevahim]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>32:06</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-3.mp3" type="audio/mpeg" length="33659290"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Zevahim 102a - Even this time a flaring of anger had lasting consequences]]></title>
+      <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_kodashim-zevahim-2</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-zevahim-2</guid>
+      <description><![CDATA[Zevahim 102a - Even this time a flaring of anger had lasting consequences — זבחים קב. - אף זה נאמר בו רושם — Source sheet: https://docs.google.com/document/d/18tldpfCYRyjkEV3q-aRWAa2SGAWFF-USkClTpn8uuyk/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Wed, 01 Jan 5783 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Zevahim]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>41:37</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-2.mp3" type="audio/mpeg" length="43638238"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Zevahim 53b - A corner of the altar without a foundation]]></title>
+      <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_kodashim-zevahim-1</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-zevahim-1</guid>
+      <description><![CDATA[Zevahim 53b - A corner of the altar without a foundation — זבחים נג: - קרן שאין לה יסוד — Source sheet: https://docs.google.com/document/d/1tLBentMm8OV3GnUtXgWa7IOrqCVcXbVCi1rOmqGaWIE/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Wed, 01 Jan 5783 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Zevahim]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>35:35</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-1.mp3" type="audio/mpeg" length="37311829"/>
+    </item>
+  </channel>
+</rss>

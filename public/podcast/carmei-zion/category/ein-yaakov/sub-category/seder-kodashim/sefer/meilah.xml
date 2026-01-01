@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title><![CDATA[כרמי ציון | Carmei Zion – Ein Yaakov / Seder Kodashim / Meilah]]></title>
+    <link>https://www.midrashaggadah.com</link>
+    <description><![CDATA[Ein Yaakov – Seder Kodashim – Meilah shiurim from רון נחשון (Ron Nahshon).]]></description>
+    <language>he</language>
+    <lastBuildDate>Thu, 01 Jan 2026 14:08:10 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 14:08:10 GMT</pubDate>
+    <ttl>1440</ttl>
+    <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-kodashim/sefer/meilah.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+    <itunes:summary><![CDATA[Ein Yaakov – Seder Kodashim – Meilah shiurim from רון נחשון (Ron Nahshon).]]></itunes:summary>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:name>
+      <itunes:email>ronnahshon@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_squared.png"/>
+
+    <item>
+      <title><![CDATA[Meilah 17a - Let Rabbi Shimon Bar Yohai go, because he has experience with miracles]]></title>
+      <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_kodashim-meilah-1</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_kodashim-meilah-1</guid>
+      <description><![CDATA[Meilah 17a - Let Rabbi Shimon Bar Yohai go, because he has experience with miracles — מעילה יז. - ילך רשב״י שהוא מלומד בניסים — Source sheet: https://docs.google.com/document/d/16otz_Enr3VYr5qRgrbQYnEzZ54BNn1AsvsnqZTu5HBM/edit?usp=drive_link. Presented by רון נחשון (Ron Nahshon).]]></description>
+      <pubDate>Thu, 01 Jan 5784 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Kodashim]]></category>
+      <category><![CDATA[Meilah]]></category>
+      <itunes:author><![CDATA[רון נחשון (Ron Nahshon)]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>34:15</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-meilah-1.mp3" type="audio/mpeg" length="35913728"/>
+    </item>
+  </channel>
+</rss>

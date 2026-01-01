@@ -17,7 +17,7 @@ const SITE_URL = process.env.SITE_URL || 'https://www.midrashaggadah.com';
 const FEED_BASE_URL = process.env.FEED_BASE_URL || `${SITE_URL}/podcast`;
 
 const PODCAST_TITLE = 'כרמי ציון | Carmei Zion';
-const PODCAST_TOPIC = 'Midrash';
+const PODCAST_TOPIC = 'Midrash'; // content focus; kept for descriptions only
 const PODCAST_AUTHOR = 'רון נחשון (Ron Nahshon)';
 const PODCAST_EMAIL = process.env.PODCAST_OWNER_EMAIL || 'ronnahshon@gmail.com';
 const COVER_ART_URL = process.env.COVER_ART_URL || `${SITE_URL}/favicons/carmei_zion_logo_squared.png`;
@@ -220,8 +220,8 @@ const buildFeedDefinitions = (shiurim) => {
   const feeds = [];
 
   feeds.push({
-    segments: ['midrash', 'all'],
-    title: `${PODCAST_TITLE} – ${PODCAST_TOPIC}`,
+    segments: ['carmei-zion', 'all'],
+    title: `${PODCAST_TITLE}`,
     description: `All ${PODCAST_TOPIC} shiurim from ${PODCAST_AUTHOR}.`,
     items: shiurim,
   });
@@ -230,7 +230,7 @@ const buildFeedDefinitions = (shiurim) => {
   for (const [categoryKey, categoryItems] of byCategory.entries()) {
     const categoryTitle = formatTitle(categoryKey);
     feeds.push({
-      segments: ['midrash', 'category', slugify(categoryKey)],
+      segments: ['carmei-zion', 'category', slugify(categoryKey)],
       title: `${PODCAST_TITLE} – ${categoryTitle}`,
       description: `${categoryTitle} shiurim from ${PODCAST_AUTHOR}.`,
       items: categoryItems,
@@ -240,7 +240,7 @@ const buildFeedDefinitions = (shiurim) => {
     for (const [subKey, subItems] of bySub.entries()) {
       const subTitle = formatTitle(subKey);
       feeds.push({
-        segments: ['midrash', 'category', slugify(categoryKey), 'sub-category', slugify(subKey)],
+        segments: ['carmei-zion', 'category', slugify(categoryKey), 'sub-category', slugify(subKey)],
         title: `${PODCAST_TITLE} – ${categoryTitle} / ${subTitle}`,
         description: `${categoryTitle} – ${subTitle} shiurim from ${PODCAST_AUTHOR}.`,
         items: subItems,
@@ -251,7 +251,7 @@ const buildFeedDefinitions = (shiurim) => {
         const seferTitle = formatTitle(seferKey);
         feeds.push({
           segments: [
-            'midrash',
+            'carmei-zion',
             'category',
             slugify(categoryKey),
             'sub-category',
