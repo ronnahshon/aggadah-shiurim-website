@@ -181,29 +181,37 @@ const renderRss = ({ feedTitle, feedDescription, feedUrl, items }) => {
   const imageTag = `<itunes:image href="${COVER_ART_URL}"/>`;
   const categoryPrimary = escapeAttr(ITUNES_CATEGORY_PRIMARY);
   const categorySecondary = escapeAttr(ITUNES_CATEGORY_SECONDARY);
+  
+  // Ensure description is at least 50 characters for podcast validators
+  const minDescLength = 50;
+  const paddedDescription = feedDescription.length >= minDescLength 
+    ? feedDescription 
+    : `${feedDescription} Torah shiurim and Jewish learning from Israel.`;
 
   const header = `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[${feedTitle}]]></title>
     <link>${SITE_URL}</link>
-    <description><![CDATA[${feedDescription}]]></description>
+    <description><![CDATA[${paddedDescription}]]></description>
     <language>${DEFAULT_LANGUAGE}</language>
     <lastBuildDate>${buildDate}</lastBuildDate>
     <pubDate>${buildDate}</pubDate>
     <ttl>${TTL_MINUTES}</ttl>
     <atom:link href="${feedUrl}" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[${PODCAST_AUTHOR}]]></itunes:author>
-    <itunes:summary><![CDATA[${feedDescription}]]></itunes:summary>
+    <itunes:summary><![CDATA[${paddedDescription}]]></itunes:summary>
     <itunes:category text="${categoryPrimary}">
       <itunes:category text="${categorySecondary}"/>
     </itunes:category>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name><![CDATA[${PODCAST_AUTHOR}]]></itunes:name>
       <itunes:email>${PODCAST_EMAIL}</itunes:email>
     </itunes:owner>
     ${imageTag}
+    <podcast:locked>no</podcast:locked>
 `;
 
   const itemsXml = items

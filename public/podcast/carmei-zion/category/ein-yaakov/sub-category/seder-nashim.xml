@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[כרמי ציון | Carmei Zion – Ein Yaakov / Seder Nashim]]></title>
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Nashim shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Sun, 04 Jan 2026 12:50:15 GMT</lastBuildDate>
-    <pubDate>Sun, 04 Jan 2026 12:50:15 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Jan 2026 12:57:26 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Jan 2026 12:57:26 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-nashim.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -14,12 +14,14 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism"/>
     </itunes:category>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name><![CDATA[קהילת כרמי ציון]]></itunes:name>
       <itunes:email>ronnahshon@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_squared.png"/>
+    <podcast:locked>no</podcast:locked>
 
     <item>
       <title><![CDATA[Yevamot 121a - If wicked men attack a man, he should lower his head]]></title>
