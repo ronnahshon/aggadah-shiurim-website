@@ -36,6 +36,24 @@ const ITUNES_CATEGORY_SECONDARY = 'Judaism';
 const FALLBACK_PUBDATE = new Date(Date.UTC(2024, 0, 1));
 const BYTES_PER_MINUTE_AT_128K = 1048576; // 1MB/min as a safe default
 
+/**
+ * Convert Hebrew calendar year to approximate Gregorian year.
+ * Hebrew year 5784 corresponds roughly to 2023-2024 Gregorian.
+ * The offset is approximately 3760 years.
+ */
+const hebrewToGregorianYear = (hebrewYear) => {
+  if (!hebrewYear || typeof hebrewYear !== 'number') return null;
+  // Hebrew years > 5000 are clearly Hebrew calendar
+  if (hebrewYear > 5000) {
+    return hebrewYear - 3760;
+  }
+  // If it's already a reasonable Gregorian year (2000-2100), use it as-is
+  if (hebrewYear >= 2000 && hebrewYear <= 2100) {
+    return hebrewYear;
+  }
+  return null;
+};
+
 const ensureDir = (dirPath) => fs.mkdirSync(dirPath, { recursive: true });
 
 const isHttpUrl = (value) => typeof value === 'string' && /^https?:\/\//i.test(value);
@@ -99,7 +117,12 @@ const estimateEnclosureLength = (duration) => {
 
 const buildPubDate = (shiur) => {
   if (shiur.english_year && Number.isFinite(Number(shiur.english_year))) {
-    return new Date(Date.UTC(Number(shiur.english_year), 0, 1));
+    const rawYear = Number(shiur.english_year);
+    const gregorianYear = hebrewToGregorianYear(rawYear);
+    
+    if (gregorianYear && gregorianYear >= 2000 && gregorianYear <= 2100) {
+      return new Date(Date.UTC(gregorianYear, 0, 1));
+    }
   }
   return FALLBACK_PUBDATE;
 };
