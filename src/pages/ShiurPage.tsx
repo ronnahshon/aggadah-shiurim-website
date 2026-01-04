@@ -111,17 +111,48 @@ const ShiurPage: React.FC = () => {
   // SEO data
   const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
   const structuredData = generateShiurStructuredData(shiur, baseUrl);
+  
+  // Helper function to create catalog anchor URLs for breadcrumbs
+  const createCatalogAnchorUrl = (level: 'category' | 'subcategory' | 'sefer') => {
+    const categoryName = formatTitle(shiur.category);
+    const displayCategoryName = categoryName === 'Ein Yaakov' ? 'Ein Yaakov (Talmud)' : categoryName;
+    const subCategoryName = formatTitle(shiur.sub_category);
+    const seferName = formatTitle(shiur.english_sefer);
+    
+    let anchorParts: string[];
+    switch (level) {
+      case 'category':
+        anchorParts = [displayCategoryName];
+        break;
+      case 'subcategory':
+        anchorParts = [displayCategoryName, subCategoryName];
+        break;
+      case 'sefer':
+        anchorParts = [displayCategoryName, subCategoryName, seferName];
+        break;
+    }
+    
+    const anchor = anchorParts
+      .join('-')
+      .replace(/\s+/g, '-')
+      .replace(/[()]/g, '')
+      .replace(/[^a-zA-Z0-9\-]/g, '')
+      .toLowerCase();
+    
+    return `/catalog#${anchor}`;
+  };
+
   const breadcrumbs = [
     { name: 'Home', url: '/' },
     { name: 'Catalog', url: '/catalog' },
-    { name: formatTitle(shiur.category) },
-    { name: formatTitle(shiur.sub_category) },
-    { name: formatTitle(shiur.english_sefer) },
-    { name: shiur.english_title }
+    { name: formatTitle(shiur.category), url: createCatalogAnchorUrl('category') },
+    { name: formatTitle(shiur.sub_category), url: createCatalogAnchorUrl('subcategory') },
+    { name: formatTitle(shiur.english_sefer), url: createCatalogAnchorUrl('sefer') },
+    { name: shiur.english_title } // Last item (current page) - no URL needed
   ];
   const breadcrumbStructuredData = generateBreadcrumbStructuredData(breadcrumbs, baseUrl);
 
-  // Create catalog anchor link for the sefer
+  // Create catalog anchor link for the sefer (used in visible breadcrumb navigation)
   const createCatalogAnchor = () => {
     const categoryName = formatTitle(shiur.category);
     const displayCategoryName = categoryName === 'Ein Yaakov' ? 'Ein Yaakov (Talmud)' : categoryName;

@@ -274,19 +274,41 @@ export const generateWebsiteStructuredData = (baseUrl: string): WebsiteStructure
 };
 
 // Generate breadcrumb structured data
+// Note: Google requires the "item" field for all breadcrumb items EXCEPT the last one
 export const generateBreadcrumbStructuredData = (
   breadcrumbs: Array<{ name: string; url?: string }>,
   baseUrl: string
 ): BreadcrumbStructuredData => {
+  const lastIndex = breadcrumbs.length - 1;
+  
   return {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
-    itemListElement: breadcrumbs.map((breadcrumb, index) => ({
-      "@type": "ListItem",
-      position: index + 1,
-      name: breadcrumb.name,
-      ...(breadcrumb.url && { item: `${baseUrl}${breadcrumb.url}` })
-    }))
+    itemListElement: breadcrumbs.map((breadcrumb, index) => {
+      const isLastItem = index === lastIndex;
+      const listItem: {
+        "@type": "ListItem";
+        position: number;
+        name: string;
+        item?: string;
+      } = {
+        "@type": "ListItem",
+        position: index + 1,
+        name: breadcrumb.name,
+      };
+      
+      // Include "item" field for all items except the last one
+      // For the last item (current page), "item" is optional
+      if (breadcrumb.url) {
+        listItem.item = `${baseUrl}${breadcrumb.url}`;
+      } else if (!isLastItem) {
+        // Non-last items without a URL should use a fallback to satisfy Google's requirements
+        // Use the base URL as a fallback (better than missing the field entirely)
+        listItem.item = baseUrl;
+      }
+      
+      return listItem;
+    })
   };
 };
 
