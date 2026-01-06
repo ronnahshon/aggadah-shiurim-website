@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Toharot – Niddah shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:02:07 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:02:07 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-toharot/sefer/niddah.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -36,6 +36,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>31:13</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-8.mp3" type="audio/mpeg" length="32733047"/>
     </item>
@@ -53,6 +55,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>50:29</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-7.mp3" type="audio/mpeg" length="52935612"/>
     </item>
@@ -70,6 +74,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>34:05</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-6.mp3" type="audio/mpeg" length="35738965"/>
     </item>
@@ -87,6 +93,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>37:50</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-5.mp3" type="audio/mpeg" length="39671125"/>
     </item>
@@ -104,6 +112,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>34:09</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-4.mp3" type="audio/mpeg" length="35808870"/>
     </item>
@@ -121,6 +131,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>35:03</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-3.mp3" type="audio/mpeg" length="36752589"/>
     </item>
@@ -138,6 +150,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>47:55</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-2.mp3" type="audio/mpeg" length="50244267"/>
     </item>
@@ -155,6 +169,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>38:40</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-1.mp3" type="audio/mpeg" length="40544939"/>
     </item>

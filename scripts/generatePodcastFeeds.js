@@ -135,6 +135,73 @@ const buildDescription = (shiur) => {
   return `${pieces.join(' — ')}. Presented by ${PODCAST_AUTHOR}.`.trim();
 };
 
+// Build a mapping of hebrew_sefer to season numbers
+// This is populated dynamically based on the shiurim data
+let seferToSeasonMap = new Map();
+
+// Custom season order: Talmud tractates in traditional order, then Torah books, then Tanna Devei Eliyahu
+const SEFER_ORDER = [
+  // Seder Nashim
+  'יבמות',
+  // Seder Nezikin (in traditional order)
+  'בבא קמא',
+  'בבא מציעא',
+  'בבא בתרא',
+  'סנהדרין',
+  'מכות',
+  'שבועות',
+  'עבודה זרה',
+  'הוריות',
+  // Seder Kodashim (in traditional order)
+  'זבחים',
+  'מנחות',
+  'חולין',
+  'בכורות',
+  'ערכין',
+  'תמורה',
+  'כריתות',
+  'מעילה',
+  // Seder Toharot
+  'נדה',
+  // Torah (Chumash) in order
+  'בראשית',
+  'שמות',
+  'ויקרא',
+  'במדבר',
+  'דברים',
+  // Midrash - last
+  'תנא דבי אליהו רבה',
+];
+
+const buildSeferSeasonMap = (shiurim) => {
+  // Get unique sefarim that actually exist in the data
+  const existingSefarim = new Set();
+  for (const s of shiurim) {
+    const sefer = s.hebrew_sefer || 'אחר';
+    existingSefarim.add(sefer);
+  }
+  
+  seferToSeasonMap = new Map();
+  let seasonNumber = 1;
+  
+  // First, add sefarim in the predefined order
+  for (const sefer of SEFER_ORDER) {
+    if (existingSefarim.has(sefer)) {
+      seferToSeasonMap.set(sefer, seasonNumber);
+      seasonNumber++;
+      existingSefarim.delete(sefer);
+    }
+  }
+  
+  // Add any remaining sefarim not in the predefined list (at the end)
+  for (const sefer of existingSefarim) {
+    seferToSeasonMap.set(sefer, seasonNumber);
+    seasonNumber++;
+  }
+  
+  return seferToSeasonMap;
+};
+
 const buildEpisode = (shiur) => {
   const enclosureUrl = buildAudioUrlFromShiur(shiur);
   if (!enclosureUrl) return null;
@@ -149,6 +216,13 @@ const buildEpisode = (shiur) => {
     formatTitle(shiur.english_sefer),
   ].filter(Boolean);
 
+  // Get season number based on hebrew_sefer
+  const sefer = shiur.hebrew_sefer || 'אחר';
+  const seasonNumber = seferToSeasonMap.get(sefer) || 1;
+  
+  // Use shiur_num as episode number within the sefer, fallback to global_id
+  const episodeNumber = shiur.shiur_num || shiur.global_id || 1;
+
   return {
     guid,
     link,
@@ -162,6 +236,10 @@ const buildEpisode = (shiur) => {
       length: enclosureLength,
     },
     categories,
+    // Season/series info based on hebrew_sefer
+    season: seasonNumber,
+    seasonName: sefer,
+    episode: episodeNumber,
   };
 };
 
@@ -229,6 +307,8 @@ const renderRss = ({ feedTitle, feedDescription, feedUrl, items }) => {
       <itunes:author><![CDATA[${PODCAST_AUTHOR}]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      ${item.season ? `<itunes:season>${item.season}</itunes:season>` : ''}
+      ${item.episode ? `<itunes:episode>${item.episode}</itunes:episode>` : ''}
       ${item.duration ? `<itunes:duration>${item.duration}</itunes:duration>` : ''}
       <enclosure url="${item.enclosure.url}" type="${item.enclosure.type}" length="${item.enclosure.length}"/>
     </item>`
@@ -318,6 +398,11 @@ const main = () => {
   const shiurim = [...primaryShiurim, ...podcastOnly];
 
   const validShiurim = shiurim.filter((s) => s.audio_recording_link);
+  
+  // Build the sefer-to-season mapping before creating episodes
+  buildSeferSeasonMap(validShiurim);
+  console.log(`📚 Season mapping created: ${seferToSeasonMap.size} sefarim as seasons`);
+  
   const sortedShiurim = [...validShiurim].sort((a, b) => {
     if (b.english_year !== a.english_year) return (b.english_year || 0) - (a.english_year || 0);
     if (b.global_id !== a.global_id) return (b.global_id || 0) - (a.global_id || 0);

@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Midrash – Tanna Devei Eliyahu – Tanna Devei Eliyahu Rabbah shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:02:07 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:02:07 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/midrash/sub-category/tanna-devei-eliyahu/sefer/tanna-devei-eliyahu-rabbah.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -36,6 +36,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>42</itunes:episode>
       <itunes:duration>60:28</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-42.mp3" type="audio/mpeg" length="63403895"/>
     </item>
@@ -53,6 +55,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>41</itunes:episode>
       <itunes:duration>60:28</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-41.mp3" type="audio/mpeg" length="63403895"/>
     </item>
@@ -70,6 +74,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>40</itunes:episode>
       <itunes:duration>60:28</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-40.mp3" type="audio/mpeg" length="63403895"/>
     </item>
@@ -87,6 +93,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>39</itunes:episode>
       <itunes:duration>17:50</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-39.mp3" type="audio/mpeg" length="18699605"/>
     </item>
@@ -104,6 +112,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>38</itunes:episode>
       <itunes:duration>18:04</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-38.mp3" type="audio/mpeg" length="18944273"/>
     </item>
@@ -121,6 +131,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>37</itunes:episode>
       <itunes:duration>35:08</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-37.mp3" type="audio/mpeg" length="36839970"/>
     </item>
@@ -138,6 +150,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>36</itunes:episode>
       <itunes:duration>31:35</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-36.mp3" type="audio/mpeg" length="33117525"/>
     </item>
@@ -155,6 +169,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>35</itunes:episode>
       <itunes:duration>31:32</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-35.mp3" type="audio/mpeg" length="33065097"/>
     </item>
@@ -172,6 +188,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>34</itunes:episode>
       <itunes:duration>33:13</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-34.mp3" type="audio/mpeg" length="34830199"/>
     </item>
@@ -189,6 +207,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>33</itunes:episode>
       <itunes:duration>29:06</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-33.mp3" type="audio/mpeg" length="30513562"/>
     </item>
@@ -206,6 +226,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>32</itunes:episode>
       <itunes:duration>30:51</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-32.mp3" type="audio/mpeg" length="32348570"/>
     </item>
@@ -223,6 +245,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>31</itunes:episode>
       <itunes:duration>34:31</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-31.mp3" type="audio/mpeg" length="36193348"/>
     </item>
@@ -240,6 +264,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>30</itunes:episode>
       <itunes:duration>6:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-30.mp3" type="audio/mpeg" length="6763315"/>
     </item>
@@ -257,6 +283,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>29</itunes:episode>
       <itunes:duration>28:29</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-29.mp3" type="audio/mpeg" length="29866940"/>
     </item>
@@ -274,6 +302,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>28</itunes:episode>
       <itunes:duration>29:12</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-28.mp3" type="audio/mpeg" length="30618419"/>
     </item>
@@ -291,6 +321,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>27</itunes:episode>
       <itunes:duration>29:33</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-27.mp3" type="audio/mpeg" length="30985421"/>
     </item>
@@ -308,6 +340,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>26</itunes:episode>
       <itunes:duration>29:10</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-26.mp3" type="audio/mpeg" length="30583467"/>
     </item>
@@ -325,6 +359,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>25</itunes:episode>
       <itunes:duration>34:32</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-25.mp3" type="audio/mpeg" length="36210825"/>
     </item>
@@ -342,6 +378,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>24</itunes:episode>
       <itunes:duration>33:26</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-24.mp3" type="audio/mpeg" length="35057391"/>
     </item>
@@ -359,6 +397,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>23</itunes:episode>
       <itunes:duration>36:00</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-23.mp3" type="audio/mpeg" length="37748736"/>
     </item>
@@ -376,6 +416,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>22</itunes:episode>
       <itunes:duration>32:03</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-22.mp3" type="audio/mpeg" length="33606861"/>
     </item>
@@ -393,6 +435,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>21</itunes:episode>
       <itunes:duration>28:24</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-21.mp3" type="audio/mpeg" length="29779558"/>
     </item>
@@ -410,6 +454,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>20</itunes:episode>
       <itunes:duration>27:30</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-20.mp3" type="audio/mpeg" length="28835840"/>
     </item>
@@ -427,6 +473,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>19</itunes:episode>
       <itunes:duration>28:53</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-19.mp3" type="audio/mpeg" length="30286370"/>
     </item>
@@ -444,6 +492,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>18</itunes:episode>
       <itunes:duration>27:18</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-18.mp3" type="audio/mpeg" length="28626125"/>
     </item>
@@ -461,6 +511,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>17</itunes:episode>
       <itunes:duration>32:50</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-17.mp3" type="audio/mpeg" length="34428245"/>
     </item>
@@ -478,6 +530,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>16</itunes:episode>
       <itunes:duration>27:54</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-16.mp3" type="audio/mpeg" length="29255270"/>
     </item>
@@ -495,6 +549,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>15</itunes:episode>
       <itunes:duration>25:34</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-15.mp3" type="audio/mpeg" length="26808593"/>
     </item>
@@ -512,6 +568,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>14</itunes:episode>
       <itunes:duration>31:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-14.mp3" type="audio/mpeg" length="32977715"/>
     </item>
@@ -529,6 +587,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>13</itunes:episode>
       <itunes:duration>28:00</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-13.mp3" type="audio/mpeg" length="29360128"/>
     </item>
@@ -546,6 +606,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>12</itunes:episode>
       <itunes:duration>33:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-12.mp3" type="audio/mpeg" length="35074867"/>
     </item>
@@ -563,6 +625,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>11</itunes:episode>
       <itunes:duration>38:37</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-11.mp3" type="audio/mpeg" length="40492510"/>
     </item>
@@ -580,6 +644,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>31:32</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-10.mp3" type="audio/mpeg" length="33065097"/>
     </item>
@@ -597,6 +663,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>35:32</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-9.mp3" type="audio/mpeg" length="37259401"/>
     </item>
@@ -614,6 +682,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>29:56</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-8.mp3" type="audio/mpeg" length="31387375"/>
     </item>
@@ -631,6 +701,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>33:59</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-7.mp3" type="audio/mpeg" length="35634108"/>
     </item>
@@ -648,6 +720,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>33:26</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-6.mp3" type="audio/mpeg" length="35057391"/>
     </item>
@@ -665,6 +739,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>30:42</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-5.mp3" type="audio/mpeg" length="32191283"/>
     </item>
@@ -682,6 +758,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>32:38</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-4.mp3" type="audio/mpeg" length="34218530"/>
     </item>
@@ -699,6 +777,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>30:40</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-3.mp3" type="audio/mpeg" length="32156331"/>
     </item>
@@ -716,6 +796,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>33:23</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-2.mp3" type="audio/mpeg" length="35004962"/>
     </item>
@@ -733,6 +815,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>30:02</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-1.mp3" type="audio/mpeg" length="31492233"/>
     </item>

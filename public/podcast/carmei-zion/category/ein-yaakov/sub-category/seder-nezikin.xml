@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Nezikin shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:02:07 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:02:07 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-nezikin.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -36,6 +36,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>15</itunes:episode>
       <itunes:duration>42:22</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-15.mp3" type="audio/mpeg" length="44424670"/>
     </item>
@@ -53,6 +55,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>14</itunes:episode>
       <itunes:duration>39:39</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-14.mp3" type="audio/mpeg" length="41576038"/>
     </item>
@@ -70,6 +74,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>13</itunes:episode>
       <itunes:duration>31:23</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-13.mp3" type="audio/mpeg" length="32907810"/>
     </item>
@@ -87,6 +93,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>12</itunes:episode>
       <itunes:duration>32:14</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-12.mp3" type="audio/mpeg" length="33799100"/>
     </item>
@@ -104,6 +112,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>11</itunes:episode>
       <itunes:duration>38:31</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-11.mp3" type="audio/mpeg" length="40387652"/>
     </item>
@@ -121,6 +131,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>44:32</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-10.mp3" type="audio/mpeg" length="46696585"/>
     </item>
@@ -138,6 +150,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>38:09</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-9.mp3" type="audio/mpeg" length="40003174"/>
     </item>
@@ -155,6 +169,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>39:48</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-8.mp3" type="audio/mpeg" length="41733325"/>
     </item>
@@ -172,6 +188,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>40:03</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-7.mp3" type="audio/mpeg" length="41995469"/>
     </item>
@@ -189,6 +207,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>41:09</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-6.mp3" type="audio/mpeg" length="43148902"/>
     </item>
@@ -206,6 +226,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>42:07</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-5.mp3" type="audio/mpeg" length="44162526"/>
     </item>
@@ -223,6 +245,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>34:57</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-4.mp3" type="audio/mpeg" length="36647731"/>
     </item>
@@ -240,6 +264,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>40:39</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-3.mp3" type="audio/mpeg" length="42624614"/>
     </item>
@@ -257,6 +283,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>43:39</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-2.mp3" type="audio/mpeg" length="45770342"/>
     </item>
@@ -274,6 +302,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>35:31</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-1.mp3" type="audio/mpeg" length="37241924"/>
     </item>
@@ -291,6 +321,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>20</itunes:episode>
       <itunes:duration>35:40</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-20.mp3" type="audio/mpeg" length="37399211"/>
     </item>
@@ -308,6 +340,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>19</itunes:episode>
       <itunes:duration>40:42</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-19.mp3" type="audio/mpeg" length="42677043"/>
     </item>
@@ -325,6 +359,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>18</itunes:episode>
       <itunes:duration>36:22</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-18.mp3" type="audio/mpeg" length="38133214"/>
     </item>
@@ -342,6 +378,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>17</itunes:episode>
       <itunes:duration>46:22</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-17.mp3" type="audio/mpeg" length="48618974"/>
     </item>
@@ -359,6 +397,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>16</itunes:episode>
       <itunes:duration>43:10</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-16.mp3" type="audio/mpeg" length="45263531"/>
     </item>
@@ -376,6 +416,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>15</itunes:episode>
       <itunes:duration>38:53</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-15.mp3" type="audio/mpeg" length="40772130"/>
     </item>
@@ -393,6 +435,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>14</itunes:episode>
       <itunes:duration>41:13</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-14.mp3" type="audio/mpeg" length="43218807"/>
     </item>
@@ -410,6 +454,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>13</itunes:episode>
       <itunes:duration>40:44</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-13.mp3" type="audio/mpeg" length="42711996"/>
     </item>
@@ -427,6 +473,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>12</itunes:episode>
       <itunes:duration>42:41</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-12.mp3" type="audio/mpeg" length="44756719"/>
     </item>
@@ -444,6 +492,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>11</itunes:episode>
       <itunes:duration>50:18</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-11.mp3" type="audio/mpeg" length="52743373"/>
     </item>
@@ -461,6 +511,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>34:35</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-10.mp3" type="audio/mpeg" length="36263253"/>
     </item>
@@ -478,6 +530,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>44:11</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-9.mp3" type="audio/mpeg" length="46329583"/>
     </item>
@@ -495,6 +549,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>40:36</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-8.mp3" type="audio/mpeg" length="42572186"/>
     </item>
@@ -512,6 +568,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>40:49</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-7.mp3" type="audio/mpeg" length="42799377"/>
     </item>
@@ -529,6 +587,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>32:55</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-6.mp3" type="audio/mpeg" length="34515627"/>
     </item>
@@ -546,6 +606,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>46:33</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-5.mp3" type="audio/mpeg" length="48811213"/>
     </item>
@@ -563,6 +625,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>44:00</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-4.mp3" type="audio/mpeg" length="46137344"/>
     </item>
@@ -580,6 +644,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>43:01</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-3.mp3" type="audio/mpeg" length="45106244"/>
     </item>
@@ -597,6 +663,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>35:57</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-2.mp3" type="audio/mpeg" length="37696307"/>
     </item>
@@ -614,6 +682,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>44:06</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-1.mp3" type="audio/mpeg" length="46242202"/>
     </item>
@@ -631,6 +701,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>13</itunes:episode>
       <itunes:duration>41:34</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-13.mp3" type="audio/mpeg" length="43585809"/>
     </item>
@@ -648,6 +720,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>12</itunes:episode>
       <itunes:duration>42:44</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-12.mp3" type="audio/mpeg" length="44809148"/>
     </item>
@@ -665,6 +739,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>11</itunes:episode>
       <itunes:duration>42:41</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-11.mp3" type="audio/mpeg" length="44756719"/>
     </item>
@@ -682,6 +758,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>36:36</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-10.mp3" type="audio/mpeg" length="38377882"/>
     </item>
@@ -699,6 +777,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>43:29</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-9.mp3" type="audio/mpeg" length="45595580"/>
     </item>
@@ -716,6 +796,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>35:17</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-8.mp3" type="audio/mpeg" length="36997257"/>
     </item>
@@ -733,6 +815,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>46:05</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-7.mp3" type="audio/mpeg" length="48321877"/>
     </item>
@@ -750,6 +834,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>46:05</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-6.mp3" type="audio/mpeg" length="48321877"/>
     </item>
@@ -767,6 +853,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>37:15</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-5.mp3" type="audio/mpeg" length="39059456"/>
     </item>
@@ -784,6 +872,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>48:55</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-4.mp3" type="audio/mpeg" length="51292843"/>
     </item>
@@ -801,6 +891,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>30:26</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-3.mp3" type="audio/mpeg" length="31911663"/>
     </item>
@@ -818,6 +910,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>33:15</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-2.mp3" type="audio/mpeg" length="34865152"/>
     </item>
@@ -835,6 +929,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>43:46</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-1.mp3" type="audio/mpeg" length="45892676"/>
     </item>
@@ -852,6 +948,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>37:01</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-horayot-5.mp3" type="audio/mpeg" length="38814788"/>
     </item>
@@ -869,6 +967,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>35:03</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-horayot-4.mp3" type="audio/mpeg" length="36752589"/>
     </item>
@@ -886,6 +986,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>31:18</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-horayot-3.mp3" type="audio/mpeg" length="32820429"/>
     </item>
@@ -903,6 +1005,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>40:25</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-horayot-2.mp3" type="audio/mpeg" length="42379947"/>
     </item>
@@ -920,6 +1024,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>46:20</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-horayot-1.mp3" type="audio/mpeg" length="48584021"/>
     </item>
@@ -937,6 +1043,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>36:44</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-shevuot-3.mp3" type="audio/mpeg" length="38517692"/>
     </item>
@@ -954,6 +1062,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>51:32</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-shevuot-2.mp3" type="audio/mpeg" length="54036617"/>
     </item>
@@ -971,6 +1081,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>41:52</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-shevuot-1.mp3" type="audio/mpeg" length="43900382"/>
     </item>
@@ -988,6 +1100,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>47:47</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-8.mp3" type="audio/mpeg" length="50104457"/>
     </item>
@@ -1005,6 +1119,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>44:37</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-7.mp3" type="audio/mpeg" length="46783966"/>
     </item>
@@ -1022,6 +1138,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>39:09</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-6.mp3" type="audio/mpeg" length="41051750"/>
     </item>
@@ -1039,6 +1157,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>36:42</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-5.mp3" type="audio/mpeg" length="38482739"/>
     </item>
@@ -1056,6 +1176,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>40:07</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-4.mp3" type="audio/mpeg" length="42065374"/>
     </item>
@@ -1073,6 +1195,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>37:08</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-3.mp3" type="audio/mpeg" length="38937122"/>
     </item>
@@ -1090,6 +1214,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>35:52</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-2.mp3" type="audio/mpeg" length="37608926"/>
     </item>
@@ -1107,6 +1233,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>35:16</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-1.mp3" type="audio/mpeg" length="36979780"/>
     </item>
@@ -1124,6 +1252,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>16</itunes:episode>
       <itunes:duration>51:52</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-16.mp3" type="audio/mpeg" length="54386142"/>
     </item>
@@ -1141,6 +1271,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>15</itunes:episode>
       <itunes:duration>33:56</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-15.mp3" type="audio/mpeg" length="35581679"/>
     </item>
@@ -1158,6 +1290,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>14</itunes:episode>
       <itunes:duration>37:05</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-14.mp3" type="audio/mpeg" length="38884693"/>
     </item>
@@ -1175,6 +1309,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>13</itunes:episode>
       <itunes:duration>26:15</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-13.mp3" type="audio/mpeg" length="27525120"/>
     </item>
@@ -1192,6 +1328,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>12</itunes:episode>
       <itunes:duration>33:20</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-12.mp3" type="audio/mpeg" length="34952533"/>
     </item>
@@ -1209,6 +1347,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>11</itunes:episode>
       <itunes:duration>30:32</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-11.mp3" type="audio/mpeg" length="32016521"/>
     </item>
@@ -1226,6 +1366,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>30:17</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-10.mp3" type="audio/mpeg" length="31754377"/>
     </item>
@@ -1243,6 +1385,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>35:12</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-9.mp3" type="audio/mpeg" length="36909875"/>
     </item>
@@ -1260,6 +1404,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>29:44</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-8.mp3" type="audio/mpeg" length="31177660"/>
     </item>
@@ -1277,6 +1423,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>42:14</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-7.mp3" type="audio/mpeg" length="44284860"/>
     </item>
@@ -1294,6 +1442,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>34:45</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-6.mp3" type="audio/mpeg" length="36438016"/>
     </item>
@@ -1311,6 +1461,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>31:43</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-5.mp3" type="audio/mpeg" length="33257335"/>
     </item>
@@ -1328,6 +1480,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>37:36</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-4.mp3" type="audio/mpeg" length="39426458"/>
     </item>
@@ -1345,6 +1499,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>45:33</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-3.mp3" type="audio/mpeg" length="47762637"/>
     </item>
@@ -1362,6 +1518,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>28:30</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-2.mp3" type="audio/mpeg" length="29884416"/>
     </item>
@@ -1379,6 +1537,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>38:10</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-1.mp3" type="audio/mpeg" length="40020651"/>
     </item>

@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Kodashim shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:02:07 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:02:07 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-kodashim.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -36,6 +36,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>34:15</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-meilah-1.mp3" type="audio/mpeg" length="35913728"/>
     </item>
@@ -53,6 +55,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>40:47</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-keritot-1.mp3" type="audio/mpeg" length="42764425"/>
     </item>
@@ -70,6 +74,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>14</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>35:01</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-temurah-2.mp3" type="audio/mpeg" length="36717636"/>
     </item>
@@ -87,6 +93,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>14</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>36:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-temurah-1.mp3" type="audio/mpeg" length="38220595"/>
     </item>
@@ -104,6 +112,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>39:34</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-8.mp3" type="audio/mpeg" length="41488657"/>
     </item>
@@ -121,6 +131,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>39:55</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-7.mp3" type="audio/mpeg" length="41855659"/>
     </item>
@@ -138,6 +150,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>37:10</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-6.mp3" type="audio/mpeg" length="38972075"/>
     </item>
@@ -155,6 +169,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>30:04</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-5.mp3" type="audio/mpeg" length="31527185"/>
     </item>
@@ -172,6 +188,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>37:51</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-4.mp3" type="audio/mpeg" length="39688602"/>
     </item>
@@ -189,6 +207,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>47:03</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-3.mp3" type="audio/mpeg" length="49335501"/>
     </item>
@@ -206,6 +226,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>33:38</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-2.mp3" type="audio/mpeg" length="35267106"/>
     </item>
@@ -223,6 +245,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>38:03</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-1.mp3" type="audio/mpeg" length="39898317"/>
     </item>
@@ -240,6 +264,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>39:45</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-bechorot-4.mp3" type="audio/mpeg" length="41680896"/>
     </item>
@@ -257,6 +283,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>35:01</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-bechorot-3.mp3" type="audio/mpeg" length="36717636"/>
     </item>
@@ -274,6 +302,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>34:55</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-bechorot-2.mp3" type="audio/mpeg" length="36612779"/>
     </item>
@@ -291,6 +321,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>12</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>38:37</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-bechorot-1.mp3" type="audio/mpeg" length="40492510"/>
     </item>
@@ -308,6 +340,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>16</itunes:episode>
       <itunes:duration>35:30</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-16.mp3" type="audio/mpeg" length="37224448"/>
     </item>
@@ -325,6 +359,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>15</itunes:episode>
       <itunes:duration>36:57</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-15.mp3" type="audio/mpeg" length="38744883"/>
     </item>
@@ -342,6 +378,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>14</itunes:episode>
       <itunes:duration>33:48</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-14.mp3" type="audio/mpeg" length="35441869"/>
     </item>
@@ -359,6 +397,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>13</itunes:episode>
       <itunes:duration>41:01</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-13.mp3" type="audio/mpeg" length="43009092"/>
     </item>
@@ -376,6 +416,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>12</itunes:episode>
       <itunes:duration>32:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-12.mp3" type="audio/mpeg" length="34026291"/>
     </item>
@@ -393,6 +435,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>11</itunes:episode>
       <itunes:duration>34:59</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-11.mp3" type="audio/mpeg" length="36682684"/>
     </item>
@@ -410,6 +454,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>30:00</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-10.mp3" type="audio/mpeg" length="31457280"/>
     </item>
@@ -427,6 +473,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>31:19</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-9.mp3" type="audio/mpeg" length="32837905"/>
     </item>
@@ -444,6 +492,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>37:24</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-8.mp3" type="audio/mpeg" length="39216742"/>
     </item>
@@ -461,6 +511,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>33:50</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-7.mp3" type="audio/mpeg" length="35476821"/>
     </item>
@@ -478,6 +530,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>36:44</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-6.mp3" type="audio/mpeg" length="38517692"/>
     </item>
@@ -495,6 +549,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>34:44</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-5.mp3" type="audio/mpeg" length="36420540"/>
     </item>
@@ -512,6 +568,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>36:52</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-4.mp3" type="audio/mpeg" length="38657502"/>
     </item>
@@ -529,6 +587,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>38:10</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-3.mp3" type="audio/mpeg" length="40020651"/>
     </item>
@@ -546,6 +606,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>34:54</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-2.mp3" type="audio/mpeg" length="36595302"/>
     </item>
@@ -563,6 +625,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>39:34</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-1.mp3" type="audio/mpeg" length="41488657"/>
     </item>
@@ -580,6 +644,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>36:47</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-8.mp3" type="audio/mpeg" length="38570121"/>
     </item>
@@ -597,6 +663,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>39:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-7.mp3" type="audio/mpeg" length="41366323"/>
     </item>
@@ -614,6 +682,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>46:21</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-6.mp3" type="audio/mpeg" length="48601498"/>
     </item>
@@ -631,6 +701,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>44:09</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-5.mp3" type="audio/mpeg" length="46294630"/>
     </item>
@@ -648,6 +720,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>32:42</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-4.mp3" type="audio/mpeg" length="34288435"/>
     </item>
@@ -665,6 +739,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>30:07</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-3.mp3" type="audio/mpeg" length="31579614"/>
     </item>
@@ -682,6 +758,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>35:22</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-2.mp3" type="audio/mpeg" length="37084638"/>
     </item>
@@ -699,6 +777,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>30:26</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-1.mp3" type="audio/mpeg" length="31911663"/>
     </item>
@@ -716,6 +796,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>34:25</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-5.mp3" type="audio/mpeg" length="36088491"/>
     </item>
@@ -733,6 +815,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>25:35</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-4.mp3" type="audio/mpeg" length="26826069"/>
     </item>
@@ -750,6 +834,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>32:06</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-3.mp3" type="audio/mpeg" length="33659290"/>
     </item>
@@ -767,6 +853,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>41:37</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-2.mp3" type="audio/mpeg" length="43638238"/>
     </item>
@@ -784,6 +872,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>35:35</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-1.mp3" type="audio/mpeg" length="37311829"/>
     </item>

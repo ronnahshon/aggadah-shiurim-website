@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Tanach shiurim from קהילת כרמי ציון. Torah shiurim and Jewish learning from Israel.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:02:07 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:02:07 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/tanach.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -36,6 +36,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>11</itunes:episode>
       <itunes:duration>11:34</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-devarim-11.mp3" type="audio/mpeg" length="12128529"/>
     </item>
@@ -53,6 +55,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>16:41</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-devarim-10.mp3" type="audio/mpeg" length="17493743"/>
     </item>
@@ -70,6 +74,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>23:51</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-devarim-9.mp3" type="audio/mpeg" length="25008538"/>
     </item>
@@ -87,6 +93,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>13:49</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-devarim-8.mp3" type="audio/mpeg" length="14487825"/>
     </item>
@@ -104,6 +112,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>15:17</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-devarim-7.mp3" type="audio/mpeg" length="16025737"/>
     </item>
@@ -121,6 +131,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>33:28</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-devarim-6.mp3" type="audio/mpeg" length="35092343"/>
     </item>
@@ -138,6 +150,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>31:56</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-devarim-5.mp3" type="audio/mpeg" length="33484527"/>
     </item>
@@ -155,6 +169,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>31:21</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-devarim-4.mp3" type="audio/mpeg" length="32872858"/>
     </item>
@@ -172,6 +188,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>49:44</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-devarim-3.mp3" type="audio/mpeg" length="52149180"/>
     </item>
@@ -189,6 +207,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>35:47</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-devarim-2.mp3" type="audio/mpeg" length="37521545"/>
     </item>
@@ -206,6 +226,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>53:56</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-devarim-1.mp3" type="audio/mpeg" length="56553199"/>
     </item>
@@ -223,6 +245,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>21:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-10.mp3" type="audio/mpeg" length="22491955"/>
     </item>
@@ -240,6 +264,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>22:04</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-9.mp3" type="audio/mpeg" length="23138577"/>
     </item>
@@ -257,6 +283,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>34:15</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-8.mp3" type="audio/mpeg" length="35913728"/>
     </item>
@@ -274,6 +302,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>22:41</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-7.mp3" type="audio/mpeg" length="23785199"/>
     </item>
@@ -291,6 +321,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>28:11</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-6.mp3" type="audio/mpeg" length="29552367"/>
     </item>
@@ -308,6 +340,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>21:31</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-5.mp3" type="audio/mpeg" length="22561860"/>
     </item>
@@ -325,6 +359,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>29:34</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-4.mp3" type="audio/mpeg" length="31002897"/>
     </item>
@@ -342,6 +378,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>27:00</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-3.mp3" type="audio/mpeg" length="28311552"/>
     </item>
@@ -359,6 +397,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>43:41</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-2.mp3" type="audio/mpeg" length="45805295"/>
     </item>
@@ -376,6 +416,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>31:21</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-1.mp3" type="audio/mpeg" length="32872858"/>
     </item>
@@ -393,6 +435,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>12:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-vayikra-10.mp3" type="audio/mpeg" length="13054771"/>
     </item>
@@ -410,6 +454,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>16:15</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-vayikra-9.mp3" type="audio/mpeg" length="17039360"/>
     </item>
@@ -427,6 +473,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>38:33</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-vayikra-8.mp3" type="audio/mpeg" length="40422605"/>
     </item>
@@ -444,6 +492,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>25:57</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-vayikra-7.mp3" type="audio/mpeg" length="27210547"/>
     </item>
@@ -461,6 +511,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>33:10</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-vayikra-6.mp3" type="audio/mpeg" length="34777771"/>
     </item>
@@ -478,6 +530,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>15:17</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-vayikra-5.mp3" type="audio/mpeg" length="16025737"/>
     </item>
@@ -495,6 +549,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>24:31</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-vayikra-4.mp3" type="audio/mpeg" length="25707588"/>
     </item>
@@ -512,6 +568,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>39:43</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-vayikra-3.mp3" type="audio/mpeg" length="41645943"/>
     </item>
@@ -529,6 +587,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>29:57</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-vayikra-2.mp3" type="audio/mpeg" length="31404851"/>
     </item>
@@ -546,6 +606,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>35:31</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-vayikra-1.mp3" type="audio/mpeg" length="37241924"/>
     </item>
@@ -563,6 +625,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>11</itunes:episode>
       <itunes:duration>31:28</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-shemot-11.mp3" type="audio/mpeg" length="32995191"/>
     </item>
@@ -580,6 +644,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>31:19</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-shemot-10.mp3" type="audio/mpeg" length="32837905"/>
     </item>
@@ -597,6 +663,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>32:44</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-shemot-9.mp3" type="audio/mpeg" length="34323388"/>
     </item>
@@ -614,6 +682,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>34:42</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-shemot-8.mp3" type="audio/mpeg" length="36385587"/>
     </item>
@@ -631,6 +701,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>28:28</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-shemot-7.mp3" type="audio/mpeg" length="29849463"/>
     </item>
@@ -648,6 +720,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>31:05</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-shemot-6.mp3" type="audio/mpeg" length="32593237"/>
     </item>
@@ -665,6 +739,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>30:08</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-shemot-5.mp3" type="audio/mpeg" length="31597090"/>
     </item>
@@ -682,6 +758,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>29:48</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-shemot-4.mp3" type="audio/mpeg" length="31247565"/>
     </item>
@@ -699,6 +777,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>32:32</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-shemot-3.mp3" type="audio/mpeg" length="34113673"/>
     </item>
@@ -716,6 +796,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>28:02</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-shemot-2.mp3" type="audio/mpeg" length="29395081"/>
     </item>
@@ -733,6 +815,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>26:24</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-shemot-1.mp3" type="audio/mpeg" length="27682406"/>
     </item>
@@ -750,6 +834,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>12</itunes:episode>
       <itunes:duration>26:21</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-12.mp3" type="audio/mpeg" length="27629978"/>
     </item>
@@ -767,6 +853,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>11</itunes:episode>
       <itunes:duration>32:54</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-11.mp3" type="audio/mpeg" length="34498150"/>
     </item>
@@ -784,6 +872,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>31:13</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-10.mp3" type="audio/mpeg" length="32733047"/>
     </item>
@@ -801,6 +891,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>28:08</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-9.mp3" type="audio/mpeg" length="29499938"/>
     </item>
@@ -818,6 +910,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>32:34</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-8.mp3" type="audio/mpeg" length="34148625"/>
     </item>
@@ -835,6 +929,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:duration>27:07</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-7.mp3" type="audio/mpeg" length="28433886"/>
     </item>
@@ -852,6 +948,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:duration>21:56</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-6.mp3" type="audio/mpeg" length="22998767"/>
     </item>
@@ -869,6 +967,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:duration>29:53</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-5.mp3" type="audio/mpeg" length="31334946"/>
     </item>
@@ -886,6 +986,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:duration>26:21</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-4.mp3" type="audio/mpeg" length="27629978"/>
     </item>
@@ -903,6 +1005,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:duration>32:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-3.mp3" type="audio/mpeg" length="34026291"/>
     </item>
@@ -920,6 +1024,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:duration>28:57</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-2.mp3" type="audio/mpeg" length="30356275"/>
     </item>
@@ -937,6 +1043,8 @@
       <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:duration>29:59</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-1.mp3" type="audio/mpeg" length="31439804"/>
     </item>
