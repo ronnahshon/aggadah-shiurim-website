@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Tanach – Torah – Bereshit shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:30:24 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:30:24 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/tanach/sub-category/torah/sefer/bereshit.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -37,6 +37,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>26:21</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-12.mp3" type="audio/mpeg" length="27629978"/>
@@ -56,6 +57,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>32:54</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-11.mp3" type="audio/mpeg" length="34498150"/>
@@ -75,6 +77,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>31:13</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-10.mp3" type="audio/mpeg" length="32733047"/>
@@ -94,6 +97,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>28:08</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-9.mp3" type="audio/mpeg" length="29499938"/>
@@ -113,6 +117,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>32:34</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-8.mp3" type="audio/mpeg" length="34148625"/>
@@ -132,6 +137,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>27:07</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-7.mp3" type="audio/mpeg" length="28433886"/>
@@ -151,6 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>21:56</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-6.mp3" type="audio/mpeg" length="22998767"/>
@@ -170,6 +177,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>29:53</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-5.mp3" type="audio/mpeg" length="31334946"/>
@@ -189,6 +197,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>26:21</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-4.mp3" type="audio/mpeg" length="27629978"/>
@@ -208,6 +217,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>32:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-3.mp3" type="audio/mpeg" length="34026291"/>
@@ -227,6 +237,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>28:57</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-2.mp3" type="audio/mpeg" length="30356275"/>
@@ -246,6 +257,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>18</itunes:season>
+      <podcast:season name="בראשית">18</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>29:59</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bereshit-1.mp3" type="audio/mpeg" length="31439804"/>

@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Kodashim – Zevahim shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:30:24 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:30:24 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-kodashim/sefer/zevahim.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -37,6 +37,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>9</itunes:season>
+      <podcast:season name="זבחים">9</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>34:25</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-5.mp3" type="audio/mpeg" length="36088491"/>
@@ -56,6 +57,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>9</itunes:season>
+      <podcast:season name="זבחים">9</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>25:35</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-4.mp3" type="audio/mpeg" length="26826069"/>
@@ -75,6 +77,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>9</itunes:season>
+      <podcast:season name="זבחים">9</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>32:06</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-3.mp3" type="audio/mpeg" length="33659290"/>
@@ -94,6 +97,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>9</itunes:season>
+      <podcast:season name="זבחים">9</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>41:37</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-2.mp3" type="audio/mpeg" length="43638238"/>
@@ -113,6 +117,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>9</itunes:season>
+      <podcast:season name="זבחים">9</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>35:35</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-1.mp3" type="audio/mpeg" length="37311829"/>

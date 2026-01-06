@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Nezikin – Makkot shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:30:24 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:30:24 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-nezikin/sefer/makkot.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -37,6 +37,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>5</itunes:season>
+      <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>47:47</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-8.mp3" type="audio/mpeg" length="50104457"/>
@@ -56,6 +57,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>5</itunes:season>
+      <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>44:37</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-7.mp3" type="audio/mpeg" length="46783966"/>
@@ -75,6 +77,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>5</itunes:season>
+      <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>39:09</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-6.mp3" type="audio/mpeg" length="41051750"/>
@@ -94,6 +97,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>5</itunes:season>
+      <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>36:42</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-5.mp3" type="audio/mpeg" length="38482739"/>
@@ -113,6 +117,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>5</itunes:season>
+      <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>40:07</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-4.mp3" type="audio/mpeg" length="42065374"/>
@@ -132,6 +137,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>5</itunes:season>
+      <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>37:08</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-3.mp3" type="audio/mpeg" length="38937122"/>
@@ -151,6 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>5</itunes:season>
+      <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>35:52</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-2.mp3" type="audio/mpeg" length="37608926"/>
@@ -170,6 +177,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>5</itunes:season>
+      <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>35:16</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-1.mp3" type="audio/mpeg" length="36979780"/>

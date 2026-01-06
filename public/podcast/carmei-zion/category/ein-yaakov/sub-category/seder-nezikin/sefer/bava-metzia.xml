@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Nezikin – Bava Metzia shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:30:24 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:30:24 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-nezikin/sefer/bava-metzia.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -37,6 +37,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>20</itunes:episode>
       <itunes:duration>35:40</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-20.mp3" type="audio/mpeg" length="37399211"/>
@@ -56,6 +57,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>19</itunes:episode>
       <itunes:duration>40:42</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-19.mp3" type="audio/mpeg" length="42677043"/>
@@ -75,6 +77,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>18</itunes:episode>
       <itunes:duration>36:22</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-18.mp3" type="audio/mpeg" length="38133214"/>
@@ -94,6 +97,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>17</itunes:episode>
       <itunes:duration>46:22</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-17.mp3" type="audio/mpeg" length="48618974"/>
@@ -113,6 +117,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>16</itunes:episode>
       <itunes:duration>43:10</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-16.mp3" type="audio/mpeg" length="45263531"/>
@@ -132,6 +137,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>15</itunes:episode>
       <itunes:duration>38:53</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-15.mp3" type="audio/mpeg" length="40772130"/>
@@ -151,6 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>14</itunes:episode>
       <itunes:duration>41:13</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-14.mp3" type="audio/mpeg" length="43218807"/>
@@ -170,6 +177,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>13</itunes:episode>
       <itunes:duration>40:44</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-13.mp3" type="audio/mpeg" length="42711996"/>
@@ -189,6 +197,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>42:41</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-12.mp3" type="audio/mpeg" length="44756719"/>
@@ -208,6 +217,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>50:18</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-11.mp3" type="audio/mpeg" length="52743373"/>
@@ -227,6 +237,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>34:35</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-10.mp3" type="audio/mpeg" length="36263253"/>
@@ -246,6 +257,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>44:11</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-9.mp3" type="audio/mpeg" length="46329583"/>
@@ -265,6 +277,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>40:36</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-8.mp3" type="audio/mpeg" length="42572186"/>
@@ -284,6 +297,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>40:49</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-7.mp3" type="audio/mpeg" length="42799377"/>
@@ -303,6 +317,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>32:55</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-6.mp3" type="audio/mpeg" length="34515627"/>
@@ -322,6 +337,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>46:33</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-5.mp3" type="audio/mpeg" length="48811213"/>
@@ -341,6 +357,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>44:00</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-4.mp3" type="audio/mpeg" length="46137344"/>
@@ -360,6 +377,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>43:01</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-3.mp3" type="audio/mpeg" length="45106244"/>
@@ -379,6 +397,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>35:57</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-2.mp3" type="audio/mpeg" length="37696307"/>
@@ -398,6 +417,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>3</itunes:season>
+      <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>44:06</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-1.mp3" type="audio/mpeg" length="46242202"/>

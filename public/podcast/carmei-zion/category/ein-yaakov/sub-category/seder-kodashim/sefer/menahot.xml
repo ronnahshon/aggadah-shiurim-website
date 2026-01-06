@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Kodashim – Menahot shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:30:24 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:30:24 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-kodashim/sefer/menahot.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -37,6 +37,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>10</itunes:season>
+      <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>36:47</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-8.mp3" type="audio/mpeg" length="38570121"/>
@@ -56,6 +57,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>10</itunes:season>
+      <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>39:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-7.mp3" type="audio/mpeg" length="41366323"/>
@@ -75,6 +77,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>10</itunes:season>
+      <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>46:21</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-6.mp3" type="audio/mpeg" length="48601498"/>
@@ -94,6 +97,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>10</itunes:season>
+      <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>44:09</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-5.mp3" type="audio/mpeg" length="46294630"/>
@@ -113,6 +117,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>10</itunes:season>
+      <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>32:42</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-4.mp3" type="audio/mpeg" length="34288435"/>
@@ -132,6 +137,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>10</itunes:season>
+      <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>30:07</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-3.mp3" type="audio/mpeg" length="31579614"/>
@@ -151,6 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>10</itunes:season>
+      <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>35:22</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-2.mp3" type="audio/mpeg" length="37084638"/>
@@ -170,6 +177,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>10</itunes:season>
+      <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>30:26</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-1.mp3" type="audio/mpeg" length="31911663"/>

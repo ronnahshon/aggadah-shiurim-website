@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Tanach – Torah – Bamidbar shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:30:24 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:30:24 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/tanach/sub-category/torah/sefer/bamidbar.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -37,6 +37,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>21</itunes:season>
+      <podcast:season name="במדבר">21</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>21:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-10.mp3" type="audio/mpeg" length="22491955"/>
@@ -56,6 +57,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>21</itunes:season>
+      <podcast:season name="במדבר">21</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>22:04</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-9.mp3" type="audio/mpeg" length="23138577"/>
@@ -75,6 +77,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>21</itunes:season>
+      <podcast:season name="במדבר">21</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>34:15</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-8.mp3" type="audio/mpeg" length="35913728"/>
@@ -94,6 +97,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>21</itunes:season>
+      <podcast:season name="במדבר">21</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>22:41</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-7.mp3" type="audio/mpeg" length="23785199"/>
@@ -113,6 +117,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>21</itunes:season>
+      <podcast:season name="במדבר">21</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>28:11</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-6.mp3" type="audio/mpeg" length="29552367"/>
@@ -132,6 +137,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>21</itunes:season>
+      <podcast:season name="במדבר">21</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>21:31</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-5.mp3" type="audio/mpeg" length="22561860"/>
@@ -151,6 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>21</itunes:season>
+      <podcast:season name="במדבר">21</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>29:34</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-4.mp3" type="audio/mpeg" length="31002897"/>
@@ -170,6 +177,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>21</itunes:season>
+      <podcast:season name="במדבר">21</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>27:00</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-3.mp3" type="audio/mpeg" length="28311552"/>
@@ -189,6 +197,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>21</itunes:season>
+      <podcast:season name="במדבר">21</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>43:41</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-2.mp3" type="audio/mpeg" length="45805295"/>
@@ -208,6 +217,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>21</itunes:season>
+      <podcast:season name="במדבר">21</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>31:21</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/tanach-torah-bamidbar-1.mp3" type="audio/mpeg" length="32872858"/>

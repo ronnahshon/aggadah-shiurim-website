@@ -308,6 +308,7 @@ const renderRss = ({ feedTitle, feedDescription, feedUrl, items }) => {
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       ${item.season ? `<itunes:season>${item.season}</itunes:season>` : ''}
+      ${item.season && item.seasonName ? `<podcast:season name="${item.seasonName}">${item.season}</podcast:season>` : ''}
       ${item.episode ? `<itunes:episode>${item.episode}</itunes:episode>` : ''}
       ${item.duration ? `<itunes:duration>${item.duration}</itunes:duration>` : ''}
       <enclosure url="${item.enclosure.url}" type="${item.enclosure.type}" length="${item.enclosure.length}"/>

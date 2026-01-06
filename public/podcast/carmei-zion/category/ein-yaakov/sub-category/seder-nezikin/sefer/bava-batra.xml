@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Nezikin – Bava Batra shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:30:24 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:30:24 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-nezikin/sefer/bava-batra.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -24,6 +24,26 @@
     <podcast:locked>no</podcast:locked>
 
     <item>
+      <title><![CDATA[בבא בתרא כא. - שבשתא כיון דעל על]]></title>
+      <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-16</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_nezikin-bava_batra-16</guid>
+      <description><![CDATA[Bava Batra 21a - Once an error is taught, it is taught forever — בבא בתרא כא. - שבשתא כיון דעל על — Source sheet: https://docs.google.com/document/d/1hiVIZS734N6PMqhWdLiuqLrCLkqg-k7G7G78oxw7MrY/edit?usp=drive_link. Presented by קהילת כרמי ציון.]]></description>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[Midrash]]></category>
+      <category><![CDATA[Ein Yaakov]]></category>
+      <category><![CDATA[Seder Nezikin]]></category>
+      <category><![CDATA[Bava Batra]]></category>
+      <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:duration>33:51</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-16.mp3" type="audio/mpeg" length="35494298"/>
+    </item>
+
+    <item>
       <title><![CDATA[בבא בתרא יז. - מרים נמי בנשיקה מתה]]></title>
       <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-15</link>
       <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_nezikin-bava_batra-15</guid>
@@ -37,6 +57,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>15</itunes:episode>
       <itunes:duration>42:22</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-15.mp3" type="audio/mpeg" length="44424670"/>
@@ -56,6 +77,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>14</itunes:episode>
       <itunes:duration>39:39</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-14.mp3" type="audio/mpeg" length="41576038"/>
@@ -75,6 +97,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>13</itunes:episode>
       <itunes:duration>31:23</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-13.mp3" type="audio/mpeg" length="32907810"/>
@@ -94,6 +117,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>32:14</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-12.mp3" type="audio/mpeg" length="33799100"/>
@@ -113,6 +137,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>38:31</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-11.mp3" type="audio/mpeg" length="40387652"/>
@@ -132,6 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>44:32</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-10.mp3" type="audio/mpeg" length="46696585"/>
@@ -151,6 +177,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>38:09</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-9.mp3" type="audio/mpeg" length="40003174"/>
@@ -170,6 +197,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>39:48</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-8.mp3" type="audio/mpeg" length="41733325"/>
@@ -189,6 +217,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>40:03</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-7.mp3" type="audio/mpeg" length="41995469"/>
@@ -208,6 +237,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>41:09</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-6.mp3" type="audio/mpeg" length="43148902"/>
@@ -227,6 +257,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>42:07</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-5.mp3" type="audio/mpeg" length="44162526"/>
@@ -246,6 +277,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>34:57</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-4.mp3" type="audio/mpeg" length="36647731"/>
@@ -265,6 +297,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>40:39</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-3.mp3" type="audio/mpeg" length="42624614"/>
@@ -284,6 +317,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>43:39</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-2.mp3" type="audio/mpeg" length="45770342"/>
@@ -303,6 +337,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>35:31</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-1.mp3" type="audio/mpeg" length="37241924"/>

@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Nezikin – Bava Kamma shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:30:24 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:30:24 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-nezikin/sefer/bava-kamma.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -37,6 +37,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>13</itunes:episode>
       <itunes:duration>41:34</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-13.mp3" type="audio/mpeg" length="43585809"/>
@@ -56,6 +57,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>42:44</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-12.mp3" type="audio/mpeg" length="44809148"/>
@@ -75,6 +77,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>42:41</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-11.mp3" type="audio/mpeg" length="44756719"/>
@@ -94,6 +97,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>36:36</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-10.mp3" type="audio/mpeg" length="38377882"/>
@@ -113,6 +117,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>43:29</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-9.mp3" type="audio/mpeg" length="45595580"/>
@@ -132,6 +137,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>35:17</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-8.mp3" type="audio/mpeg" length="36997257"/>
@@ -151,6 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>46:05</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-7.mp3" type="audio/mpeg" length="48321877"/>
@@ -170,6 +177,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>46:05</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-6.mp3" type="audio/mpeg" length="48321877"/>
@@ -189,6 +197,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>37:15</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-5.mp3" type="audio/mpeg" length="39059456"/>
@@ -208,6 +217,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>48:55</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-4.mp3" type="audio/mpeg" length="51292843"/>
@@ -227,6 +237,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>30:26</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-3.mp3" type="audio/mpeg" length="31911663"/>
@@ -246,6 +257,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>33:15</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-2.mp3" type="audio/mpeg" length="34865152"/>
@@ -265,6 +277,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>2</itunes:season>
+      <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>43:46</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-1.mp3" type="audio/mpeg" length="45892676"/>

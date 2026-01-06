@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[Ein Yaakov – Seder Nashim shiurim from קהילת כרמי ציון.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 06 Jan 2026 08:17:21 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 08:17:21 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:30:24 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 08:30:24 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/category/ein-yaakov/sub-category/seder-nashim.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[קהילת כרמי ציון]]></itunes:author>
@@ -24,10 +24,10 @@
     <podcast:locked>no</podcast:locked>
 
     <item>
-      <title><![CDATA[במות קכא. - אם יבואו רשעים על אדם ינענע לו ראשו]]></title>
+      <title><![CDATA[יבמות קכא. - אם יבואו רשעים על אדם ינענע לו ראשו]]></title>
       <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_nashim-yevamot-24</link>
       <guid isPermaLink="false">carmei-zion-ein-yaakov-seder_nashim-yevamot-24</guid>
-      <description><![CDATA[Yevamot 121a - If wicked men attack a man, he should lower his head — במות קכא. - אם יבואו רשעים על אדם ינענע לו ראשו — Source sheet: https://docs.google.com/document/d/1YlRH0v0iEq0Y4NGn9PLlJ4LpQ5DEOGjRbS7jXAfbRaA/edit?usp=drive_link. Presented by קהילת כרמי ציון.]]></description>
+      <description><![CDATA[Yevamot 121a - If wicked men attack a man, he should lower his head — יבמות קכא. - אם יבואו רשעים על אדם ינענע לו ראשו — Source sheet: https://docs.google.com/document/d/1YlRH0v0iEq0Y4NGn9PLlJ4LpQ5DEOGjRbS7jXAfbRaA/edit?usp=drive_link. Presented by קהילת כרמי ציון.]]></description>
       <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
             <category><![CDATA[Midrash]]></category>
       <category><![CDATA[Ein Yaakov]]></category>
@@ -37,6 +37,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>24</itunes:episode>
       <itunes:duration>27:56</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-24.mp3" type="audio/mpeg" length="29290223"/>
@@ -56,6 +57,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>23</itunes:episode>
       <itunes:duration>31:23</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-23.mp3" type="audio/mpeg" length="32907810"/>
@@ -75,6 +77,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>22</itunes:episode>
       <itunes:duration>39:18</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-22.mp3" type="audio/mpeg" length="41209037"/>
@@ -94,6 +97,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>21</itunes:episode>
       <itunes:duration>27:03</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-21.mp3" type="audio/mpeg" length="28363981"/>
@@ -113,6 +117,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>20</itunes:episode>
       <itunes:duration>27:31</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-20.mp3" type="audio/mpeg" length="28853316"/>
@@ -132,6 +137,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>19</itunes:episode>
       <itunes:duration>36:27</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-19.mp3" type="audio/mpeg" length="38220595"/>
@@ -151,6 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>18</itunes:episode>
       <itunes:duration>25:16</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-18.mp3" type="audio/mpeg" length="26494020"/>
@@ -170,6 +177,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>17</itunes:episode>
       <itunes:duration>37:29</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-17.mp3" type="audio/mpeg" length="39304124"/>
@@ -189,6 +197,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>16</itunes:episode>
       <itunes:duration>45:01</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-16.mp3" type="audio/mpeg" length="47203396"/>
@@ -208,6 +217,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>15</itunes:episode>
       <itunes:duration>33:28</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-15.mp3" type="audio/mpeg" length="35092343"/>
@@ -227,6 +237,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>14</itunes:episode>
       <itunes:duration>34:09</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-14.mp3" type="audio/mpeg" length="35808870"/>
@@ -246,6 +257,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>13</itunes:episode>
       <itunes:duration>27:19</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-13.mp3" type="audio/mpeg" length="28643601"/>
@@ -265,6 +277,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>31:35</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-12.mp3" type="audio/mpeg" length="33117525"/>
@@ -284,6 +297,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>40:26</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-11.mp3" type="audio/mpeg" length="42397423"/>
@@ -303,6 +317,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>31:31</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-10.mp3" type="audio/mpeg" length="33047620"/>
@@ -322,6 +337,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>30:47</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-9.mp3" type="audio/mpeg" length="32278665"/>
@@ -341,6 +357,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>33:32</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-8.mp3" type="audio/mpeg" length="35162249"/>
@@ -360,6 +377,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>34:36</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-7.mp3" type="audio/mpeg" length="36280730"/>
@@ -379,6 +397,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>42:48</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-6.mp3" type="audio/mpeg" length="44879053"/>
@@ -398,6 +417,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>26:17</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-5.mp3" type="audio/mpeg" length="27560073"/>
@@ -417,6 +437,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>27:06</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-4.mp3" type="audio/mpeg" length="28416410"/>
@@ -436,6 +457,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>29:39</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-3.mp3" type="audio/mpeg" length="31090278"/>
@@ -455,6 +477,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>26:17</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-2.mp3" type="audio/mpeg" length="27560073"/>
@@ -474,6 +497,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
+      <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>25:16</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-1.mp3" type="audio/mpeg" length="26494020"/>
