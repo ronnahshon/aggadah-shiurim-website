@@ -152,7 +152,7 @@ const buildEpisode = (shiur) => {
   return {
     guid,
     link,
-    title: shiur.english_title || shiur.hebrew_title || 'Shiur',
+    title: shiur.hebrew_title || shiur.english_title || 'Shiur',
     description: buildDescription(shiur),
     pubDate: pubDate.toUTCString(),
     duration: shiur.length || '',
@@ -253,7 +253,7 @@ const buildFeedDefinitions = (shiurim) => {
   feeds.push({
     segments: ['carmei-zion', 'all'],
     title: `${PODCAST_TITLE}`,
-    description: 'שיעורי תורה מקהילת כרמי ציון בקרית גת, ישראל.',
+    description: 'שיעורי תורה בגמרא, מדרש, מחשבה, ונושאים אחרים מקהילת כרמי ציון בקרית גת, ישראל',
     items: shiurim,
   });
 
