@@ -17,10 +17,8 @@ const OUTPUT_DIR = path.join(ROOT_DIR, 'public/podcast');
 const SITE_URL = process.env.SITE_URL || 'https://www.midrashaggadah.com';
 const FEED_BASE_URL = process.env.FEED_BASE_URL || `${SITE_URL}/podcast`;
 
-// Legacy constants (kept for backward compatibility with sub-feeds)
-const PODCAST_TITLE = 'כרמי ציון | Carmei Zion';
-const PODCAST_TOPIC = 'Midrash'; // content focus; kept for descriptions only
-const PODCAST_AUTHOR = 'קהילת כרמי ציון';
+// Channel-level constants (shared across all Carmei Zion podcasts)
+const PODCAST_AUTHOR = 'כרמי ציון | Carmei Zion';
 const PODCAST_EMAIL = process.env.PODCAST_OWNER_EMAIL || 'ronnahshon@gmail.com';
 const COVER_ART_URL = process.env.COVER_ART_URL || `${SITE_URL}/favicons/carmei_zion_logo_squared.png`;
 
@@ -32,17 +30,27 @@ const COVER_ART_URL = process.env.COVER_ART_URL || `${SITE_URL}/favicons/carmei_
  * 
  * The filter function determines which shiurim from shiurim_data.json are included.
  */
+// Content language options for podcast descriptions
+const CONTENT_LANGUAGES = {
+  english: 'אנגלית | English',
+  hebrew: 'עברית | Hebrew',
+};
+
 const DERIVED_PODCASTS = [
   {
     id: 'ein-yaakov',
-    title: 'כרמי ציון: עין יעקב | Carmei Zion: Ein Yaakov',
+    title: 'אגדות הש״ס - עין יעקב | רון נחשון',
     description: 'שיעורים מעמיקים בעין יעקב - אגדות הש"ס מאת רון נחשון מקהילת כרמי ציון בקרית גת. In-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.',
-    author: 'רון נחשון | Ron Nahshon',
+    // author defaults to PODCAST_AUTHOR ("כרמי ציון | Carmei Zion")
     email: 'ronnahshon@gmail.com',
     cover_image: `${SITE_URL}/images/ein_yaakov.png`,
     language: 'he',
     category: 'Religion & Spirituality',
     subcategory: 'Judaism',
+    // Speaker name for episode descriptions
+    speaker: 'רון נחשון',
+    // Content language: 'english' (default) or 'hebrew'
+    contentLanguage: 'english',
     // Filter function: only include shiurim where category === 'ein_yaakov'
     filter: (shiur) => shiur.category === 'ein_yaakov',
   },
@@ -51,9 +59,8 @@ const DERIVED_PODCASTS = [
   //   id: 'tanach',
   //   title: 'כרמי ציון: תנ"ך | Carmei Zion: Tanach',
   //   description: '...',
-  //   author: 'רון נחשון | Ron Nahshon',
   //   filter: (shiur) => shiur.category === 'tanach',
-  //   // preferHebrew: true is the default, set to false for English-first
+  //   // contentLanguage: 'english' is the default, set to 'hebrew' for Hebrew content
   // },
 ];
 
@@ -445,35 +452,7 @@ const main = () => {
     return (b.shiur_num || 0) - (a.shiur_num || 0);
   });
 
-  const feeds = buildFeedDefinitions(sortedShiurim);
-
-  let written = 0;
-  for (const feed of feeds) {
-    const feedItems = feed.items
-      .map(buildEpisode)
-      .filter(Boolean)
-      .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
-    if (!feedItems.length) continue;
-
-    const feedRelativePath = `${feed.segments.join('/')}.xml`;
-    const feedUrl = `${FEED_BASE_URL}/${feedRelativePath}`;
-    const filePath = path.join(OUTPUT_DIR, `${feedRelativePath}`);
-
-    const rss = renderRss({
-      feedTitle: feed.title,
-      feedDescription: feed.description,
-      feedUrl,
-      items: feedItems,
-    });
-
-    writeFeed(filePath, rss);
-    written += 1;
-    console.log(`✅ wrote ${feedItems.length} episodes -> ${filePath}`);
-  }
-
-  console.log(`🎙️  Sub-feeds generated: ${written}`);
-  console.log(`📚  Source items -> site: ${primaryShiurim.length}, podcast-only: ${podcastOnly.length}`);
+  console.log(`📚 Source items -> site: ${primaryShiurim.length}, podcast-only: ${podcastOnly.length}`);
 
   // Generate derived podcasts (Ein Yaakov, etc.) from shiurim_data.json with filters
   const derivedWritten = processDerivedPodcasts(sortedShiurim);
@@ -496,7 +475,8 @@ const processDerivedPodcasts = (allShiurim) => {
       id,
       title,
       description,
-      author,
+      author = PODCAST_AUTHOR,  // defaults to "כרמי ציון | Carmei Zion"
+      speaker,                   // speaker name for episode descriptions (e.g., "רון נחשון")
       email = PODCAST_EMAIL,
       cover_image = COVER_ART_URL,
       language = DEFAULT_LANGUAGE,
@@ -504,7 +484,12 @@ const processDerivedPodcasts = (allShiurim) => {
       subcategory = ITUNES_CATEGORY_SECONDARY,
       filter: filterFn,
       preferHebrew = true,
+      contentLanguage = 'english',  // 'english' or 'hebrew'
     } = config;
+
+    // Build description with language indicator
+    const languageLabel = CONTENT_LANGUAGES[contentLanguage] || CONTENT_LANGUAGES.english;
+    const fullDescription = `${description} שפה | Language: ${languageLabel}`;
 
     // Filter shiurim using the config's filter function
     const filteredShiurim = allShiurim.filter(filterFn);
@@ -561,7 +546,9 @@ const processDerivedPodcasts = (allShiurim) => {
           if (shiur.hebrew_title) descParts.push(shiur.hebrew_title);
         }
         if (shiur.source_sheet_link) descParts.push(`דף מקורות: ${shiur.source_sheet_link}`);
-        const episodeDescription = `${descParts.join(' — ')}. מאת ${author}.`.trim();
+        // Use speaker name if provided, otherwise fall back to author
+        const speakerName = speaker || author;
+        const episodeDescription = `${descParts.join(' — ')}. מאת ${speakerName}.`.trim();
 
         // Episode title - Hebrew first if preferHebrew
         const episodeTitle = preferHebrew
@@ -599,7 +586,7 @@ const processDerivedPodcasts = (allShiurim) => {
     const rss = renderRssForSeries({
       seriesMetadata: {
         title,
-        description,
+        description: fullDescription,
         author,
         email,
         cover_image,
