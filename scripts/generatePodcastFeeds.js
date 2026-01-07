@@ -20,7 +20,7 @@ const FEED_BASE_URL = process.env.FEED_BASE_URL || `${SITE_URL}/podcast`;
 // Channel-level constants (shared across all Carmei Zion podcasts)
 const PODCAST_AUTHOR = 'כרמי ציון | Carmei Zion';
 const PODCAST_EMAIL = process.env.PODCAST_OWNER_EMAIL || 'ronnahshon@gmail.com';
-const COVER_ART_URL = process.env.COVER_ART_URL || `${SITE_URL}/favicons/carmei_zion_logo_squared.png`;
+const COVER_ART_URL = process.env.COVER_ART_URL || `${SITE_URL}/favicons/carmei_zion_logo_2048_2048.png`;
 
 /**
  * DERIVED PODCASTS CONFIGURATION
