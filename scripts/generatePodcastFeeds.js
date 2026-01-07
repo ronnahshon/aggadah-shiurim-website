@@ -17,11 +17,45 @@ const OUTPUT_DIR = path.join(ROOT_DIR, 'public/podcast');
 const SITE_URL = process.env.SITE_URL || 'https://www.midrashaggadah.com';
 const FEED_BASE_URL = process.env.FEED_BASE_URL || `${SITE_URL}/podcast`;
 
+// Legacy constants (kept for backward compatibility with sub-feeds)
 const PODCAST_TITLE = 'כרמי ציון | Carmei Zion';
 const PODCAST_TOPIC = 'Midrash'; // content focus; kept for descriptions only
 const PODCAST_AUTHOR = 'קהילת כרמי ציון';
 const PODCAST_EMAIL = process.env.PODCAST_OWNER_EMAIL || 'ronnahshon@gmail.com';
 const COVER_ART_URL = process.env.COVER_ART_URL || `${SITE_URL}/favicons/carmei_zion_logo_squared.png`;
+
+/**
+ * DERIVED PODCASTS CONFIGURATION
+ * 
+ * These are podcasts auto-generated from shiurim_data.json with filters.
+ * Each entry creates a separate podcast feed with its own title, author, etc.
+ * 
+ * The filter function determines which shiurim from shiurim_data.json are included.
+ */
+const DERIVED_PODCASTS = [
+  {
+    id: 'ein-yaakov',
+    title: 'כרמי ציון: עין יעקב | Carmei Zion: Ein Yaakov',
+    description: 'שיעורים מעמיקים בעין יעקב - אגדות הש"ס מאת רון נחשון מקהילת כרמי ציון בקרית גת. In-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.',
+    author: 'רון נחשון | Ron Nahshon',
+    email: 'ronnahshon@gmail.com',
+    cover_image: `${SITE_URL}/images/ein_yaakov.png`,
+    language: 'he',
+    category: 'Religion & Spirituality',
+    subcategory: 'Judaism',
+    // Filter function: only include shiurim where category === 'ein_yaakov'
+    filter: (shiur) => shiur.category === 'ein_yaakov',
+  },
+  // Add more derived podcasts here as needed, e.g.:
+  // {
+  //   id: 'tanach',
+  //   title: 'כרמי ציון: תנ"ך | Carmei Zion: Tanach',
+  //   description: '...',
+  //   author: 'רון נחשון | Ron Nahshon',
+  //   filter: (shiur) => shiur.category === 'tanach',
+  //   // preferHebrew: true is the default, set to false for English-first
+  // },
+];
 
 // Match site playback behavior: derive S3 audio URL from the shiur id (id + ".mp3")
 const S3_BUCKET = 'midrash-aggadah';
@@ -438,12 +472,151 @@ const main = () => {
     console.log(`✅ wrote ${feedItems.length} episodes -> ${filePath}`);
   }
 
-  console.log(`🎙️  Podcast feeds generated: ${written}`);
+  console.log(`🎙️  Sub-feeds generated: ${written}`);
   console.log(`📚  Source items -> site: ${primaryShiurim.length}, podcast-only: ${podcastOnly.length}`);
+
+  // Generate derived podcasts (Ein Yaakov, etc.) from shiurim_data.json with filters
+  const derivedWritten = processDerivedPodcasts(sortedShiurim);
+  console.log(`🎙️  Derived podcasts generated: ${derivedWritten}`);
 
   // Process additional series from other_shiurim_carmei_zion directory
   const additionalWritten = processOtherSeries();
   console.log(`🎙️  Additional series feeds generated: ${additionalWritten}`);
+};
+
+/**
+ * Process derived podcasts - these are filtered from shiurim_data.json
+ * with custom titles, authors, etc.
+ */
+const processDerivedPodcasts = (allShiurim) => {
+  let written = 0;
+
+  for (const config of DERIVED_PODCASTS) {
+    const {
+      id,
+      title,
+      description,
+      author,
+      email = PODCAST_EMAIL,
+      cover_image = COVER_ART_URL,
+      language = DEFAULT_LANGUAGE,
+      category = ITUNES_CATEGORY_PRIMARY,
+      subcategory = ITUNES_CATEGORY_SECONDARY,
+      filter: filterFn,
+      preferHebrew = true,
+    } = config;
+
+    // Filter shiurim using the config's filter function
+    const filteredShiurim = allShiurim.filter(filterFn);
+
+    if (!filteredShiurim.length) {
+      console.warn(`⚠️  No shiurim matched filter for derived podcast: ${id}`);
+      continue;
+    }
+
+    // Build season map for this subset
+    const derivedSeferMap = new Map();
+    const existingSefarim = new Set();
+    for (const s of filteredShiurim) {
+      existingSefarim.add(s.hebrew_sefer || 'אחר');
+    }
+    let seasonNum = 1;
+    for (const sefer of SEFER_ORDER) {
+      if (existingSefarim.has(sefer)) {
+        derivedSeferMap.set(sefer, seasonNum++);
+        existingSefarim.delete(sefer);
+      }
+    }
+    for (const sefer of existingSefarim) {
+      derivedSeferMap.set(sefer, seasonNum++);
+    }
+
+    // Build episodes with custom author in description
+    const feedItems = filteredShiurim
+      .map((shiur) => {
+        const enclosureUrl = buildAudioUrlFromShiur(shiur);
+        if (!enclosureUrl) return null;
+        
+        const pubDate = buildPubDate(shiur);
+        const enclosureLength = estimateEnclosureLength(shiur.length);
+        const guid = `carmei-zion-${id}-${shiur.id}`;
+        const link = `${SITE_URL}/shiur/${shiur.id}`;
+        
+        // Use Hebrew or English values based on preferHebrew setting
+        const categories = preferHebrew
+          ? [shiur.hebrew_sefer, shiur.sub_category, shiur.category].filter(Boolean)
+          : [formatTitle(shiur.category), formatTitle(shiur.sub_category), formatTitle(shiur.english_sefer)].filter(Boolean);
+
+        const sefer = shiur.hebrew_sefer || 'אחר';
+        const seasonNumber = derivedSeferMap.get(sefer) || 1;
+        const episodeNumber = shiur.shiur_num || shiur.global_id || 1;
+
+        // Build description - Hebrew first if preferHebrew
+        const descParts = [];
+        if (preferHebrew) {
+          if (shiur.hebrew_title) descParts.push(shiur.hebrew_title);
+          if (shiur.english_title) descParts.push(shiur.english_title);
+        } else {
+          if (shiur.english_title) descParts.push(shiur.english_title);
+          if (shiur.hebrew_title) descParts.push(shiur.hebrew_title);
+        }
+        if (shiur.source_sheet_link) descParts.push(`דף מקורות: ${shiur.source_sheet_link}`);
+        const episodeDescription = `${descParts.join(' — ')}. מאת ${author}.`.trim();
+
+        // Episode title - Hebrew first if preferHebrew
+        const episodeTitle = preferHebrew
+          ? (shiur.hebrew_title || shiur.english_title || 'שיעור')
+          : (shiur.hebrew_title || shiur.english_title || 'Shiur');
+
+        return {
+          guid,
+          link,
+          title: episodeTitle,
+          description: episodeDescription,
+          pubDate: pubDate.toUTCString(),
+          duration: shiur.length || '',
+          enclosure: {
+            url: enclosureUrl,
+            type: 'audio/mpeg',
+            length: enclosureLength,
+          },
+          categories,
+          season: seasonNumber,
+          seasonName: sefer,
+          episode: episodeNumber,
+        };
+      })
+      .filter(Boolean)
+      .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+    if (!feedItems.length) continue;
+
+    // Generate feed file: public/podcast/carmei-zion/series/<id>.xml
+    const feedRelativePath = `carmei-zion/series/${id}.xml`;
+    const feedUrl = `${FEED_BASE_URL}/${feedRelativePath}`;
+    const outputPath = path.join(OUTPUT_DIR, feedRelativePath);
+
+    const rss = renderRssForSeries({
+      seriesMetadata: {
+        title,
+        description,
+        author,
+        email,
+        cover_image,
+        language,
+        category,
+        subcategory,
+      },
+      feedUrl,
+      items: feedItems,
+    });
+
+    writeFeed(outputPath, rss);
+    written += 1;
+    console.log(`✅ Derived podcast [${id}]: wrote ${feedItems.length} episodes -> ${outputPath}`);
+  }
+
+  return written;
 };
 
 /**
