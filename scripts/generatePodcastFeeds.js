@@ -773,12 +773,14 @@ const processOtherSeries = () => {
         continue;
       }
 
-      const { series_metadata, episodes, season_order = [] } = data;
+      const { series_metadata, episodes, season_order = [], contentLanguage = 'english', speaker } = data;
       const seriesId = series_metadata.id || file.replace('.json', '');
+      const seriesAuthor = series_metadata.author || PODCAST_AUTHOR;
+      const seriesSpeaker = speaker || seriesAuthor;
 
       // Build episodes
       const feedItems = episodes
-        .map((ep) => buildEpisodeForSeries(ep, seriesId, series_metadata.author, season_order))
+        .map((ep) => buildEpisodeForSeries(ep, seriesId, seriesSpeaker, season_order))
         .filter(Boolean)
         .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
@@ -787,13 +789,21 @@ const processOtherSeries = () => {
         continue;
       }
 
+      // Build description with language indicator
+      const languageLabel = CONTENT_LANGUAGES[contentLanguage] || CONTENT_LANGUAGES.english;
+      const fullDescription = `${series_metadata.description} שפה | Language: ${languageLabel}`;
+
       // Generate feed file: public/podcast/carmei-zion/series/<series-id>.xml
       const feedRelativePath = `carmei-zion/series/${slugify(seriesId)}.xml`;
       const feedUrl = `${FEED_BASE_URL}/${feedRelativePath}`;
       const outputPath = path.join(OUTPUT_DIR, feedRelativePath);
 
       const rss = renderRssForSeries({
-        seriesMetadata: series_metadata,
+        seriesMetadata: {
+          ...series_metadata,
+          description: fullDescription,
+          author: seriesAuthor,
+        },
         feedUrl,
         items: feedItems,
       });
