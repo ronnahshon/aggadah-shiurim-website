@@ -10,6 +10,7 @@ const __dirname = path.dirname(__filename);
 const ROOT_DIR = path.join(__dirname, '..');
 const DATA_PATH = path.join(ROOT_DIR, 'public/data/shiurim_data.json');
 const PODCAST_ONLY_DATA_PATH = path.join(ROOT_DIR, 'public/data/podcast_only.json'); // optional
+const OTHER_SERIES_DIR = path.join(ROOT_DIR, 'public/data/other_shiurim_carmei_zion'); // additional series
 const OUTPUT_DIR = path.join(ROOT_DIR, 'public/podcast');
 
 // Allow overriding for previews (e.g., ngrok) so assets resolve correctly in validators.
@@ -439,6 +440,214 @@ const main = () => {
 
   console.log(`🎙️  Podcast feeds generated: ${written}`);
   console.log(`📚  Source items -> site: ${primaryShiurim.length}, podcast-only: ${podcastOnly.length}`);
+
+  // Process additional series from other_shiurim_carmei_zion directory
+  const additionalWritten = processOtherSeries();
+  console.log(`🎙️  Additional series feeds generated: ${additionalWritten}`);
+};
+
+/**
+ * Render RSS feed with custom series metadata (for additional series).
+ */
+const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
+  const {
+    title,
+    description,
+    language = DEFAULT_LANGUAGE,
+    author,
+    email,
+    cover_image,
+    category = ITUNES_CATEGORY_PRIMARY,
+    subcategory = ITUNES_CATEGORY_SECONDARY,
+  } = seriesMetadata;
+
+  const buildDate = new Date().toUTCString();
+  const imageTag = `<itunes:image href="${cover_image}"/>`;
+  const categoryPrimary = escapeAttr(category);
+  const categorySecondary = escapeAttr(subcategory);
+
+  // Ensure description is at least 50 characters for podcast validators
+  const minDescLength = 50;
+  const paddedDescription = description.length >= minDescLength
+    ? description
+    : `${description} Torah shiurim and Jewish learning from Israel.`;
+
+  const header = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title><![CDATA[${title}]]></title>
+    <link>${SITE_URL}</link>
+    <description><![CDATA[${paddedDescription}]]></description>
+    <language>${language}</language>
+    <lastBuildDate>${buildDate}</lastBuildDate>
+    <pubDate>${buildDate}</pubDate>
+    <ttl>${TTL_MINUTES}</ttl>
+    <atom:link href="${feedUrl}" rel="self" type="application/rss+xml"/>
+    <itunes:author><![CDATA[${author}]]></itunes:author>
+    <itunes:summary><![CDATA[${paddedDescription}]]></itunes:summary>
+    <itunes:category text="${categoryPrimary}">
+      <itunes:category text="${categorySecondary}"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name><![CDATA[${author}]]></itunes:name>
+      <itunes:email>${email}</itunes:email>
+    </itunes:owner>
+    ${imageTag}
+    <podcast:locked>no</podcast:locked>
+`;
+
+  const itemsXml = items
+    .map(
+      (item) => `
+    <item>
+      <title><![CDATA[${item.title}]]></title>
+      <link>${item.link}</link>
+      <guid isPermaLink="false">${item.guid}</guid>
+      <description><![CDATA[${item.description}]]></description>
+      <pubDate>${item.pubDate}</pubDate>
+      ${item.categories
+        .map((cat) => `      <category><![CDATA[${cat}]]></category>`)
+        .join('\n')}
+      <itunes:author><![CDATA[${author}]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      ${item.season ? `<itunes:season>${item.season}</itunes:season>` : ''}
+      ${item.season && item.seasonName ? `<podcast:season name="${item.seasonName}">${item.season}</podcast:season>` : ''}
+      ${item.episode ? `<itunes:episode>${item.episode}</itunes:episode>` : ''}
+      ${item.duration ? `<itunes:duration>${item.duration}</itunes:duration>` : ''}
+      <enclosure url="${item.enclosure.url}" type="${item.enclosure.type}" length="${item.enclosure.length}"/>
+    </item>`
+    )
+    .join('\n');
+
+  const footer = `
+  </channel>
+</rss>`;
+
+  return `${header}${itemsXml}${footer}`;
+};
+
+/**
+ * Build an episode object from a series episode entry.
+ * Series episodes have a different format than shiurim_data.json entries.
+ */
+const buildEpisodeForSeries = (episode, seriesId, seriesAuthor, seasonOrder = []) => {
+  // Episode can provide audio_url directly, or we derive from id
+  const enclosureUrl = episode.audio_url || `${S3_BASE_URL}${episode.id}.mp3`;
+  if (!enclosureUrl) return null;
+
+  const pubDate = episode.english_year && Number.isFinite(Number(episode.english_year))
+    ? new Date(Date.UTC(hebrewToGregorianYear(Number(episode.english_year)) || 2024, 0, 1))
+    : FALLBACK_PUBDATE;
+
+  const enclosureLength = estimateEnclosureLength(episode.length);
+  const guid = `carmei-zion-${seriesId}-${episode.id}`;
+
+  // No website link for additional series (podcast-only)
+  const link = episode.source_sheet_link || SITE_URL;
+
+  const categories = [episode.hebrew_sefer, seriesId].filter(Boolean);
+
+  // Season is based on hebrew_sefer position in season_order, or just 1
+  const seasonName = episode.hebrew_sefer || 'אחר';
+  const seasonNumber = seasonOrder.indexOf(seasonName) >= 0
+    ? seasonOrder.indexOf(seasonName) + 1
+    : 1;
+  const episodeNumber = episode.shiur_num || 1;
+
+  const descriptionParts = [];
+  if (episode.english_title) descriptionParts.push(episode.english_title);
+  if (episode.hebrew_title) descriptionParts.push(episode.hebrew_title);
+  if (episode.source_sheet_link) descriptionParts.push(`Source sheet: ${episode.source_sheet_link}`);
+  const description = `${descriptionParts.join(' — ')}. Presented by ${seriesAuthor}.`.trim();
+
+  return {
+    guid,
+    link,
+    title: episode.hebrew_title || episode.english_title || 'Shiur',
+    description,
+    pubDate: pubDate.toUTCString(),
+    duration: episode.length || '',
+    enclosure: {
+      url: enclosureUrl,
+      type: 'audio/mpeg',
+      length: enclosureLength,
+    },
+    categories,
+    season: seasonNumber,
+    seasonName,
+    episode: episodeNumber,
+  };
+};
+
+/**
+ * Process additional series from the other_shiurim_carmei_zion directory.
+ * Each JSON file (except _template.json) becomes a separate podcast feed.
+ */
+const processOtherSeries = () => {
+  if (!fs.existsSync(OTHER_SERIES_DIR)) {
+    console.log('📂 No other_shiurim_carmei_zion directory found, skipping additional series.');
+    return 0;
+  }
+
+  const files = fs.readdirSync(OTHER_SERIES_DIR)
+    .filter(f => f.endsWith('.json') && !f.startsWith('_'));
+
+  if (files.length === 0) {
+    console.log('📂 No series files found in other_shiurim_carmei_zion directory.');
+    return 0;
+  }
+
+  let written = 0;
+
+  for (const file of files) {
+    const filePath = path.join(OTHER_SERIES_DIR, file);
+    try {
+      const raw = fs.readFileSync(filePath, 'utf8');
+      const data = JSON.parse(raw);
+
+      if (!data.series_metadata || !data.episodes) {
+        console.warn(`⚠️  Skipping ${file}: missing series_metadata or episodes`);
+        continue;
+      }
+
+      const { series_metadata, episodes, season_order = [] } = data;
+      const seriesId = series_metadata.id || file.replace('.json', '');
+
+      // Build episodes
+      const feedItems = episodes
+        .map((ep) => buildEpisodeForSeries(ep, seriesId, series_metadata.author, season_order))
+        .filter(Boolean)
+        .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+      if (!feedItems.length) {
+        console.warn(`⚠️  Skipping ${file}: no valid episodes`);
+        continue;
+      }
+
+      // Generate feed file: public/podcast/carmei-zion/series/<series-id>.xml
+      const feedRelativePath = `carmei-zion/series/${slugify(seriesId)}.xml`;
+      const feedUrl = `${FEED_BASE_URL}/${feedRelativePath}`;
+      const outputPath = path.join(OUTPUT_DIR, feedRelativePath);
+
+      const rss = renderRssForSeries({
+        seriesMetadata: series_metadata,
+        feedUrl,
+        items: feedItems,
+      });
+
+      writeFeed(outputPath, rss);
+      written += 1;
+      console.log(`✅ Additional series: wrote ${feedItems.length} episodes -> ${outputPath}`);
+
+    } catch (err) {
+      console.error(`❌ Error processing ${file}:`, err?.message);
+    }
+  }
+
+  return written;
 };
 
 try {

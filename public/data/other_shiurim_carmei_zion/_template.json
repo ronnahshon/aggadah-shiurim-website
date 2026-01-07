@@ -1,0 +1,33 @@
+{
+  "_comment": "This is a template file. Copy this to create a new series. Delete this _comment field in your copy.",
+  "series_metadata": {
+    "id": "unique-series-id",
+    "title": "Series Title | כותרת הסדרה",
+    "description": "Description of this series (at least 50 characters for podcast validators)",
+    "language": "he",
+    "author": "Speaker Name | שם המרצה",
+    "email": "contact@example.com",
+    "cover_image": "https://www.midrashaggadah.com/favicons/carmei_zion_logo_squared.png",
+    "category": "Religion & Spirituality",
+    "subcategory": "Judaism"
+  },
+  "season_order": [
+    "First Topic",
+    "Second Topic"
+  ],
+  "episodes": [
+    {
+      "id": "series-id-episode-1",
+      "hebrew_title": "כותרת עברית",
+      "english_title": "English Title",
+      "hebrew_sefer": "First Topic",
+      "shiur_num": 1,
+      "length": "45:30",
+      "english_year": 2024,
+      "audio_url": "https://example.com/audio/episode1.mp3",
+      "source_sheet_link": "https://docs.google.com/..."
+    }
+  ]
+}
+
+
