@@ -25,7 +25,7 @@ This directory contains JSON files that define additional podcast series under t
     "language": "he",                    // "he" for Hebrew, "en" for English
     "author": "Speaker Name",            // Shows as podcast author
     "email": "contact@example.com",      // Required for iTunes
-    "cover_image": "https://...",        // 1400x1400 - 3000x3000 recommended
+    "cover_image": "https://...",        // 1400-3000px required. Default: carmei_zion_logo_2048_2048.png
     "category": "Religion & Spirituality",
     "subcategory": "Judaism"
   },

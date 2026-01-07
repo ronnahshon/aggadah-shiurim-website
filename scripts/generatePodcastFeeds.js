@@ -43,7 +43,7 @@ const DERIVED_PODCASTS = [
     description: 'שיעורים מעמיקים בעין יעקב - אגדות הש"ס מאת רון נחשון מקהילת כרמי ציון בקרית גת. In-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.',
     // author defaults to PODCAST_AUTHOR ("כרמי ציון | Carmei Zion")
     email: 'ronnahshon@gmail.com',
-    cover_image: `${SITE_URL}/images/ein_yaakov.png`,
+    // cover_image defaults to COVER_ART_URL (carmei_zion_logo_2048_2048.png)
     language: 'he',
     category: 'Religion & Spirituality',
     subcategory: 'Judaism',
