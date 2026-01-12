@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title><![CDATA[גמרא בעיון | הרב עמינדב גרוסמן]]></title>
+    <link>https://www.midrashaggadah.com</link>
+    <description><![CDATA[שיעורים מעמיקים בעיון בגמרא - לימוד ברמה גבוהה מאת הרב עמינדב גרוסמן ועוד חברי קהילת כרמי ציון בקרית גת. In-depth shiurim on halachic discussions in the Talmud. שפה | Language: עברית | Hebrew]]></description>
+    <language>he</language>
+    <lastBuildDate>Mon, 12 Jan 2026 10:40:01 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 10:40:01 GMT</pubDate>
+    <ttl>1440</ttl>
+    <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+    <itunes:summary><![CDATA[שיעורים מעמיקים בעיון בגמרא - לימוד ברמה גבוהה מאת הרב עמינדב גרוסמן ועוד חברי קהילת כרמי ציון בקרית גת. In-depth shiurim on halachic discussions in the Talmud. שפה | Language: עברית | Hebrew]]></itunes:summary>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name><![CDATA[כרמי ציון | Carmei Zion]]></itunes:name>
+      <itunes:email>ronnahshon@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_2048_2048.png"/>
+    <podcast:locked>no</podcast:locked>
+
+    <item>
+      <title><![CDATA[סוכה יב - כלי קיבול העשוי להתמלאות]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/סוכה_יב_כלי_קיבול_העשוי_להתמלאות</guid>
+      <description><![CDATA[Sukkah 12 — סוכה יב - כלי קיבול העשוי להתמלאות. Presented by דניאל היימלשטיין.]]></description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+            <category><![CDATA[סוכה]]></category>
+      <category><![CDATA[gemara_beiyyun]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="סוכה">1</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>51:56</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%99%D7%91_%D7%9B%D7%9C%D7%99_%D7%A7%D7%99%D7%91%D7%95%D7%9C_%D7%94%D7%A2%D7%A9%D7%95%D7%99_%D7%9C%D7%94%D7%AA%D7%9E%D7%9C%D7%90%D7%95%D7%AA.mp3" type="audio/mpeg" length="54456047"/>
+    </item>
+
+    <item>
+      <title><![CDATA[סוכה טז - המשלשל דפנות ודין לבוד]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/סוכה_טז_המשלשל_דפנות_ודין_לבוד</guid>
+      <description><![CDATA[Sukkah 16 — סוכה טז - המשלשל דפנות ודין לבוד. Presented by דניאל היימלשטיין.]]></description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+            <category><![CDATA[סוכה]]></category>
+      <category><![CDATA[gemara_beiyyun]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="סוכה">1</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>47:30</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%98%D7%96_%D7%94%D7%9E%D7%A9%D7%9C%D7%A9%D7%9C_%D7%93%D7%A4%D7%A0%D7%95%D7%AA_%D7%95%D7%93%D7%99%D7%9F_%D7%9C%D7%91%D7%95%D7%93.mp3" type="audio/mpeg" length="49807360"/>
+    </item>
+
+    <item>
+      <title><![CDATA[סוכה כא - מעמיד בדבר המקבל טומאה]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/סוכה_כא_מעמיד_בדבר_המקבל_טומאה</guid>
+      <description><![CDATA[Sukkah 21 — סוכה כא - מעמיד בדבר המקבל טומאה. Presented by דניאל היימלשטיין.]]></description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+            <category><![CDATA[סוכה]]></category>
+      <category><![CDATA[gemara_beiyyun]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="סוכה">1</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>48:51</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9B%D7%90_%D7%9E%D7%A2%D7%9E%D7%99%D7%93_%D7%91%D7%93%D7%91%D7%A8_%D7%94%D7%9E%D7%A7%D7%91%D7%9C_%D7%98%D7%95%D7%9E%D7%90%D7%94.mp3" type="audio/mpeg" length="51222938"/>
+    </item>
+
+    <item>
+      <title><![CDATA[סוכה כט - לולב יבש]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/סוכה_כט_לולב_יבש</guid>
+      <description><![CDATA[Sukkah 29 — סוכה כט - לולב יבש. Presented by דניאל היימלשטיין.]]></description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+            <category><![CDATA[סוכה]]></category>
+      <category><![CDATA[gemara_beiyyun]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="סוכה">1</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>44:02</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9B%D7%98_%D7%9C%D7%95%D7%9C%D7%91_%D7%99%D7%91%D7%A9.mp3" type="audio/mpeg" length="46172297"/>
+    </item>
+
+    <item>
+      <title><![CDATA[סוכה ל - מצווה הבאה בעבירה]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/סוכה_ל_מצווה_הבאה_בעבירה</guid>
+      <description><![CDATA[Sukkah 30 — סוכה ל - מצווה הבאה בעבירה. Presented by דניאל היימלשטיין.]]></description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+            <category><![CDATA[סוכה]]></category>
+      <category><![CDATA[gemara_beiyyun]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="סוכה">1</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>45:52</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9C_%D7%9E%D7%A6%D7%95%D7%95%D7%94_%D7%94%D7%91%D7%90%D7%94_%D7%91%D7%A2%D7%91%D7%99%D7%A8%D7%94.mp3" type="audio/mpeg" length="48094686"/>
+    </item>
+  </channel>
+</rss>

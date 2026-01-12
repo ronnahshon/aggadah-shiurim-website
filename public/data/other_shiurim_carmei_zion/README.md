@@ -43,7 +43,7 @@ This directory contains JSON files that define additional podcast series under t
       "length": "45:30",                 // Duration (HH:MM:SS or MM:SS)
       "english_year": 2024,              // Year for pub date
       "audio_url": "https://...",        // Direct audio URL (or use S3)
-      "source_sheet_link": "https://..." // Optional
+      "speaker": "Guest Name"            // Required per episode
     }
   ]
 }

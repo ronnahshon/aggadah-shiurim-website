@@ -127,6 +127,15 @@ const slugify = (value) =>
     .replace(/^-+|-+$/g, '')
     .toLowerCase() || 'untitled';
 
+// For additional-series feed filenames, prefer preserving ids that are already URL-safe.
+// This is important for ids with underscores like `gemara_beiyyun`, where slugify() would
+// otherwise change `_` to `-` and break the expected feed filename.
+const seriesIdToFilename = (seriesId) => {
+  const raw = String(seriesId || '').trim();
+  if (/^[a-zA-Z0-9_-]+$/.test(raw)) return raw;
+  return slugify(raw);
+};
+
 const formatTitle = (value) =>
   String(value || '')
     .replace(/_/g, ' ')
@@ -616,7 +625,7 @@ const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
     language = DEFAULT_LANGUAGE,
     author,
     email,
-    cover_image,
+    cover_image = COVER_ART_URL,
     category = ITUNES_CATEGORY_PRIMARY,
     subcategory = ITUNES_CATEGORY_SECONDARY,
   } = seriesMetadata;
@@ -693,7 +702,7 @@ const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
  * Build an episode object from a series episode entry.
  * Series episodes have a different format than shiurim_data.json entries.
  */
-const buildEpisodeForSeries = (episode, seriesId, seriesAuthor, seasonOrder = []) => {
+const buildEpisodeForSeries = (episode, seriesId, defaultSpeaker, seasonOrder = []) => {
   // Episode can provide audio_url directly, or we derive from id
   const enclosureUrl = episode.audio_url || `${S3_BASE_URL}${episode.id}.mp3`;
   if (!enclosureUrl) return null;
@@ -706,7 +715,7 @@ const buildEpisodeForSeries = (episode, seriesId, seriesAuthor, seasonOrder = []
   const guid = `carmei-zion-${seriesId}-${episode.id}`;
 
   // No website link for additional series (podcast-only)
-  const link = episode.source_sheet_link || SITE_URL;
+  const link = episode.link || episode.source_sheet_link || SITE_URL;
 
   const categories = [episode.hebrew_sefer, seriesId].filter(Boolean);
 
@@ -717,11 +726,13 @@ const buildEpisodeForSeries = (episode, seriesId, seriesAuthor, seasonOrder = []
     : 1;
   const episodeNumber = episode.shiur_num || 1;
 
+  const episodeSpeaker = episode.speaker || defaultSpeaker || PODCAST_AUTHOR;
+
   const descriptionParts = [];
   if (episode.english_title) descriptionParts.push(episode.english_title);
   if (episode.hebrew_title) descriptionParts.push(episode.hebrew_title);
-  if (episode.source_sheet_link) descriptionParts.push(`Source sheet: ${episode.source_sheet_link}`);
-  const description = `${descriptionParts.join(' — ')}. Presented by ${seriesAuthor}.`.trim();
+  const descriptionPrefix = descriptionParts.length ? `${descriptionParts.join(' — ')}. ` : '';
+  const description = `${descriptionPrefix}Presented by ${episodeSpeaker}.`.trim();
 
   return {
     guid,
@@ -794,7 +805,7 @@ const processOtherSeries = () => {
       const fullDescription = `${series_metadata.description} שפה | Language: ${languageLabel}`;
 
       // Generate feed file: public/podcast/carmei-zion/series/<series-id>.xml
-      const feedRelativePath = `carmei-zion/series/${slugify(seriesId)}.xml`;
+      const feedRelativePath = `carmei-zion/series/${seriesIdToFilename(seriesId)}.xml`;
       const feedUrl = `${FEED_BASE_URL}/${feedRelativePath}`;
       const outputPath = path.join(OUTPUT_DIR, feedRelativePath);
 
