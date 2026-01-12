@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/podcast/carmei-zion/series/gemara.xml",
+      "destination": "/podcast/carmei-zion/series/gemara_beiyyun.xml",
+      "permanent": true
+    },
+    {
       "source": "/favicon.ico",
       "destination": "/favicons/favicon.ico",
       "permanent": true
