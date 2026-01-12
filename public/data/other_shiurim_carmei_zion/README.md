@@ -14,6 +14,19 @@ This directory contains JSON files that define additional podcast series under t
    Each series generates a feed at:  
    `https://www.midrashaggadah.com/podcast/carmei-zion/series/<series-id>.xml`
 
+## Current Series (examples in this repo)
+
+- **Gemara Be’iyyun**
+  - **JSON**: `gemara_beiyyun.json`
+  - **Feed**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml`
+
+- **Daf Yomi**
+  - **JSON**: `daf-yomi.json`
+  - **Feed**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf-yomi.xml`
+
+- **Ein Yaakov (generated from `shiurim_data.json`)**
+  - **Feed**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml`
+
 ## JSON File Structure
 
 ```json
@@ -55,6 +68,12 @@ Episodes can specify `audio_url` directly, or if omitted, the system derives:
 ```
 https://midrash-aggadah.s3.eu-north-1.amazonaws.com/<episode-id>.mp3
 ```
+
+## Feed Filename Rules
+
+- **If** `series_metadata.id` contains only URL-safe characters (`a-z`, `0-9`, `_`, `-`), the feed filename will be exactly:
+  - `<series-id>.xml` (underscores are preserved)
+- Otherwise the generator will “slugify” the id for the filename.
 
 ## Adding a New Series
 

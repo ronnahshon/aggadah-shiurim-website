@@ -457,3 +457,86 @@ aggadah-shiurim-website/
 - Component patterns: `src/components/`
 - Data structure: `public/data/shiurim_data.json`
 - Build scripts: `scripts/`
+
+## 🎧 Podcast Feeds (detailed)
+
+This repo generates and serves **RSS podcast feeds** under:
+
+- **Base path**: `https://www.midrashaggadah.com/podcast/`
+- **Carmei Zion feeds**: `https://www.midrashaggadah.com/podcast/carmei-zion/`
+
+### Quick links (current feeds)
+
+- **Ein Yaakov**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml`
+- **Gemara Be’iyyun**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml`
+- **Daf Yomi**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf-yomi.xml`
+
+### Feed types
+
+#### 1) Derived feeds (from `shiurim_data.json`)
+
+- **Source**: `public/data/shiurim_data.json` (plus optional `public/data/podcast_only.json`)
+- **Generator**: `scripts/generatePodcastFeeds.js`
+- **Output**: `public/podcast/carmei-zion/...`
+- **Example (series feed)**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml`
+
+These feeds are created by filtering the main shiurim database and producing a standalone podcast feed.
+
+#### 2) Additional series feeds (podcast-only JSON files)
+
+- **Source directory**: `public/data/other_shiurim_carmei_zion/`
+- **Each JSON file** (except `_template.json`) becomes **one podcast feed**
+- **Output**: `public/podcast/carmei-zion/series/<series-id>.xml`
+
+Examples:
+- **Gemara Be’iyyun**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml`
+- **Daf Yomi**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf-yomi.xml`
+
+### Build & regeneration workflow
+
+- **Generate podcast feeds only**:
+
+```bash
+npm run podcast:generate
+```
+
+- **Full production build** (includes sitemap + RSS/Atom + podcast feeds):
+
+```bash
+npm run build
+```
+
+The build runs:
+- `scripts/generateSitemap.js`
+- `scripts/generateRSSFeed.js` (site RSS/Atom, not podcast RSS)
+- `scripts/generatePodcastFeeds.js` (podcast RSS)
+- `vite build`
+
+### Audio URL behavior
+
+- **Site shiur feeds**: audio is usually derived as `audio/<shiur.id>.mp3` on S3 unless `audio_recording_link` is already a direct HTTP URL.
+- **Additional series episodes**: each episode can set `audio_url` explicitly (recommended for S3 objects that don’t follow the `audio/<id>.mp3` convention).
+
+### Config / preview environment variables
+
+These affect generated feed URLs and artwork URLs:
+- `SITE_URL`
+- `FEED_BASE_URL`
+- `COVER_ART_URL`
+- `PODCAST_OWNER_EMAIL`
+
+### Submitting feeds to platforms
+
+- **Spotify / YouTube / Apple**: submit the specific feed URL you want (usually a **series** feed under `.../podcast/carmei-zion/series/...`).
+- Verification typically uses the `<itunes:owner><itunes:email>` value from the feed.
+
+### Retiring feeds safely
+
+If you previously submitted a feed URL to a directory and want to stop it:
+
+- **Stop generating it** in `scripts/generatePodcastFeeds.js` (source-of-truth).
+- Ensure the URL returns a **real 404** (not your SPA `index.html`).
+  - This repo includes a Vercel rewrite to prevent `/podcast/*` from falling through to the SPA.
+- Optionally add a **301 redirect** from an old feed URL to a new feed URL (to preserve subscribers).
+
+**Note:** This repo intentionally does **not** generate a single “catch-all” umbrella feed anymore (e.g. `.../carmei-zion/all.xml`) to reduce accidental submission of overly-broad feeds.
