@@ -7,9 +7,9 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
 **LAST UPDATE: JAN 2026**
 
 ## 🎙️ Podcast Feeds (Carmei Zion)
-- Primary feed URL (production): `https://www.midrashaggadah.com/podcast/carmei-zion/all.xml`
+- Primary feeds are published under: `https://www.midrashaggadah.com/podcast/carmei-zion/series/`
 - Artwork: `public/favicons/carmei_zion_logo_2048_2048.png` (square, 2048x2048px; default cover art).
-- Generation: `scripts/generatePodcastFeeds.js` runs in `npm run build` and outputs under `public/podcast/...` (per category/subcategory/sefer).
+- Generation: `scripts/generatePodcastFeeds.js` runs in `npm run build` and outputs under `public/podcast/...` (series + per category/subcategory/sefer).
 - Audio URLs: derived from S3 `audio/<shiur.id>.mp3` (matching site playback). `audio_recording_link` can override if it’s already a direct URL (non-GDrive).
 - Podcast-only entries: add to `public/data/podcast_only.json` (same schema as `shiurim_data.json`) to include in feeds without showing on the site.
 - Preview/validation: you can override host/art URLs via env:

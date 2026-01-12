@@ -48,6 +48,10 @@
   ],
   "rewrites": [
     {
+      "source": "/podcast/(.*)",
+      "destination": "/podcast/$1"
+    },
+    {
       "source": "/search",
       "destination": "/search.html",
       "has": [

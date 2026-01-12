@@ -382,12 +382,8 @@ const writeFeed = (filePath, content) => {
 const buildFeedDefinitions = (shiurim) => {
   const feeds = [];
 
-  feeds.push({
-    segments: ['carmei-zion', 'all'],
-    title: `${PODCAST_TITLE}`,
-    description: 'שיעורי תורה בגמרא, מדרש, מחשבה, ונושאים אחרים מקהילת כרמי ציון בקרית גת, ישראל',
-    items: shiurim,
-  });
+  // NOTE: We intentionally do NOT generate a "catch-all" feed (carmei-zion/all.xml).
+  // This helps avoid a single umbrella feed being submitted to directories.
 
   const byCategory = groupBy(shiurim, (s) => s.category);
   for (const [categoryKey, categoryItems] of byCategory.entries()) {
