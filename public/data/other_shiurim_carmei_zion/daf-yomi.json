@@ -1,18 +1,31 @@
 {
   "series_metadata": {
     "id": "daf-yomi",
-    "title": "דף יומי | זכריה בדנפלד",
-    "description": "שיעורים בדף יומי מאת זכריה בדנפלד מקהילת כרמי ציון בקרית גת. Daily Daf Yomi shiurim.",
+    "title": "דף יומי | זכריה בידנפלד",
+    "description": "שיעורים בדף יומי מאת זכריה בידנפלד מקהילת כרמי ציון בקרית גת. Daily Daf Yomi shiurim.",
     "language": "he",
     "email": "ronnahshon@gmail.com",
     "category": "Religion & Spirituality",
     "subcategory": "Judaism"
   },
   "contentLanguage": "english",
-  "speaker": "זכריה בדנפלד",
+  "speaker": "זכריה בידנפלד",
   "season_order": [
+   "זבחים",
+   "מנחות"
   ],
   "episodes": [
+    {
+      "id": "carmei_zion_daf_yomi/זבחים_קכ",
+      "hebrew_title": "זבחים קכ",
+      "english_title": "Zevahim 120",
+      "hebrew_sefer": "זבחים",
+      "shiur_num": 1,
+      "length": "26:39",
+      "english_year": 2026,
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%96%D7%91%D7%97%D7%99%D7%9D_%D7%A7%D7%9B.mp3",
+      "speaker": "זכריה בידנפלד"
+    }
   ]
 }
 

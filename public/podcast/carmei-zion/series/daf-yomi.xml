@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title><![CDATA[דף יומי | זכריה בידנפלד]]></title>
+    <link>https://www.midrashaggadah.com</link>
+    <description><![CDATA[שיעורים בדף יומי מאת זכריה בידנפלד מקהילת כרמי ציון בקרית גת. Daily Daf Yomi shiurim. שפה | Language: אנגלית | English]]></description>
+    <language>he</language>
+    <lastBuildDate>Mon, 12 Jan 2026 16:15:29 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 16:15:29 GMT</pubDate>
+    <ttl>1440</ttl>
+    <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/daf-yomi.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+    <itunes:summary><![CDATA[שיעורים בדף יומי מאת זכריה בידנפלד מקהילת כרמי ציון בקרית גת. Daily Daf Yomi shiurim. שפה | Language: אנגלית | English]]></itunes:summary>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name><![CDATA[כרמי ציון | Carmei Zion]]></itunes:name>
+      <itunes:email>ronnahshon@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_2048_2048.png"/>
+    <podcast:locked>no</podcast:locked>
+
+    <item>
+      <title><![CDATA[זבחים קכ]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/זבחים_קכ</guid>
+      <description><![CDATA[Zevahim 120 — זבחים קכ. Presented by זכריה בידנפלד.]]></description>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[זבחים]]></category>
+      <category><![CDATA[daf-yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="זבחים">1</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>26:39</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%96%D7%91%D7%97%D7%99%D7%9D_%D7%A7%D7%9B.mp3" type="audio/mpeg" length="27944550"/>
+    </item>
+  </channel>
+</rss>
