@@ -1,18 +1,19 @@
 {
   "series_metadata": {
-    "id": "daf-yomi",
-    "title": "דף יומי | זכריה בידנפלד",
-    "description": "שיעורים בדף יומי מאת זכריה בידנפלד מקהילת כרמי ציון בקרית גת. Daily Daf Yomi shiurim.",
+    "id": "daf_yomi",
+    "guid_id": "daf-yomi",
+    "title": "דף יומי | זכריה ביננפלד",
+    "description": "שיעורים בדף יומי מאת זכריה ביננפלד מקהילת כרמי ציון בקרית גת. Daily Daf Yomi shiurim.",
     "language": "he",
     "email": "ronnahshon@gmail.com",
     "category": "Religion & Spirituality",
     "subcategory": "Judaism"
   },
   "contentLanguage": "english",
-  "speaker": "זכריה בידנפלד",
+  "speaker": "זכריה ביננפלד",
   "season_order": [
-   "זבחים",
-   "מנחות"
+    "זבחים",
+    "מנחות"
   ],
   "episodes": [
     {
@@ -24,7 +25,7 @@
       "length": "26:39",
       "english_year": 2026,
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%96%D7%91%D7%97%D7%99%D7%9D_%D7%A7%D7%9B.mp3",
-      "speaker": "זכריה בידנפלד"
+      "speaker": "זכריה ביננפלד"
     },
     {
       "id": "carmei_zion_daf_yomi/מנחות_ב",
@@ -35,7 +36,7 @@
       "length": "27:45",
       "english_year": 2026,
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%9E%D7%A0%D7%97%D7%95%D7%AA_%D7%91.mp3",
-      "speaker": "זכריה בידנפלד"
+      "speaker": "זכריה ביננפלד"
     }
   ]
 }

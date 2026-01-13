@@ -21,8 +21,9 @@ This directory contains JSON files that define additional podcast series under t
   - **Feed**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml`
 
 - **Daf Yomi**
-  - **JSON**: `daf-yomi.json`
-  - **Feed**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf-yomi.xml`
+  - **JSON**: `daf_yomi.json`
+  - **Feed**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml`
+  - **Legacy feed redirect**: `.../series/daf-yomi.xml` → `.../series/daf_yomi.xml`
 
 - **Ein Yaakov (generated from `shiurim_data.json`)**
   - **Feed**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml`

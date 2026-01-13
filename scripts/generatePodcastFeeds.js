@@ -698,7 +698,7 @@ const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
  * Build an episode object from a series episode entry.
  * Series episodes have a different format than shiurim_data.json entries.
  */
-const buildEpisodeForSeries = (episode, seriesId, defaultSpeaker, seasonOrder = []) => {
+const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, seasonOrder = []) => {
   // Episode can provide audio_url directly, or we derive from id
   const enclosureUrl = episode.audio_url || `${S3_BASE_URL}${episode.id}.mp3`;
   if (!enclosureUrl) return null;
@@ -708,7 +708,10 @@ const buildEpisodeForSeries = (episode, seriesId, defaultSpeaker, seasonOrder = 
     : FALLBACK_PUBDATE;
 
   const enclosureLength = estimateEnclosureLength(episode.length);
-  const guid = `carmei-zion-${seriesId}-${episode.id}`;
+  // GUID stability matters for podcast clients. Allow overriding the GUID prefix id so we can
+  // rename a series id (e.g. daf-yomi -> daf_yomi) without re-importing duplicate episodes.
+  const guidPrefix = seriesGuidId || seriesId;
+  const guid = `carmei-zion-${guidPrefix}-${episode.id}`;
 
   // No website link for additional series (podcast-only)
   const link = episode.link || episode.source_sheet_link || SITE_URL;
@@ -782,12 +785,13 @@ const processOtherSeries = () => {
 
       const { series_metadata, episodes, season_order = [], contentLanguage = 'english', speaker } = data;
       const seriesId = series_metadata.id || file.replace('.json', '');
+      const seriesGuidId = series_metadata.guid_id || series_metadata.legacy_id || seriesId;
       const seriesAuthor = series_metadata.author || PODCAST_AUTHOR;
       const seriesSpeaker = speaker || seriesAuthor;
 
       // Build episodes
       const feedItems = episodes
-        .map((ep) => buildEpisodeForSeries(ep, seriesId, seriesSpeaker, season_order))
+        .map((ep) => buildEpisodeForSeries(ep, seriesId, seriesGuidId, seriesSpeaker, season_order))
         .filter(Boolean)
         .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 

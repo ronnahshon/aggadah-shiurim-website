@@ -469,7 +469,7 @@ This repo generates and serves **RSS podcast feeds** under:
 
 - **Ein Yaakov**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml`
 - **Gemara Be’iyyun**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml`
-- **Daf Yomi**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf-yomi.xml`
+- **Daf Yomi**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml` (legacy redirect from `.../daf-yomi.xml`)
 
 ### Feed types
 
@@ -490,7 +490,7 @@ These feeds are created by filtering the main shiurim database and producing a s
 
 Examples:
 - **Gemara Be’iyyun**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml`
-- **Daf Yomi**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf-yomi.xml`
+- **Daf Yomi**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml`
 
 ### Build & regeneration workflow
 
