@@ -9,8 +9,8 @@
 
 Daily Daf Yomi shiurim.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 13 Jan 2026 07:49:59 GMT</lastBuildDate>
-    <pubDate>Tue, 13 Jan 2026 07:49:59 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:15:55 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 08:15:55 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -32,29 +32,11 @@ Daily Daf Yomi shiurim.]]></itunes:summary>
     <podcast:locked>no</podcast:locked>
 
     <item>
-      <title><![CDATA[זבחים קכ]]></title>
-      <link>https://www.midrashaggadah.com</link>
-      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/זבחים_קכ</guid>
-      <description><![CDATA[Zevahim 120 — זבחים קכ. Presented by זכריה ביננפלד.]]></description>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-            <category><![CDATA[זבחים]]></category>
-      <category><![CDATA[daf_yomi]]></category>
-      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <podcast:season name="זבחים">1</podcast:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:duration>26:39</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%96%D7%91%D7%97%D7%99%D7%9D_%D7%A7%D7%9B.mp3" type="audio/mpeg" length="27944550"/>
-    </item>
-
-    <item>
       <title><![CDATA[מנחות ב]]></title>
       <link>https://www.midrashaggadah.com</link>
       <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/מנחות_ב</guid>
       <description><![CDATA[Menahot 2 — מנחות ב. Presented by זכריה ביננפלד.]]></description>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
             <category><![CDATA[מנחות]]></category>
       <category><![CDATA[daf_yomi]]></category>
       <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -65,6 +47,24 @@ Daily Daf Yomi shiurim.]]></itunes:summary>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>27:45</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%9E%D7%A0%D7%97%D7%95%D7%AA_%D7%91.mp3" type="audio/mpeg" length="29097984"/>
+    </item>
+
+    <item>
+      <title><![CDATA[זבחים קכ]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/זבחים_קכ</guid>
+      <description><![CDATA[Zevahim 120 — זבחים קכ. Presented by זכריה ביננפלד.]]></description>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[זבחים]]></category>
+      <category><![CDATA[daf_yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="זבחים">1</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>26:39</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%96%D7%91%D7%97%D7%99%D7%9D_%D7%A7%D7%9B.mp3" type="audio/mpeg" length="27944550"/>
     </item>
   </channel>
 </rss>

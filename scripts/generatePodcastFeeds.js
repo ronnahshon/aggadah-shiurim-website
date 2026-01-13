@@ -159,6 +159,46 @@ const parseDurationToSeconds = (duration) => {
   return null;
 };
 
+// Parse a per-episode date used for RSS pubDate ordering.
+// Supported inputs:
+// - "YYYY-MM-DD" (treated as UTC midnight)
+// - "YYYY-MM-DDTHH:mm:ssZ" (any Date.parse()-compatible string)
+// - 8-digit number or string "YYYYMMDD"
+const parseEnglishDateToDate = (value) => {
+  if (!value) return null;
+
+  // YYYYMMDD as number or string
+  const compact = typeof value === 'number' ? String(value) : (typeof value === 'string' ? value.trim() : '');
+  if (/^\d{8}$/.test(compact)) {
+    const year = Number(compact.slice(0, 4));
+    const month = Number(compact.slice(4, 6));
+    const day = Number(compact.slice(6, 8));
+    if (year >= 1900 && year <= 2100 && month >= 1 && month <= 12 && day >= 1 && day <= 31) {
+      return new Date(Date.UTC(year, month - 1, day));
+    }
+  }
+
+  if (typeof value === 'string') {
+    const v = value.trim();
+    // YYYY-MM-DD (UTC midnight)
+    const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(v);
+    if (m) {
+      const year = Number(m[1]);
+      const month = Number(m[2]);
+      const day = Number(m[3]);
+      if (year >= 1900 && year <= 2100 && month >= 1 && month <= 12 && day >= 1 && day <= 31) {
+        return new Date(Date.UTC(year, month - 1, day));
+      }
+    }
+
+    // Datetime string (let JS parse, but only accept valid date)
+    const t = Date.parse(v);
+    if (!Number.isNaN(t)) return new Date(t);
+  }
+
+  return null;
+};
+
 const estimateEnclosureLength = (duration) => {
   const totalSeconds = parseDurationToSeconds(duration);
   if (!totalSeconds) return BYTES_PER_MINUTE_AT_128K;
@@ -167,6 +207,10 @@ const estimateEnclosureLength = (duration) => {
 };
 
 const buildPubDate = (shiur) => {
+  // Prefer per-episode date (more granular ordering in podcast apps)
+  const parsedDate = parseEnglishDateToDate(shiur.english_date);
+  if (parsedDate) return parsedDate;
+
   if (shiur.english_year && Number.isFinite(Number(shiur.english_year))) {
     const rawYear = Number(shiur.english_year);
     const gregorianYear = hebrewToGregorianYear(rawYear);
@@ -703,9 +747,13 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
   const enclosureUrl = episode.audio_url || `${S3_BASE_URL}${episode.id}.mp3`;
   if (!enclosureUrl) return null;
 
-  const pubDate = episode.english_year && Number.isFinite(Number(episode.english_year))
-    ? new Date(Date.UTC(hebrewToGregorianYear(Number(episode.english_year)) || 2024, 0, 1))
-    : FALLBACK_PUBDATE;
+  // Prefer per-episode date (more granular ordering in podcast apps)
+  const parsedDate = parseEnglishDateToDate(episode.english_date);
+  const pubDate = parsedDate
+    ? parsedDate
+    : (episode.english_year && Number.isFinite(Number(episode.english_year))
+      ? new Date(Date.UTC(hebrewToGregorianYear(Number(episode.english_year)) || 2024, 0, 1))
+      : FALLBACK_PUBDATE);
 
   const enclosureLength = estimateEnclosureLength(episode.length);
   // GUID stability matters for podcast clients. Allow overriding the GUID prefix id so we can

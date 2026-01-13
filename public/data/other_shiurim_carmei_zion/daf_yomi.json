@@ -24,6 +24,7 @@
       "shiur_num": 1,
       "length": "26:39",
       "english_year": 2026,
+      "english_date": "2026-01-12",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%96%D7%91%D7%97%D7%99%D7%9D_%D7%A7%D7%9B.mp3",
       "speaker": "זכריה ביננפלד"
     },
@@ -35,6 +36,7 @@
       "shiur_num": 2,
       "length": "27:45",
       "english_year": 2026,
+      "english_date": "2026-01-13",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%9E%D7%A0%D7%97%D7%95%D7%AA_%D7%91.mp3",
       "speaker": "זכריה ביננפלד"
     }
