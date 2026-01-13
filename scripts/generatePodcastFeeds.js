@@ -800,9 +800,10 @@ const processOtherSeries = () => {
         continue;
       }
 
-      // Build description with language indicator
+      // Build description with language indicator.
+      // Put the language line first (better "About" formatting in podcast apps).
       const languageLabel = CONTENT_LANGUAGES[contentLanguage] || CONTENT_LANGUAGES.english;
-      const fullDescription = `${series_metadata.description} שפה | Language: ${languageLabel}`;
+      const fullDescription = `שפה | Language: ${languageLabel}\n\n${series_metadata.description}`;
 
       // Generate feed file: public/podcast/carmei-zion/series/<series-id>.xml
       const feedRelativePath = `carmei-zion/series/${seriesIdToFilename(seriesId)}.xml`;
