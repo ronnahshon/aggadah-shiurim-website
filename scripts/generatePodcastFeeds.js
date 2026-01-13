@@ -40,7 +40,7 @@ const DERIVED_PODCASTS = [
   {
     id: 'ein-yaakov',
     title: 'אגדות הש״ס - עין יעקב | רון נחשון',
-    description: 'שיעורים מעמיקים בעין יעקב - אגדות הש"ס מאת רון נחשון מקהילת כרמי ציון בקרית גת. In-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.',
+    description: 'שיעורים מעמיקים בעין יעקב - אגדות הש"ס מאת רון נחשון מקהילת כרמי ציון בקרית גת.\n\n In-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.',
     // author defaults to PODCAST_AUTHOR ("כרמי ציון | Carmei Zion")
     email: 'ronnahshon@gmail.com',
     // cover_image defaults to COVER_ART_URL (carmei_zion_logo_2048_2048.png)
@@ -492,9 +492,9 @@ const processDerivedPodcasts = (allShiurim) => {
       contentLanguage = 'english',  // 'english' or 'hebrew'
     } = config;
 
-    // Build description with language indicator
+    // Build description with language indicator (language line first for better "About" formatting in apps).
     const languageLabel = CONTENT_LANGUAGES[contentLanguage] || CONTENT_LANGUAGES.english;
-    const fullDescription = `${description} שפה | Language: ${languageLabel}`;
+    const fullDescription = `שפה | Language: ${languageLabel}\n\n${description}`;
 
     // Filter shiurim using the config's filter function
     const filteredShiurim = allShiurim.filter(filterFn);
