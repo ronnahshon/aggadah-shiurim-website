@@ -79,20 +79,17 @@ const FALLBACK_PUBDATE = new Date(Date.UTC(2024, 0, 1));
 const BYTES_PER_MINUTE_AT_128K = 1048576; // 1MB/min as a safe default
 
 /**
- * Convert Hebrew calendar year to approximate Gregorian year.
- * Hebrew year 5784 corresponds roughly to 2023-2024 Gregorian.
- * The offset is approximately 3760 years.
+ * Normalize a Gregorian publication year.
+ *
+ * IMPORTANT: `public/data/shiurim_data.json` stores `english_year` as a Gregorian year
+ * (e.g. 2026), so we do not perform Hebrew->Gregorian conversion here anymore.
+ *
+ * We keep the input validation strict to avoid silently producing incorrect dates.
  */
-const hebrewToGregorianYear = (hebrewYear) => {
-  if (!hebrewYear || typeof hebrewYear !== 'number') return null;
-  // Hebrew years > 5000 are clearly Hebrew calendar
-  if (hebrewYear > 5000) {
-    return hebrewYear - 3760;
-  }
-  // If it's already a reasonable Gregorian year (2000-2100), use it as-is
-  if (hebrewYear >= 2000 && hebrewYear <= 2100) {
-    return hebrewYear;
-  }
+const normalizeGregorianYear = (value) => {
+  const n = Number(value);
+  if (!Number.isFinite(n)) return null;
+  if (n >= 1900 && n <= 2100) return n;
   return null;
 };
 
@@ -211,14 +208,8 @@ const buildPubDate = (shiur) => {
   const parsedDate = parseEnglishDateToDate(shiur.english_date);
   if (parsedDate) return parsedDate;
 
-  if (shiur.english_year && Number.isFinite(Number(shiur.english_year))) {
-    const rawYear = Number(shiur.english_year);
-    const gregorianYear = hebrewToGregorianYear(rawYear);
-    
-    if (gregorianYear && gregorianYear >= 2000 && gregorianYear <= 2100) {
-      return new Date(Date.UTC(gregorianYear, 0, 1));
-    }
-  }
+  const gregorianYear = normalizeGregorianYear(shiur.english_year);
+  if (gregorianYear) return new Date(Date.UTC(gregorianYear, 0, 1));
   return FALLBACK_PUBDATE;
 };
 
@@ -751,9 +742,10 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
   const parsedDate = parseEnglishDateToDate(episode.english_date);
   const pubDate = parsedDate
     ? parsedDate
-    : (episode.english_year && Number.isFinite(Number(episode.english_year))
-      ? new Date(Date.UTC(hebrewToGregorianYear(Number(episode.english_year)) || 2024, 0, 1))
-      : FALLBACK_PUBDATE);
+    : (() => {
+      const gregorianYear = normalizeGregorianYear(episode.english_year);
+      return gregorianYear ? new Date(Date.UTC(gregorianYear, 0, 1)) : FALLBACK_PUBDATE;
+    })();
 
   const enclosureLength = estimateEnclosureLength(episode.length);
   // GUID stability matters for podcast clients. Allow overriding the GUID prefix id so we can

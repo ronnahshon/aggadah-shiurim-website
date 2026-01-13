@@ -83,7 +83,8 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
      "audio_recording_link": "https://drive.google.com/...",
      "tags": ["relevant", "tags"],
      "hebrew_year": "תשפ״ה",
-     "english_year": 5785,
+     "english_year": 2025,
+     "english_date": "2025-01-15",
      "length": "25:30"
    }
    ```

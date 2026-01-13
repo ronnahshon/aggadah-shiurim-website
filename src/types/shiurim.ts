@@ -12,6 +12,11 @@ export interface Shiur {
   audio_recording_link: string;
   hebrew_year: string;
   english_year: string;
+  /**
+   * Optional Gregorian date for the shiur, used for RSS/podcast pubDate ordering.
+   * Prefer "YYYY-MM-DD" (UTC midnight) for stability across time zones.
+   */
+  english_date?: string;
   tags: string[];
   length?: string; // Audio duration in mm:ss format
 }
