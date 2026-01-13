@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[שיעורים בדף יומי מאת זכריה בידנפלד מקהילת כרמי ציון בקרית גת. Daily Daf Yomi shiurim. שפה | Language: אנגלית | English]]></description>
     <language>he</language>
-    <lastBuildDate>Mon, 12 Jan 2026 16:15:29 GMT</lastBuildDate>
-    <pubDate>Mon, 12 Jan 2026 16:15:29 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2026 06:24:53 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 06:24:53 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/daf-yomi.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -39,6 +39,24 @@
       <itunes:episode>1</itunes:episode>
       <itunes:duration>26:39</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%96%D7%91%D7%97%D7%99%D7%9D_%D7%A7%D7%9B.mp3" type="audio/mpeg" length="27944550"/>
+    </item>
+
+    <item>
+      <title><![CDATA[מנחות ב]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/מנחות_ב</guid>
+      <description><![CDATA[Menahot 2 — מנחות ב. Presented by זכריה בידנפלד.]]></description>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[מנחות]]></category>
+      <category><![CDATA[daf-yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <podcast:season name="מנחות">2</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>27:45</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%9E%D7%A0%D7%97%D7%95%D7%AA_%D7%91.mp3" type="audio/mpeg" length="29097984"/>
     </item>
   </channel>
 </rss>

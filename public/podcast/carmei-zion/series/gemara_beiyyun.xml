@@ -5,8 +5,8 @@
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[שיעורים מעמיקים בעיון בגמרא - לימוד ברמה גבוהה מאת הרב עמינדב גרוסמן ועוד חברי קהילת כרמי ציון בקרית גת. In-depth shiurim on halachic discussions in the Talmud. שפה | Language: עברית | Hebrew]]></description>
     <language>he</language>
-    <lastBuildDate>Mon, 12 Jan 2026 16:15:29 GMT</lastBuildDate>
-    <pubDate>Mon, 12 Jan 2026 16:15:29 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2026 06:24:53 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 06:24:53 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -22,6 +22,24 @@
     </itunes:owner>
     <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_2048_2048.png"/>
     <podcast:locked>no</podcast:locked>
+
+    <item>
+      <title><![CDATA[סוכה לז - דין חציצה בלולב]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/סוכה_לז_דין_חציצה_בלולב</guid>
+      <description><![CDATA[Sukkah 37 — סוכה לז - דין חציצה בלולב. Presented by דניאל היימלשטיין.]]></description>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[סוכה]]></category>
+      <category><![CDATA[gemara_beiyyun]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="סוכה">1</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>48:13</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9C%D7%96_%D7%93%D7%99%D7%9F_%D7%97%D7%A6%D7%99%D7%A6%D7%94_%D7%91%D7%9C%D7%95%D7%9C%D7%91.mp3" type="audio/mpeg" length="50558839"/>
+    </item>
 
     <item>
       <title><![CDATA[סוכה יב - כלי קיבול העשוי להתמלאות]]></title>

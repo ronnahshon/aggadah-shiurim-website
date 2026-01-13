@@ -68,6 +68,17 @@
       "english_year": 2025,
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9C_%D7%9E%D7%A6%D7%95%D7%95%D7%94_%D7%94%D7%91%D7%90%D7%94_%D7%91%D7%A2%D7%91%D7%99%D7%A8%D7%94.mp3",
       "speaker": "דניאל היימלשטיין"
+    },
+    {
+      "id": "carmei_zion_gemara_beiyyun/סוכה_לז_דין_חציצה_בלולב",
+      "hebrew_title": "סוכה לז - דין חציצה בלולב",
+      "english_title": "Sukkah 37",
+      "hebrew_sefer": "סוכה",
+      "shiur_num": 6,
+      "length": "48:13",
+      "english_year": 2026,
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9C%D7%96_%D7%93%D7%99%D7%9F_%D7%97%D7%A6%D7%99%D7%A6%D7%94_%D7%91%D7%9C%D7%95%D7%9C%D7%91.mp3",
+      "speaker": "דניאל היימלשטיין"
     }
   ]
 }
