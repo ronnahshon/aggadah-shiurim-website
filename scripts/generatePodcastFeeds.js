@@ -593,11 +593,18 @@ const processDerivedPodcasts = (allShiurim) => {
           if (shiur.english_title) descriptionLines.push(shiur.english_title);
           if (shiur.hebrew_title) descriptionLines.push(shiur.hebrew_title);
         }
-        if (shiur.source_sheet_link) descriptionLines.push(`דף מקורות: ${shiur.source_sheet_link}.`);
         // Use speaker name if provided, otherwise fall back to author
         const speakerName = speaker || author;
         descriptionLines.push(`Presented by ${speakerName}.`);
-        const episodeDescription = descriptionLines.filter(Boolean).join('\n\n').trim();
+
+        // Put the source sheet at the very bottom, with an extra blank line
+        // separating it from the "Presented by ..." line.
+        const sourceSheetLine = shiur.source_sheet_link ? `Source Sheet: ${shiur.source_sheet_link}.` : '';
+        let episodeDescription = descriptionLines.filter(Boolean).join('\n\n').trim();
+        if (sourceSheetLine) {
+          // extra blank line between Presented by and the source sheet
+          episodeDescription = `${episodeDescription}\n\n\n${sourceSheetLine}`.trim();
+        }
 
         // Episode title - Hebrew first if preferHebrew
         const episodeTitle = preferHebrew
