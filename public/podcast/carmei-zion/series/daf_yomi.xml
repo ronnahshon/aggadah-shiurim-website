@@ -9,8 +9,8 @@
 
 Daily Daf Yomi shiurim.]]></description>
     <language>he</language>
-    <lastBuildDate>Wed, 14 Jan 2026 08:47:51 GMT</lastBuildDate>
-    <pubDate>Wed, 14 Jan 2026 08:47:51 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2026 10:30:38 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Jan 2026 10:30:38 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -32,7 +32,25 @@ Daily Daf Yomi shiurim.]]></itunes:summary>
     <podcast:locked>no</podcast:locked>
 
     <item>
-      <title><![CDATA[מנחות ב]]></title>
+      <title><![CDATA[Menachos 3 | מנחות ג]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/מנחות ג</guid>
+      <description><![CDATA[Menachos 3 — מנחות ג. Presented by זכריה ביננפלד.]]></description>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[מנחות]]></category>
+      <category><![CDATA[daf_yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <podcast:season name="מנחות">2</podcast:season>
+      <itunes:episode>1768384266</itunes:episode>
+      <itunes:duration>32:21</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/מנחות ג.m4a" type="audio/mpeg" length="33921434"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Menahot 2 | מנחות ב]]></title>
       <link>https://www.midrashaggadah.com</link>
       <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/מנחות_ב</guid>
       <description><![CDATA[Menahot 2 — מנחות ב. Presented by זכריה ביננפלד.]]></description>
@@ -50,7 +68,7 @@ Daily Daf Yomi shiurim.]]></itunes:summary>
     </item>
 
     <item>
-      <title><![CDATA[זבחים קכ]]></title>
+      <title><![CDATA[Zevahim 120 | זבחים קכ]]></title>
       <link>https://www.midrashaggadah.com</link>
       <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/זבחים_קכ</guid>
       <description><![CDATA[Zevahim 120 — זבחים קכ. Presented by זכריה ביננפלד.]]></description>

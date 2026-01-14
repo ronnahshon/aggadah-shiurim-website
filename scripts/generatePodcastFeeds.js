@@ -738,6 +738,15 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
   const enclosureUrl = episode.audio_url || `${S3_BASE_URL}${episode.id}.mp3`;
   if (!enclosureUrl) return null;
 
+  // Prefer a combined bilingual title when both are present: "English | Hebrew"
+  // (Used for additional series feeds like daf_yomi, gemara_beiyyun, shiurim_meyuhadim.)
+  const buildBilingualEpisodeTitle = (ep) => {
+    const en = typeof ep?.english_title === 'string' ? ep.english_title.trim() : '';
+    const he = typeof ep?.hebrew_title === 'string' ? ep.hebrew_title.trim() : '';
+    if (en && he) return `${en} | ${he}`;
+    return he || en || 'Shiur';
+  };
+
   // Prefer per-episode date (more granular ordering in podcast apps)
   const parsedDate = parseEnglishDateToDate(episode.english_date);
   const pubDate = parsedDate
@@ -776,7 +785,7 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
   return {
     guid,
     link,
-    title: episode.hebrew_title || episode.english_title || 'Shiur',
+    title: buildBilingualEpisodeTitle(episode),
     description,
     pubDate: pubDate.toUTCString(),
     duration: episode.length || '',
