@@ -576,19 +576,28 @@ const processDerivedPodcasts = (allShiurim) => {
         const seasonNumber = derivedSeferMap.get(sefer) || 1;
         const episodeNumber = shiur.shiur_num || shiur.global_id || 1;
 
-        // Build description - Hebrew first if preferHebrew
-        const descParts = [];
+        // Build description with line breaks (Spotify renders newlines well in CDATA).
+        // Requested format:
+        // Hebrew title
+        //
+        // English title
+        //
+        // דף מקורות: <url>.
+        //
+        // Presented by <speaker>.
+        const descriptionLines = [];
         if (preferHebrew) {
-          if (shiur.hebrew_title) descParts.push(shiur.hebrew_title);
-          if (shiur.english_title) descParts.push(shiur.english_title);
+          if (shiur.hebrew_title) descriptionLines.push(shiur.hebrew_title);
+          if (shiur.english_title) descriptionLines.push(shiur.english_title);
         } else {
-          if (shiur.english_title) descParts.push(shiur.english_title);
-          if (shiur.hebrew_title) descParts.push(shiur.hebrew_title);
+          if (shiur.english_title) descriptionLines.push(shiur.english_title);
+          if (shiur.hebrew_title) descriptionLines.push(shiur.hebrew_title);
         }
-        if (shiur.source_sheet_link) descParts.push(`דף מקורות: ${shiur.source_sheet_link}`);
+        if (shiur.source_sheet_link) descriptionLines.push(`דף מקורות: ${shiur.source_sheet_link}.`);
         // Use speaker name if provided, otherwise fall back to author
         const speakerName = speaker || author;
-        const episodeDescription = `${descParts.join(' — ')}. מאת ${speakerName}.`.trim();
+        descriptionLines.push(`Presented by ${speakerName}.`);
+        const episodeDescription = descriptionLines.filter(Boolean).join('\n\n').trim();
 
         // Episode title - Hebrew first if preferHebrew
         const episodeTitle = preferHebrew
