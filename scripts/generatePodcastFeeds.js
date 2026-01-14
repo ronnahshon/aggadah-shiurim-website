@@ -779,7 +779,7 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
   const descriptionParts = [];
   if (episode.english_title) descriptionParts.push(episode.english_title);
   if (episode.hebrew_title) descriptionParts.push(episode.hebrew_title);
-  const descriptionPrefix = descriptionParts.length ? `${descriptionParts.join(' — ')}. ` : '';
+  const descriptionPrefix = descriptionParts.length ? `${descriptionParts.join(' | ')}. ` : '';
   const description = `${descriptionPrefix}Presented by ${episodeSpeaker}.`.trim();
 
   return {
