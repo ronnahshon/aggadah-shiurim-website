@@ -1,0 +1,33 @@
+{
+  "Version": "2012-10-17",
+  "Id": "SQSAccessPolicy",
+  "Statement": [
+    {
+      "Sid": "AllowS3ToSendMessage",
+      "Effect": "Allow",
+      "Principal": {
+        "Service": "s3.amazonaws.com"
+      },
+      "Action": "sqs:SendMessage",
+      "Resource": "arn:aws:sqs:eu-north-1:225544936431:midrash-aggadah-upload-queue",
+      "Condition": {
+        "ArnEquals": {
+          "aws:SourceArn": "arn:aws:s3:::midrash-aggadah"
+        }
+      }
+    },
+    {
+      "Sid": "AllowLambdaToReceiveMessage",
+      "Effect": "Allow",
+      "Principal": {
+        "Service": "lambda.amazonaws.com"
+      },
+      "Action": [
+        "sqs:ReceiveMessage",
+        "sqs:DeleteMessage",
+        "sqs:GetQueueAttributes"
+      ],
+      "Resource": "arn:aws:sqs:eu-north-1:225544936431:midrash-aggadah-upload-queue"
+    }
+  ]
+}

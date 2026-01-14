@@ -1,0 +1,11 @@
+{
+  "name": "s3-to-github-updater",
+  "version": "1.0.0",
+  "description": "Lambda function to update GitHub repo when audio files are uploaded to S3",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "@aws-sdk/client-s3": "^3.700.0"
+  }
+}
