@@ -792,11 +792,13 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
 
   const episodeSpeaker = episode.speaker || defaultSpeaker || PODCAST_AUTHOR;
 
-  const descriptionParts = [];
-  if (episode.english_title) descriptionParts.push(episode.english_title);
-  if (episode.hebrew_title) descriptionParts.push(episode.hebrew_title);
-  const descriptionPrefix = descriptionParts.length ? `${descriptionParts.join(' | ')}. ` : '';
-  const description = `${descriptionPrefix}Presented by ${episodeSpeaker}.`.trim();
+  // Build a multiline description so apps render this cleanly, and include Source Sheet when present.
+  const descriptionLines = [];
+  const titleLine = [episode.english_title, episode.hebrew_title].filter(Boolean).join(' | ').trim();
+  if (titleLine) descriptionLines.push(titleLine);
+  descriptionLines.push(`Presented by ${episodeSpeaker}.`);
+  if (episode.source_sheet_link) descriptionLines.push(`Source Sheet: ${episode.source_sheet_link}.`);
+  const description = descriptionLines.filter(Boolean).join('\n\n').trim();
 
   return {
     guid,
