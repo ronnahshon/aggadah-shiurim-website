@@ -40,7 +40,7 @@ const DERIVED_PODCASTS = [
   {
     id: 'ein-yaakov',
     title: 'אגדות הש״ס - עין יעקב | רון נחשון',
-    description: 'שיעורים מעמיקים בעין יעקב - אגדות הש"ס מאת רון נחשון מקהילת כרמי ציון בקרית גת.\n\n In-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.',
+    description: 'שיעורים מעמיקים בעין יעקב - אגדות הש"ס מאת רון נחשון מקהילת כרמי ציון בקרית גת.\n\nIn-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.\n\nFor more please visit <a href="https://www.midrashaggadah.com">www.midrashaggadah.com</a>',
     // author defaults to PODCAST_AUTHOR ("כרמי ציון | Carmei Zion")
     email: 'ronnahshon@gmail.com',
     // cover_image defaults to COVER_ART_URL (carmei_zion_logo_2048_2048.png)
