@@ -257,7 +257,7 @@ const HomePage: React.FC = () => {
       {/* Sample shiurim section */}
       <section className="py-1">
         <div className="content-container">
-          <div className="mt-10 mb-12">
+          <div className="mt-4 mb-12">
             <p className="text-center text-lg max-w-3xl mx-auto text-biblical-brown">
               <span className="font-semibold">NEW!</span> You can now listen to our Ein Yaakov shiurim via podcast! All you need to do is scan the relevant QR Code below to begin.
             </p>
@@ -317,7 +317,7 @@ const HomePage: React.FC = () => {
 
           <div className="text-center mb-12">
             <p className="text-lg max-w-3xl mx-auto text-biblical-brown animate-fade-in">
-              Or, browse through some sample shiurim on Ein Yaakov.
+              If you don't know where to start, feel free to browse some sample Ein Yaakov shiurim below.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
