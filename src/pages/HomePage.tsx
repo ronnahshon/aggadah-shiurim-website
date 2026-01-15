@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { Book, Search, X, Filter, Clock } from 'lucide-react';
+import { Book, Search, X, Filter, Clock, Apple, Youtube, Podcast, Music, ShoppingBag } from 'lucide-react';
 import { Shiur, SearchFilters } from '@/types/shiurim';
 import { formatTitle, searchShiurim, getUniqueCategories, getUniqueSubCategories, getUniqueSefarim, countShiurimInFilter } from '@/utils/dataUtils';
 import { generateWebsiteStructuredData, generateHomepageFAQStructuredData, generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
@@ -257,6 +257,64 @@ const HomePage: React.FC = () => {
       {/* Sample shiurim section */}
       <section className="py-1">
         <div className="content-container">
+          <div className="mt-10 mb-12">
+            <p className="text-center text-lg max-w-3xl mx-auto text-biblical-brown">
+              <span className="font-semibold">NEW!</span> You can now listen to our Ein Yaakov shiurim via podcast! All you need to do is scan the relevant QR Code below to begin.
+            </p>
+
+            <div className="mt-8 flex gap-6 justify-center flex-nowrap overflow-x-auto pb-2">
+              {[
+                {
+                  key: 'spotify',
+                  name: 'Spotify',
+                  qrSrc: '/images/qr_codes_for_podcasts/ein_yaakov_qr_codes/ein-yaakov-spotify.png',
+                  Icon: Music,
+                },
+                {
+                  key: 'apple',
+                  name: 'Apple',
+                  qrSrc: '/images/qr_codes_for_podcasts/ein_yaakov_qr_codes/ein-yaakov-apple.png',
+                  Icon: Apple,
+                },
+                {
+                  key: 'youtube',
+                  name: 'YouTube',
+                  qrSrc: '/images/qr_codes_for_podcasts/ein_yaakov_qr_codes/ein-yaakov-youtube.png',
+                  Icon: Youtube,
+                },
+                {
+                  key: 'pocketcasts',
+                  name: 'Pocket Casts',
+                  qrSrc: '/images/qr_codes_for_podcasts/ein_yaakov_qr_codes/ein-yaakov-pocketcasts.png',
+                  Icon: Podcast,
+                },
+                {
+                  key: 'amazon',
+                  name: 'Amazon',
+                  qrSrc: '/images/qr_codes_for_podcasts/ein_yaakov_qr_codes/ein-yaakov-amazon.png',
+                  Icon: ShoppingBag,
+                },
+              ].map(({ key, name, qrSrc, Icon }) => (
+                <div
+                  key={key}
+                  className="bg-white/85 rounded-xl border border-biblical-gold/20 shadow-sm p-4 flex flex-col items-center text-center flex-shrink-0 w-[12.35rem]"
+                >
+                  <div className="text-sm font-semibold text-biblical-brown mb-3">{name}</div>
+                  <img
+                    src={qrSrc}
+                    alt={`${name} QR code for Ein Yaakov podcast`}
+                    className="w-[9.5rem] h-[9.5rem] object-contain rounded-md bg-white"
+                    loading="lazy"
+                  />
+                  <div className="mt-3 text-biblical-brown/80">
+                    <Icon size={20} aria-hidden="true" />
+                    <span className="sr-only">{name}</span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+
           <div className="text-center mb-12">
             <p className="text-lg max-w-3xl mx-auto text-biblical-brown animate-fade-in">
               Or, browse through some sample shiurim on Ein Yaakov.
