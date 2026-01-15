@@ -1,0 +1,1486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carmei Zion Shiurim Upload</title>
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.1674.0.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            margin-bottom: 8px;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 14px;
+        }
+
+        .content {
+            padding: 30px 20px;
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+
+        .section-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 500;
+            color: #555;
+            font-size: 14px;
+        }
+
+        label .required {
+            color: #e74c3c;
+        }
+
+        input[type="text"],
+        input[type="number"],
+        input[type="url"],
+        select {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+
+        input[type="text"]:focus,
+        input[type="number"]:focus,
+        input[type="url"]:focus,
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        .file-button {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #667eea;
+            color: white;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: background 0.3s;
+            text-align: center;
+        }
+
+        .file-button:hover {
+            background: #5568d3;
+        }
+
+        .file-name {
+            margin-top: 10px;
+            padding: 10px;
+            background: #f0f0f0;
+            border-radius: 6px;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .upload-button {
+            flex: 2;
+            padding: 16px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .upload-button:hover:not(:disabled) {
+            transform: translateY(-2px);
+        }
+
+        .upload-button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            pointer-events: auto;
+        }
+
+        .verify-button {
+            flex: 1;
+            padding: 16px;
+            background: white;
+            color: #667eea;
+            border: 2px solid #667eea;
+            border-radius: 8px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .verify-button:hover:not(:disabled) {
+            background: #f0f0ff;
+            transform: translateY(-2px);
+        }
+
+        .verify-button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            pointer-events: auto;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            overflow: auto;
+        }
+
+        .modal-content {
+            background-color: white;
+            margin: 5% auto;
+            padding: 30px;
+            border-radius: 16px;
+            max-width: 700px;
+            max-height: 80vh;
+            overflow-y: auto;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .modal-header h2 {
+            font-size: 24px;
+            color: #333;
+        }
+
+        .close-button {
+            font-size: 28px;
+            font-weight: bold;
+            color: #999;
+            cursor: pointer;
+            background: none;
+            border: none;
+            padding: 0;
+            width: 30px;
+            height: 30px;
+            line-height: 30px;
+            text-align: center;
+        }
+
+        .close-button:hover {
+            color: #333;
+        }
+
+        .verification-section {
+            margin-bottom: 25px;
+        }
+
+        .verification-section h3 {
+            font-size: 18px;
+            color: #667eea;
+            margin-bottom: 12px;
+            font-weight: 600;
+        }
+
+        .verification-item {
+            background: #f8f9fa;
+            padding: 12px;
+            border-radius: 6px;
+            margin-bottom: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            word-break: break-all;
+            color: #333;
+        }
+
+        .json-display {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 6px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            white-space: pre-wrap;
+            word-break: break-word;
+            color: #333;
+            border: 1px solid #e0e0e0;
+        }
+
+        .progress-container {
+            margin-top: 20px;
+            display: none;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 30px;
+            background: #e0e0e0;
+            border-radius: 15px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            transition: width 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        .message {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 8px;
+            display: none;
+        }
+
+        .message.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .message.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        .warning-box {
+            margin-top: 20px;
+            padding: 15px;
+            background: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeaa7;
+            border-radius: 8px;
+            font-size: 14px;
+            display: none;
+        }
+
+        .warning-box.show {
+            display: block;
+        }
+
+        .warning-box strong {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .duration-display {
+            margin-top: 10px;
+            padding: 10px;
+            background: #e8f4f8;
+            border-radius: 6px;
+            font-size: 14px;
+            color: #0066cc;
+            font-weight: 500;
+        }
+
+        .file-info-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .file-info-text {
+            flex: 1;
+            padding: 10px;
+            background: #f0f0f0;
+            border-radius: 6px;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .play-button {
+            padding: 10px 16px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 18px;
+            transition: background 0.3s;
+            min-width: 50px;
+            text-align: center;
+        }
+
+        .play-button:hover {
+            background: #5568d3;
+        }
+
+        .play-button:active {
+            transform: scale(0.95);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎙️ Carmei Zion Shiurim Upload</h1>
+            <p>Upload shiurim to S3 with metadata</p>
+            <button id="resetCredentialsBtn" style="margin-top: 10px; padding: 8px 16px; background: rgba(255,255,255,0.2); color: white; border: 1px solid white; border-radius: 6px; cursor: pointer; font-size: 12px;">🔄 Reset Credentials</button>
+        </div>
+
+        <div class="content">
+            <!-- File Selection -->
+            <div class="section">
+                <div class="section-title">Audio File</div>
+                <label for="audioFile" class="file-button">📁 Select Audio File</label>
+                <input type="file" id="audioFile" accept="audio/*">
+                <div id="fileInfoContainer" class="hidden">
+                    <div class="file-info-row">
+                        <div id="fileName" class="file-info-text"></div>
+                        <button id="playButton" class="play-button">▶️</button>
+                    </div>
+                </div>
+                <div id="duration" class="duration-display hidden"></div>
+            </div>
+
+            <!-- Attachment (Optional) -->
+            <div class="section">
+                <div class="section-title">Attachment (Optional)</div>
+                <label for="attachmentFile" class="file-button">📎 Select File or Take Photo</label>
+                <input type="file" id="attachmentFile" accept="image/*,application/pdf,.doc,.docx" capture="environment">
+                <div id="attachmentName" class="file-name hidden"></div>
+            </div>
+
+            <!-- Shiur Type -->
+            <div class="section">
+                <div class="section-title">Shiur Type</div>
+                <div class="form-group">
+                    <label for="shiurType">Type <span class="required">*</span></label>
+                    <select id="shiurType">
+                        <option value="Ein Yaakov">Ein Yaakov</option>
+                        <option value="Daf Yomi">Daf Yomi</option>
+                        <option value="Gemara Iyun">Gemara Iyun</option>
+                        <option value="Meyuchadim">Meyuchadim</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group hidden" id="customFolderGroup">
+                    <label for="customFolder">S3 Folder Path <span class="required">*</span></label>
+                    <input type="text" id="customFolder" placeholder="e.g., audio/custom_folder">
+                </div>
+            </div>
+
+            <!-- Common Metadata -->
+            <!-- Common Metadata -->
+            <div id="commonTitleFields" class="section">
+                <div class="section-title">Metadata</div>
+                <div class="form-group">
+                    <label for="hebrewTitle">Hebrew Title <span class="required">*</span></label>
+                    <input type="text" id="hebrewTitle" placeholder="כותרת בעברית">
+                </div>
+                <div class="form-group">
+                    <label for="englishTitle">English Title <span class="required">*</span></label>
+                    <input type="text" id="englishTitle" placeholder="English Title">
+                </div>
+            </div>
+
+            <!-- Speaker (for all types) -->
+            <div class="section">
+                <div class="form-group">
+                    <label for="speakerCommon">Speaker <span class="required">*</span></label>
+                    <input type="text" id="speakerCommon" placeholder="Speaker Name">
+                </div>
+            </div>
+
+            <!-- Ein Yaakov Specific Fields -->
+            <div id="einYaakovFields" class="section">
+                <div class="form-group">
+                    <label for="subCategory">Sub Category</label>
+                    <input type="text" id="subCategory" placeholder="Optional">
+                </div>
+                <div class="form-group">
+                    <label for="hebrewSefer">Hebrew Sefer</label>
+                    <input type="text" id="hebrewSefer" placeholder="שם הספר בעברית">
+                </div>
+                <div class="form-group">
+                    <label for="englishSefer">English Sefer</label>
+                    <input type="text" id="englishSefer" placeholder="Sefer Name">
+                </div>
+                <div class="form-group">
+                    <label for="globalId">Global ID</label>
+                    <input type="number" id="globalId" placeholder="Optional">
+                </div>
+                <div class="form-group">
+                    <label for="sourceSheetLink">Source Sheet Link</label>
+                    <input type="url" id="sourceSheetLink" placeholder="https://...">
+                </div>
+            </div>
+
+            <!-- Other Shiurim Fields -->
+            <div id="otherShiurimFields" class="section hidden">
+                <div class="form-group">
+                    <label for="hebrewSeferOther">Hebrew Sefer</label>
+                    <input type="text" id="hebrewSeferOther" placeholder="שם הספר בעברית">
+                </div>
+            </div>
+
+            <!-- Daf Yomi Fields -->
+            <div id="dafYomiFields" class="section hidden">
+                <div class="form-group">
+                    <label for="hebrewMesechet">מסכת בעברית <span class="required">*</span></label>
+                    <input type="text" id="hebrewMesechet" placeholder="ברכות">
+                </div>
+                <div class="form-group">
+                    <label for="englishMesechet">Mesechet in English <span class="required">*</span></label>
+                    <input type="text" id="englishMesechet" placeholder="Berachos">
+                </div>
+                <div class="form-group">
+                    <label for="dafNumber">Daf Number <span class="required">*</span></label>
+                    <input type="number" id="dafNumber" placeholder="2" min="1">
+                </div>
+            </div>
+
+            <!-- Verification and Upload Buttons -->
+            <div style="display: flex; gap: 12px;">
+                <button id="verifyButton" class="verify-button" data-disabled="true" style="opacity: 0.5; cursor: not-allowed;">🔍 Verify</button>
+                <button id="uploadButton" class="upload-button" data-disabled="true" style="opacity: 0.5; cursor: not-allowed;">Upload to S3</button>
+            </div>
+
+            <!-- Warning Box -->
+            <div id="warningBox" class="warning-box">
+                <strong>⚠️ Important:</strong>
+                Keep this page open and your computer awake during upload. Closing the tab or putting your computer to sleep will interrupt the upload.
+            </div>
+
+            <!-- Progress -->
+            <div id="progressContainer" class="progress-container">
+                <div class="progress-bar">
+                    <div id="progressFill" class="progress-fill">0%</div>
+                </div>
+            </div>
+
+            <!-- Message -->
+            <div id="message" class="message"></div>
+        </div>
+    </div>
+
+    <!-- Verification Modal -->
+    <div id="verificationModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>🔍 Upload Verification</h2>
+                <button class="close-button" id="closeModalButton">&times;</button>
+            </div>
+            
+            <div class="verification-section">
+                <h3>S3 Upload Locations:</h3>
+                <div class="verification-item" id="audioLocation"></div>
+                <div class="verification-item" id="manifestLocation"></div>
+                <div class="verification-item" id="attachmentLocation" style="display: none;"></div>
+            </div>
+            
+            <div class="verification-section">
+                <h3>Metadata JSON:</h3>
+                <div class="json-display" id="jsonDisplay"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // AWS Configuration
+        const AWS_CONFIG = {
+            accessKeyId: 'REPLACE_ME',
+            secretAccessKey: 'REPLACE_ME',
+            region: 'eu-north-1',
+            bucketName: 'midrash-aggadah'
+        };
+
+        let s3 = null;
+        let credentialsValidated = false;
+        
+        // Cookie management for secure credential storage
+        function setCookie(name, value, days) {
+            const expires = new Date();
+            expires.setTime(expires.getTime() + days * 24 * 60 * 60 * 1000);
+            // URL encode the value to handle special characters
+            const encodedValue = encodeURIComponent(value);
+            
+            document.cookie = `${name}=${encodedValue};expires=${expires.toUTCString()};path=/;SameSite=Strict;Secure`;
+            
+            console.log(`Cookie set: ${name} (expires in ${days} days)`);
+        }
+        
+        function getCookie(name) {
+            const nameEQ = name + "=";
+            const ca = document.cookie.split(';');
+            for (let i = 0; i < ca.length; i++) {
+                let c = ca[i];
+                while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) === 0) {
+                    // URL decode the value
+                    const value = decodeURIComponent(c.substring(nameEQ.length, c.length));
+                    console.log(`Cookie retrieved: ${name}`);
+                    return value;
+                }
+            }
+            console.log(`Cookie not found: ${name}`);
+            return null;
+        }
+        
+        // Test AWS credentials by uploading a 0-byte test file
+        async function testCredentials(accessKey, secretKey) {
+            try {
+                console.log('Testing credentials...');
+                console.log('Access Key:', accessKey.substring(0, 8) + '...');
+                console.log('Secret Key length:', secretKey.length);
+                
+                const testS3 = new AWS.S3({
+                    accessKeyId: accessKey,
+                    secretAccessKey: secretKey,
+                    region: AWS_CONFIG.region
+                });
+                
+                const testKey = `testing/${Date.now()}`;
+                console.log('Uploading test file to:', testKey);
+                
+                // Use promise-based approach with proper error handling
+                return new Promise((resolve, reject) => {
+                    testS3.upload({
+                        Bucket: AWS_CONFIG.bucketName,
+                        Key: testKey,
+                        Body: new Blob([]),
+                        ContentType: 'application/octet-stream'
+                    }, (err, data) => {
+                        if (err) {
+                            console.error('Upload error:', err);
+                            reject(err);
+                        } else {
+                            console.log('Credentials test successful!');
+                            resolve(true);
+                        }
+                    });
+                }).then(() => true).catch((error) => {
+                    console.error('Credential test failed:', error);
+                    console.error('Error code:', error.code);
+                    console.error('Error message:', error.message);
+                    return false;
+                });
+                
+            } catch (error) {
+                console.error('Credential test failed:', error);
+                console.error('Error code:', error.code);
+                console.error('Error message:', error.message);
+                return false;
+            }
+        }
+        
+        // Initialize AWS with credentials
+        function initializeAWS(accessKey, secretKey) {
+            AWS.config.update({
+                accessKeyId: accessKey,
+                secretAccessKey: secretKey,
+                region: AWS_CONFIG.region
+            });
+            s3 = new AWS.S3();
+            credentialsValidated = true;
+        }
+        
+        // Show credential prompt
+        async function promptForCredentials() {
+            const message = `⚙️ ONE-TIME SETUP - AWS Credentials Required
+
+To use this uploader, you need AWS credentials. You can:
+
+(a) Contact Ron or Zach to get the password
+(b) Log into AWS Console:
+    1. Go to: https://us-east-1.console.aws.amazon.com/secretsmanager/secret?name=CarmeiZionUploader&region=us-east-1
+    2. Click "Retrieve secret value"
+    3. Copy the credentials
+
+Enter credentials in format: <AccessKeyID>+<SecretKey>
+Example: MY_AWS_KEY+MY_AWS_SECRET`;
+            
+            const credentials = prompt(message);
+            if (!credentials || credentials.trim() === '') {
+                alert('Credentials are required to use this application.');
+                return false;
+            }
+            
+            // Parse credentials
+            const parts = credentials.trim().split('+');
+            
+            // Debug: log the parts
+            console.log('Credential parts:', parts.length, parts);
+            
+            if (parts.length !== 2) {
+                alert(`Invalid format. Please enter credentials as: <AccessKeyID>+<SecretKey>\n\nReceived ${parts.length} parts. Make sure there is exactly one + sign between the keys.`);
+                return false;
+            }
+            
+            const accessKey = parts[0].trim();
+            const secretKey = parts[1].trim();
+            
+            console.log('Access Key length:', accessKey.length);
+            console.log('Secret Key length:', secretKey.length);
+            
+            if (!accessKey || !secretKey) {
+                alert('Both Access Key ID and Secret Access Key are required.');
+                return false;
+            }
+            
+            // Show loading message
+            const loadingDiv = document.createElement('div');
+            loadingDiv.style.cssText = 'position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); z-index: 10000; text-align: center;';
+            loadingDiv.innerHTML = '<h3>Testing credentials...</h3><p>Please wait while we verify your credentials.</p>';
+            document.body.appendChild(loadingDiv);
+            
+            // Test credentials
+            const isValid = await testCredentials(accessKey, secretKey);
+            document.body.removeChild(loadingDiv);
+            
+            if (isValid) {
+                // Store in secure cookie (30 days)
+                setCookie('aws_access_key', accessKey, 30);
+                setCookie('aws_secret_key', secretKey, 30);
+                initializeAWS(accessKey, secretKey);
+                alert('✅ Credentials validated successfully! You can now use the uploader.');
+                return true;
+            } else {
+                alert('❌ Invalid credentials. Please try again.\n\nMake sure you entered the credentials in the correct format: <AccessKeyID>+<SecretKey>\n\nCheck the browser console (F12) for more details.');
+                return false;
+            }
+        }
+        
+        // Check and load credentials on page load
+        async function checkCredentials() {
+            console.log('Checking credentials...');
+            
+            // Check if credentials are hardcoded
+            if (AWS_CONFIG.accessKeyId !== 'REPLACE_ME' && AWS_CONFIG.secretAccessKey !== 'REPLACE_ME') {
+                console.log('Using hardcoded credentials');
+                initializeAWS(AWS_CONFIG.accessKeyId, AWS_CONFIG.secretAccessKey);
+                return true;
+            }
+            
+            // Check if credentials are stored in cookies
+            const storedAccessKey = getCookie('aws_access_key');
+            const storedSecretKey = getCookie('aws_secret_key');
+            
+            console.log('Stored credentials found:', !!storedAccessKey, !!storedSecretKey);
+            
+            if (storedAccessKey && storedSecretKey) {
+                console.log('Testing stored credentials...');
+                // Test stored credentials
+                const isValid = await testCredentials(storedAccessKey, storedSecretKey);
+                if (isValid) {
+                    console.log('Stored credentials are valid');
+                    initializeAWS(storedAccessKey, storedSecretKey);
+                    return true;
+                } else {
+                    // Stored credentials are invalid, prompt for new ones
+                    console.log('Stored credentials are invalid');
+                    alert('Stored credentials are no longer valid. Please enter new credentials.');
+                    return await promptForCredentials();
+                }
+            }
+            
+            // No credentials found, prompt user
+            console.log('No stored credentials, prompting user...');
+            return await promptForCredentials();
+        }
+        
+        let isUploading = false;
+        let wakeLock = null;
+        let selectedFile = null;
+        let selectedAttachment = null;
+        let audioDuration = '';
+        let audioElement = null;
+        let isPlaying = false;
+
+        // Prevent accidental page close during upload
+        window.addEventListener('beforeunload', (e) => {
+            if (isUploading) {
+                e.preventDefault();
+                e.returnValue = 'Upload in progress. Are you sure you want to leave?';
+                return e.returnValue;
+            }
+        });
+
+        // Request wake lock to keep screen on during upload
+        async function requestWakeLock() {
+            if ('wakeLock' in navigator) {
+                try {
+                    wakeLock = await navigator.wakeLock.request('screen');
+                    console.log('Wake lock acquired');
+                    
+                    wakeLock.addEventListener('release', () => {
+                        console.log('Wake lock released');
+                    });
+                } catch (err) {
+                    console.error('Wake lock error:', err);
+                }
+            }
+        }
+
+        function releaseWakeLock() {
+            if (wakeLock !== null) {
+                wakeLock.release()
+                    .then(() => {
+                        wakeLock = null;
+                    })
+                    .catch((err) => {
+                        console.error('Wake lock release error:', err);
+                    });
+            }
+        }
+
+        // Handle visibility change
+        document.addEventListener('visibilitychange', () => {
+            if (document.hidden && isUploading) {
+                console.warn('Page hidden during upload - upload may be interrupted');
+            } else if (!document.hidden && wakeLock === null && isUploading) {
+                // Try to reacquire wake lock when page becomes visible again
+                requestWakeLock();
+            }
+        });
+
+        // Wait for DOM to be ready
+        document.addEventListener('DOMContentLoaded', async function() {
+            // Check credentials first
+            const hasCredentials = await checkCredentials();
+            if (!hasCredentials) {
+                // Disable the page if credentials are not provided
+                document.body.innerHTML = '<div style="text-align: center; padding: 50px; font-family: sans-serif;"><h1>⚠️ Credentials Required</h1><p>Please refresh the page and enter valid AWS credentials.</p></div>';
+                return;
+            }
+            
+            // DOM Elements
+            const audioFileInput = document.getElementById('audioFile');
+            const fileInfoContainer = document.getElementById('fileInfoContainer');
+            const fileNameDiv = document.getElementById('fileName');
+            const playButton = document.getElementById('playButton');
+            const durationDiv = document.getElementById('duration');
+            const attachmentFileInput = document.getElementById('attachmentFile');
+            const attachmentNameDiv = document.getElementById('attachmentName');
+            const shiurTypeSelect = document.getElementById('shiurType');
+            const customFolderGroup = document.getElementById('customFolderGroup');
+            const commonTitleFields = document.getElementById('commonTitleFields');
+            const einYaakovFields = document.getElementById('einYaakovFields');
+            const otherShiurimFields = document.getElementById('otherShiurimFields');
+            const dafYomiFields = document.getElementById('dafYomiFields');
+            const uploadButton = document.getElementById('uploadButton');
+            const verifyButton = document.getElementById('verifyButton');
+            const progressContainer = document.getElementById('progressContainer');
+            const progressFill = document.getElementById('progressFill');
+            const messageDiv = document.getElementById('message');
+            const warningBox = document.getElementById('warningBox');
+
+            // Convert number to Hebrew letters
+            function numberToHebrewLetters(num) {
+                const ones = ['', 'א', 'ב', 'ג', 'ד', 'ה', 'ו', 'ז', 'ח', 'ט'];
+                const tens = ['', 'י', 'כ', 'ל', 'מ', 'נ', 'ס', 'ע', 'פ', 'צ'];
+                const hundreds = ['', 'ק', 'ר', 'ש', 'ת'];
+                
+                let result = '';
+                const h = Math.floor(num / 100);
+                const remainder = num % 100;
+                const t = Math.floor(remainder / 10);
+                const o = remainder % 10;
+            
+                // Add hundreds
+                if (h > 0) result += hundreds[h];
+                
+                // Special cases for 15 and 16 (to avoid spelling God's name)
+                if (remainder === 15) {
+                    result += 'טו';
+                } else if (remainder === 16) {
+                    result += 'טז';
+                } else {
+                    // Normal case
+                    if (t > 0) result += tens[t];
+                    if (o > 0) result += ones[o];
+                }
+            
+                return result;
+            }
+
+        // File Selection
+        audioFileInput.addEventListener('change', async (e) => {
+            const file = e.target.files[0];
+            if (file) {
+                // Stop any playing audio when selecting a new file
+                stopAudio();
+                
+                selectedFile = file;
+                fileNameDiv.textContent = `Selected: ${file.name}`;
+                fileInfoContainer.classList.remove('hidden');
+                
+                // Get audio duration
+                try {
+                    const duration = await getAudioDuration(file);
+                    audioDuration = formatDuration(duration);
+                    durationDiv.textContent = `Duration: ${audioDuration}`;
+                    durationDiv.classList.remove('hidden');
+                } catch (error) {
+                    console.error('Error getting duration:', error);
+                    audioDuration = '';
+                }
+                
+                validateForm();
+            }
+        });
+
+        // Play/Pause Audio
+        playButton.addEventListener('click', () => {
+            if (!selectedFile) return;
+            
+            if (isPlaying) {
+                stopAudio();
+            } else {
+                playAudio();
+            }
+        });
+
+        function playAudio() {
+            if (!selectedFile) return;
+            
+            try {
+                // Create audio element if it doesn't exist
+                if (!audioElement) {
+                    audioElement = new Audio();
+                    audioElement.src = URL.createObjectURL(selectedFile);
+                    
+                    // Handle audio end
+                    audioElement.addEventListener('ended', () => {
+                        isPlaying = false;
+                        playButton.textContent = '▶️';
+                    });
+                    
+                    // Handle errors
+                    audioElement.addEventListener('error', (e) => {
+                        console.error('Audio playback error:', e);
+                        alert('Error playing audio file');
+                        stopAudio();
+                    });
+                }
+                
+                audioElement.play();
+                isPlaying = true;
+                playButton.textContent = '⏸️';
+            } catch (error) {
+                console.error('Error playing audio:', error);
+                alert('Error playing audio: ' + error.message);
+            }
+        }
+
+        function stopAudio() {
+            if (audioElement) {
+                audioElement.pause();
+                audioElement.currentTime = 0;
+                URL.revokeObjectURL(audioElement.src);
+                audioElement = null;
+            }
+            isPlaying = false;
+            playButton.textContent = '▶️';
+        }
+
+        // Attachment Selection
+        attachmentFileInput.addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (file) {
+                selectedAttachment = file;
+                attachmentNameDiv.textContent = `Attachment: ${file.name}`;
+                attachmentNameDiv.classList.remove('hidden');
+            } else {
+                selectedAttachment = null;
+                attachmentNameDiv.classList.add('hidden');
+            }
+        });
+
+        // Shiur Type Change
+        shiurTypeSelect.addEventListener('change', () => {
+            const shiurType = shiurTypeSelect.value;
+            
+            if (shiurType === 'Other') {
+                customFolderGroup.classList.remove('hidden');
+            } else {
+                customFolderGroup.classList.add('hidden');
+            }
+            
+            if (shiurType === 'Ein Yaakov') {
+                commonTitleFields.classList.remove('hidden');
+                einYaakovFields.classList.remove('hidden');
+                otherShiurimFields.classList.add('hidden');
+                dafYomiFields.classList.add('hidden');
+            } else if (shiurType === 'Daf Yomi') {
+                commonTitleFields.classList.add('hidden');
+                einYaakovFields.classList.add('hidden');
+                otherShiurimFields.classList.add('hidden');
+                dafYomiFields.classList.remove('hidden');
+            } else {
+                commonTitleFields.classList.remove('hidden');
+                einYaakovFields.classList.add('hidden');
+                otherShiurimFields.classList.remove('hidden');
+                dafYomiFields.classList.add('hidden');
+            }
+            
+            validateForm();
+        });
+        
+        // Initial validation on page load
+        validateForm();
+
+        // Form Validation
+        function validateForm() {
+            const shiurType = shiurTypeSelect.value;
+            const hebrewTitle = document.getElementById('hebrewTitle').value.trim();
+            const englishTitle = document.getElementById('englishTitle').value.trim();
+            const customFolder = document.getElementById('customFolder').value.trim();
+            const speakerCommon = document.getElementById('speakerCommon').value.trim();
+            
+            let isValid = selectedFile && speakerCommon;
+            
+            if (shiurType === 'Daf Yomi') {
+                const hebrewMesechet = document.getElementById('hebrewMesechet').value.trim();
+                const englishMesechet = document.getElementById('englishMesechet').value.trim();
+                const dafNumber = document.getElementById('dafNumber').value.trim();
+                isValid = isValid && hebrewMesechet && englishMesechet && dafNumber;
+            } else {
+                isValid = isValid && hebrewTitle && englishTitle;
+                
+                if (shiurType === 'Other' && !customFolder) {
+                    isValid = false;
+                }
+            }
+            
+            // Use data attribute instead of disabled
+            if (isValid) {
+                uploadButton.removeAttribute('data-disabled');
+                verifyButton.removeAttribute('data-disabled');
+                uploadButton.style.opacity = '1';
+                verifyButton.style.opacity = '1';
+                uploadButton.style.cursor = 'pointer';
+                verifyButton.style.cursor = 'pointer';
+            } else {
+                uploadButton.setAttribute('data-disabled', 'true');
+                verifyButton.setAttribute('data-disabled', 'true');
+                uploadButton.style.opacity = '0.5';
+                verifyButton.style.opacity = '0.5';
+                uploadButton.style.cursor = 'not-allowed';
+                verifyButton.style.cursor = 'not-allowed';
+            }
+        }
+        
+        // Get validation errors
+        function getValidationErrors() {
+            const errors = [];
+            const shiurType = shiurTypeSelect.value;
+            
+            if (!selectedFile) {
+                errors.push('❌ No audio file selected');
+            }
+            
+            const speakerCommon = document.getElementById('speakerCommon').value.trim();
+            if (!speakerCommon) {
+                errors.push('❌ Speaker field is empty');
+            }
+            
+            if (shiurType === 'Daf Yomi') {
+                const hebrewMesechet = document.getElementById('hebrewMesechet').value.trim();
+                const englishMesechet = document.getElementById('englishMesechet').value.trim();
+                const dafNumber = document.getElementById('dafNumber').value.trim();
+                
+                if (!hebrewMesechet) errors.push('❌ Hebrew Mesechet is empty');
+                if (!englishMesechet) errors.push('❌ English Mesechet is empty');
+                if (!dafNumber) errors.push('❌ Daf Number is empty');
+            } else {
+                const hebrewTitle = document.getElementById('hebrewTitle').value.trim();
+                const englishTitle = document.getElementById('englishTitle').value.trim();
+                
+                if (!hebrewTitle) errors.push('❌ Hebrew Title is empty');
+                if (!englishTitle) errors.push('❌ English Title is empty');
+                
+                if (shiurType === 'Other') {
+                    const customFolder = document.getElementById('customFolder').value.trim();
+                    if (!customFolder) errors.push('❌ S3 Folder Path is empty');
+                }
+            }
+            
+            return errors;
+        }
+        
+        // Show why buttons are disabled
+        function showWhyDisabled() {
+            const errors = getValidationErrors();
+            if (errors.length > 0) {
+                const errorMessage = 'Cannot proceed because:\n\n' + errors.join('\n');
+                alert(errorMessage);
+            }
+        }
+
+        // Show Verification Modal
+        function showVerificationModal() {
+            if (!selectedFile) return;
+            
+            const shiurType = shiurTypeSelect.value;
+            const customFolder = document.getElementById('customFolder').value.trim();
+            const folderPath = getS3FolderPath(shiurType, customFolder);
+            const fileName = selectedFile.name;
+            const audioKey = folderPath + fileName;
+            const manifestKey = folderPath + fileName.substring(0, fileName.lastIndexOf('.')) + '.manifest';
+            
+            // Update S3 locations
+            document.getElementById('audioLocation').textContent = `Audio: ${audioKey}`;
+            document.getElementById('manifestLocation').textContent = `Manifest: ${manifestKey}`;
+            
+            // Handle attachment location
+            const attachmentLocationDiv = document.getElementById('attachmentLocation');
+            if (selectedAttachment) {
+                const attachmentFolderPath = getAttachmentFolderPath(shiurType, customFolder);
+                const attachmentFileName = selectedAttachment.name;
+                const fileNameWithoutExt = fileName.substring(0, fileName.lastIndexOf('.'));
+                const attachmentExtension = attachmentFileName.substring(attachmentFileName.lastIndexOf('.'));
+                const attachmentKey = attachmentFolderPath + fileNameWithoutExt + attachmentExtension;
+                
+                attachmentLocationDiv.textContent = `Attachment: ${attachmentKey}`;
+                attachmentLocationDiv.style.display = 'block';
+            } else {
+                attachmentLocationDiv.style.display = 'none';
+            }
+            
+            // Generate and display metadata JSON
+            const metadataJson = generateMetadata(fileName, null);
+            document.getElementById('jsonDisplay').textContent = metadataJson;
+            
+            // Show modal
+            document.getElementById('verificationModal').style.display = 'block';
+        }
+
+        // Close Verification Modal
+        function closeVerificationModal() {
+            document.getElementById('verificationModal').style.display = 'none';
+        }
+        
+        // Attach close button event listener
+        document.getElementById('closeModalButton').addEventListener('click', closeVerificationModal);
+
+        // Close modal when clicking outside
+        window.onclick = function(event) {
+            const modal = document.getElementById('verificationModal');
+            if (event.target === modal) {
+                closeVerificationModal();
+            }
+        };
+
+        // Add validation listeners
+        ['hebrewTitle', 'englishTitle', 'customFolder', 'speakerCommon', 'hebrewMesechet', 'englishMesechet', 'dafNumber'].forEach(id => {
+            const element = document.getElementById(id);
+            if (element) {
+                element.addEventListener('input', validateForm);
+            }
+        });
+
+        // Get Audio Duration
+        function getAudioDuration(file) {
+            return new Promise((resolve, reject) => {
+                const audio = document.createElement('audio');
+                audio.preload = 'metadata';
+                
+                audio.onloadedmetadata = () => {
+                    window.URL.revokeObjectURL(audio.src);
+                    resolve(audio.duration);
+                };
+                
+                audio.onerror = () => {
+                    reject(new Error('Failed to load audio'));
+                };
+                
+                audio.src = URL.createObjectURL(file);
+            });
+        }
+
+        // Format Duration
+        function formatDuration(seconds) {
+            const hours = Math.floor(seconds / 3600);
+            const minutes = Math.floor((seconds % 3600) / 60);
+            const secs = Math.floor(seconds % 60);
+            
+            if (hours > 0) {
+                return `${hours}:${String(minutes).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+            } else {
+                return `${minutes}:${String(secs).padStart(2, '0')}`;
+            }
+        }
+
+        // Get S3 Folder Path
+        function getS3FolderPath(shiurType, customFolder) {
+            switch (shiurType) {
+                case 'Ein Yaakov':
+                    return 'audio/';
+                case 'Daf Yomi':
+                    return 'carmei_zion_daf_yomi/';
+                case 'Gemara Iyun':
+                    return 'carmei_zion_gemara_beiyyun/';
+                case 'Meyuchadim':
+                    return 'carmei_zion_shiurim_meyuhadim/';
+                case 'Other':
+                    return customFolder.endsWith('/') ? customFolder : customFolder + '/';
+                default:
+                    return 'audio/';
+            }
+        }
+
+        // Get S3 Folder Path for Attachments
+        function getAttachmentFolderPath(shiurType, customFolder) {
+            switch (shiurType) {
+                case 'Ein Yaakov':
+                    return 'source_sheets/';
+                case 'Daf Yomi':
+                    return 'carmei_zion_daf_yomi-sources/';
+                case 'Gemara Iyun':
+                    return 'carmei_zion_gemara_beiyyun-sources/';
+                case 'Meyuchadim':
+                    return 'carmei_zion_shiurim_meyuhadim-sources/';
+                case 'Other':
+                    const folder = customFolder.endsWith('/') ? customFolder.slice(0, -1) : customFolder;
+                    return folder + '-sources/';
+                default:
+                    return 'source_sheets/';
+            }
+        }
+
+        // Generate Metadata JSON
+        function generateMetadata(fileName, attachmentKey = null) {
+            const shiurType = shiurTypeSelect.value;
+            let hebrewTitle, englishTitle;
+            const timestamp = Math.floor(Date.now() / 1000);
+            const fileNameWithoutExt = fileName.substring(0, fileName.lastIndexOf('.'));
+            const audioExtension = fileName.substring(fileName.lastIndexOf('.') + 1);
+            const speaker = document.getElementById('speakerCommon').value.trim();
+            
+            if (shiurType === 'Daf Yomi') {
+                // Generate titles for Daf Yomi
+                const hebrewMesechet = document.getElementById('hebrewMesechet').value.trim();
+                const englishMesechet = document.getElementById('englishMesechet').value.trim();
+                const dafNumber = parseInt(document.getElementById('dafNumber').value.trim());
+                const hebrewDaf = numberToHebrewLetters(dafNumber);
+                
+                hebrewTitle = `${hebrewMesechet} ${hebrewDaf}`;
+                englishTitle = `${englishMesechet} ${dafNumber}`;
+                
+                const customFolder = document.getElementById('customFolder').value.trim();
+                const folderPath = getS3FolderPath(shiurType, customFolder);
+                const s3Key = folderPath + fileNameWithoutExt;
+                
+                const metadata = {
+                    id: s3Key,
+                    hebrew_title: hebrewTitle,
+                    english_title: englishTitle,
+                    hebrew_sefer: hebrewMesechet,
+                    shiur_num: dafNumber,
+                    speaker: speaker
+                };
+                
+                if (audioDuration) metadata.length = audioDuration;
+                metadata.audio_extension = audioExtension;
+                
+                if (attachmentKey) {
+                    metadata.link = `https://midrash-aggadah.s3.eu-north-1.amazonaws.com/${attachmentKey}`;
+                }
+                
+                return JSON.stringify(metadata, null, 2);
+            }
+            
+            hebrewTitle = document.getElementById('hebrewTitle').value.trim();
+            englishTitle = document.getElementById('englishTitle').value.trim();
+            
+            if (shiurType === 'Ein Yaakov') {
+                const metadata = {
+                    id: `${fileNameWithoutExt}_${timestamp}`,
+                    hebrew_title: hebrewTitle,
+                    english_title: englishTitle,
+                    category: 'ein_yaakov',
+                    speaker: speaker
+                };
+                
+                const subCategory = document.getElementById('subCategory').value.trim();
+                if (subCategory) metadata.sub_category = subCategory;
+                
+                const hebrewSefer = document.getElementById('hebrewSefer').value.trim();
+                if (hebrewSefer) metadata.hebrew_sefer = hebrewSefer;
+                
+                const englishSefer = document.getElementById('englishSefer').value.trim();
+                if (englishSefer) metadata.english_sefer = englishSefer;
+                
+                const globalId = document.getElementById('globalId').value.trim();
+                if (globalId) metadata.global_id = parseInt(globalId);
+                
+                const sourceSheetLink = document.getElementById('sourceSheetLink').value.trim();
+                if (sourceSheetLink) metadata.source_sheet_link = sourceSheetLink;
+                
+                if (audioDuration) metadata.length = audioDuration;
+                metadata.audio_extension = audioExtension;
+                
+                // Add attachment link if present
+                if (attachmentKey) {
+                    metadata.link = `https://midrash-aggadah.s3.eu-north-1.amazonaws.com/${attachmentKey}`;
+                }
+                
+                return JSON.stringify(metadata, null, 2);
+            } else {
+                const customFolder = document.getElementById('customFolder').value.trim();
+                const folderPath = getS3FolderPath(shiurType, customFolder);
+                const s3Key = folderPath + fileNameWithoutExt;
+                
+                const metadata = {
+                    id: s3Key,
+                    hebrew_title: hebrewTitle,
+                    english_title: englishTitle,
+                    speaker: speaker
+                };
+                
+                const hebrewSefer = document.getElementById('hebrewSeferOther').value.trim();
+                if (hebrewSefer) metadata.hebrew_sefer = hebrewSefer;
+                
+                if (audioDuration) metadata.length = audioDuration;
+                metadata.audio_extension = audioExtension;
+                
+                // Add attachment link if present
+                if (attachmentKey) {
+                    metadata.link = `https://midrash-aggadah.s3.eu-north-1.amazonaws.com/${attachmentKey}`;
+                }
+                
+                return JSON.stringify(metadata, null, 2);
+            }
+        }
+
+        // Upload to S3
+        async function uploadToS3() {
+            if (!selectedFile) return;
+            
+            // Check if credentials are validated
+            if (!credentialsValidated || !s3) {
+                alert('AWS credentials are not configured. Please refresh the page and enter valid credentials.');
+                return;
+            }
+            
+            uploadButton.disabled = true;
+            progressContainer.style.display = 'block';
+            messageDiv.style.display = 'none';
+            warningBox.classList.add('show');
+            isUploading = true;
+            
+            // Request wake lock to keep screen on
+            await requestWakeLock();
+            
+            try {
+                const shiurType = shiurTypeSelect.value;
+                const customFolder = document.getElementById('customFolder').value.trim();
+                const folderPath = getS3FolderPath(shiurType, customFolder);
+                const fileName = selectedFile.name;
+                const audioKey = folderPath + fileName;
+                const manifestKey = folderPath + fileName.substring(0, fileName.lastIndexOf('.')) + '.manifest';
+                
+                let attachmentKey = null;
+                
+                // Upload attachment if present
+                if (selectedAttachment) {
+                    const attachmentFolderPath = getAttachmentFolderPath(shiurType, customFolder);
+                    const attachmentFileName = selectedAttachment.name;
+                    const fileNameWithoutExt = fileName.substring(0, fileName.lastIndexOf('.'));
+                    const attachmentExtension = attachmentFileName.substring(attachmentFileName.lastIndexOf('.'));
+                    attachmentKey = attachmentFolderPath + fileNameWithoutExt + attachmentExtension;
+                    
+                    progressFill.textContent = 'Uploading attachment...';
+                    
+                    await new Promise((resolve, reject) => {
+                        s3.upload({
+                            Bucket: AWS_CONFIG.bucketName,
+                            Key: attachmentKey,
+                            Body: selectedAttachment,
+                            ContentType: selectedAttachment.type
+                        }, (err, data) => {
+                            if (err) reject(err);
+                            else resolve(data);
+                        });
+                    });
+                }
+                
+                // Upload audio file
+                progressFill.textContent = 'Uploading audio...';
+                
+                await new Promise((resolve, reject) => {
+                    const audioUpload = s3.upload({
+                        Bucket: AWS_CONFIG.bucketName,
+                        Key: audioKey,
+                        Body: selectedFile,
+                        ContentType: selectedFile.type
+                    });
+                    
+                    audioUpload.on('httpUploadProgress', (progress) => {
+                        const percent = Math.round((progress.loaded / progress.total) * 100);
+                        progressFill.style.width = percent + '%';
+                        progressFill.textContent = `Uploading audio: ${percent}%`;
+                    });
+                    
+                    audioUpload.send((err, data) => {
+                        if (err) reject(err);
+                        else resolve(data);
+                    });
+                });
+                
+                // Upload manifest
+                progressFill.textContent = 'Uploading manifest...';
+                
+                const metadataJson = generateMetadata(fileName, attachmentKey);
+                await new Promise((resolve, reject) => {
+                    s3.upload({
+                        Bucket: AWS_CONFIG.bucketName,
+                        Key: manifestKey,
+                        Body: metadataJson,
+                        ContentType: 'application/json'
+                    }, (err, data) => {
+                        if (err) reject(err);
+                        else resolve(data);
+                    });
+                });
+                
+                // Success
+                let successMessage = `Upload successful!\nAudio: ${audioKey}\nManifest: ${manifestKey}`;
+                if (attachmentKey) {
+                    successMessage += `\nAttachment: ${attachmentKey}`;
+                }
+                showMessage('success', successMessage);
+                resetForm();
+                
+            } catch (error) {
+                console.error('Upload error:', error);
+                showMessage('error', `Upload failed: ${error.message}`);
+            } finally {
+                isUploading = false;
+                uploadButton.disabled = false;
+                progressContainer.style.display = 'none';
+                progressFill.style.width = '0%';
+                progressFill.textContent = '0%';
+                warningBox.classList.remove('show');
+                releaseWakeLock();
+            }
+        }
+
+        // Show Message
+        function showMessage(type, text) {
+            messageDiv.className = `message ${type}`;
+            messageDiv.textContent = text;
+            messageDiv.style.display = 'block';
+        }
+
+        // Reset Form
+        function resetForm() {
+            stopAudio();
+            selectedFile = null;
+            selectedAttachment = null;
+            audioDuration = '';
+            audioFileInput.value = '';
+            attachmentFileInput.value = '';
+            fileInfoContainer.classList.add('hidden');
+            durationDiv.classList.add('hidden');
+            attachmentNameDiv.classList.add('hidden');
+            document.getElementById('hebrewTitle').value = '';
+            document.getElementById('englishTitle').value = '';
+            validateForm();
+        }
+
+        // Upload Button Click
+        uploadButton.addEventListener('click', (e) => {
+            if (uploadButton.hasAttribute('data-disabled')) {
+                e.preventDefault();
+                showWhyDisabled();
+            } else {
+                uploadToS3();
+            }
+        });
+        
+        // Verify Button Click
+        verifyButton.addEventListener('click', (e) => {
+            if (verifyButton.hasAttribute('data-disabled')) {
+                e.preventDefault();
+                showWhyDisabled();
+            } else {
+                showVerificationModal();
+            }
+        });
+        
+        // Reset Credentials Button
+        document.getElementById('resetCredentialsBtn').addEventListener('click', async () => {
+            if (confirm('Are you sure you want to reset your AWS credentials? You will need to enter them again.')) {
+                // Clear cookies
+                setCookie('aws_access_key', '', -1);
+                setCookie('aws_secret_key', '', -1);
+                credentialsValidated = false;
+                s3 = null;
+                
+                // Reload page to prompt for new credentials
+                location.reload();
+            }
+        });
+        
+        }); // End DOMContentLoaded
+    </script>
+</body>
+</html>

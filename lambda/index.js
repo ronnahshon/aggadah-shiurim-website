@@ -249,9 +249,12 @@ function createShiurEntryFromManifest(s3Key, manifestData, shiurType) {
   const currentYear = now.getFullYear();
   const currentDate = now.toISOString().split('T')[0]; // YYYY-MM-DD format
   
+  // Get source sheet link from manifest (can be 'link' or 'source_sheet_link')
+  const sourceSheetLink = manifestData.source_sheet_link || manifestData.link || '';
+  
   if (shiurType === 'ein_yaakov') {
     // Main shiurim_data.json format
-    return {
+    const entry = {
       id: manifestData.id,
       hebrew_title: manifestData.hebrew_title,
       english_title: manifestData.english_title,
@@ -263,13 +266,19 @@ function createShiurEntryFromManifest(s3Key, manifestData, shiurType) {
       global_id: manifestData.global_id || 0,
       length: manifestData.length || '',
       audio_recording_link: audioUrl,
-      source_sheet_link: manifestData.source_sheet_link || '',
       english_year: currentYear,
       english_date: currentDate,
     };
+    
+    // Only add source_sheet_link if it has a value
+    if (sourceSheetLink) {
+      entry.source_sheet_link = sourceSheetLink;
+    }
+    
+    return entry;
   } else {
     // Other series format (daf_yomi, gemara_beiyyun, shiurim_meyuhadim)
-    return {
+    const entry = {
       id: manifestData.id,
       hebrew_title: manifestData.hebrew_title,
       english_title: manifestData.english_title,
@@ -281,5 +290,12 @@ function createShiurEntryFromManifest(s3Key, manifestData, shiurType) {
       audio_url: audioUrl,
       speaker: manifestData.speaker || 'כרמי ציון',
     };
+    
+    // Only add source_sheet_link if it has a value
+    if (sourceSheetLink) {
+      entry.source_sheet_link = sourceSheetLink;
+    }
+    
+    return entry;
   }
 }
