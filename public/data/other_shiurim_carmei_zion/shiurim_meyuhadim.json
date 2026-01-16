@@ -19,7 +19,7 @@
       "hebrew_title": "מצות החינוך לאמהות",
       "english_title": "The Mitvah of Education for Women",
       "hebrew_sefer": "מחשבה",
-      "shiur_num": 2,
+      "shiur_num": 12,
       "length": "46:03",
       "english_year": 2026,
       "english_date": "2026-01-14",
@@ -31,11 +31,47 @@
       "hebrew_title": "איסור אכילה ושתיה ביום הכיפורים",
       "english_title": "Prohibition of Eating and Drinking on Yom Kippur",
       "hebrew_sefer": "מחשבה",
-      "shiur_num": 1,
+      "shiur_num": 11,
       "length": "30:20",
       "english_year": 2025,
       "english_date": "2025-09-30",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%90%D7%99%D7%A1%D7%95%D7%A8_%D7%90%D7%9B%D7%99%D7%9C%D7%94_%D7%95%D7%A9%D7%AA%D7%99%D7%94_%D7%91%D7%99%D7%95%D7%9D_%D7%94%D7%9B%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/חסידים ומתנגדים ותלמד ודרך ארץ",
+      "hebrew_title": "חסידים ומתנגדים ותלמד תורה",
+      "english_title": "Hassidim, Mitnagdim and Talmud Torah",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 3,
+      "length": "52:19",
+      "english_year": 2025,
+      "english_date": "2023-01-03",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%97%D7%A1%D7%99%D7%93%D7%99%D7%9D+%D7%95%D7%9E%D7%AA%D7%A0%D7%92%D7%93%D7%99%D7%9D+%D7%95%D7%AA%D7%9C%D7%9E%D7%95%D7%93+%D7%AA%D7%95%D7%A8%D7%94.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/מהותו_של_מצוות_משלוח_מנות",
+      "hebrew_title": "מהותו של מצוות משלוח מנות",
+      "english_title": "The Nature of the Mitzvah of Mishloach Manot",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 2,
+      "length": "40:34",
+      "english_year": 2025,
+      "english_date": "2023-01-02",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%9E%D7%94%D7%95%D7%AA%D7%95+%D7%A9%D7%9C+%D7%9E%D7%A6%D7%95%D7%95%D7%AA+%D7%9E%D7%A9%D7%9C%D7%95%D7%97+%D7%9E%D7%A0%D7%95%D7%AA.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/רב_שמשון_רפאל_הירש_ותורה_עם_דרך_ארץ",
+      "hebrew_title": "רב שמשון רפאל הירש - תורה עם דרך ארץ",
+      "english_title": "Rabbi Shimshon Rafael Hirsch - Torah with Derech Eretz",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 1,
+      "length": "62:54",
+      "english_year": 2025,
+      "english_date": "2023-01-01",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%A8%D7%91+%D7%A9%D7%9E%D7%A9%D7%95%D7%9F+%D7%A8%D7%A4%D7%90%D7%9C+%D7%94%D7%99%D7%A8%D7%A9+%D7%95%D7%AA%D7%95%D7%A8%D7%94+%D7%A2%D7%9D+%D7%93%D7%A8%D7%9A+%D7%90%D7%A8%D7%A5.mp3",
       "speaker": "הרב עמינדב גרוסמן"
     }
   ]
