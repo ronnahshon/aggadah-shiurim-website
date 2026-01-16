@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/recording_20260116_055256",
+      "hebrew_title": "מנחות ה",
+      "english_title": "Menachos 5",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 5,
+      "length": "37:55",
+      "english_year": 2026,
+      "english_date": "2026-01-16",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260116_055256.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/recording_20260115_055036",
       "hebrew_title": "מנחות ד",
       "english_title": "Menachos 4",
