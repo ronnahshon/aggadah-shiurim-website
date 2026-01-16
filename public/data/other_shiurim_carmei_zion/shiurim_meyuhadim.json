@@ -15,18 +15,6 @@
   ],
   "episodes": [
     {
-      "id": "carmei_zion_shiurim_meyuhadim/איסור_אכילה_ושתיה_ביום_הכיפורים",
-      "hebrew_title": "איסור אכילה ושתיה ביום הכיפורים",
-      "english_title": "Prohibition of Eating and Drinking on Yom Kippur",
-      "hebrew_sefer": "מחשבה",
-      "shiur_num": 1,
-      "length": "30:20",
-      "english_year": 2025,
-      "english_date": "2025-09-30",
-      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%90%D7%99%D7%A1%D7%95%D7%A8_%D7%90%D7%9B%D7%99%D7%9C%D7%94_%D7%95%D7%A9%D7%AA%D7%99%D7%94_%D7%91%D7%99%D7%95%D7%9D_%D7%94%D7%9B%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D.mp3",
-      "speaker": "הרב עמינדב גרוסמן"
-    },
-    {
       "id": "carmei_zion_shiurim_meyuhadim/מצות_החינוך_לאמהות",
       "hebrew_title": "מצות החינוך לאמהות",
       "english_title": "The Mitvah of Education for Women",
@@ -36,6 +24,18 @@
       "english_year": 2026,
       "english_date": "2026-01-14",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%9E%D7%A6%D7%95%D7%AA_%D7%94%D7%97%D7%99%D7%A0%D7%95%D7%9A_%D7%9C%D7%90%D7%9E%D7%94%D7%95%D7%AA_%D7%94%D7%A8%D7%91_%D7%A2%D7%9E%D7%99%D7%A0%D7%93%D7%91_%D7%92%D7%A8%D7%95%D7%A1%D7%9E%D7%9F.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/איסור_אכילה_ושתיה_ביום_הכיפורים",
+      "hebrew_title": "איסור אכילה ושתיה ביום הכיפורים",
+      "english_title": "Prohibition of Eating and Drinking on Yom Kippur",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 1,
+      "length": "30:20",
+      "english_year": 2025,
+      "english_date": "2025-09-30",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%90%D7%99%D7%A1%D7%95%D7%A8_%D7%90%D7%9B%D7%99%D7%9C%D7%94_%D7%95%D7%A9%D7%AA%D7%99%D7%94_%D7%91%D7%99%D7%95%D7%9D_%D7%94%D7%9B%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D.mp3",
       "speaker": "הרב עמינדב גרוסמן"
     }
   ]
