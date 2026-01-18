@@ -104,6 +104,30 @@ const escapeAttr = (value) =>
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;');
 
+// Apple Podcasts and other clients can drop items if enclosure URLs contain raw
+// non-ASCII characters or spaces. Normalize to a properly-encoded absolute URL.
+const normalizeEnclosureUrl = (value) => {
+  if (!isHttpUrl(value)) return value;
+  try {
+    return new URL(value).href;
+  } catch {
+    return value;
+  }
+};
+
+// Enclosure MIME type should match the actual media container. Using audio/mpeg
+// for .m4a can cause Apple Podcasts to ignore the episode.
+const mimeTypeFromUrl = (value) => {
+  const v = String(value || '').toLowerCase();
+  if (v.includes('.m4a')) return 'audio/mp4';
+  if (v.includes('.mp4')) return 'audio/mp4';
+  if (v.includes('.mp3')) return 'audio/mpeg';
+  if (v.includes('.aac')) return 'audio/aac';
+  if (v.includes('.wav')) return 'audio/wav';
+  // Safe fallback
+  return 'audio/mpeg';
+};
+
 const buildAudioUrlFromShiur = (shiur) => {
   // Site playback derives audio from S3 using `${shiur.id}.mp3`
   const s3Derived = `${S3_BASE_URL}audio/${shiur.id}.mp3`;
@@ -289,7 +313,7 @@ const buildSeferSeasonMap = (shiurim) => {
 };
 
 const buildEpisode = (shiur) => {
-  const enclosureUrl = buildAudioUrlFromShiur(shiur);
+  const enclosureUrl = normalizeEnclosureUrl(buildAudioUrlFromShiur(shiur));
   if (!enclosureUrl) return null;
   const pubDate = buildPubDate(shiur);
   const enclosureLength = estimateEnclosureLength(shiur.length);
@@ -318,7 +342,7 @@ const buildEpisode = (shiur) => {
     duration: shiur.length || '',
     enclosure: {
       url: enclosureUrl,
-      type: 'audio/mpeg',
+      type: mimeTypeFromUrl(enclosureUrl),
       length: enclosureLength,
     },
     categories,
@@ -751,7 +775,7 @@ const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
  */
 const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, seasonOrder = []) => {
   // Episode can provide audio_url directly, or we derive from id
-  const enclosureUrl = episode.audio_url || `${S3_BASE_URL}${episode.id}.mp3`;
+  const enclosureUrl = normalizeEnclosureUrl(episode.audio_url || `${S3_BASE_URL}${episode.id}.mp3`);
   if (!enclosureUrl) return null;
 
   // Prefer a combined bilingual title when both are present: "English | Hebrew"
@@ -809,7 +833,7 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
     duration: episode.length || '',
     enclosure: {
       url: enclosureUrl,
-      type: 'audio/mpeg',
+      type: mimeTypeFromUrl(enclosureUrl),
       length: enclosureLength,
     },
     categories,

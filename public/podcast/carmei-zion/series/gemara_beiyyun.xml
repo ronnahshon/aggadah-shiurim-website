@@ -9,8 +9,8 @@
 
 In-depth shiurim on halachic discussions in the Talmud.]]></description>
     <language>he</language>
-    <lastBuildDate>Fri, 16 Jan 2026 07:19:00 GMT</lastBuildDate>
-    <pubDate>Fri, 16 Jan 2026 07:19:00 GMT</pubDate>
+    <lastBuildDate>Sun, 18 Jan 2026 09:24:53 GMT</lastBuildDate>
+    <pubDate>Sun, 18 Jan 2026 09:24:53 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -30,6 +30,25 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
     </itunes:owner>
     <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_2048_2048.png"/>
     <podcast:locked>no</podcast:locked>
+
+    <item>
+      <title><![CDATA[Shitat Rebbe Eliezer for Sukkah | שיטת רבי אליעזר בסוכה]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/שיטת רבי אליעזר</guid>
+      <description><![CDATA[Shitat Rebbe Eliezer for Sukkah | שיטת רבי אליעזר בסוכה
+
+Presented by Ari Schiff.]]></description>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[gemara_beiyyun]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="אחר">1</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>47:08</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A9%D7%99%D7%98%D7%AA%20%D7%A8%D7%91%D7%99%20%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8.mp3" type="audio/mpeg" length="49422882"/>
+    </item>
 
     <item>
       <title><![CDATA[Sukkah 37 | סוכה לז - דין חציצה בלולב]]></title>
