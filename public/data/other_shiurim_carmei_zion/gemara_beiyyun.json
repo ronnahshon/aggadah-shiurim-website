@@ -15,6 +15,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_gemara_beiyyun/שיטת רבי אליעזר",
+      "hebrew_title": "שיטת רבי אליעזר בסוכה",
+      "english_title": "Shitat Rebe Eliezer for Suklah",
+      "hebrew_sefer": "",
+      "shiur_num": 0,
+      "length": "47:08",
+      "english_year": 2026,
+      "english_date": "2026-01-18",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/שיטת רבי אליעזר.mp3",
+      "speaker": "Ari Schiff"
+    },
+    {
       "id": "carmei_zion_gemara_beiyyun/סוכה_לז_דין_חציצה_בלולב",
       "hebrew_title": "סוכה לז - דין חציצה בלולב",
       "english_title": "Sukkah 37",
@@ -124,5 +136,3 @@
     }
   ]
 }
-
-
