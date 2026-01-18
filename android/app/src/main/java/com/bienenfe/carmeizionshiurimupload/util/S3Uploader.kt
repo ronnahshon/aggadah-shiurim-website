@@ -9,6 +9,8 @@ import com.amazonaws.mobileconnectors.s3.transferutility.TransferUtility
 import com.amazonaws.regions.Region
 import com.amazonaws.regions.Regions
 import com.amazonaws.services.s3.AmazonS3Client
+import com.amazonaws.services.s3.model.ObjectMetadata
+import com.amazonaws.services.s3.model.PutObjectRequest
 import kotlinx.coroutines.suspendCancellableCoroutine
 import java.io.File
 import kotlin.coroutines.resume
@@ -42,12 +44,18 @@ class S3Uploader(
         try {
             // Copy URI content to a temporary file
             val tempFile = createTempFileFromUri(uri)
-            
-            val uploadObserver = transferUtility.upload(
-                bucketName,
-                s3Key,
-                tempFile
-            )
+
+            // IMPORTANT: Set Content-Type explicitly.
+            // Without this, S3 will often store `application/octet-stream` which can cause
+            // podcast clients (notably Apple Podcasts) to ignore M4A enclosures.
+            val metadata = ObjectMetadata().apply {
+                contentType = contentTypeForS3Key(s3Key)
+            }
+            val putRequest = PutObjectRequest(bucketName, s3Key, tempFile).apply {
+                this.metadata = metadata
+            }
+
+            val uploadObserver = transferUtility.upload(putRequest)
 
             uploadObserver.setTransferListener(object : TransferListener {
                 override fun onStateChanged(id: Int, state: TransferState) {
@@ -108,12 +116,15 @@ class S3Uploader(
             // Create a temporary file with JSON content
             val tempFile = File.createTempFile("metadata_", ".json", context.cacheDir)
             tempFile.writeText(jsonContent)
-            
-            val uploadObserver = transferUtility.upload(
-                bucketName,
-                s3Key,
-                tempFile
-            )
+
+            val metadata = ObjectMetadata().apply {
+                contentType = "application/json; charset=utf-8"
+            }
+            val putRequest = PutObjectRequest(bucketName, s3Key, tempFile).apply {
+                this.metadata = metadata
+            }
+
+            val uploadObserver = transferUtility.upload(putRequest)
 
             uploadObserver.setTransferListener(object : TransferListener {
                 override fun onStateChanged(id: Int, state: TransferState) {
@@ -158,6 +169,21 @@ class S3Uploader(
             if (continuation.isActive) {
                 continuation.resumeWithException(e)
             }
+        }
+    }
+
+    private fun contentTypeForS3Key(s3Key: String): String {
+        val ext = s3Key.substringAfterLast('.', "").lowercase()
+        return when (ext) {
+            "m4a", "mp4" -> "audio/mp4"
+            "mp3" -> "audio/mpeg"
+            "aac" -> "audio/aac"
+            "wav" -> "audio/wav"
+            "json" -> "application/json; charset=utf-8"
+            "jpg", "jpeg" -> "image/jpeg"
+            "png" -> "image/png"
+            "pdf" -> "application/pdf"
+            else -> "application/octet-stream"
         }
     }
 
