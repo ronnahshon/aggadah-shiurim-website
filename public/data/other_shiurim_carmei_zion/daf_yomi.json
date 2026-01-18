@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/recording_20260118_054850",
+      "hebrew_title": "מנחות ז",
+      "english_title": "Menachos 7",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 7,
+      "length": "31:12",
+      "english_year": 2026,
+      "english_date": "2026-01-18",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260118_054850.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/recording_20260116_055256",
       "hebrew_title": "מנחות ה",
       "english_title": "Menachos 5",
