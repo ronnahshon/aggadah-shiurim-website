@@ -9,8 +9,8 @@
 
 In-depth shiurim on halachic discussions in the Talmud.]]></description>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Jan 2026 08:44:34 GMT</lastBuildDate>
-    <pubDate>Mon, 19 Jan 2026 08:44:34 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2026 13:29:47 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2026 13:29:47 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -52,26 +52,6 @@ Presented by רב יהודה אורבך.]]></description>
     </item>
 
     <item>
-      <title><![CDATA[Shitat Rebbe Eliezer for Sukkah | שיטת רבי אליעזר בסוכה]]></title>
-      <link>https://www.midrashaggadah.com</link>
-      <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/שיטת רבי אליעזר</guid>
-      <description><![CDATA[Shitat Rebbe Eliezer for Sukkah | שיטת רבי אליעזר בסוכה
-
-Presented by Ari Schiff.]]></description>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
-            <category><![CDATA[סוכה]]></category>
-      <category><![CDATA[gemara_beiyyun]]></category>
-      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <podcast:season name="סוכה">1</podcast:season>
-      <itunes:episode>10</itunes:episode>
-      <itunes:duration>47:08</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A9%D7%99%D7%98%D7%AA%20%D7%A8%D7%91%D7%99%20%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8.mp3" type="audio/mpeg" length="49422882"/>
-    </item>
-
-    <item>
       <title><![CDATA[Sukkah 37 | סוכה לז - דין חציצה בלולב]]></title>
       <link>https://www.midrashaggadah.com</link>
       <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/סוכה_לז_דין_חציצה_בלולב</guid>
@@ -86,7 +66,7 @@ Presented by דניאל היימלשטיין.]]></description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <podcast:season name="סוכה">1</podcast:season>
-      <itunes:episode>9</itunes:episode>
+      <itunes:episode>10</itunes:episode>
       <itunes:duration>48:13</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9C%D7%96_%D7%93%D7%99%D7%9F_%D7%97%D7%A6%D7%99%D7%A6%D7%94_%D7%91%D7%9C%D7%95%D7%9C%D7%91.mp3" type="audio/mpeg" length="50558839"/>
     </item>
@@ -106,7 +86,7 @@ Presented by דניאל היימלשטיין.]]></description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <podcast:season name="סוכה">1</podcast:season>
-      <itunes:episode>8</itunes:episode>
+      <itunes:episode>9</itunes:episode>
       <itunes:duration>45:52</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9C_%D7%9E%D7%A6%D7%95%D7%95%D7%94_%D7%94%D7%91%D7%90%D7%94_%D7%91%D7%A2%D7%91%D7%99%D7%A8%D7%94.mp3" type="audio/mpeg" length="48094686"/>
     </item>
@@ -126,9 +106,29 @@ Presented by דניאל היימלשטיין.]]></description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <podcast:season name="סוכה">1</podcast:season>
-      <itunes:episode>7</itunes:episode>
+      <itunes:episode>8</itunes:episode>
       <itunes:duration>44:02</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9B%D7%98_%D7%9C%D7%95%D7%9C%D7%91_%D7%99%D7%91%D7%A9.mp3" type="audio/mpeg" length="46172297"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Sukkah 27 | סוכה כז - שיטת רבי אליעזר]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/סוכה+כז+-+שיטת+רבי+אליעזר.mp3</guid>
+      <description><![CDATA[Sukkah 27 | סוכה כז - שיטת רבי אליעזר
+
+Presented by Ari Schiff.]]></description>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
+            <category><![CDATA[סוכה]]></category>
+      <category><![CDATA[gemara_beiyyun]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="סוכה">1</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>47:08</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94+%D7%9B%D7%96+-+%D7%A9%D7%99%D7%98%D7%AA+%D7%A8%D7%91%D7%99+%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8.mp3" type="audio/mpeg" length="49422882"/>
     </item>
 
     <item>
@@ -138,7 +138,7 @@ Presented by דניאל היימלשטיין.]]></description>
       <description><![CDATA[Sukkah 21 | סוכה כא - מעמיד בדבר המקבל טומאה
 
 Presented by דניאל היימלשטיין.]]></description>
-      <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
             <category><![CDATA[סוכה]]></category>
       <category><![CDATA[gemara_beiyyun]]></category>
       <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -158,7 +158,7 @@ Presented by דניאל היימלשטיין.]]></description>
       <description><![CDATA[Sukkah 16 | סוכה טז - המשלשל דפנות ודין לבוד
 
 Presented by דניאל היימלשטיין.]]></description>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
             <category><![CDATA[סוכה]]></category>
       <category><![CDATA[gemara_beiyyun]]></category>
       <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -178,7 +178,7 @@ Presented by דניאל היימלשטיין.]]></description>
       <description><![CDATA[Sukkah 12 | סוכה יב - כלי קיבול העשוי להתמלאות
 
 Presented by דניאל היימלשטיין.]]></description>
-      <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
             <category><![CDATA[סוכה]]></category>
       <category><![CDATA[gemara_beiyyun]]></category>
       <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>

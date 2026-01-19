@@ -9,8 +9,8 @@
 
 Daily Daf Yomi shiurim.]]></description>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Jan 2026 08:44:34 GMT</lastBuildDate>
-    <pubDate>Mon, 19 Jan 2026 08:44:34 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2026 13:29:47 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2026 13:29:47 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -48,7 +48,7 @@ Presented by זכריה ביננפלד.]]></description>
       <podcast:season name="מנחות">2</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>27:48</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:01:19-Menachos_8.m4a" type="audio/mp4" length="29150413"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:01:19-Menachos_8.m4a" type="audio/x-m4a" length="29150413"/>
     </item>
 
     <item>
@@ -68,7 +68,7 @@ Presented by זכריה ביננפלד.]]></description>
       <podcast:season name="מנחות">2</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>31:12</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260118_054850.m4a" type="audio/mp4" length="32715571"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260118_054850.m4a" type="audio/x-m4a" length="32715571"/>
     </item>
 
     <item>
@@ -88,7 +88,7 @@ Presented by זכריה ביננפלד.]]></description>
       <podcast:season name="מנחות">2</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>37:55</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260116_055256.m4a" type="audio/mp4" length="39758507"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260116_055256.m4a" type="audio/x-m4a" length="39758507"/>
     </item>
 
     <item>
@@ -110,7 +110,7 @@ Source Sheet: https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_da
       <podcast:season name="מנחות">2</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>29:08</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260115_055036.m4a" type="audio/mp4" length="30548514"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260115_055036.m4a" type="audio/x-m4a" length="30548514"/>
     </item>
 
     <item>
@@ -130,7 +130,7 @@ Presented by זכריה ביננפלד.]]></description>
       <podcast:season name="מנחות">2</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>32:21</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%9E%D7%A0%D7%97%D7%95%D7%AA%20%D7%92.m4a" type="audio/mp4" length="33921434"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/%D7%9E%D7%A0%D7%97%D7%95%D7%AA%20%D7%92.m4a" type="audio/x-m4a" length="33921434"/>
     </item>
 
     <item>
