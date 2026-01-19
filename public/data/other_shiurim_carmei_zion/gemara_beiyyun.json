@@ -15,10 +15,22 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_gemara_beiyyun/סוכה_לח_חיוב_נענועים_בהלל_או_בברכה.mp3",
+      "hebrew_title": "סוכה לח - חיוב נענועים בהלל או בברכה",
+      "english_title": "Sukkah 38",
+      "hebrew_sefer": "סוכה",
+      "shiur_num": 11,
+      "length": "47:43",
+      "english_year": 2026,
+      "english_date": "2026-01-18",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9C%D7%97_%D7%97%D7%99%D7%95%D7%91_%D7%A0%D7%A2%D7%A0%D7%95%D7%A2%D7%99%D7%9D_%D7%91%D7%94%D7%9C%D7%9C_%D7%90%D7%95_%D7%91%D7%91%D7%A8%D7%9B%D7%94.mp3",
+      "speaker": "רב יהודה אורבך"
+    },
+    {
       "id": "carmei_zion_gemara_beiyyun/שיטת רבי אליעזר",
       "hebrew_title": "שיטת רבי אליעזר בסוכה",
       "english_title": "Shitat Rebbe Eliezer for Sukkah",
-      "hebrew_sefer": "",
+      "hebrew_sefer": "סוכה",
       "shiur_num": 10,
       "length": "47:08",
       "english_year": 2026,
