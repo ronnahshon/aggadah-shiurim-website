@@ -22,6 +22,37 @@ const PODCAST_AUTHOR = 'כרמי ציון | Carmei Zion';
 const PODCAST_EMAIL = process.env.PODCAST_OWNER_EMAIL || 'ronnahshon@gmail.com';
 const COVER_ART_URL = process.env.COVER_ART_URL || `${SITE_URL}/favicons/carmei_zion_logo_2048_2048.png`;
 
+// Per-podcast artwork (stored in /public/images/artwork_for_podcasts).
+// Filenames are ASCII to avoid encoding edge cases in some podcast clients/CDNs.
+const PODCAST_ARTWORK_FILENAMES = {
+  gemara_beiyyun: 'gemara_beiyyun.jpeg',
+  daf_yomi: 'daf_yomi.jpeg',
+  shiurim_meyuhadim: 'shiurim_meyuhadim.jpeg',
+  ein_yaakov: 'ein_yaakov.jpeg',
+  // derived podcast id uses a dash, but the requested key is underscore
+  'ein-yaakov': 'ein_yaakov.jpeg',
+};
+
+const buildArtworkUrl = (filename) =>
+  `${SITE_URL}/images/artwork_for_podcasts/${encodeURIComponent(String(filename || ''))}`;
+
+const getCoverImageForPodcastId = (podcastId) => {
+  const raw = String(podcastId || '').trim();
+  if (!raw) return null;
+
+  const direct = PODCAST_ARTWORK_FILENAMES[raw];
+  if (direct) return buildArtworkUrl(direct);
+
+  // Try common normalization between ids that use '-' vs '_'
+  const underscore = raw.replace(/-/g, '_');
+  const dash = raw.replace(/_/g, '-');
+  const normalized =
+    PODCAST_ARTWORK_FILENAMES[underscore] ||
+    PODCAST_ARTWORK_FILENAMES[dash];
+
+  return normalized ? buildArtworkUrl(normalized) : null;
+};
+
 /**
  * DERIVED PODCASTS CONFIGURATION
  * 
@@ -367,6 +398,11 @@ const groupBy = (items, keyFn) => {
 const renderRss = ({ feedTitle, feedDescription, feedUrl, items }) => {
   const buildDate = new Date().toUTCString();
   const imageTag = `<itunes:image href="${COVER_ART_URL}"/>`;
+  const rssImageTag = `<image>
+    <url>${COVER_ART_URL}</url>
+    <title><![CDATA[${feedTitle}]]></title>
+    <link>${SITE_URL}</link>
+  </image>`;
   const categoryPrimary = escapeAttr(ITUNES_CATEGORY_PRIMARY);
   const categorySecondary = escapeAttr(ITUNES_CATEGORY_SECONDARY);
   
@@ -399,6 +435,7 @@ const renderRss = ({ feedTitle, feedDescription, feedUrl, items }) => {
       <itunes:email>${PODCAST_EMAIL}</itunes:email>
     </itunes:owner>
     ${imageTag}
+    ${rssImageTag}
     <podcast:locked>no</podcast:locked>
 `;
 
@@ -542,7 +579,7 @@ const processDerivedPodcasts = (allShiurim) => {
       author = PODCAST_AUTHOR,  // defaults to "כרמי ציון | Carmei Zion"
       speaker,                   // speaker name for episode descriptions (e.g., "רון נחשון")
       email = PODCAST_EMAIL,
-      cover_image = COVER_ART_URL,
+      cover_image,
       language = DEFAULT_LANGUAGE,
       category = ITUNES_CATEGORY_PRIMARY,
       subcategory = ITUNES_CATEGORY_SECONDARY,
@@ -550,6 +587,11 @@ const processDerivedPodcasts = (allShiurim) => {
       preferHebrew = true,
       contentLanguage = 'english',  // 'english' or 'hebrew'
     } = config;
+
+    const resolvedCoverImage =
+      cover_image ||
+      getCoverImageForPodcastId(id) ||
+      COVER_ART_URL;
 
     // Build description with language indicator (language line first for better "About" formatting in apps).
     const languageLabel = CONTENT_LANGUAGES[contentLanguage] || CONTENT_LANGUAGES.english;
@@ -669,7 +711,7 @@ const processDerivedPodcasts = (allShiurim) => {
         description: fullDescription,
         author,
         email,
-        cover_image,
+        cover_image: resolvedCoverImage,
         language,
         category,
         subcategory,
@@ -703,6 +745,11 @@ const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
 
   const buildDate = new Date().toUTCString();
   const imageTag = `<itunes:image href="${cover_image}"/>`;
+  const rssImageTag = `<image>
+    <url>${cover_image}</url>
+    <title><![CDATA[${title}]]></title>
+    <link>${SITE_URL}</link>
+  </image>`;
   const categoryPrimary = escapeAttr(category);
   const categorySecondary = escapeAttr(subcategory);
 
@@ -735,6 +782,7 @@ const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
       <itunes:email>${email}</itunes:email>
     </itunes:owner>
     ${imageTag}
+    ${rssImageTag}
     <podcast:locked>no</podcast:locked>
 `;
 
@@ -879,6 +927,10 @@ const processOtherSeries = () => {
       const seriesGuidId = series_metadata.guid_id || series_metadata.legacy_id || seriesId;
       const seriesAuthor = series_metadata.author || PODCAST_AUTHOR;
       const seriesSpeaker = speaker || seriesAuthor;
+      const resolvedCoverImage =
+        series_metadata.cover_image ||
+        getCoverImageForPodcastId(seriesId) ||
+        COVER_ART_URL;
 
       // Build episodes
       const feedItems = episodes
@@ -906,6 +958,7 @@ const processOtherSeries = () => {
           ...series_metadata,
           description: fullDescription,
           author: seriesAuthor,
+          cover_image: resolvedCoverImage,
         },
         feedUrl,
         items: feedItems,

@@ -11,8 +11,8 @@ In-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.
 
 For more please visit <a href="https://www.midrashaggadah.com">www.midrashaggadah.com</a>]]></description>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Jan 2026 13:29:47 GMT</lastBuildDate>
-    <pubDate>Mon, 19 Jan 2026 13:29:47 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2026 19:54:35 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2026 19:54:35 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -32,8 +32,39 @@ For more please visit <a href="https://www.midrashaggadah.com">www.midrashaggada
       <itunes:name><![CDATA[כרמי ציון | Carmei Zion]]></itunes:name>
       <itunes:email>ronnahshon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_2048_2048.png"/>
+    <itunes:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg"/>
+    <image>
+    <url>https://www.midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg</url>
+    <title><![CDATA[אגדות הש״ס - עין יעקב | רון נחשון]]></title>
+    <link>https://www.midrashaggadah.com</link>
+  </image>
     <podcast:locked>no</podcast:locked>
+
+    <item>
+      <title><![CDATA[בבא בתרא כב. - על כרחך אנא רבך ורבא רבה דרבך]]></title>
+      <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-17</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-ein-yaakov-seder_nezikin-bava_batra-17</guid>
+      <description><![CDATA[בבא בתרא כב. - על כרחך אנא רבך ורבא רבה דרבך
+
+Bava Batra 22a -It seems that I am your Rabbi, and Rava is your Rabbi’s Rabbi
+
+Presented by רון נחשון.
+
+
+Source Sheet: https://docs.google.com/document/d/1gVbMXhT5FsxckdHM-YZpbvsO76Qul8tH2VhxSOPlMX0/edit?usp=drive_link.]]></description>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[בבא בתרא]]></category>
+      <category><![CDATA[seder_nezikin]]></category>
+      <category><![CDATA[ein_yaakov]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:duration>35:17</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-17.mp3" type="audio/mpeg" length="36997257"/>
+    </item>
 
     <item>
       <title><![CDATA[בבא בתרא כא. - שבשתא כיון דעל על]]></title>

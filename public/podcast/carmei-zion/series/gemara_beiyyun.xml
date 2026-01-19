@@ -9,8 +9,8 @@
 
 In-depth shiurim on halachic discussions in the Talmud.]]></description>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Jan 2026 13:29:47 GMT</lastBuildDate>
-    <pubDate>Mon, 19 Jan 2026 13:29:47 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2026 19:54:35 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2026 19:54:35 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -28,7 +28,12 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
       <itunes:name><![CDATA[כרמי ציון | Carmei Zion]]></itunes:name>
       <itunes:email>ronnahshon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_2048_2048.png"/>
+    <itunes:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg"/>
+    <image>
+    <url>https://www.midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg</url>
+    <title><![CDATA[גמרא בעיון | הרב עמינדב גרוסמן]]></title>
+    <link>https://www.midrashaggadah.com</link>
+  </image>
     <podcast:locked>no</podcast:locked>
 
     <item>

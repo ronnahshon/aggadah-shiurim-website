@@ -406,6 +406,16 @@
     <changefreq>yearly</changefreq>
   </url>
   <url>
+    <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-17</loc>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-18</loc>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
     <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-makkot-1</loc>
     <priority>0.8</priority>
     <changefreq>yearly</changefreq>
