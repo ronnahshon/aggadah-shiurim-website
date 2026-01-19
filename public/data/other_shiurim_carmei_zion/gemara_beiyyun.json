@@ -15,18 +15,6 @@
   ],
   "episodes": [
     {
-      "id": "carmei_zion_gemara_beiyyun/שיטת רבי אליעזר",
-      "hebrew_title": "שיטת רבי אליעזר בסוכה",
-      "english_title": "Shitat Rebe Eliezer for Suklah",
-      "hebrew_sefer": "",
-      "shiur_num": 0,
-      "length": "47:08",
-      "english_year": 2026,
-      "english_date": "2026-01-19",
-      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/סוכה כז - שיטת רבי אליעזר.mp3",
-      "speaker": "Ari Schiff"
-    },
-    {
       "id": "carmei_zion_gemara_beiyyun/סוכה_לח_חיוב_נענועים_בהלל_או_בברכה.mp3",
       "hebrew_title": "סוכה לח - חיוב נענועים בהלל או בברכה",
       "english_title": "Sukkah 38",
@@ -43,7 +31,7 @@
       "hebrew_title": "סוכה לז - דין חציצה בלולב",
       "english_title": "Sukkah 37",
       "hebrew_sefer": "סוכה",
-      "shiur_num": 9,
+      "shiur_num": 10,
       "length": "48:13",
       "english_year": 2026,
       "english_date": "2026-01-11",
@@ -55,7 +43,7 @@
       "hebrew_title": "סוכה ל - מצווה הבאה בעבירה",
       "english_title": "Sukkah 30",
       "hebrew_sefer": "סוכה",
-      "shiur_num": 8,
+      "shiur_num": 9,
       "length": "45:52",
       "english_year": 2025,
       "english_date": "2025-12-28",
@@ -67,12 +55,24 @@
       "hebrew_title": "סוכה כט - לולב יבש",
       "english_title": "Sukkah 29",
       "hebrew_sefer": "סוכה",
-      "shiur_num": 7,
+      "shiur_num": 8,
       "length": "44:02",
       "english_year": 2025,
       "english_date": "2025-12-21",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9B%D7%98_%D7%9C%D7%95%D7%9C%D7%91_%D7%99%D7%91%D7%A9.mp3",
       "speaker": "דניאל היימלשטיין"
+    },
+    {
+      "id": "carmei_zion_gemara_beiyyun/סוכה+כז+-+שיטת+רבי+אליעזר.mp3",
+      "hebrew_title": "סוכה כז - שיטת רבי אליעזר",
+      "english_title": "Sukkah 27",
+      "hebrew_sefer": "סוכה",
+      "shiur_num": 7,
+      "length": "47:08",
+      "english_year": 2026,
+      "english_date": "2026-12-14",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94+%D7%9B%D7%96+-+%D7%A9%D7%99%D7%98%D7%AA+%D7%A8%D7%91%D7%99+%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8.mp3",
+      "speaker": "Ari Schiff"
     },
     {
       "id": "carmei_zion_gemara_beiyyun/סוכה_כא_מעמיד_בדבר_המקבל_טומאה",
@@ -82,7 +82,7 @@
       "shiur_num": 6,
       "length": "48:51",
       "english_year": 2025,
-      "english_date": "2025-12-14",
+      "english_date": "2025-12-07",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9B%D7%90_%D7%9E%D7%A2%D7%9E%D7%99%D7%93_%D7%91%D7%93%D7%91%D7%A8_%D7%94%D7%9E%D7%A7%D7%91%D7%9C_%D7%98%D7%95%D7%9E%D7%90%D7%94.mp3",
       "speaker": "דניאל היימלשטיין"
     },
@@ -94,7 +94,7 @@
       "shiur_num": 5,
       "length": "47:30",
       "english_year": 2025,
-      "english_date": "2025-12-07",
+      "english_date": "2025-11-30",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%98%D7%96_%D7%94%D7%9E%D7%A9%D7%9C%D7%A9%D7%9C_%D7%93%D7%A4%D7%A0%D7%95%D7%AA_%D7%95%D7%93%D7%99%D7%9F_%D7%9C%D7%91%D7%95%D7%93.mp3",
       "speaker": "דניאל היימלשטיין"
     },
@@ -106,7 +106,7 @@
       "shiur_num": 4,
       "length": "51:56",
       "english_year": 2025,
-      "english_date": "2025-11-30",
+      "english_date": "2025-11-23",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%99%D7%91_%D7%9B%D7%9C%D7%99_%D7%A7%D7%99%D7%91%D7%95%D7%9C_%D7%94%D7%A2%D7%A9%D7%95%D7%99_%D7%9C%D7%94%D7%AA%D7%9E%D7%9C%D7%90%D7%95%D7%AA.mp3",
       "speaker": "דניאל היימלשטיין"
     },
