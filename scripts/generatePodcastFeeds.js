@@ -119,7 +119,7 @@ const normalizeEnclosureUrl = (value) => {
 // for .m4a can cause Apple Podcasts to ignore the episode.
 const mimeTypeFromUrl = (value) => {
   const v = String(value || '').toLowerCase();
-  if (v.includes('.m4a')) return 'audio/mp4';
+  if (v.includes('.m4a')) return 'audio/x-m4a';
   if (v.includes('.mp4')) return 'audio/mp4';
   if (v.includes('.mp3')) return 'audio/mpeg';
   if (v.includes('.aac')) return 'audio/aac';
