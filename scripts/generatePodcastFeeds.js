@@ -16,6 +16,9 @@ const OUTPUT_DIR = path.join(ROOT_DIR, 'public/podcast');
 // Allow overriding for previews (e.g., ngrok) so assets resolve correctly in validators.
 const SITE_URL = process.env.SITE_URL || 'https://www.midrashaggadah.com';
 const FEED_BASE_URL = process.env.FEED_BASE_URL || `${SITE_URL}/podcast`;
+// Optional cache-buster for podcast artwork URLs. Some aggregators cache show art
+// aggressively; bump this value (e.g. 2026-01-19) to force a refresh.
+const PODCAST_ARTWORK_VERSION = process.env.PODCAST_ARTWORK_VERSION || '';
 
 // Channel-level constants (shared across all Carmei Zion podcasts)
 const PODCAST_AUTHOR = 'כרמי ציון | Carmei Zion';
@@ -35,6 +38,17 @@ const PODCAST_ARTWORK_FILENAMES = {
 
 const buildArtworkUrl = (filename) =>
   `${SITE_URL}/images/artwork_for_podcasts/${encodeURIComponent(String(filename || ''))}`;
+
+const withArtworkVersion = (url) => {
+  if (!PODCAST_ARTWORK_VERSION) return url;
+  try {
+    const u = new URL(String(url));
+    u.searchParams.set('v', PODCAST_ARTWORK_VERSION);
+    return u.toString();
+  } catch {
+    return url;
+  }
+};
 
 const getCoverImageForPodcastId = (podcastId) => {
   const raw = String(podcastId || '').trim();
@@ -397,9 +411,11 @@ const groupBy = (items, keyFn) => {
 
 const renderRss = ({ feedTitle, feedDescription, feedUrl, items }) => {
   const buildDate = new Date().toUTCString();
-  const imageTag = `<itunes:image href="${COVER_ART_URL}"/>`;
+  const coverImage = withArtworkVersion(COVER_ART_URL);
+  const imageTag = `<itunes:image href="${coverImage}"/>`;
+  const podcastImageTag = `<podcast:image href="${coverImage}"/>`;
   const rssImageTag = `<image>
-    <url>${COVER_ART_URL}</url>
+    <url>${coverImage}</url>
     <title><![CDATA[${feedTitle}]]></title>
     <link>${SITE_URL}</link>
   </image>`;
@@ -435,6 +451,7 @@ const renderRss = ({ feedTitle, feedDescription, feedUrl, items }) => {
       <itunes:email>${PODCAST_EMAIL}</itunes:email>
     </itunes:owner>
     ${imageTag}
+    ${podcastImageTag}
     ${rssImageTag}
     <podcast:locked>no</podcast:locked>
 `;
@@ -744,9 +761,11 @@ const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
   } = seriesMetadata;
 
   const buildDate = new Date().toUTCString();
-  const imageTag = `<itunes:image href="${cover_image}"/>`;
+  const coverImage = withArtworkVersion(cover_image);
+  const imageTag = `<itunes:image href="${coverImage}"/>`;
+  const podcastImageTag = `<podcast:image href="${coverImage}"/>`;
   const rssImageTag = `<image>
-    <url>${cover_image}</url>
+    <url>${coverImage}</url>
     <title><![CDATA[${title}]]></title>
     <link>${SITE_URL}</link>
   </image>`;
@@ -782,6 +801,7 @@ const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
       <itunes:email>${email}</itunes:email>
     </itunes:owner>
     ${imageTag}
+    ${podcastImageTag}
     ${rssImageTag}
     <podcast:locked>no</podcast:locked>
 `;
