@@ -53,6 +53,11 @@
   Cache-Control: public, max-age=3600
   Content-Type: application/atom+xml; charset=utf-8
 
+/podcast/*
+  # Feeds should refresh regularly in podcast apps; avoid immutable caching.
+  Cache-Control: public, max-age=3600
+  Content-Type: application/rss+xml; charset=utf-8
+
 /sitemap.xml
   Cache-Control: public, max-age=86400
   Content-Type: application/xml; charset=utf-8
