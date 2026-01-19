@@ -9,8 +9,8 @@
 
 Daily Daf Yomi shiurim.]]></description>
     <language>he</language>
-    <lastBuildDate>Sun, 18 Jan 2026 10:46:24 GMT</lastBuildDate>
-    <pubDate>Sun, 18 Jan 2026 10:46:24 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2026 08:44:34 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2026 08:44:34 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -30,6 +30,26 @@ Daily Daf Yomi shiurim.]]></itunes:summary>
     </itunes:owner>
     <itunes:image href="https://www.midrashaggadah.com/favicons/carmei_zion_logo_2048_2048.png"/>
     <podcast:locked>no</podcast:locked>
+
+    <item>
+      <title><![CDATA[Menachos 8 | מנחות ח]]></title>
+      <link>https://www.midrashaggadah.com</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/2026:01:19-Menachos_8</guid>
+      <description><![CDATA[Menachos 8 | מנחות ח
+
+Presented by זכריה ביננפלד.]]></description>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[מנחות]]></category>
+      <category><![CDATA[daf_yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <podcast:season name="מנחות">2</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>27:48</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:01:19-Menachos_8.m4a" type="audio/mp4" length="29150413"/>
+    </item>
 
     <item>
       <title><![CDATA[Menachos 7 | מנחות ז]]></title>
