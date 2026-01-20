@@ -889,7 +889,7 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
   const titleLine = [episode.english_title, episode.hebrew_title].filter(Boolean).join(' | ').trim();
   if (titleLine) descriptionLines.push(titleLine);
   descriptionLines.push(`Presented by ${episodeSpeaker}.`);
-  if (episode.source_sheet_link) descriptionLines.push(`Source Sheet: ${episode.source_sheet_link}.`);
+  if (episode.source_sheet_link) descriptionLines.push(`Source Sheet: ${episode.source_sheet_link}`);
   const description = descriptionLines.filter(Boolean).join('\n\n').trim();
 
   return {
