@@ -17,6 +17,19 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:01:20-Menachos_9",
+      "hebrew_title": "מנחות ט",
+      "english_title": "Menachos 9",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 9,
+      "length": "33:50",
+      "english_year": 2026,
+      "english_date": "2026-01-20",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:01:20-Menachos_9.m4a",
+      "speaker": "זכריה ביננפלד",
+      "source_sheet_link": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026:01:20-Menachos_9.jpg"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:01:19-Menachos_8",
       "hebrew_title": "מנחות ח",
       "english_title": "Menachos 8",
