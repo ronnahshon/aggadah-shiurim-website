@@ -9,8 +9,8 @@
 
 Daily Daf Yomi shiurim.]]></description>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Jan 2026 20:07:31 GMT</lastBuildDate>
-    <pubDate>Mon, 19 Jan 2026 20:07:31 GMT</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2026 07:20:51 GMT</lastBuildDate>
+    <pubDate>Tue, 20 Jan 2026 07:20:51 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -28,14 +28,36 @@ Daily Daf Yomi shiurim.]]></itunes:summary>
       <itunes:name><![CDATA[כרמי ציון | Carmei Zion]]></itunes:name>
       <itunes:email>ronnahshon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/daf_yomi.jpeg"/>
-    <podcast:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/daf_yomi.jpeg"/>
+    <itunes:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/daf_yomi.jpeg?v=2026-01-20"/>
+    <podcast:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/daf_yomi.jpeg?v=2026-01-20"/>
     <image>
-    <url>https://www.midrashaggadah.com/images/artwork_for_podcasts/daf_yomi.jpeg</url>
+    <url>https://www.midrashaggadah.com/images/artwork_for_podcasts/daf_yomi.jpeg?v=2026-01-20</url>
     <title><![CDATA[דף יומי | זכריה ביננפלד]]></title>
     <link>https://www.midrashaggadah.com</link>
   </image>
     <podcast:locked>no</podcast:locked>
+
+    <item>
+      <title><![CDATA[Menachos 9 | מנחות ט]]></title>
+      <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026:01:20-Menachos_9.jpg</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/2026:01:20-Menachos_9</guid>
+      <description><![CDATA[Menachos 9 | מנחות ט
+
+Presented by זכריה ביננפלד.
+
+Source Sheet: https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026:01:20-Menachos_9.jpg]]></description>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[מנחות]]></category>
+      <category><![CDATA[daf_yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <podcast:season name="מנחות">2</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>33:50</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:01:20-Menachos_9.m4a" type="audio/x-m4a" length="35476821"/>
+    </item>
 
     <item>
       <title><![CDATA[Menachos 8 | מנחות ח]]></title>
@@ -105,7 +127,7 @@ Presented by זכריה ביננפלד.]]></description>
 
 Presented by זכריה ביננפלד.
 
-Source Sheet: https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/recording_20260115_055036.jpg.]]></description>
+Source Sheet: https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/recording_20260115_055036.jpg]]></description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
             <category><![CDATA[מנחות]]></category>
       <category><![CDATA[daf_yomi]]></category>

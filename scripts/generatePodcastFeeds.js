@@ -18,7 +18,7 @@ const SITE_URL = process.env.SITE_URL || 'https://www.midrashaggadah.com';
 const FEED_BASE_URL = process.env.FEED_BASE_URL || `${SITE_URL}/podcast`;
 // Optional cache-buster for podcast artwork URLs. Some aggregators cache show art
 // aggressively; bump this value (e.g. 2026-01-19) to force a refresh.
-const PODCAST_ARTWORK_VERSION = process.env.PODCAST_ARTWORK_VERSION || '';
+const PODCAST_ARTWORK_VERSION = process.env.PODCAST_ARTWORK_VERSION || '2026-01-20';
 
 // Channel-level constants (shared across all Carmei Zion podcasts)
 const PODCAST_AUTHOR = 'כרמי ציון | Carmei Zion';
