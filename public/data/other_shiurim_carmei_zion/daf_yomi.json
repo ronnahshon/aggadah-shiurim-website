@@ -17,6 +17,19 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/recording_20260121_054814",
+      "hebrew_title": "מנחות י",
+      "english_title": "Menachos 10",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 10,
+      "length": "31:49",
+      "english_year": 2026,
+      "english_date": "2026-01-21",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260121_054814.m4a",
+      "speaker": "זכריה ביננפלד",
+      "source_sheet_link": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/recording_20260121_054814.jpg"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:01:20-Menachos_9",
       "hebrew_title": "מנחות ט",
       "english_title": "Menachos 9",
