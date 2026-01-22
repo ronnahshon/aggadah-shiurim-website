@@ -7,22 +7,96 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
 **LAST UPDATE: JAN 2026**
 
 ## 🎙️ Podcast Feeds (Carmei Zion)
-- Primary feeds are published under: `https://www.midrashaggadah.com/podcast/carmei-zion/series/`
-- Artwork:
-  - Default: `public/favicons/carmei_zion_logo_2048_2048.png`
-  - Per-series overrides: `public/images/artwork_for_podcasts/*.jpeg` (ASCII filenames; referenced in feeds)
-- Generation: `scripts/generatePodcastFeeds.js` runs in `npm run build` and outputs under `public/podcast/...` (series feeds from `shiurim_data.json` + additional series from JSON files).
-- Audio URLs: derived from S3 `audio/<shiur.id>.mp3` (matching site playback). `audio_recording_link` can override if it’s already a direct URL (non-GDrive).
-- Podcast-only entries: add to `public/data/podcast_only.json` (same schema as `shiurim_data.json`) to include in feeds without showing on the site.
-- Preview/validation: you can override host/art URLs via env:
-  - `SITE_URL` and `FEED_BASE_URL` for self links (e.g., ngrok)
-  - `COVER_ART_URL` if you need a different art host during validation
-  - `PODCAST_ARTWORK_VERSION` (cache-buster; appended as `?v=...` to artwork URLs to force refresh in directories)
-- Midrash shiurim are also available for streaming via the קהילת כרמי ציון | Carmei Zion podcast:
-  - Apple: https://apple.co/3MSLcEH
-  - Amazon: https://amzn.to/3L9MMl0
-  - Spotify: https://bit.ly/cz-spotify
-  - YouTube: https://bit.ly/cz-youtube
+
+This repo generates and serves **RSS podcast feeds** under:
+
+- **Base path**: `https://www.midrashaggadah.com/podcast/`
+- **Carmei Zion feeds**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/`
+
+### Quick links (current feeds)
+
+- **Ein Yaakov**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml`
+- **Gemara Be’iyyun**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml`
+- **Daf Yomi**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml` (legacy redirect from `.../daf-yomi.xml`)
+- **שיעורים מיוחדים**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/shiurim_meyuhadim.xml`
+- **שיעורי הרב עמינדב גרוסמן**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/shiurim_harav_grossman.xml`
+
+### Feed types
+
+#### 1) Derived feeds (from `shiurim_data.json`)
+
+- **Source**: `public/data/shiurim_data.json` (plus optional `public/data/podcast_only.json`)
+- **Generator**: `scripts/generatePodcastFeeds.js`
+- **Output**: `public/podcast/carmei-zion/...`
+
+#### 2) Additional series feeds (podcast-only JSON files)
+
+- **Source directory**: `public/data/other_shiurim_carmei_zion/`
+- **Each JSON file** (except `_template.json`) becomes **one podcast feed**
+- **Output**: `public/podcast/carmei-zion/series/<series-id>.xml`
+
+### Artwork
+
+- **Default**: `public/favicons/carmei_zion_logo_2048_2048.png`
+- **Per-series overrides**: `public/images/artwork_for_podcasts/*.jpeg` (ASCII filenames; referenced in feeds)
+
+Feeds include `<itunes:image>`, `<podcast:image>`, and RSS `<image>` for broad compatibility (Apple/Spotify/Pocket Casts/Amazon).
+
+### Build & regeneration workflow
+
+- **Generate podcast feeds only**:
+
+```bash
+npm run podcast:generate
+```
+
+- **Full production build** (includes sitemap + RSS/Atom + podcast feeds):
+
+```bash
+npm run build
+```
+
+### Audio URL behavior
+
+- **Derived feeds**: audio is usually derived as `audio/<shiur.id>.mp3` on S3 unless `audio_recording_link` is already a direct HTTP URL.
+- **Additional series episodes**: each episode can set `audio_url` explicitly (recommended for S3 objects that don’t follow the `audio/<id>.mp3` convention).
+
+### Config / preview environment variables
+
+These affect generated feed URLs and artwork URLs:
+- `SITE_URL`
+- `FEED_BASE_URL`
+- `COVER_ART_URL`
+- `PODCAST_OWNER_EMAIL`
+- `PODCAST_ARTWORK_VERSION` (cache-buster for show artwork; appended as `?v=...`)
+
+### Feed metadata conventions (important for directories)
+
+- **Episode ordering**: feeds are sorted by `pubDate` (derived from `english_date`), so avoid future-dated episodes.
+- **Descriptions**:
+  - Speaker line uses: `מאת <speaker>.`
+  - Source sheet line uses: `דף מקורות: <S3 PDF URL>`
+  - Feeds contain **no** `docs.google.com` links.
+
+### Hosting/cache behavior for feeds
+
+Podcast directories cache aggressively. This repo includes `/podcast/*` header overrides (in both `public/_headers` and `dist/_headers`) to avoid immutable caching and serve correct XML content-type. Use `PODCAST_ARTWORK_VERSION` to force refresh when platforms get “stuck”.
+
+### Submitting feeds to platforms
+
+- Submit the specific feed URL you want (usually a **series** feed under `.../podcast/carmei-zion/series/...`).
+- Verification typically uses the `<itunes:owner><itunes:email>` value from the feed.
+
+### Retiring feeds safely
+
+If you previously submitted a feed URL to a directory and want to stop it:
+
+- **Stop generating it** in `scripts/generatePodcastFeeds.js` (source-of-truth).
+- Ensure the URL returns a **real 404** (not your SPA `index.html`).
+  - This repo includes a Vercel rewrite to prevent `/podcast/*` from falling through to the SPA.
+- Optionally add a **301 redirect** from an old feed URL to a new feed URL (to preserve subscribers).
+
+**Note:** This repo intentionally does **not** generate a single “catch-all” umbrella feed anymore (e.g. `.../carmei-zion/all.xml`) to reduce accidental submission of overly-broad feeds.
 
 
 ## 🏗️ Website Structure & Code Organization
@@ -465,102 +539,3 @@ aggadah-shiurim-website/
 - Component patterns: `src/components/`
 - Data structure: `public/data/shiurim_data.json`
 - Build scripts: `scripts/`
-
-## 🎧 Podcast Feeds (detailed)
-
-This repo generates and serves **RSS podcast feeds** under:
-
-- **Base path**: `https://www.midrashaggadah.com/podcast/`
-- **Carmei Zion feeds**: `https://www.midrashaggadah.com/podcast/carmei-zion/`
-
-### Quick links (current feeds)
-
-- **Ein Yaakov**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml`
-- **Gemara Be’iyyun**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml`
-- **Daf Yomi**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml` (legacy redirect from `.../daf-yomi.xml`)
-- **שיעורים מיוחדים**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/shiurim_meyuhadim.xml`
-- **שיעורי הרב עמינדב גרוסמן**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/shiurim_harav_grossman.xml`
-
-### Feed types
-
-#### 1) Derived feeds (from `shiurim_data.json`)
-
-- **Source**: `public/data/shiurim_data.json` (plus optional `public/data/podcast_only.json`)
-- **Generator**: `scripts/generatePodcastFeeds.js`
-- **Output**: `public/podcast/carmei-zion/...`
-- **Example (series feed)**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml`
-
-These feeds are created by filtering the main shiurim database and producing a standalone podcast feed.
-
-#### 2) Additional series feeds (podcast-only JSON files)
-
-- **Source directory**: `public/data/other_shiurim_carmei_zion/`
-- **Each JSON file** (except `_template.json`) becomes **one podcast feed**
-- **Output**: `public/podcast/carmei-zion/series/<series-id>.xml`
-
-Examples:
-- **Gemara Be’iyyun**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml`
-- **Daf Yomi**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml`
-
-### Build & regeneration workflow
-
-- **Generate podcast feeds only**:
-
-```bash
-npm run podcast:generate
-```
-
-- **Full production build** (includes sitemap + RSS/Atom + podcast feeds):
-
-```bash
-npm run build
-```
-
-The build runs:
-- `scripts/generateSitemap.js`
-- `scripts/generateRSSFeed.js` (site RSS/Atom, not podcast RSS)
-- `scripts/generatePodcastFeeds.js` (podcast RSS)
-- `vite build`
-
-### Audio URL behavior
-
-- **Site shiur feeds**: audio is usually derived as `audio/<shiur.id>.mp3` on S3 unless `audio_recording_link` is already a direct HTTP URL.
-- **Additional series episodes**: each episode can set `audio_url` explicitly (recommended for S3 objects that don’t follow the `audio/<id>.mp3` convention).
-
-### Config / preview environment variables
-
-These affect generated feed URLs and artwork URLs:
-- `SITE_URL`
-- `FEED_BASE_URL`
-- `COVER_ART_URL`
-- `PODCAST_OWNER_EMAIL`
-- `PODCAST_ARTWORK_VERSION` (cache-buster for show artwork; appended as `?v=...`)
-
-### Feed metadata conventions (important for directories)
-
-- **Artwork tags included**: `<itunes:image>`, `<podcast:image>`, and RSS `<image>` (for compatibility across Apple/Spotify/Pocket Casts/Amazon).
-- **Episode ordering**: feeds are sorted by `pubDate` (derived from `english_date`), so avoid future-dated episodes.
-- **Descriptions**:
-  - Speaker line uses: `מאת <speaker>.`
-  - Source sheet line uses: `דף מקורות: <S3 PDF URL>`
-  - Feeds contain **no** `docs.google.com` links.
-
-### Hosting/cache behavior for feeds
-
-Podcast directories cache aggressively. This repo includes `/podcast/*` header overrides (in both `public/_headers` and `dist/_headers`) to avoid immutable caching and serve correct XML content-type. Use `PODCAST_ARTWORK_VERSION` to force refresh when platforms get “stuck”.
-
-### Submitting feeds to platforms
-
-- **Spotify / YouTube / Apple**: submit the specific feed URL you want (usually a **series** feed under `.../podcast/carmei-zion/series/...`).
-- Verification typically uses the `<itunes:owner><itunes:email>` value from the feed.
-
-### Retiring feeds safely
-
-If you previously submitted a feed URL to a directory and want to stop it:
-
-- **Stop generating it** in `scripts/generatePodcastFeeds.js` (source-of-truth).
-- Ensure the URL returns a **real 404** (not your SPA `index.html`).
-  - This repo includes a Vercel rewrite to prevent `/podcast/*` from falling through to the SPA.
-- Optionally add a **301 redirect** from an old feed URL to a new feed URL (to preserve subscribers).
-
-**Note:** This repo intentionally does **not** generate a single “catch-all” umbrella feed anymore (e.g. `.../carmei-zion/all.xml`) to reduce accidental submission of overly-broad feeds.
