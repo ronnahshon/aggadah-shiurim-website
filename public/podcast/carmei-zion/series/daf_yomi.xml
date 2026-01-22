@@ -9,8 +9,8 @@
 
 Daily Daf Yomi shiurim.]]></description>
     <language>he</language>
-    <lastBuildDate>Thu, 22 Jan 2026 06:23:08 GMT</lastBuildDate>
-    <pubDate>Thu, 22 Jan 2026 06:23:08 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Jan 2026 06:30:25 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Jan 2026 06:30:25 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -38,12 +38,54 @@ Daily Daf Yomi shiurim.]]></itunes:summary>
     <podcast:locked>no</podcast:locked>
 
     <item>
+      <title><![CDATA[Menachos 11 | מנחות יא]]></title>
+      <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026%3A01%3A22-Menachos_11.pdf</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/2026:01:22-Menachos_11</guid>
+      <description><![CDATA[Menachos 11 | מנחות יא
+
+מאת זכריה ביננפלד.]]></description>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[מנחות]]></category>
+      <category><![CDATA[daf_yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <podcast:season name="מנחות">2</podcast:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>31:07</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:01:22-Menachos_11.m4a" type="audio/x-m4a" length="32628190"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Menachos 10 | מנחות י]]></title>
+      <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/recording_20260121_054814.pdf</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/recording_20260121_054814</guid>
+      <description><![CDATA[Menachos 10 | מנחות י
+
+מאת זכריה ביננפלד.
+
+Source Sheet (PDF): https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/recording_20260121_054814.pdf]]></description>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[מנחות]]></category>
+      <category><![CDATA[daf_yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <podcast:season name="מנחות">2</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>31:49</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260121_054814.m4a" type="audio/x-m4a" length="33362193"/>
+    </item>
+
+    <item>
       <title><![CDATA[Menachos 9 | מנחות ט]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026%3A01%3A20-Menachos_9.pdf</link>
       <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/2026:01:20-Menachos_9</guid>
       <description><![CDATA[Menachos 9 | מנחות ט
 
-Presented by זכריה ביננפלד.
+מאת זכריה ביננפלד.
 
 Source Sheet (PDF): https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026%3A01%3A20-Menachos_9.pdf]]></description>
       <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
@@ -65,7 +107,7 @@ Source Sheet (PDF): https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_z
       <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/2026:01:19-Menachos_8</guid>
       <description><![CDATA[Menachos 8 | מנחות ח
 
-Presented by זכריה ביננפלד.]]></description>
+מאת זכריה ביננפלד.]]></description>
       <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
             <category><![CDATA[מנחות]]></category>
       <category><![CDATA[daf_yomi]]></category>
@@ -85,7 +127,7 @@ Presented by זכריה ביננפלד.]]></description>
       <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/recording_20260118_054850</guid>
       <description><![CDATA[Menachos 7 | מנחות ז
 
-Presented by זכריה ביננפלד.]]></description>
+מאת זכריה ביננפלד.]]></description>
       <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
             <category><![CDATA[מנחות]]></category>
       <category><![CDATA[daf_yomi]]></category>
@@ -105,7 +147,7 @@ Presented by זכריה ביננפלד.]]></description>
       <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/recording_20260116_055256</guid>
       <description><![CDATA[Menachos 5 | מנחות ה
 
-Presented by זכריה ביננפלד.]]></description>
+מאת זכריה ביננפלד.]]></description>
       <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
             <category><![CDATA[מנחות]]></category>
       <category><![CDATA[daf_yomi]]></category>
@@ -125,7 +167,7 @@ Presented by זכריה ביננפלד.]]></description>
       <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/recording_20260115_055036</guid>
       <description><![CDATA[Menachos 4 | מנחות ד
 
-Presented by זכריה ביננפלד.
+מאת זכריה ביננפלד.
 
 Source Sheet (PDF): https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/recording_20260115_055036.pdf]]></description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
@@ -147,7 +189,7 @@ Source Sheet (PDF): https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_z
       <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/מנחות ג</guid>
       <description><![CDATA[Menachos 3 | מנחות ג
 
-Presented by זכריה ביננפלד.]]></description>
+מאת זכריה ביננפלד.]]></description>
       <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
             <category><![CDATA[מנחות]]></category>
       <category><![CDATA[daf_yomi]]></category>
@@ -167,7 +209,7 @@ Presented by זכריה ביננפלד.]]></description>
       <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/מנחות_ב</guid>
       <description><![CDATA[Menachos 2 | מנחות ב
 
-Presented by זכריה ביננפלד.]]></description>
+מאת זכריה ביננפלד.]]></description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
             <category><![CDATA[מנחות]]></category>
       <category><![CDATA[daf_yomi]]></category>
@@ -187,7 +229,7 @@ Presented by זכריה ביננפלד.]]></description>
       <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/זבחים_קכ</guid>
       <description><![CDATA[Zevachim 120 | זבחים קכ
 
-Presented by זכריה ביננפלד.]]></description>
+מאת זכריה ביננפלד.]]></description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
             <category><![CDATA[זבחים]]></category>
       <category><![CDATA[daf_yomi]]></category>

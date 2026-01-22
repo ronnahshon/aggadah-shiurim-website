@@ -325,7 +325,7 @@ const buildDescription = (shiur) => {
     const pdfUrl = getEinYaakovSourceSheetPdfUrl(shiur.id);
     if (pdfUrl) pieces.push(`Source sheet (PDF): ${pdfUrl}`);
   }
-  return `${pieces.join(' — ')}. Presented by ${PODCAST_AUTHOR}.`.trim();
+  return `${pieces.join(' — ')}. מאת ${PODCAST_AUTHOR}.`.trim();
 };
 
 // Build a mapping of hebrew_sefer to season numbers
@@ -716,7 +716,7 @@ const processDerivedPodcasts = (allShiurim) => {
         }
         // Use speaker name if provided, otherwise fall back to author
         const speakerName = speaker || author;
-        descriptionLines.push(`Presented by ${speakerName}.`);
+        descriptionLines.push(`מאת ${speakerName}.`);
 
         // Put the source sheet at the very bottom, with an extra blank line
         // separating it from the "Presented by ..." line.
@@ -933,7 +933,7 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
   const descriptionLines = [];
   const titleLine = [episode.english_title, episode.hebrew_title].filter(Boolean).join(' | ').trim();
   if (titleLine) descriptionLines.push(titleLine);
-  descriptionLines.push(`Presented by ${episodeSpeaker}.`);
+  descriptionLines.push(`מאת ${episodeSpeaker}.`);
   if (episode.source_sheet_link) {
     const pdfUrl = derivedPdfUrl || getAdditionalSeriesSourceSheetPdfUrl(seriesId, episode.id);
     if (pdfUrl) descriptionLines.push(`Source Sheet (PDF): ${pdfUrl}`);
