@@ -8,13 +8,16 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
 
 ## 🎙️ Podcast Feeds (Carmei Zion)
 - Primary feeds are published under: `https://www.midrashaggadah.com/podcast/carmei-zion/series/`
-- Artwork: `public/favicons/carmei_zion_logo_2048_2048.png` (square, 2048x2048px; default cover art).
-- Generation: `scripts/generatePodcastFeeds.js` runs in `npm run build` and outputs under `public/podcast/...` (series + per category/subcategory/sefer).
+- Artwork:
+  - Default: `public/favicons/carmei_zion_logo_2048_2048.png`
+  - Per-series overrides: `public/images/artwork_for_podcasts/*.jpeg` (ASCII filenames; referenced in feeds)
+- Generation: `scripts/generatePodcastFeeds.js` runs in `npm run build` and outputs under `public/podcast/...` (series feeds from `shiurim_data.json` + additional series from JSON files).
 - Audio URLs: derived from S3 `audio/<shiur.id>.mp3` (matching site playback). `audio_recording_link` can override if it’s already a direct URL (non-GDrive).
 - Podcast-only entries: add to `public/data/podcast_only.json` (same schema as `shiurim_data.json`) to include in feeds without showing on the site.
 - Preview/validation: you can override host/art URLs via env:
   - `SITE_URL` and `FEED_BASE_URL` for self links (e.g., ngrok)
   - `COVER_ART_URL` if you need a different art host during validation
+  - `PODCAST_ARTWORK_VERSION` (cache-buster; appended as `?v=...` to artwork URLs to force refresh in directories)
 - Midrash shiurim are also available for streaming via the קהילת כרמי ציון | Carmei Zion podcast:
   - Apple: https://apple.co/3MSLcEH
   - Amazon: https://amzn.to/3L9MMl0
@@ -79,7 +82,7 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
      "english_title": "Your Shiur Title",
      "hebrew_sefer": "יבמות",
      "hebrew_title": "Hebrew Title",
-     "source_sheet_link": "https://docs.google.com/...",
+     "source_sheet_link": "https://docs.google.com/... (internal; podcast feeds do NOT publish this URL)",
      "audio_recording_link": "https://drive.google.com/...",
      "tags": ["relevant", "tags"],
      "hebrew_year": "תשפ״ה",
@@ -93,6 +96,8 @@ Claude-4-Sonnet was used to write the initial code. It was first given a Prompt 
 - There are two objects in S3, "audio" and "source_sheets"
 - Use the same naming convention as the existing files for it to work
 - Link: https://eu-north-1.console.aws.amazon.com/s3/buckets/midrash-aggadah?region=eu-north-1&bucketType=general&tab=objects
+   - For Ein Yaakov podcast feeds, PDFs are expected at: `source_sheets/<shiur.id>.pdf`
+   - For additional series feeds, PDFs are expected at: `<series-folder>-sources/<episode-basename>.pdf` (see `scripts/generatePodcastFeeds.js`)
 
 3. **Regenerate sitemap**:
    ```bash
@@ -415,7 +420,9 @@ aggadah-shiurim-website/
 - **Categories**: Ein Yaakov, Midrash HaAliyah, and more
 - **Languages**: Hebrew and English content
 - **Audio**: Direct integration with Google Drive recordings
-- **Source Sheets**: Links to Google Docs source materials
+- **Source Sheets**:
+  - Site: can reference Google Docs for rendering/authoring
+  - Podcast feeds: do **not** publish Google Doc links; they link to **S3 PDFs** instead
 
 ## 🔧 Maintenance & Best Practices
 
@@ -471,6 +478,8 @@ This repo generates and serves **RSS podcast feeds** under:
 - **Ein Yaakov**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml`
 - **Gemara Be’iyyun**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml`
 - **Daf Yomi**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml` (legacy redirect from `.../daf-yomi.xml`)
+- **שיעורים מיוחדים**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/shiurim_meyuhadim.xml`
+- **שיעורי הרב עמינדב גרוסמן**: `https://www.midrashaggadah.com/podcast/carmei-zion/series/shiurim_harav_grossman.xml`
 
 ### Feed types
 
@@ -525,6 +534,20 @@ These affect generated feed URLs and artwork URLs:
 - `FEED_BASE_URL`
 - `COVER_ART_URL`
 - `PODCAST_OWNER_EMAIL`
+- `PODCAST_ARTWORK_VERSION` (cache-buster for show artwork; appended as `?v=...`)
+
+### Feed metadata conventions (important for directories)
+
+- **Artwork tags included**: `<itunes:image>`, `<podcast:image>`, and RSS `<image>` (for compatibility across Apple/Spotify/Pocket Casts/Amazon).
+- **Episode ordering**: feeds are sorted by `pubDate` (derived from `english_date`), so avoid future-dated episodes.
+- **Descriptions**:
+  - Speaker line uses: `מאת <speaker>.`
+  - Source sheet line uses: `דף מקורות: <S3 PDF URL>`
+  - Feeds contain **no** `docs.google.com` links.
+
+### Hosting/cache behavior for feeds
+
+Podcast directories cache aggressively. This repo includes `/podcast/*` header overrides (in both `public/_headers` and `dist/_headers`) to avoid immutable caching and serve correct XML content-type. Use `PODCAST_ARTWORK_VERSION` to force refresh when platforms get “stuck”.
 
 ### Submitting feeds to platforms
 
