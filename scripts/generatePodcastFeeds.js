@@ -323,7 +323,7 @@ const buildDescription = (shiur) => {
   // Avoid publishing editable Google Doc links in podcast metadata.
   if (shiur.source_sheet_link) {
     const pdfUrl = getEinYaakovSourceSheetPdfUrl(shiur.id);
-    if (pdfUrl) pieces.push(`Source sheet (PDF): ${pdfUrl}`);
+    if (pdfUrl) pieces.push(`דף מקורות: ${pdfUrl}`);
   }
   return `${pieces.join(' — ')}. מאת ${PODCAST_AUTHOR}.`.trim();
 };
@@ -723,7 +723,7 @@ const processDerivedPodcasts = (allShiurim) => {
         const sourceSheetLine = shiur.source_sheet_link
           ? (() => {
               const pdfUrl = getEinYaakovSourceSheetPdfUrl(shiur.id);
-              return pdfUrl ? `Source Sheet (PDF): ${pdfUrl}.` : '';
+              return pdfUrl ? `דף מקורות: ${pdfUrl}.` : '';
             })()
           : '';
         let episodeDescription = descriptionLines.filter(Boolean).join('\n\n').trim();
@@ -936,7 +936,7 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
   descriptionLines.push(`מאת ${episodeSpeaker}.`);
   if (episode.source_sheet_link) {
     const pdfUrl = derivedPdfUrl || getAdditionalSeriesSourceSheetPdfUrl(seriesId, episode.id);
-    if (pdfUrl) descriptionLines.push(`Source Sheet (PDF): ${pdfUrl}`);
+    if (pdfUrl) descriptionLines.push(`דף מקורות: ${pdfUrl}`);
   }
   const description = descriptionLines.filter(Boolean).join('\n\n').trim();
 
