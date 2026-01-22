@@ -160,6 +160,40 @@ const normalizeEnclosureUrl = (value) => {
   }
 };
 
+// Encode S3 object keys safely for use in URLs (encode each segment, keep "/").
+const encodeS3KeyForUrl = (key) =>
+  String(key || '')
+    .split('/')
+    .map((seg) => encodeURIComponent(seg))
+    .join('/');
+
+// Build a public S3 URL for a PDF source sheet.
+const buildSourceSheetPdfUrl = (s3Key) => {
+  const key = String(s3Key || '').trim();
+  if (!key) return '';
+  return `${S3_BASE_URL}${encodeS3KeyForUrl(key)}`;
+};
+
+// For Ein Yaakov shiurim, source sheets are stored under source_sheets/<shiur.id>.pdf
+const getEinYaakovSourceSheetPdfUrl = (shiurId) =>
+  buildSourceSheetPdfUrl(`source_sheets/${String(shiurId || '').trim()}.pdf`);
+
+// For additional series, attachments are stored under "<folder>-sources/<basename>.pdf"
+// where basename matches the audio filename without extension.
+const SERIES_SOURCE_SHEETS_PREFIX = {
+  daf_yomi: 'carmei_zion_daf_yomi-sources/',
+  gemara_beiyyun: 'carmei_zion_gemara_beiyyun-sources/',
+  shiurim_meyuhadim: 'carmei_zion_shiurim_meyuhadim-sources/',
+};
+
+const getAdditionalSeriesSourceSheetPdfUrl = (seriesId, episodeId) => {
+  const prefix = SERIES_SOURCE_SHEETS_PREFIX[String(seriesId || '').trim()];
+  if (!prefix) return '';
+  const base = String(episodeId || '').split('/').pop();
+  if (!base) return '';
+  return buildSourceSheetPdfUrl(`${prefix}${base}.pdf`);
+};
+
 // Enclosure MIME type should match the actual media container. Using audio/mpeg
 // for .m4a can cause Apple Podcasts to ignore the episode.
 const mimeTypeFromUrl = (value) => {
@@ -286,7 +320,11 @@ const buildDescription = (shiur) => {
   const pieces = [];
   if (shiur.english_title) pieces.push(shiur.english_title);
   if (shiur.hebrew_title) pieces.push(shiur.hebrew_title);
-  if (shiur.source_sheet_link) pieces.push(`Source sheet: ${shiur.source_sheet_link}`);
+  // Avoid publishing editable Google Doc links in podcast metadata.
+  if (shiur.source_sheet_link) {
+    const pdfUrl = getEinYaakovSourceSheetPdfUrl(shiur.id);
+    if (pdfUrl) pieces.push(`Source sheet (PDF): ${pdfUrl}`);
+  }
   return `${pieces.join(' — ')}. Presented by ${PODCAST_AUTHOR}.`.trim();
 };
 
@@ -682,7 +720,12 @@ const processDerivedPodcasts = (allShiurim) => {
 
         // Put the source sheet at the very bottom, with an extra blank line
         // separating it from the "Presented by ..." line.
-        const sourceSheetLine = shiur.source_sheet_link ? `Source Sheet: ${shiur.source_sheet_link}.` : '';
+        const sourceSheetLine = shiur.source_sheet_link
+          ? (() => {
+              const pdfUrl = getEinYaakovSourceSheetPdfUrl(shiur.id);
+              return pdfUrl ? `Source Sheet (PDF): ${pdfUrl}.` : '';
+            })()
+          : '';
         let episodeDescription = descriptionLines.filter(Boolean).join('\n\n').trim();
         if (sourceSheetLine) {
           // extra blank line between Presented by and the source sheet
@@ -870,8 +913,10 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
   const guidPrefix = seriesGuidId || seriesId;
   const guid = `carmei-zion-${guidPrefix}-${episode.id}`;
 
-  // No website link for additional series (podcast-only)
-  const link = episode.link || episode.source_sheet_link || SITE_URL;
+  // No website link for additional series (podcast-only).
+  // Also avoid publishing editable Google Doc links: prefer S3 PDF if we can derive it.
+  const derivedPdfUrl = getAdditionalSeriesSourceSheetPdfUrl(seriesId, episode.id);
+  const link = episode.link || derivedPdfUrl || SITE_URL;
 
   const categories = [episode.hebrew_sefer, seriesId].filter(Boolean);
 
@@ -889,7 +934,10 @@ const buildEpisodeForSeries = (episode, seriesId, seriesGuidId, defaultSpeaker, 
   const titleLine = [episode.english_title, episode.hebrew_title].filter(Boolean).join(' | ').trim();
   if (titleLine) descriptionLines.push(titleLine);
   descriptionLines.push(`Presented by ${episodeSpeaker}.`);
-  if (episode.source_sheet_link) descriptionLines.push(`Source Sheet: ${episode.source_sheet_link}`);
+  if (episode.source_sheet_link) {
+    const pdfUrl = derivedPdfUrl || getAdditionalSeriesSourceSheetPdfUrl(seriesId, episode.id);
+    if (pdfUrl) descriptionLines.push(`Source Sheet (PDF): ${pdfUrl}`);
+  }
   const description = descriptionLines.filter(Boolean).join('\n\n').trim();
 
   return {
