@@ -15,23 +15,11 @@
   ],
   "episodes": [
     {
-      "id": "carmei_zion_gemara_beiyyun/בל תוסיף בלולב",
-      "hebrew_title": "סוכה לב - בל תוסיף בלולב",
-      "english_title": "Sukkah 32 - Bal Tosif for Lulav",
-      "hebrew_sefer": "סוכה",
-      "shiur_num": 0,
-      "length": "48:49",
-      "english_year": 2026,
-      "english_date": "2026-01-22",
-      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/בל תוסיף בלולב.m4a",
-      "speaker": "דוב גרסון"
-    },
-    {
       "id": "carmei_zion_gemara_beiyyun/סוכה_לח_חיוב_נענועים_בהלל_או_בברכה.mp3",
       "hebrew_title": "סוכה לח - חיוב נענועים בהלל או בברכה",
       "english_title": "Sukkah 38",
       "hebrew_sefer": "סוכה",
-      "shiur_num": 11,
+      "shiur_num": 12,
       "length": "47:43",
       "english_year": 2026,
       "english_date": "2026-01-18",
@@ -43,12 +31,24 @@
       "hebrew_title": "סוכה לז - דין חציצה בלולב",
       "english_title": "Sukkah 37",
       "hebrew_sefer": "סוכה",
-      "shiur_num": 10,
+      "shiur_num": 11,
       "length": "48:13",
       "english_year": 2026,
-      "english_date": "2026-01-11",
+      "english_date": "2026-01-12",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9C%D7%96_%D7%93%D7%99%D7%9F_%D7%97%D7%A6%D7%99%D7%A6%D7%94_%D7%91%D7%9C%D7%95%D7%9C%D7%91.mp3",
       "speaker": "דניאל היימלשטיין"
+    },
+    {
+      "id": "carmei_zion_gemara_beiyyun/בל תוסיף בלולב",
+      "hebrew_title": "סוכה לב - בל תוסיף בלולב",
+      "english_title": "Sukkah 32",
+      "hebrew_sefer": "סוכה",
+      "shiur_num": 10,
+      "length": "48:49",
+      "english_year": 2026,
+      "english_date": "2026-01-11",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/בל תוסיף בלולב.m4a",
+      "speaker": "דוב גרסון"
     },
     {
       "id": "carmei_zion_gemara_beiyyun/סוכה_ל_מצווה_הבאה_בעבירה",
@@ -84,7 +84,7 @@
       "english_year": 2026,
       "english_date": "2025-12-14",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94+%D7%9B%D7%96+-+%D7%A9%D7%99%D7%98%D7%AA+%D7%A8%D7%91%D7%99+%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8.mp3",
-      "speaker": "Ari Schiff"
+      "speaker": "ארי שיף"
     },
     {
       "id": "carmei_zion_gemara_beiyyun/סוכה_כא_מעמיד_בדבר_המקבל_טומאה",
