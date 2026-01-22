@@ -9,8 +9,8 @@
 
 In-depth shiurim on halachic discussions in the Talmud.]]></description>
     <language>he</language>
-    <lastBuildDate>Thu, 22 Jan 2026 06:34:38 GMT</lastBuildDate>
-    <pubDate>Thu, 22 Jan 2026 06:34:38 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Jan 2026 09:00:02 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Jan 2026 09:00:02 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -28,10 +28,10 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
       <itunes:name><![CDATA[כרמי ציון | Carmei Zion]]></itunes:name>
       <itunes:email>ronnahshon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-20"/>
-    <podcast:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-20"/>
+    <itunes:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22"/>
+    <podcast:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22"/>
     <image>
-    <url>https://www.midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-20</url>
+    <url>https://www.midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22</url>
     <title><![CDATA[גמרא בעיון | הרב עמינדב גרוסמן]]></title>
     <link>https://www.midrashaggadah.com</link>
   </image>
@@ -52,7 +52,7 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <podcast:season name="סוכה">1</podcast:season>
-      <itunes:episode>11</itunes:episode>
+      <itunes:episode>12</itunes:episode>
       <itunes:duration>47:43</itunes:duration>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9C%D7%97_%D7%97%D7%99%D7%95%D7%91_%D7%A0%D7%A2%D7%A0%D7%95%D7%A2%D7%99%D7%9D_%D7%91%D7%94%D7%9C%D7%9C_%D7%90%D7%95_%D7%91%D7%91%D7%A8%D7%9B%D7%94.mp3" type="audio/mpeg" length="50034551"/>
     </item>
@@ -64,6 +64,26 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
       <description><![CDATA[Sukkah 37 | סוכה לז - דין חציצה בלולב
 
 מאת דניאל היימלשטיין.]]></description>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[סוכה]]></category>
+      <category><![CDATA[gemara_beiyyun]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="סוכה">1</podcast:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>48:13</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9C%D7%96_%D7%93%D7%99%D7%9F_%D7%97%D7%A6%D7%99%D7%A6%D7%94_%D7%91%D7%9C%D7%95%D7%9C%D7%91.mp3" type="audio/mpeg" length="50558839"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Sukkah 32 | סוכה לב - בל תוסיף בלולב]]></title>
+      <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun-sources/%D7%91%D7%9C%20%D7%AA%D7%95%D7%A1%D7%99%D7%A3%20%D7%91%D7%9C%D7%95%D7%9C%D7%91.pdf</link>
+      <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/בל תוסיף בלולב</guid>
+      <description><![CDATA[Sukkah 32 | סוכה לב - בל תוסיף בלולב
+
+מאת דוב גרסון.]]></description>
       <pubDate>Sun, 11 Jan 2026 00:00:00 GMT</pubDate>
             <category><![CDATA[סוכה]]></category>
       <category><![CDATA[gemara_beiyyun]]></category>
@@ -73,8 +93,8 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
       <itunes:season>1</itunes:season>
       <podcast:season name="סוכה">1</podcast:season>
       <itunes:episode>10</itunes:episode>
-      <itunes:duration>48:13</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%94_%D7%9C%D7%96_%D7%93%D7%99%D7%9F_%D7%97%D7%A6%D7%99%D7%A6%D7%94_%D7%91%D7%9C%D7%95%D7%9C%D7%91.mp3" type="audio/mpeg" length="50558839"/>
+      <itunes:duration>48:49</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%91%D7%9C%20%D7%AA%D7%95%D7%A1%D7%99%D7%A3%20%D7%91%D7%9C%D7%95%D7%9C%D7%91.m4a" type="audio/x-m4a" length="51187985"/>
     </item>
 
     <item>
@@ -123,7 +143,7 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
       <guid isPermaLink="false">carmei-zion-gemara_beiyyun-carmei_zion_gemara_beiyyun/סוכה+כז+-+שיטת+רבי+אליעזר.mp3</guid>
       <description><![CDATA[Sukkah 27 | סוכה כז - שיטת רבי אליעזר
 
-מאת Ari Schiff.]]></description>
+מאת ארי שיף.]]></description>
       <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
             <category><![CDATA[סוכה]]></category>
       <category><![CDATA[gemara_beiyyun]]></category>

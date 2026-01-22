@@ -18,7 +18,7 @@ const SITE_URL = process.env.SITE_URL || 'https://www.midrashaggadah.com';
 const FEED_BASE_URL = process.env.FEED_BASE_URL || `${SITE_URL}/podcast`;
 // Optional cache-buster for podcast artwork URLs. Some aggregators cache show art
 // aggressively; bump this value (e.g. 2026-01-19) to force a refresh.
-const PODCAST_ARTWORK_VERSION = process.env.PODCAST_ARTWORK_VERSION || '2026-01-20';
+const PODCAST_ARTWORK_VERSION = process.env.PODCAST_ARTWORK_VERSION || '2026-01-22';
 
 // Channel-level constants (shared across all Carmei Zion podcasts)
 const PODCAST_AUTHOR = 'כרמי ציון | Carmei Zion';
@@ -31,6 +31,7 @@ const PODCAST_ARTWORK_FILENAMES = {
   gemara_beiyyun: 'gemara_beiyyun.jpeg',
   daf_yomi: 'daf_yomi.jpeg',
   shiurim_meyuhadim: 'shiurim_meyuhadim.jpeg',
+  shiurim_harav_grossman: 'shiurim_harav_grossman.jpeg',
   ein_yaakov: 'ein_yaakov.jpeg',
   // derived podcast id uses a dash, but the requested key is underscore
   'ein-yaakov': 'ein_yaakov.jpeg',
@@ -184,10 +185,21 @@ const SERIES_SOURCE_SHEETS_PREFIX = {
   daf_yomi: 'carmei_zion_daf_yomi-sources/',
   gemara_beiyyun: 'carmei_zion_gemara_beiyyun-sources/',
   shiurim_meyuhadim: 'carmei_zion_shiurim_meyuhadim-sources/',
+  // shares content storage with shiurim_meyuhadim episodes in S3
+  shiurim_harav_grossman: 'carmei_zion_shiurim_meyuhadim-sources/',
 };
 
 const getAdditionalSeriesSourceSheetPdfUrl = (seriesId, episodeId) => {
-  const prefix = SERIES_SOURCE_SHEETS_PREFIX[String(seriesId || '').trim()];
+  const sid = String(seriesId || '').trim();
+  let prefix = SERIES_SOURCE_SHEETS_PREFIX[sid];
+
+  // Fallback: infer from episode id prefix (e.g. "carmei_zion_daf_yomi/<basename>").
+  // Convention: attachments live under "<folder>-sources/<basename>.pdf".
+  if (!prefix) {
+    const folder = String(episodeId || '').split('/')[0];
+    if (folder) prefix = `${folder}-sources/`;
+  }
+
   if (!prefix) return '';
   const base = String(episodeId || '').split('/').pop();
   if (!base) return '';

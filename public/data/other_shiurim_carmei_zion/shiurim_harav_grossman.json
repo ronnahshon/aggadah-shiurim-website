@@ -1,0 +1,163 @@
+{
+  "series_metadata": {
+    "id": "shiurim_harav_grossman",
+    "guid_id": "shiurim-harav-grossman",
+    "title": "שיעורי הרב עמינדב גרוסמן | כרמי ציון",
+    "description": "שיעורים מאת הרב עמינדב גרוסמן מקהילת כרמי ציון בקרית גת.\n\nShiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).",
+    "language": "he",
+    "email": "ronnahshon@gmail.com",
+    "category": "Religion & Spirituality",
+    "subcategory": "Judaism"
+  },
+  "contentLanguage": "hebrew",
+  "speaker": "הרב עמינדב גרוסמן",
+  "season_order": [
+    "מחשבה"
+  ],
+  "episodes": [
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/מצות_החינוך_לאמהות",
+      "hebrew_title": "מצות החינוך לאמהות",
+      "english_title": "The Mitvah of Education for Women",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 12,
+      "length": "46:03",
+      "english_year": 2026,
+      "english_date": "2026-01-14",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%9E%D7%A6%D7%95%D7%AA_%D7%94%D7%97%D7%99%D7%A0%D7%95%D7%9A_%D7%9C%D7%90%D7%9E%D7%94%D7%95%D7%AA_%D7%94%D7%A8%D7%91_%D7%A2%D7%9E%D7%99%D7%A0%D7%93%D7%91_%D7%92%D7%A8%D7%95%D7%A1%D7%9E%D7%9F.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/איסור_אכילה_ושתיה_ביום_הכיפורים",
+      "hebrew_title": "איסור אכילה ושתיה ביום הכיפורים",
+      "english_title": "Prohibition of Eating and Drinking on Yom Kippur",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 11,
+      "length": "30:20",
+      "english_year": 2025,
+      "english_date": "2025-09-30",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%90%D7%99%D7%A1%D7%95%D7%A8_%D7%90%D7%9B%D7%99%D7%9C%D7%94_%D7%95%D7%A9%D7%AA%D7%99%D7%94_%D7%91%D7%99%D7%95%D7%9D_%D7%94%D7%9B%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/רב+שמשון+רפאל+הירש+ותנועת+הרפורמה+פיצול+הקהילה+בפרנקפורט",
+      "hebrew_title": "רב שמשון רפאל הירש - תנועת הרפורמה פיצול הקהילה בפרנקפורט",
+      "english_title": "Rav Shimshon Rafael Hirsch - The Reform Movement and The Split of the Community in Frankfurt",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 10,
+      "length": "11:50",
+      "english_year": 2023,
+      "english_date": "2025-01-10",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%A8%D7%91+%D7%A9%D7%9E%D7%A9%D7%95%D7%9F+%D7%A8%D7%A4%D7%90%D7%9C+%D7%94%D7%99%D7%A8%D7%A9+%D7%95%D7%AA%D7%A0%D7%95%D7%A2%D7%AA+%D7%94%D7%A8%D7%A4%D7%95%D7%A8%D7%9E%D7%94+%D7%A4%D7%99%D7%A6%D7%95%D7%9C+%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94+%D7%91%D7%A4%D7%A8%D7%A0%D7%A7%D7%A4%D7%95%D7%A8%D7%98.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/חדש+אסור+מן+התורה+תגובות+להשכלה",
+      "hebrew_title": "חדש אסור מן התורה תגובות להשכלה",
+      "english_title": "New Things are Forbidden from the Torah - Responses to the Enlightenment",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 9,
+      "length": "51:42",
+      "english_year": 2023,
+      "english_date": "2023-01-09",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%97%D7%93%D7%A9+%D7%90%D7%A1%D7%95%D7%A8+%D7%9E%D7%9F+%D7%94%D7%AA%D7%95%D7%A8%D7%94+%D7%AA%D7%92%D7%95%D7%91%D7%95%D7%AA+%D7%9C%D7%94%D7%A9%D7%9B%D7%9C%D7%94.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/חבישת+כיפות+וזהות+יהודית",
+      "hebrew_title": "חבישת כיפות וזהות יהודית",
+      "english_title": "Wearing Kippot and Jewish Identity",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 8,
+      "length": "52:40",
+      "english_year": 2023,
+      "english_date": "2023-01-08",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%97%D7%91%D7%99%D7%A9%D7%AA+%D7%9B%D7%99%D7%A4%D7%95%D7%AA+%D7%95%D7%96%D7%94%D7%95%D7%AA+%D7%99%D7%94%D7%95%D7%93%D7%99%D7%AA.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/הבה+נרעישה+את+הרשע+למה+מכים+את+המן",
+      "hebrew_title": "הבה נרעישה את הרשע למה מכים את המן",
+      "english_title": "Let Us Villify the Wicked - Why Do We Attack Haman",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 7,
+      "length": "47:26",
+      "english_year": 2023,
+      "english_date": "2023-01-07",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%94%D7%91%D7%94+%D7%A0%D7%A8%D7%A2%D7%99%D7%A9%D7%94+%D7%90%D7%AA+%D7%94%D7%A8%D7%A9%D7%A2+%D7%9C%D7%9E%D7%94+%D7%9E%D7%9B%D7%99%D7%9D+%D7%90%D7%AA+%D7%94%D7%9E%D7%9F.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/האם+אפשר+לצאת+ידי+קריאת+מגילה+בזום+פסיקת+הלכה+בשעת+הדחק",
+      "hebrew_title": "האם אפשר לצאת ידי קריאת מגילה בזום פסיקת הלכה בשעת הדחק",
+      "english_title": "Can You Read the Megillah Over Zoom - Halachah in Times of Distress",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 6,
+      "length": "48:56",
+      "english_year": 2023,
+      "english_date": "2023-01-06",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%94%D7%90%D7%9D+%D7%90%D7%A4%D7%A9%D7%A8+%D7%9C%D7%A6%D7%90%D7%AA+%D7%99%D7%93%D7%99+%D7%A7%D7%A8%D7%99%D7%90%D7%AA+%D7%9E%D7%92%D7%99%D7%9C%D7%94+%D7%91%D7%96%D7%95%D7%9D+%D7%A4%D7%A1%D7%99%D7%A7%D7%AA+%D7%94%D7%9C%D7%9B%D7%94+%D7%91%D7%A9%D7%A2%D7%AA+%D7%94%D7%93%D7%97%D7%A7.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/איך+מנקים+את+הבית+לפסח+איך+מכשירים+את+המטבח+מה+שצריך+לדעת+עד+להלכה+למעשה",
+      "hebrew_title": "איך מנקים את הבית לפסח איך מכשירים את המטבח מה צריך לדעת עד להלכה למעשה",
+      "english_title": "How to Clean the House for Pesach - Setting the Table, What to Know in Practice",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 5,
+      "length": "52:42",
+      "english_year": 2023,
+      "english_date": "2023-01-05",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%90%D7%99%D7%9A+%D7%9E%D7%A0%D7%A7%D7%99%D7%9D+%D7%90%D7%AA+%D7%94%D7%91%D7%99%D7%AA+%D7%9C%D7%A4%D7%A1%D7%97+%D7%90%D7%99%D7%9A+%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%D7%99%D7%9D+%D7%90%D7%AA+%D7%94%D7%9E%D7%98%D7%91%D7%97+%D7%9E%D7%94+%D7%A9%D7%A6%D7%A8%D7%99%D7%9A+%D7%9C%D7%93%D7%A2%D7%AA+%D7%A2%D7%93+%D7%9C%D7%94%D7%9C%D7%9B%D7%94+%D7%9C%D7%9E%D7%A2%D7%A9%D7%94.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/שבתי+צבי+גאולה+דרך+עבירה",
+      "hebrew_title": "שבתי צבי גאולה דרך עבירה",
+      "english_title": "Shabbati Tzvi - Redemption Through Sin",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 4,
+      "length": "51:30",
+      "english_year": 2023,
+      "english_date": "2023-01-04",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%A9%D7%91%D7%AA%D7%99+%D7%A6%D7%91%D7%99+%D7%92%D7%90%D7%95%D7%9C%D7%94+%D7%93%D7%A8%D7%9A+%D7%A2%D7%91%D7%99%D7%A8%D7%94.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/חסידים+ומתנגדים+ותלמד+ודרך+ארץ",
+      "hebrew_title": "חסידים ומתנגדים ותלמד תורה",
+      "english_title": "Hassidim, Mitnagdim and Talmud Torah",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 3,
+      "length": "52:19",
+      "english_year": 2023,
+      "english_date": "2023-01-03",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%97%D7%A1%D7%99%D7%93%D7%99%D7%9D+%D7%95%D7%9E%D7%AA%D7%A0%D7%92%D7%93%D7%99%D7%9D+%D7%95%D7%AA%D7%9C%D7%9E%D7%95%D7%93+%D7%AA%D7%95%D7%A8%D7%94.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/מהותו+של+מצוות+משלוח+מנות",
+      "hebrew_title": "מהותו של מצוות משלוח מנות",
+      "english_title": "The Nature of the Mitzvah of Mishloach Manot",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 2,
+      "length": "40:34",
+      "english_year": 2023,
+      "english_date": "2023-01-02",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%9E%D7%94%D7%95%D7%AA%D7%95+%D7%A9%D7%9C+%D7%9E%D7%A6%D7%95%D7%95%D7%AA+%D7%9E%D7%A9%D7%9C%D7%95%D7%97+%D7%9E%D7%A0%D7%95%D7%AA.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/רב+שמשון+רפאל+הירש+ותורה+עם+דרך+ארץ",
+      "hebrew_title": "רב שמשון רפאל הירש - תורה עם דרך ארץ",
+      "english_title": "Rav Shimshon Rafael Hirsch - Torah with Derech Eretz",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 1,
+      "length": "62:54",
+      "english_year": 2023,
+      "english_date": "2023-01-01",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%A8%D7%91+%D7%A9%D7%9E%D7%A9%D7%95%D7%9F+%D7%A8%D7%A4%D7%90%D7%9C+%D7%94%D7%99%D7%A8%D7%A9+%D7%95%D7%AA%D7%95%D7%A8%D7%94+%D7%A2%D7%9D+%D7%93%D7%A8%D7%9A+%D7%90%D7%A8%D7%A5.mp3",
+      "speaker": "הרב עמינדב גרוסמן"
+    }
+  ]
+}
