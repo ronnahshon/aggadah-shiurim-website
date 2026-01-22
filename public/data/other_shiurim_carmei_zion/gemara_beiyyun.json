@@ -15,6 +15,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_gemara_beiyyun/בל תוסיף בלולב",
+      "hebrew_title": "בל תוסיף בלולב",
+      "english_title": "Bal Tosif - Lulav",
+      "hebrew_sefer": "",
+      "shiur_num": 0,
+      "length": "48:49",
+      "english_year": 2026,
+      "english_date": "2026-01-22",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/בל תוסיף בלולב.m4a",
+      "speaker": "דוב גרסון"
+    },
+    {
       "id": "carmei_zion_gemara_beiyyun/סוכה_לח_חיוב_נענועים_בהלל_או_בברכה.mp3",
       "hebrew_title": "סוכה לח - חיוב נענועים בהלל או בברכה",
       "english_title": "Sukkah 38",
