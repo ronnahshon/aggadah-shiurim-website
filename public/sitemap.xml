@@ -16,6 +16,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://midrashaggadah.com/podcasts</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://midrashaggadah.com/sefarim</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
@@ -412,6 +417,11 @@
   </url>
   <url>
     <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-18</loc>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-19</loc>
     <priority>0.8</priority>
     <changefreq>yearly</changefreq>
   </url>
@@ -1319,5 +1329,40 @@
     <loc>https://midrashaggadah.com/shiur/midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-42</loc>
     <priority>0.8</priority>
     <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml</loc>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml</loc>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml</loc>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/podcast/carmei-zion/series/shiurim_harav_grossman.xml</loc>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/podcast/carmei-zion/series/shiurim_meyuhadim.xml</loc>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/rss.xml</loc>
+    <priority>0.6</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/atom.xml</loc>
+    <priority>0.6</priority>
+    <changefreq>daily</changefreq>
   </url>
 </urlset>

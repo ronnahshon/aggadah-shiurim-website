@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title><![CDATA[שיעורי הרב עמינדב גרוסמן | כרמי ציון]]></title>
+    <title><![CDATA[שיעורי הרב עמינדב גרוסמן]]></title>
     <link>https://www.midrashaggadah.com</link>
     <description><![CDATA[שפה | Language: עברית | Hebrew
 
@@ -9,8 +9,8 @@
 
 Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></description>
     <language>he</language>
-    <lastBuildDate>Thu, 22 Jan 2026 09:00:02 GMT</lastBuildDate>
-    <pubDate>Thu, 22 Jan 2026 09:00:02 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 07:46:09 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 07:46:09 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/shiurim_harav_grossman.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -32,7 +32,7 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
     <podcast:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/shiurim_harav_grossman.jpeg?v=2026-01-22"/>
     <image>
     <url>https://www.midrashaggadah.com/images/artwork_for_podcasts/shiurim_harav_grossman.jpeg?v=2026-01-22</url>
-    <title><![CDATA[שיעורי הרב עמינדב גרוסמן | כרמי ציון]]></title>
+    <title><![CDATA[שיעורי הרב עמינדב גרוסמן]]></title>
     <link>https://www.midrashaggadah.com</link>
   </image>
     <podcast:locked>no</podcast:locked>
@@ -40,7 +40,7 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
     <item>
       <title><![CDATA[The Mitvah of Education for Women | מצות החינוך לאמהות]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%9E%D7%A6%D7%95%D7%AA_%D7%94%D7%97%D7%99%D7%A0%D7%95%D7%9A_%D7%9C%D7%90%D7%9E%D7%94%D7%95%D7%AA.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/מצות_החינוך_לאמהות</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/מצות_החינוך_לאמהות</guid>
       <description><![CDATA[The Mitvah of Education for Women | מצות החינוך לאמהות
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -54,13 +54,13 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>46:03</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%9E%D7%A6%D7%95%D7%AA_%D7%94%D7%97%D7%99%D7%A0%D7%95%D7%9A_%D7%9C%D7%90%D7%9E%D7%94%D7%95%D7%AA_%D7%94%D7%A8%D7%91_%D7%A2%D7%9E%D7%99%D7%A0%D7%93%D7%91_%D7%92%D7%A8%D7%95%D7%A1%D7%9E%D7%9F.mp3" type="audio/mpeg" length="48286925"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%9E%D7%A6%D7%95%D7%AA_%D7%94%D7%97%D7%99%D7%A0%D7%95%D7%9A_%D7%9C%D7%90%D7%9E%D7%94%D7%95%D7%AA_%D7%94%D7%A8%D7%91_%D7%A2%D7%9E%D7%99%D7%A0%D7%93%D7%91_%D7%92%D7%A8%D7%95%D7%A1%D7%9E%D7%9F.mp3" type="audio/mpeg" length="48286925"/>
     </item>
 
     <item>
       <title><![CDATA[Prohibition of Eating and Drinking on Yom Kippur | איסור אכילה ושתיה ביום הכיפורים]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%90%D7%99%D7%A1%D7%95%D7%A8_%D7%90%D7%9B%D7%99%D7%9C%D7%94_%D7%95%D7%A9%D7%AA%D7%99%D7%94_%D7%91%D7%99%D7%95%D7%9D_%D7%94%D7%9B%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/איסור_אכילה_ושתיה_ביום_הכיפורים</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/איסור_אכילה_ושתיה_ביום_הכיפורים</guid>
       <description><![CDATA[Prohibition of Eating and Drinking on Yom Kippur | איסור אכילה ושתיה ביום הכיפורים
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -74,13 +74,13 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>30:20</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%90%D7%99%D7%A1%D7%95%D7%A8_%D7%90%D7%9B%D7%99%D7%9C%D7%94_%D7%95%D7%A9%D7%AA%D7%99%D7%94_%D7%91%D7%99%D7%95%D7%9D_%D7%94%D7%9B%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D.mp3" type="audio/mpeg" length="31806805"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%90%D7%99%D7%A1%D7%95%D7%A8_%D7%90%D7%9B%D7%99%D7%9C%D7%94_%D7%95%D7%A9%D7%AA%D7%99%D7%94_%D7%91%D7%99%D7%95%D7%9D_%D7%94%D7%9B%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D.mp3" type="audio/mpeg" length="31806805"/>
     </item>
 
     <item>
       <title><![CDATA[Rav Shimshon Rafael Hirsch - The Reform Movement and The Split of the Community in Frankfurt | רב שמשון רפאל הירש - תנועת הרפורמה פיצול הקהילה בפרנקפורט]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%A8%D7%91%2B%D7%A9%D7%9E%D7%A9%D7%95%D7%9F%2B%D7%A8%D7%A4%D7%90%D7%9C%2B%D7%94%D7%99%D7%A8%D7%A9%2B%D7%95%D7%AA%D7%A0%D7%95%D7%A2%D7%AA%2B%D7%94%D7%A8%D7%A4%D7%95%D7%A8%D7%9E%D7%94%2B%D7%A4%D7%99%D7%A6%D7%95%D7%9C%2B%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94%2B%D7%91%D7%A4%D7%A8%D7%A0%D7%A7%D7%A4%D7%95%D7%A8%D7%98.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/רב+שמשון+רפאל+הירש+ותנועת+הרפורמה+פיצול+הקהילה+בפרנקפורט</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/רב+שמשון+רפאל+הירש+ותנועת+הרפורמה+פיצול+הקהילה+בפרנקפורט</guid>
       <description><![CDATA[Rav Shimshon Rafael Hirsch - The Reform Movement and The Split of the Community in Frankfurt | רב שמשון רפאל הירש - תנועת הרפורמה פיצול הקהילה בפרנקפורט
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -94,13 +94,13 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>11:50</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%A8%D7%91+%D7%A9%D7%9E%D7%A9%D7%95%D7%9F+%D7%A8%D7%A4%D7%90%D7%9C+%D7%94%D7%99%D7%A8%D7%A9+%D7%95%D7%AA%D7%A0%D7%95%D7%A2%D7%AA+%D7%94%D7%A8%D7%A4%D7%95%D7%A8%D7%9E%D7%94+%D7%A4%D7%99%D7%A6%D7%95%D7%9C+%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94+%D7%91%D7%A4%D7%A8%D7%A0%D7%A7%D7%A4%D7%95%D7%A8%D7%98.mp3" type="audio/mpeg" length="12408149"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%A8%D7%91+%D7%A9%D7%9E%D7%A9%D7%95%D7%9F+%D7%A8%D7%A4%D7%90%D7%9C+%D7%94%D7%99%D7%A8%D7%A9+%D7%95%D7%AA%D7%A0%D7%95%D7%A2%D7%AA+%D7%94%D7%A8%D7%A4%D7%95%D7%A8%D7%9E%D7%94+%D7%A4%D7%99%D7%A6%D7%95%D7%9C+%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94+%D7%91%D7%A4%D7%A8%D7%A0%D7%A7%D7%A4%D7%95%D7%A8%D7%98.mp3" type="audio/mpeg" length="12408149"/>
     </item>
 
     <item>
       <title><![CDATA[New Things are Forbidden from the Torah - Responses to the Enlightenment | חדש אסור מן התורה תגובות להשכלה]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%97%D7%93%D7%A9%2B%D7%90%D7%A1%D7%95%D7%A8%2B%D7%9E%D7%9F%2B%D7%94%D7%AA%D7%95%D7%A8%D7%94%2B%D7%AA%D7%92%D7%95%D7%91%D7%95%D7%AA%2B%D7%9C%D7%94%D7%A9%D7%9B%D7%9C%D7%94.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/חדש+אסור+מן+התורה+תגובות+להשכלה</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/חדש+אסור+מן+התורה+תגובות+להשכלה</guid>
       <description><![CDATA[New Things are Forbidden from the Torah - Responses to the Enlightenment | חדש אסור מן התורה תגובות להשכלה
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -114,13 +114,13 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>51:42</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%97%D7%93%D7%A9+%D7%90%D7%A1%D7%95%D7%A8+%D7%9E%D7%9F+%D7%94%D7%AA%D7%95%D7%A8%D7%94+%D7%AA%D7%92%D7%95%D7%91%D7%95%D7%AA+%D7%9C%D7%94%D7%A9%D7%9B%D7%9C%D7%94.mp3" type="audio/mpeg" length="54211379"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%97%D7%93%D7%A9+%D7%90%D7%A1%D7%95%D7%A8+%D7%9E%D7%9F+%D7%94%D7%AA%D7%95%D7%A8%D7%94+%D7%AA%D7%92%D7%95%D7%91%D7%95%D7%AA+%D7%9C%D7%94%D7%A9%D7%9B%D7%9C%D7%94.mp3" type="audio/mpeg" length="54211379"/>
     </item>
 
     <item>
       <title><![CDATA[Wearing Kippot and Jewish Identity | חבישת כיפות וזהות יהודית]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%97%D7%91%D7%99%D7%A9%D7%AA%2B%D7%9B%D7%99%D7%A4%D7%95%D7%AA%2B%D7%95%D7%96%D7%94%D7%95%D7%AA%2B%D7%99%D7%94%D7%95%D7%93%D7%99%D7%AA.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/חבישת+כיפות+וזהות+יהודית</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/חבישת+כיפות+וזהות+יהודית</guid>
       <description><![CDATA[Wearing Kippot and Jewish Identity | חבישת כיפות וזהות יהודית
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -134,13 +134,13 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>52:40</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%97%D7%91%D7%99%D7%A9%D7%AA+%D7%9B%D7%99%D7%A4%D7%95%D7%AA+%D7%95%D7%96%D7%94%D7%95%D7%AA+%D7%99%D7%94%D7%95%D7%93%D7%99%D7%AA.mp3" type="audio/mpeg" length="55225003"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%97%D7%91%D7%99%D7%A9%D7%AA+%D7%9B%D7%99%D7%A4%D7%95%D7%AA+%D7%95%D7%96%D7%94%D7%95%D7%AA+%D7%99%D7%94%D7%95%D7%93%D7%99%D7%AA.mp3" type="audio/mpeg" length="55225003"/>
     </item>
 
     <item>
       <title><![CDATA[Let Us Villify the Wicked - Why Do We Attack Haman | הבה נרעישה את הרשע למה מכים את המן]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%94%D7%91%D7%94%2B%D7%A0%D7%A8%D7%A2%D7%99%D7%A9%D7%94%2B%D7%90%D7%AA%2B%D7%94%D7%A8%D7%A9%D7%A2%2B%D7%9C%D7%9E%D7%94%2B%D7%9E%D7%9B%D7%99%D7%9D%2B%D7%90%D7%AA%2B%D7%94%D7%9E%D7%9F.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/הבה+נרעישה+את+הרשע+למה+מכים+את+המן</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/הבה+נרעישה+את+הרשע+למה+מכים+את+המן</guid>
       <description><![CDATA[Let Us Villify the Wicked - Why Do We Attack Haman | הבה נרעישה את הרשע למה מכים את המן
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -154,13 +154,13 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>47:26</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%94%D7%91%D7%94+%D7%A0%D7%A8%D7%A2%D7%99%D7%A9%D7%94+%D7%90%D7%AA+%D7%94%D7%A8%D7%A9%D7%A2+%D7%9C%D7%9E%D7%94+%D7%9E%D7%9B%D7%99%D7%9D+%D7%90%D7%AA+%D7%94%D7%9E%D7%9F.mp3" type="audio/mpeg" length="49737455"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%94%D7%91%D7%94+%D7%A0%D7%A8%D7%A2%D7%99%D7%A9%D7%94+%D7%90%D7%AA+%D7%94%D7%A8%D7%A9%D7%A2+%D7%9C%D7%9E%D7%94+%D7%9E%D7%9B%D7%99%D7%9D+%D7%90%D7%AA+%D7%94%D7%9E%D7%9F.mp3" type="audio/mpeg" length="49737455"/>
     </item>
 
     <item>
       <title><![CDATA[Can You Read the Megillah Over Zoom - Halachah in Times of Distress | האם אפשר לצאת ידי קריאת מגילה בזום פסיקת הלכה בשעת הדחק]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%94%D7%90%D7%9D%2B%D7%90%D7%A4%D7%A9%D7%A8%2B%D7%9C%D7%A6%D7%90%D7%AA%2B%D7%99%D7%93%D7%99%2B%D7%A7%D7%A8%D7%99%D7%90%D7%AA%2B%D7%9E%D7%92%D7%99%D7%9C%D7%94%2B%D7%91%D7%96%D7%95%D7%9D%2B%D7%A4%D7%A1%D7%99%D7%A7%D7%AA%2B%D7%94%D7%9C%D7%9B%D7%94%2B%D7%91%D7%A9%D7%A2%D7%AA%2B%D7%94%D7%93%D7%97%D7%A7.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/האם+אפשר+לצאת+ידי+קריאת+מגילה+בזום+פסיקת+הלכה+בשעת+הדחק</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/האם+אפשר+לצאת+ידי+קריאת+מגילה+בזום+פסיקת+הלכה+בשעת+הדחק</guid>
       <description><![CDATA[Can You Read the Megillah Over Zoom - Halachah in Times of Distress | האם אפשר לצאת ידי קריאת מגילה בזום פסיקת הלכה בשעת הדחק
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -174,13 +174,13 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>48:56</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%94%D7%90%D7%9D+%D7%90%D7%A4%D7%A9%D7%A8+%D7%9C%D7%A6%D7%90%D7%AA+%D7%99%D7%93%D7%99+%D7%A7%D7%A8%D7%99%D7%90%D7%AA+%D7%9E%D7%92%D7%99%D7%9C%D7%94+%D7%91%D7%96%D7%95%D7%9D+%D7%A4%D7%A1%D7%99%D7%A7%D7%AA+%D7%94%D7%9C%D7%9B%D7%94+%D7%91%D7%A9%D7%A2%D7%AA+%D7%94%D7%93%D7%97%D7%A7.mp3" type="audio/mpeg" length="51310319"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%94%D7%90%D7%9D+%D7%90%D7%A4%D7%A9%D7%A8+%D7%9C%D7%A6%D7%90%D7%AA+%D7%99%D7%93%D7%99+%D7%A7%D7%A8%D7%99%D7%90%D7%AA+%D7%9E%D7%92%D7%99%D7%9C%D7%94+%D7%91%D7%96%D7%95%D7%9D+%D7%A4%D7%A1%D7%99%D7%A7%D7%AA+%D7%94%D7%9C%D7%9B%D7%94+%D7%91%D7%A9%D7%A2%D7%AA+%D7%94%D7%93%D7%97%D7%A7.mp3" type="audio/mpeg" length="51310319"/>
     </item>
 
     <item>
       <title><![CDATA[How to Clean the House for Pesach - Setting the Table, What to Know in Practice | איך מנקים את הבית לפסח איך מכשירים את המטבח מה צריך לדעת עד להלכה למעשה]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%90%D7%99%D7%9A%2B%D7%9E%D7%A0%D7%A7%D7%99%D7%9D%2B%D7%90%D7%AA%2B%D7%94%D7%91%D7%99%D7%AA%2B%D7%9C%D7%A4%D7%A1%D7%97%2B%D7%90%D7%99%D7%9A%2B%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%D7%99%D7%9D%2B%D7%90%D7%AA%2B%D7%94%D7%9E%D7%98%D7%91%D7%97%2B%D7%9E%D7%94%2B%D7%A9%D7%A6%D7%A8%D7%99%D7%9A%2B%D7%9C%D7%93%D7%A2%D7%AA%2B%D7%A2%D7%93%2B%D7%9C%D7%94%D7%9C%D7%9B%D7%94%2B%D7%9C%D7%9E%D7%A2%D7%A9%D7%94.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/איך+מנקים+את+הבית+לפסח+איך+מכשירים+את+המטבח+מה+שצריך+לדעת+עד+להלכה+למעשה</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/איך+מנקים+את+הבית+לפסח+איך+מכשירים+את+המטבח+מה+שצריך+לדעת+עד+להלכה+למעשה</guid>
       <description><![CDATA[How to Clean the House for Pesach - Setting the Table, What to Know in Practice | איך מנקים את הבית לפסח איך מכשירים את המטבח מה צריך לדעת עד להלכה למעשה
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -194,13 +194,13 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>52:42</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%90%D7%99%D7%9A+%D7%9E%D7%A0%D7%A7%D7%99%D7%9D+%D7%90%D7%AA+%D7%94%D7%91%D7%99%D7%AA+%D7%9C%D7%A4%D7%A1%D7%97+%D7%90%D7%99%D7%9A+%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%D7%99%D7%9D+%D7%90%D7%AA+%D7%94%D7%9E%D7%98%D7%91%D7%97+%D7%9E%D7%94+%D7%A9%D7%A6%D7%A8%D7%99%D7%9A+%D7%9C%D7%93%D7%A2%D7%AA+%D7%A2%D7%93+%D7%9C%D7%94%D7%9C%D7%9B%D7%94+%D7%9C%D7%9E%D7%A2%D7%A9%D7%94.mp3" type="audio/mpeg" length="55259955"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%90%D7%99%D7%9A+%D7%9E%D7%A0%D7%A7%D7%99%D7%9D+%D7%90%D7%AA+%D7%94%D7%91%D7%99%D7%AA+%D7%9C%D7%A4%D7%A1%D7%97+%D7%90%D7%99%D7%9A+%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%D7%99%D7%9D+%D7%90%D7%AA+%D7%94%D7%9E%D7%98%D7%91%D7%97+%D7%9E%D7%94+%D7%A9%D7%A6%D7%A8%D7%99%D7%9A+%D7%9C%D7%93%D7%A2%D7%AA+%D7%A2%D7%93+%D7%9C%D7%94%D7%9C%D7%9B%D7%94+%D7%9C%D7%9E%D7%A2%D7%A9%D7%94.mp3" type="audio/mpeg" length="55259955"/>
     </item>
 
     <item>
       <title><![CDATA[Shabbati Tzvi - Redemption Through Sin | שבתי צבי גאולה דרך עבירה]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%A9%D7%91%D7%AA%D7%99%2B%D7%A6%D7%91%D7%99%2B%D7%92%D7%90%D7%95%D7%9C%D7%94%2B%D7%93%D7%A8%D7%9A%2B%D7%A2%D7%91%D7%99%D7%A8%D7%94.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/שבתי+צבי+גאולה+דרך+עבירה</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/שבתי+צבי+גאולה+דרך+עבירה</guid>
       <description><![CDATA[Shabbati Tzvi - Redemption Through Sin | שבתי צבי גאולה דרך עבירה
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -214,13 +214,13 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>51:30</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%A9%D7%91%D7%AA%D7%99+%D7%A6%D7%91%D7%99+%D7%92%D7%90%D7%95%D7%9C%D7%94+%D7%93%D7%A8%D7%9A+%D7%A2%D7%91%D7%99%D7%A8%D7%94.mp3" type="audio/mpeg" length="54001664"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%A9%D7%91%D7%AA%D7%99+%D7%A6%D7%91%D7%99+%D7%92%D7%90%D7%95%D7%9C%D7%94+%D7%93%D7%A8%D7%9A+%D7%A2%D7%91%D7%99%D7%A8%D7%94.mp3" type="audio/mpeg" length="54001664"/>
     </item>
 
     <item>
       <title><![CDATA[Hassidim, Mitnagdim and Talmud Torah | חסידים ומתנגדים ותלמד תורה]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%97%D7%A1%D7%99%D7%93%D7%99%D7%9D%2B%D7%95%D7%9E%D7%AA%D7%A0%D7%92%D7%93%D7%99%D7%9D%2B%D7%95%D7%AA%D7%9C%D7%9E%D7%93%2B%D7%95%D7%93%D7%A8%D7%9A%2B%D7%90%D7%A8%D7%A5.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/חסידים+ומתנגדים+ותלמד+ודרך+ארץ</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/חסידים+ומתנגדים+ותלמד+ודרך+ארץ</guid>
       <description><![CDATA[Hassidim, Mitnagdim and Talmud Torah | חסידים ומתנגדים ותלמד תורה
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -234,13 +234,13 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>52:19</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%97%D7%A1%D7%99%D7%93%D7%99%D7%9D+%D7%95%D7%9E%D7%AA%D7%A0%D7%92%D7%93%D7%99%D7%9D+%D7%95%D7%AA%D7%9C%D7%9E%D7%95%D7%93+%D7%AA%D7%95%D7%A8%D7%94.mp3" type="audio/mpeg" length="54858001"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%97%D7%A1%D7%99%D7%93%D7%99%D7%9D+%D7%95%D7%9E%D7%AA%D7%A0%D7%92%D7%93%D7%99%D7%9D+%D7%95%D7%AA%D7%9C%D7%9E%D7%95%D7%93+%D7%AA%D7%95%D7%A8%D7%94.mp3" type="audio/mpeg" length="54858001"/>
     </item>
 
     <item>
       <title><![CDATA[The Nature of the Mitzvah of Mishloach Manot | מהותו של מצוות משלוח מנות]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%9E%D7%94%D7%95%D7%AA%D7%95%2B%D7%A9%D7%9C%2B%D7%9E%D7%A6%D7%95%D7%95%D7%AA%2B%D7%9E%D7%A9%D7%9C%D7%95%D7%97%2B%D7%9E%D7%A0%D7%95%D7%AA.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/מהותו+של+מצוות+משלוח+מנות</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/מהותו+של+מצוות+משלוח+מנות</guid>
       <description><![CDATA[The Nature of the Mitzvah of Mishloach Manot | מהותו של מצוות משלוח מנות
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -254,13 +254,13 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>40:34</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%9E%D7%94%D7%95%D7%AA%D7%95+%D7%A9%D7%9C+%D7%9E%D7%A6%D7%95%D7%95%D7%AA+%D7%9E%D7%A9%D7%9C%D7%95%D7%97+%D7%9E%D7%A0%D7%95%D7%AA.mp3" type="audio/mpeg" length="42537233"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%9E%D7%94%D7%95%D7%AA%D7%95+%D7%A9%D7%9C+%D7%9E%D7%A6%D7%95%D7%95%D7%AA+%D7%9E%D7%A9%D7%9C%D7%95%D7%97+%D7%9E%D7%A0%D7%95%D7%AA.mp3" type="audio/mpeg" length="42537233"/>
     </item>
 
     <item>
       <title><![CDATA[Rav Shimshon Rafael Hirsch - Torah with Derech Eretz | רב שמשון רפאל הירש - תורה עם דרך ארץ]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim-sources/%D7%A8%D7%91%2B%D7%A9%D7%9E%D7%A9%D7%95%D7%9F%2B%D7%A8%D7%A4%D7%90%D7%9C%2B%D7%94%D7%99%D7%A8%D7%A9%2B%D7%95%D7%AA%D7%95%D7%A8%D7%94%2B%D7%A2%D7%9D%2B%D7%93%D7%A8%D7%9A%2B%D7%90%D7%A8%D7%A5.pdf</link>
-      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_meyuhadim/רב+שמשון+רפאל+הירש+ותורה+עם+דרך+ארץ</guid>
+      <guid isPermaLink="false">carmei-zion-shiurim-harav-grossman-carmei_zion_shiurim_harav_grossman/רב+שמשון+רפאל+הירש+ותורה+עם+דרך+ארץ</guid>
       <description><![CDATA[Rav Shimshon Rafael Hirsch - Torah with Derech Eretz | רב שמשון רפאל הירש - תורה עם דרך ארץ
 
 מאת הרב עמינדב גרוסמן.]]></description>
@@ -274,7 +274,7 @@ Shiurim by HaRav Aminadav Grossman from Carmei Zion (Kiryat Gat).]]></itunes:sum
       <podcast:season name="מחשבה">1</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>62:54</itunes:duration>
-      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%A8%D7%91+%D7%A9%D7%9E%D7%A9%D7%95%D7%9F+%D7%A8%D7%A4%D7%90%D7%9C+%D7%94%D7%99%D7%A8%D7%A9+%D7%95%D7%AA%D7%95%D7%A8%D7%94+%D7%A2%D7%9D+%D7%93%D7%A8%D7%9A+%D7%90%D7%A8%D7%A5.mp3" type="audio/mpeg" length="65955430"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_harav_grossman/%D7%A8%D7%91+%D7%A9%D7%9E%D7%A9%D7%95%D7%9F+%D7%A8%D7%A4%D7%90%D7%9C+%D7%94%D7%99%D7%A8%D7%A9+%D7%95%D7%AA%D7%95%D7%A8%D7%94+%D7%A2%D7%9D+%D7%93%D7%A8%D7%9A+%D7%90%D7%A8%D7%A5.mp3" type="audio/mpeg" length="65955430"/>
     </item>
   </channel>
 </rss>

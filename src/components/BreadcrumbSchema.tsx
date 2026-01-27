@@ -29,6 +29,9 @@ export const BreadcrumbSchema: React.FC = () => {
         case 'catalog':
           name = 'Shiurim Catalog';
           break;
+        case 'podcasts':
+          name = 'Podcasts';
+          break;
         case 'sources':
           name = 'Source Sheets';
           break;

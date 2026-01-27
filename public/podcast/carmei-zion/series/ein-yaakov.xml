@@ -11,8 +11,8 @@ In-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.
 
 For more please visit <a href="https://www.midrashaggadah.com">www.midrashaggadah.com</a>]]></description>
     <language>he</language>
-    <lastBuildDate>Thu, 22 Jan 2026 09:00:02 GMT</lastBuildDate>
-    <pubDate>Thu, 22 Jan 2026 09:00:02 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 07:46:09 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 07:46:09 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -40,6 +40,32 @@ For more please visit <a href="https://www.midrashaggadah.com">www.midrashaggada
     <link>https://www.midrashaggadah.com</link>
   </image>
     <podcast:locked>no</podcast:locked>
+
+    <item>
+      <title><![CDATA[בבא בתרא ס: - ונמצא זרעו של אברהם אבינו כלה מאליו]]></title>
+      <link>https://www.midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-19</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-ein-yaakov-seder_nezikin-bava_batra-19</guid>
+      <description><![CDATA[בבא בתרא ס: - ונמצא זרעו של אברהם אבינו כלה מאליו
+
+Bava Batra 60b - The descendants of Avraham Avinu will cease to exist of their own doing
+
+מאת רון נחשון.
+
+
+דף מקורות: https://midrash-aggadah.s3.eu-north-1.amazonaws.com/source_sheets/ein-yaakov-seder_nezikin-bava_batra-19.pdf.]]></description>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[בבא בתרא]]></category>
+      <category><![CDATA[seder_nezikin]]></category>
+      <category><![CDATA[ein_yaakov]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:duration>32:31</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-19.mp3" type="audio/mpeg" length="34096196"/>
+    </item>
 
     <item>
       <title><![CDATA[בבא בתרא נח. - הסתכלת בדמות דיוקני בדיוקני עצמה אל תסתכל]]></title>

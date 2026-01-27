@@ -9,8 +9,8 @@
 
 Daily Daf Yomi shiurim.]]></description>
     <language>he</language>
-    <lastBuildDate>Thu, 22 Jan 2026 09:00:02 GMT</lastBuildDate>
-    <pubDate>Thu, 22 Jan 2026 09:00:02 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 07:46:09 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 07:46:09 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -36,6 +36,86 @@ Daily Daf Yomi shiurim.]]></itunes:summary>
     <link>https://www.midrashaggadah.com</link>
   </image>
     <podcast:locked>no</podcast:locked>
+
+    <item>
+      <title><![CDATA[Menachos 16 | מנחות טז]]></title>
+      <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026%3A01%3A27-Menachos_16.pdf</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/2026:01:27-Menachos_16</guid>
+      <description><![CDATA[Menachos 16 | מנחות טז
+
+מאת זכריה ביננפלד.]]></description>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[מנחות]]></category>
+      <category><![CDATA[daf_yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <podcast:season name="מנחות">2</podcast:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:duration>31:29</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:01:27-Menachos_16.m4a" type="audio/x-m4a" length="33012668"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Menachos 15 | מנחות טו]]></title>
+      <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026%3A01%3A26-Menachos_15.pdf</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/2026:01:26-Menachos_15</guid>
+      <description><![CDATA[Menachos 15 | מנחות טו
+
+מאת זכריה ביננפלד.]]></description>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[מנחות]]></category>
+      <category><![CDATA[daf_yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <podcast:season name="מנחות">2</podcast:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:duration>27:54</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:01:26-Menachos_15.m4a" type="audio/x-m4a" length="29255270"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Menachos 14 | מנחות יד]]></title>
+      <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026%3A01%3A25-Menachos_14.pdf</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/2026:01:25-Menachos_14</guid>
+      <description><![CDATA[Menachos 14 | מנחות יד
+
+מאת זכריה ביננפלד.]]></description>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[מנחות]]></category>
+      <category><![CDATA[daf_yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <podcast:season name="מנחות">2</podcast:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:duration>32:31</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:01:25-Menachos_14.m4a" type="audio/x-m4a" length="34096196"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Menachos 12 | מנחות יב]]></title>
+      <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/recording_20260123_055448.pdf</link>
+      <guid isPermaLink="false">carmei-zion-daf-yomi-carmei_zion_daf_yomi/recording_20260123_055448</guid>
+      <description><![CDATA[Menachos 12 | מנחות יב
+
+מאת זכריה ביננפלד.]]></description>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[מנחות]]></category>
+      <category><![CDATA[daf_yomi]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <podcast:season name="מנחות">2</podcast:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>34:27</itunes:duration>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260123_055448.m4a" type="audio/x-m4a" length="36123443"/>
+    </item>
 
     <item>
       <title><![CDATA[Menachos 11 | מנחות יא]]></title>

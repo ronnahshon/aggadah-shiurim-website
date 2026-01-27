@@ -129,6 +129,20 @@ const SEOHead: React.FC<SEOHeadProps> = ({
       {hreflang && Object.entries(hreflang).map(([lang, url]) => (
         <link key={lang} rel="alternate" hrefLang={lang} href={url} />
       ))}
+
+      {/* Feed discovery (helps search engines and AI crawlers find RSS/Atom) */}
+      <link
+        rel="alternate"
+        type="application/rss+xml"
+        title="Midrash Aggadah RSS Feed"
+        href={`${baseUrl}/rss.xml`}
+      />
+      <link
+        rel="alternate"
+        type="application/atom+xml"
+        title="Midrash Aggadah Atom Feed"
+        href={`${baseUrl}/atom.xml`}
+      />
       
       {/* Structured Data (JSON-LD) */}
       {structuredData && (

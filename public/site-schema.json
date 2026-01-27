@@ -60,7 +60,7 @@
         "@type": "ItemList",
         "name": "Shiurim Collection",
         "description": "Complete collection of midrash aggadah shiurim and source texts",
-        "numberOfItems": 238,
+        "numberOfItems": 257,
         "itemListElement": [
           {
             "@type": "Course",
@@ -87,7 +87,7 @@
       "@type": "Dataset",
       "@id": "https://midrashaggadah.com/#dataset",
       "name": "Midrash Aggadah Shiurim Database",
-      "description": "Comprehensive database of 238+ shiurim covering Ein Yaakov, Tanach, and classical midrash texts",
+      "description": "Comprehensive database of shiurim covering Ein Yaakov, Tanach, and classical midrash texts",
       "url": "https://midrashaggadah.com/catalog",
       "publisher": {
         "@id": "https://midrashaggadah.com/#organization"
@@ -102,6 +102,31 @@
           "@type": "DataDownload", 
           "encodingFormat": "application/atom+xml",
           "contentUrl": "https://midrashaggadah.com/atom.xml"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/rss+xml",
+          "contentUrl": "https://midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/rss+xml",
+          "contentUrl": "https://midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/rss+xml",
+          "contentUrl": "https://midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/rss+xml",
+          "contentUrl": "https://midrashaggadah.com/podcast/carmei-zion/series/shiurim_meyuhadim.xml"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/rss+xml",
+          "contentUrl": "https://midrashaggadah.com/podcast/carmei-zion/series/shiurim_harav_grossman.xml"
         },
         {
           "@type": "DataDownload",
@@ -124,7 +149,7 @@
       "inLanguage": ["en", "he"],
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "isAccessibleForFree": true,
-      "dateModified": "2024-12-06",
+      "dateModified": "2026-01-22",
       "temporalCoverage": "2020/..",
       "spatialCoverage": "Worldwide"
     },
@@ -171,6 +196,13 @@
           "position": 6,
           "name": "Search",
           "url": "https://midrashaggadah.com/search"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 7,
+          "name": "Podcasts",
+          "url": "https://midrashaggadah.com/podcasts",
+          "description": "RSS podcast feeds for Midrash Aggadah / Carmei Zion"
         }
       ]
     },

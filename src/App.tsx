@@ -20,6 +20,7 @@ const MidrashHaaliyahPage = React.lazy(() => import("./pages/MidrashHaaliyahPage
 const EinYaakovCommentaryPage = React.lazy(() => import("./pages/EinYaakovCommentaryPage"));
 const DaroshDarashMoshePage = React.lazy(() => import("./pages/DaroshDarashMoshePage"));
 const AboutPage = React.lazy(() => import("./pages/AboutPage"));
+const PodcastsPage = React.lazy(() => import("./pages/PodcastsPage"));
 const NotFound = React.lazy(() => import("./pages/NotFound"));
 
 const queryClient = new QueryClient();
@@ -48,6 +49,7 @@ const App = () => (
                 <Route path="/sefer/midrash-haaliyah" element={<Layout><MidrashHaaliyahPage /></Layout>} />
                 <Route path="/sefer/ein-yaakov-commentary" element={<Layout><EinYaakovCommentaryPage /></Layout>} />
                 <Route path="/sefer/darosh-darash-moshe" element={<DaroshDarashMoshePage />} />
+                <Route path="/podcasts" element={<Layout><PodcastsPage /></Layout>} />
                 <Route path="/about" element={<Layout><AboutPage /></Layout>} />
                 <Route path="*" element={<NotFound />} />
               </Routes>
