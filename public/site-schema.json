@@ -196,13 +196,6 @@
           "position": 6,
           "name": "Search",
           "url": "https://midrashaggadah.com/search"
-        },
-        {
-          "@type": "SiteNavigationElement",
-          "position": 7,
-          "name": "Podcasts",
-          "url": "https://midrashaggadah.com/podcasts",
-          "description": "RSS podcast feeds for Midrash Aggadah / Carmei Zion"
         }
       ]
     },

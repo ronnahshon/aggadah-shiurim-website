@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { useSidebar } from './SidebarProvider';
 import { cn } from '@/lib/utils';
-import { Book, BookOpen, Search, Home, Info, Menu, X, Library, Rss } from 'lucide-react';
+import { Book, BookOpen, Search, Home, Info, Menu, X, Library } from 'lucide-react';
 
 // Helper functions for Hebrew and English dates
 const getHebrewMonths = () => [
@@ -150,7 +150,6 @@ const Sidebar: React.FC = () => {
     { to: '/', icon: Home, label: 'Home Page' },
     { to: '/search', icon: Search, label: 'Shiurim Search' },
     { to: '/catalog', icon: Search, label: 'Shiurim Catalog' },
-    { to: '/podcasts', icon: Rss, label: 'Podcasts' },
     { to: '/sefarim', icon: Library, label: 'Sefarim', isParent: true },
     { to: '/sefer/darosh-darash-moshe', icon: BookOpen, label: 'Darosh Darash Moshe', isChild: true, parentPath: '/sefarim' },
     { to: '/sefer/midrash-haaliyah', icon: BookOpen, label: 'Midrash HaAliyah', isChild: true, parentPath: '/sefarim' },
