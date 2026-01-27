@@ -112,7 +112,7 @@ const HomePage: React.FC = () => {
   return (
     <div className="min-h-screen">
       <SEOHead
-        title="Midrash Aggadah"
+        title="Midrash Aggadah | Shiurim, Ein Yaakov & Sefarim"
         description={generateMetaDescription('home')}
         keywords={generateKeywords('home')}
         canonicalUrl={`${baseUrl}/`}
