@@ -36,6 +36,11 @@
       "permanent": true
     },
     {
+      "source": "/podcasts.html",
+      "destination": "/podcasts",
+      "permanent": true
+    },
+    {
       "source": "/sefer/darosh-darash-moshe.html",
       "destination": "/sefer/darosh-darash-moshe",
       "permanent": true
@@ -92,6 +97,17 @@
     {
       "source": "/about",
       "destination": "/about.html",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(?:bot|crawler|spider|crawling).*"
+        }
+      ]
+    },
+    {
+      "source": "/podcasts",
+      "destination": "/podcasts.html",
       "has": [
         {
           "type": "header",
