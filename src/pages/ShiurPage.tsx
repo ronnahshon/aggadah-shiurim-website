@@ -210,7 +210,7 @@ const ShiurPage: React.FC = () => {
             <div className="flex flex-wrap gap-2 sm:gap-3 mb-4 sm:mb-6">
               <div className="flex items-center text-xs sm:text-sm text-biblical-brown">
                 <Calendar size={14} className="mr-1" />
-                <span>{shiur.hebrew_year} / {shiur.english_year}</span>
+                <span>{shiur.hebrew_year}</span>
               </div>
               
               <div className="flex items-center text-xs sm:text-sm text-biblical-brown">

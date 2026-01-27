@@ -357,7 +357,7 @@ const CatalogPage: React.FC = () => {
                           {shiur.english_title}
                         </h3>
                         <p className="text-sm text-gray-600">
-                          {shiur.english_sefer} • {shiur.english_year}
+                          {shiur.english_sefer} • {shiur.hebrew_year}
                         </p>
                       </div>
                       <button
@@ -514,8 +514,8 @@ const CatalogPage: React.FC = () => {
                                 </td>
                                 <td className="font-hebrew text-center hidden sm:table-cell">{shiur.hebrew_title}</td>
                                 <td className="text-center text-xs sm:text-sm">
-                                  <div className="hidden sm:block">{shiur.english_year} ({shiur.hebrew_year})</div>
-                                  <div className="sm:hidden">{shiur.english_year}</div>
+                                  <div className="hidden sm:block">{shiur.hebrew_year}</div>
+                                  <div className="sm:hidden">{shiur.hebrew_year}</div>
                                 </td>
                                 <td className="text-center">
                                   <div className="flex items-center justify-center">

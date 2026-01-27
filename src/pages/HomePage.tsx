@@ -351,7 +351,7 @@ const HomePage: React.FC = () => {
                     {/* Metadata */}
                     <div className="flex items-center justify-between text-xs text-black mb-4">
                       <span className="bg-gray-700/10 px-2 py-1 rounded-full">
-                        {shiur.english_year} ({shiur.hebrew_year})
+                        {shiur.hebrew_year}
                       </span>
                       <div className="flex items-center">
                         <Clock size={12} className="mr-1" />
@@ -384,7 +384,7 @@ const HomePage: React.FC = () => {
               View All Shiurim
             </Link>
             <p className="text-xs text-biblical-brown/60 mt-2">
-              Last Updated December 2025
+              Last Updated January 2026
             </p>
           </div>
         </div>

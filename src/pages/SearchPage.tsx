@@ -280,7 +280,7 @@ const SearchPage: React.FC = () => {
                       {formatTitle(shiur.category)} / {formatTitle(shiur.sub_category)} / {formatTitle(shiur.english_sefer)}
                     </p>
                     <p className="text-xs text-biblical-brown/60">
-                      Year: {shiur.english_year} ({shiur.hebrew_year}) / <Clock size={14} className="inline mr-1 text-black" />{(shiur as any).length || '--:--'}
+                      Year: {shiur.hebrew_year} / <Clock size={14} className="inline mr-1 text-black" />{(shiur as any).length || '--:--'}
                     </p>
                     
                   </div>
