@@ -1,6 +1,17 @@
 {
   "redirects": [
     {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.midrashaggadah.com"
+        }
+      ],
+      "destination": "https://midrashaggadah.com/$1",
+      "permanent": true
+    },
+    {
       "source": "/podcast/carmei-zion/series/gemara.xml",
       "destination": "/podcast/carmei-zion/series/gemara_beiyyun.xml",
       "permanent": true

@@ -41,12 +41,31 @@ const SEOHead: React.FC<SEOHeadProps> = ({
   }
 }) => {
   const fullTitle = title === "Midrash Aggadah" ? title : `${title} | Midrash Aggadah`;
-  const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://midrashaggadah.com';
-  
+  // Canonical origin: keep this consistent to avoid "Duplicate, Google chose different canonical".
+  // (Common cause: pages reachable via both www and non-www.)
+  const CANONICAL_ORIGIN = 'https://midrashaggadah.com';
+  const runtimeOrigin = typeof window !== 'undefined' ? window.location.origin : CANONICAL_ORIGIN;
+  const runtimePath = typeof window !== 'undefined' ? window.location.pathname : '/';
+
+  const normalizeCanonical = (value?: string) => {
+    if (value) {
+      try {
+        const u = new URL(value, CANONICAL_ORIGIN);
+        u.protocol = 'https:';
+        u.host = new URL(CANONICAL_ORIGIN).host;
+        // Drop query/hash for canonical
+        u.search = '';
+        u.hash = '';
+        return u.toString();
+      } catch {
+        // fall through
+      }
+    }
+    return `${CANONICAL_ORIGIN}${runtimePath}`;
+  };
+
   // Use provided canonicalUrl or construct clean URL without query parameters
-  const canonical = canonicalUrl || (typeof window !== 'undefined' 
-    ? `${window.location.origin}${window.location.pathname}` 
-    : baseUrl);
+  const canonical = normalizeCanonical(canonicalUrl);
 
   const defaultKeywords = [
     'midrash', 'aggadah', 'midrash aggadah', 'jewish learning', 'talmud', 'shiurim', 'lectures', 
@@ -135,13 +154,13 @@ const SEOHead: React.FC<SEOHeadProps> = ({
         rel="alternate"
         type="application/rss+xml"
         title="Midrash Aggadah RSS Feed"
-        href={`${baseUrl}/rss.xml`}
+        href={`${CANONICAL_ORIGIN}/rss.xml`}
       />
       <link
         rel="alternate"
         type="application/atom+xml"
         title="Midrash Aggadah Atom Feed"
-        href={`${baseUrl}/atom.xml`}
+        href={`${CANONICAL_ORIGIN}/atom.xml`}
       />
       
       {/* Structured Data (JSON-LD) */}

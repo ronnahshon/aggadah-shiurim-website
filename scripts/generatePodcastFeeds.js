@@ -14,7 +14,7 @@ const OTHER_SERIES_DIR = path.join(ROOT_DIR, 'public/data/other_shiurim_carmei_z
 const OUTPUT_DIR = path.join(ROOT_DIR, 'public/podcast');
 
 // Allow overriding for previews (e.g., ngrok) so assets resolve correctly in validators.
-const SITE_URL = process.env.SITE_URL || 'https://www.midrashaggadah.com';
+const SITE_URL = process.env.SITE_URL || 'https://midrashaggadah.com';
 const FEED_BASE_URL = process.env.FEED_BASE_URL || `${SITE_URL}/podcast`;
 // Optional cache-buster for podcast artwork URLs. Some aggregators cache show art
 // aggressively; bump this value (e.g. 2026-01-19) to force a refresh.
@@ -86,7 +86,7 @@ const DERIVED_PODCASTS = [
   {
     id: 'ein-yaakov',
     title: 'אגדות הש״ס - עין יעקב | רון נחשון',
-    description: 'שיעורים מעמיקים בעין יעקב - אגדות הש"ס מאת רון נחשון מקהילת כרמי ציון בקרית גת.\n\nIn-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.\n\nFor more please visit <a href="https://www.midrashaggadah.com">www.midrashaggadah.com</a>',
+    description: 'שיעורים מעמיקים בעין יעקב - אגדות הש"ס מאת רון נחשון מקהילת כרמי ציון בקרית גת.\n\nIn-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.\n\nFor more please visit <a href="https://midrashaggadah.com">midrashaggadah.com</a>',
     // author defaults to PODCAST_AUTHOR ("כרמי ציון | Carmei Zion")
     email: 'ronnahshon@gmail.com',
     // cover_image defaults to COVER_ART_URL (carmei_zion_logo_2048_2048.png)

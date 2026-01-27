@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title><![CDATA[גמרא בעיון | הרב עמינדב גרוסמן]]></title>
-    <link>https://www.midrashaggadah.com</link>
+    <link>https://midrashaggadah.com</link>
     <description><![CDATA[שפה | Language: עברית | Hebrew
 
 שיעורים מעמיקים בעיון בגמרא - לימוד ברמה גבוהה מאת הרב עמינדב גרוסמן ועוד חברי קהילת כרמי ציון בקרית גת.
 
 In-depth shiurim on halachic discussions in the Talmud.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 27 Jan 2026 07:46:09 GMT</lastBuildDate>
-    <pubDate>Tue, 27 Jan 2026 07:46:09 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 08:21:59 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 08:21:59 GMT</pubDate>
     <ttl>1440</ttl>
-    <atom:link href="https://www.midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
     <itunes:summary><![CDATA[שפה | Language: עברית | Hebrew
 
@@ -28,12 +28,12 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
       <itunes:name><![CDATA[כרמי ציון | Carmei Zion]]></itunes:name>
       <itunes:email>ronnahshon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22"/>
-    <podcast:image href="https://www.midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22"/>
+    <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22"/>
+    <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22"/>
     <image>
-    <url>https://www.midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22</url>
+    <url>https://midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22</url>
     <title><![CDATA[גמרא בעיון | הרב עמינדב גרוסמן]]></title>
-    <link>https://www.midrashaggadah.com</link>
+    <link>https://midrashaggadah.com</link>
   </image>
     <podcast:locked>no</podcast:locked>
 
