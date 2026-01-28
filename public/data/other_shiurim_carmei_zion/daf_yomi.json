@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:01:28-Menachos_17",
+      "hebrew_title": "מנחות יז",
+      "english_title": "Menachos 17",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 17,
+      "length": "33:20",
+      "english_year": 2026,
+      "english_date": "2026-01-28",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:01:28-Menachos_17.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:01:27-Menachos_16",
       "hebrew_title": "מנחות טז",
       "english_title": "Menachos 16",
