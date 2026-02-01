@@ -16,9 +16,25 @@ Allow: /
 User-agent: *
 Allow: /
 
+# Avoid indexing helper/utility pages and legacy static HTML variants
+Disallow: /pocketcasts-search.html
+Disallow: /catalog.html
+Disallow: /search.html
+Disallow: /sefarim.html
+Disallow: /about.html
+Disallow: /podcasts.html
+Disallow: /sefer/*.html
+
 # Sitemaps
 Sitemap: https://midrashaggadah.com/sitemap.xml
 
 # RSS/Atom Feeds
 Sitemap: https://midrashaggadah.com/rss.xml
 Sitemap: https://midrashaggadah.com/atom.xml
+
+# Podcast feeds (RSS)
+Sitemap: https://midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml
+Sitemap: https://midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml
+Sitemap: https://midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml
+Sitemap: https://midrashaggadah.com/podcast/carmei-zion/series/shiurim_meyuhadim.xml
+Sitemap: https://midrashaggadah.com/podcast/carmei-zion/series/shiurim_harav_grossman.xml
