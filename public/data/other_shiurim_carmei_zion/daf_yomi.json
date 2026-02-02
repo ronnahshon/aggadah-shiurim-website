@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:02:02-Menachos_22",
+      "hebrew_title": "מנחות כב",
+      "english_title": "Menachos 22",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 22,
+      "length": "26:04",
+      "english_year": 2026,
+      "english_date": "2026-02-02",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:02:02-Menachos_22.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:02:01-Menachos_21",
       "hebrew_title": "מנחות כא",
       "english_title": "Menachos 21",
