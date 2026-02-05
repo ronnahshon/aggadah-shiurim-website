@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/recording_20260205_054549",
+      "hebrew_title": "מנחות כה",
+      "english_title": "Menachos 25",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 25,
+      "length": "34:05",
+      "english_year": 2026,
+      "english_date": "2026-02-05",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260205_054549.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/recording_20260204_054714",
       "hebrew_title": "מנחות כד",
       "english_title": "Menachos 24",
