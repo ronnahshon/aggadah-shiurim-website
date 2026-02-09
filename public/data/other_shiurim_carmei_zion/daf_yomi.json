@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/recording_20260209_054528",
+      "hebrew_title": "מנחות כט",
+      "english_title": "Menachos 29",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 29,
+      "length": "29:16",
+      "english_year": 2026,
+      "english_date": "2026-02-09",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20260209_054528.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:02:08-Menachos_28",
       "hebrew_title": "מנחות כח",
       "english_title": "Menachos 28",
