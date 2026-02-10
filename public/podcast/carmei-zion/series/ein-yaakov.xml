@@ -11,8 +11,8 @@ In-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.
 
 For more please visit <a href="https://midrashaggadah.com">midrashaggadah.com</a>]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 27 Jan 2026 08:21:59 GMT</lastBuildDate>
-    <pubDate>Tue, 27 Jan 2026 08:21:59 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 08:52:48 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 08:52:48 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -42,6 +42,64 @@ For more please visit <a href="https://midrashaggadah.com">midrashaggadah.com</a
     <podcast:locked>no</podcast:locked>
 
     <item>
+      <title><![CDATA[בבא בתרא עד. - כל אבא חמרא וכל בר בר חנה סיכסא]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-21</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-ein-yaakov-seder_nezikin-bava_batra-21</guid>
+      <description><![CDATA[בבא בתרא עד. - כל אבא חמרא וכל בר בר חנה סיכסא
+
+Bava Batra 74a - Every Abba is a donkey and every Bar Bar Hannah is a fool
+
+מאת רון נחשון.
+
+
+דף מקורות: https://midrash-aggadah.s3.eu-north-1.amazonaws.com/source_sheets/ein-yaakov-seder_nezikin-bava_batra-21.pdf.]]></description>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[בבא בתרא]]></category>
+      <category><![CDATA[seder_nezikin]]></category>
+      <category><![CDATA[ein_yaakov]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:duration>38:24</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-21.mp3" type="audio/mpeg" length="40265318"/>
+    </item>
+
+    <item>
+      <title><![CDATA[בבא בתרא עג: - אמר רבה אשתעו לי נחותי ימא]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-20</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-ein-yaakov-seder_nezikin-bava_batra-20</guid>
+      <description><![CDATA[בבא בתרא עג: - אמר רבה אשתעו לי נחותי ימא
+
+Bava Batra 73b - Rabbah said, sailors related to me the following
+
+מאת רון נחשון.
+
+
+דף מקורות: https://midrash-aggadah.s3.eu-north-1.amazonaws.com/source_sheets/ein-yaakov-seder_nezikin-bava_batra-20.pdf.]]></description>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[בבא בתרא]]></category>
+      <category><![CDATA[seder_nezikin]]></category>
+      <category><![CDATA[ein_yaakov]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:duration>37:10</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-20.mp3" type="audio/mpeg" length="38972075"/>
+    </item>
+
+    <item>
       <title><![CDATA[בבא בתרא ס: - ונמצא זרעו של אברהם אבינו כלה מאליו]]></title>
       <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-19</link>
       <guid isPermaLink="false">carmei-zion-ein-yaakov-ein-yaakov-seder_nezikin-bava_batra-19</guid>
@@ -64,6 +122,9 @@ Bava Batra 60b - The descendants of Avraham Avinu will cease to exist of their o
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>19</itunes:episode>
       <itunes:duration>32:31</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-19.mp3" type="audio/mpeg" length="34096196"/>
     </item>
 
@@ -90,6 +151,9 @@ Bava Batra 58a - You gazed upon the image of My likeness; do not gaze at My like
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>18</itunes:episode>
       <itunes:duration>38:43</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-18.mp3" type="audio/mpeg" length="40597367"/>
     </item>
 
@@ -116,6 +180,9 @@ Bava Batra 22a -It seems that I am your Rabbi, and Rava is your Rabbi’s Rabbi
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>17</itunes:episode>
       <itunes:duration>35:17</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-17.mp3" type="audio/mpeg" length="36997257"/>
     </item>
 
@@ -142,6 +209,9 @@ Bava Batra 21a - Once an error is taught, it is taught forever
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>16</itunes:episode>
       <itunes:duration>33:51</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-16.mp3" type="audio/mpeg" length="35494298"/>
     </item>
 
@@ -168,6 +238,9 @@ Bava Batra 17a - Miriam also died from a Divine kiss
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>15</itunes:episode>
       <itunes:duration>42:22</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-15.mp3" type="audio/mpeg" length="44424670"/>
     </item>
 
@@ -194,6 +267,9 @@ Bava Batra 16b - Avraham had a daughter and her name was Bakol
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>14</itunes:episode>
       <itunes:duration>39:39</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-14.mp3" type="audio/mpeg" length="41576038"/>
     </item>
 
@@ -220,6 +296,9 @@ Bava Batra 16b - Either friendship like the friends of Iyov or death
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>13</itunes:episode>
       <itunes:duration>31:23</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-13.mp3" type="audio/mpeg" length="32907810"/>
     </item>
 
@@ -246,6 +325,9 @@ Bava Batra 16a - You created the ox with splot hooves, You created the donkey wi
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>32:14</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-12.mp3" type="audio/mpeg" length="33799100"/>
     </item>
 
@@ -272,6 +354,9 @@ Bava Batra 15b - What was said regarding Iyov is greater than what was said rega
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>38:31</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-11.mp3" type="audio/mpeg" length="40387652"/>
     </item>
 
@@ -298,6 +383,9 @@ Bava Batra 15a - There was a righteous amongst the gentiles and his name was Iyo
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>44:32</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-10.mp3" type="audio/mpeg" length="46696585"/>
     </item>
 
@@ -324,6 +412,9 @@ Bava Batra 15a - From that point on HaKadosh Baruch Hu would say and Moshe would
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>38:09</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-9.mp3" type="audio/mpeg" length="40003174"/>
     </item>
 
@@ -350,6 +441,9 @@ Bava Batra 14a - The whole luhot and the broken luhot were placed in the Aron
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>39:48</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-8.mp3" type="audio/mpeg" length="41733325"/>
     </item>
 
@@ -376,6 +470,9 @@ Bava Batra 10b - I saw an upside down world, the upper were down and the lower w
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>40:03</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-7.mp3" type="audio/mpeg" length="41995469"/>
     </item>
 
@@ -402,6 +499,9 @@ Bava Batra 10a - As Rav Pappa was ascending a ladder, a rung broke and he almost
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>41:09</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-6.mp3" type="audio/mpeg" length="43148902"/>
     </item>
 
@@ -428,6 +528,9 @@ Bava Batra 10a - Rabbi Yohanan Ben Zakkai saw in a dream that they would lose 70
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>42:07</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-5.mp3" type="audio/mpeg" length="44162526"/>
     </item>
 
@@ -454,6 +557,9 @@ Bava Batra 9b - One who gives tzedakah secretly is greater than Moshe Rabbeinu
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>34:57</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-4.mp3" type="audio/mpeg" length="36647731"/>
     </item>
 
@@ -480,6 +586,9 @@ Bava Batra 9a - Each and every perutah of tzedakah combines to a great sum
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>40:39</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-3.mp3" type="audio/mpeg" length="42624614"/>
     </item>
 
@@ -506,6 +615,9 @@ Bava Batra 9a - The one who causes to acts is greater than the one who acts
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>43:39</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-2.mp3" type="audio/mpeg" length="45770342"/>
     </item>
 
@@ -532,6 +644,9 @@ Bava Batra 8a - Calamity doesn’t come into the world except because of ignoram
       <podcast:season name="בבא בתרא">4</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>35:31</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-1.mp3" type="audio/mpeg" length="37241924"/>
     </item>
 
@@ -558,6 +673,9 @@ Bava Metzia 114b - Is the master not a Kohen? Why is the master in a graveyard
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>20</itunes:episode>
       <itunes:duration>35:40</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-20.mp3" type="audio/mpeg" length="37399211"/>
     </item>
 
@@ -584,6 +702,9 @@ Bava Metzia 107a - You should not find your wife a possible niddah when you retu
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>19</itunes:episode>
       <itunes:duration>40:42</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-19.mp3" type="audio/mpeg" length="42677043"/>
     </item>
 
@@ -610,6 +731,9 @@ Bava Metzia 87a - Until Avraham there was no aging in the world
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>18</itunes:episode>
       <itunes:duration>36:22</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-18.mp3" type="audio/mpeg" length="38133214"/>
     </item>
 
@@ -636,6 +760,9 @@ Bava Metzia 87a - Why are there dots over the letters ayo in the word eilav
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>17</itunes:episode>
       <itunes:duration>46:22</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-17.mp3" type="audio/mpeg" length="48618974"/>
     </item>
 
@@ -662,6 +789,9 @@ Bava Metzia 86b - Gavriel went in order to destroy Sodom
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>16</itunes:episode>
       <itunes:duration>43:10</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-16.mp3" type="audio/mpeg" length="45263531"/>
     </item>
 
@@ -688,6 +818,9 @@ Bava Metzia 86b - The Heavenly angels descended to earth and ate bread
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>15</itunes:episode>
       <itunes:duration>38:53</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-15.mp3" type="audio/mpeg" length="40772130"/>
     </item>
 
@@ -714,6 +847,9 @@ Bava Metzia 86a - Blessed are you, Rabbah Bar Nahmani, that your body is pure an
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>14</itunes:episode>
       <itunes:duration>41:13</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-14.mp3" type="audio/mpeg" length="43218807"/>
     </item>
 
@@ -740,6 +876,9 @@ Bava Metzia 85b - Rabbi decreed a fast, and brought forward Rabbi Hiyya and his 
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>13</itunes:episode>
       <itunes:duration>40:44</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-13.mp3" type="audio/mpeg" length="42711996"/>
     </item>
 
@@ -766,6 +905,9 @@ Bava Metzia 85a - From then on Torah will always return to her lodgings
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>42:41</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-12.mp3" type="audio/mpeg" length="44756719"/>
     </item>
 
@@ -792,6 +934,9 @@ Bava Metzia 84b - Rabbi Yehuda HaNasi said to the calf, go, this is why you were
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>50:18</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-11.mp3" type="audio/mpeg" length="52743373"/>
     </item>
 
@@ -818,6 +963,9 @@ Bava Metzia 84b - His wife saw that a worm was emerging from his ear
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>34:35</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-10.mp3" type="audio/mpeg" length="36263253"/>
     </item>
 
@@ -844,6 +992,9 @@ Bava Metzia 83b - It refers to this world which is compared to night
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>44:11</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-9.mp3" type="audio/mpeg" length="46329583"/>
     </item>
 
@@ -870,6 +1021,9 @@ Bava Metzia 71a - If a person calls his fellow wicked, the fellow can harass him
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>40:36</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-8.mp3" type="audio/mpeg" length="42572186"/>
     </item>
 
@@ -896,6 +1050,9 @@ Bava Metzia 59b - We do not pay attention to a Bat Kol
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>40:49</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-7.mp3" type="audio/mpeg" length="42799377"/>
     </item>
 
@@ -922,6 +1079,9 @@ Bava Metzia 58b - It is better for a man to throw himself into a fiery furnace
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>32:55</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-6.mp3" type="audio/mpeg" length="34515627"/>
     </item>
 
@@ -948,6 +1108,9 @@ Bava Metzia 42a - Blessing is not bestowed except on that which is hidden from t
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>46:33</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-5.mp3" type="audio/mpeg" length="48811213"/>
     </item>
 
@@ -974,6 +1137,9 @@ Bava Metzia 39b - This teaches that Yosef left without a beard and reappeared wi
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>44:00</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-4.mp3" type="audio/mpeg" length="46137344"/>
     </item>
 
@@ -1000,6 +1166,9 @@ Bava Metzia 33a - Hisda Hisda, I don't need you, you need me
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>43:01</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-3.mp3" type="audio/mpeg" length="45106244"/>
     </item>
 
@@ -1026,6 +1195,9 @@ Bava Metzia 29b - Someone whose father left him a lot of money and he wants to g
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>35:57</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-2.mp3" type="audio/mpeg" length="37696307"/>
     </item>
 
@@ -1052,6 +1224,9 @@ Bava Metzia 23b - Regarding these three things the Rabbis alter their words
       <podcast:season name="בבא מציעא">3</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>44:06</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_metzia-1.mp3" type="audio/mpeg" length="46242202"/>
     </item>
 
@@ -1078,6 +1253,9 @@ Bava Kamma 119a - In a place where the people are particular it is considered st
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>13</itunes:episode>
       <itunes:duration>41:34</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-13.mp3" type="audio/mpeg" length="43585809"/>
     </item>
 
@@ -1104,6 +1282,9 @@ Bava Kamma 117a - Until now the Persians were not strict about murder
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>42:44</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-12.mp3" type="audio/mpeg" length="44809148"/>
     </item>
 
@@ -1130,6 +1311,9 @@ Bava Kamma 93a - May it be His will that you will have children with covered eye
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>42:41</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-11.mp3" type="audio/mpeg" length="44756719"/>
     </item>
 
@@ -1156,6 +1340,9 @@ Bava Kamma 92b - The bad tree strolls among the barren grove
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>36:36</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-10.mp3" type="audio/mpeg" length="38377882"/>
     </item>
 
@@ -1182,6 +1369,9 @@ Bava Kamma 91b - Shivhat Beri only died because he cut down fig trees prematurel
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>43:29</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-9.mp3" type="audio/mpeg" length="45595580"/>
     </item>
 
@@ -1208,6 +1398,9 @@ Bava Kamma 82a - The interpreters of impressions said, there is no water but Tor
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>35:17</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-8.mp3" type="audio/mpeg" length="36997257"/>
     </item>
 
@@ -1234,6 +1427,9 @@ Bava Kamma 80b - Whoever has bad luck, does not quickly have good luck
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>46:05</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-7.mp3" type="audio/mpeg" length="48321877"/>
     </item>
 
@@ -1260,6 +1456,9 @@ Bava Kamma 79b - It is as though he made the eye of G-d as if it cannot see
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>46:05</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-6.mp3" type="audio/mpeg" length="48321877"/>
     </item>
 
@@ -1286,6 +1485,9 @@ Bava Kamma 60a - A person should always gather in with 'ki tov' and go out with 
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>37:15</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-5.mp3" type="audio/mpeg" length="39059456"/>
     </item>
 
@@ -1312,6 +1514,9 @@ Bava Kamma 60a - Rav Yosef cried, are the righteous worth nothing when calamity 
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>48:55</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-4.mp3" type="audio/mpeg" length="51292843"/>
     </item>
 
@@ -1338,6 +1543,9 @@ Bava Kamma 50a - A male ram appeared to me with an old man leading it
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>30:26</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-3.mp3" type="audio/mpeg" length="31911663"/>
     </item>
 
@@ -1364,6 +1572,9 @@ Bava Kamma 38a - I have two good fledglings to bring forth from them
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>33:15</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-2.mp3" type="audio/mpeg" length="34865152"/>
     </item>
 
@@ -1390,6 +1601,9 @@ Bava Kamma 16b - When they give tzedakah, have them fail via people who are not 
       <podcast:season name="בבא קמא">2</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>43:46</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_kamma-1.mp3" type="audio/mpeg" length="45892676"/>
     </item>
 
@@ -1416,6 +1630,9 @@ Niddah 69b - The people of Alexandria asked 12 questions
       <podcast:season name="נדה">17</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>31:13</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-8.mp3" type="audio/mpeg" length="32733047"/>
     </item>
 
@@ -1442,6 +1659,9 @@ Niddah 61a - That was Og the refugee who escaped from the generation of the floo
       <podcast:season name="נדה">17</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>50:29</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-7.mp3" type="audio/mpeg" length="52935612"/>
     </item>
 
@@ -1468,6 +1688,9 @@ Niddah 38a - The Hebrew word for pregnancy in Gematria equals 271
       <podcast:season name="נדה">17</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>34:05</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-6.mp3" type="audio/mpeg" length="35738965"/>
     </item>
 
@@ -1494,6 +1717,9 @@ Niddah 31b - During childbirth a woman jumps up and swears never to be with her 
       <podcast:season name="נדה">17</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>37:50</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-5.mp3" type="audio/mpeg" length="39671125"/>
     </item>
 
@@ -1520,6 +1746,9 @@ Niddah 31a - If a woman finishes first, she will give birth to a male
       <podcast:season name="נדה">17</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>34:09</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-4.mp3" type="audio/mpeg" length="35808870"/>
     </item>
 
@@ -1546,6 +1775,9 @@ Niddah 24b - Abba Shaul said, I used to be a gravedigger
       <podcast:season name="נדה">17</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>35:03</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-3.mp3" type="audio/mpeg" length="36752589"/>
     </item>
 
@@ -1572,6 +1804,9 @@ Niddah 16b - The angel appointed over pregnancy is called 'Layla'
       <podcast:season name="נדה">17</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>47:55</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-2.mp3" type="audio/mpeg" length="50244267"/>
     </item>
 
@@ -1598,6 +1833,9 @@ Niddah 13a - The Beit Knesset in Nehardea that was destroyed and rebuilt
       <podcast:season name="נדה">17</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>38:40</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_toharot-niddah-1.mp3" type="audio/mpeg" length="40544939"/>
     </item>
 
@@ -1624,6 +1862,9 @@ Meilah 17a - Let Rabbi Shimon Bar Yohai go, because he has experience with mirac
       <podcast:season name="מעילה">16</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>34:15</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-meilah-1.mp3" type="audio/mpeg" length="35913728"/>
     </item>
 
@@ -1650,6 +1891,9 @@ Keritot 6b - Any public fast which doesnt include sinners is not a fast
       <podcast:season name="כריתות">15</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>40:47</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-keritot-1.mp3" type="audio/mpeg" length="42764425"/>
     </item>
 
@@ -1676,6 +1920,9 @@ Temurah 16a - A prophet is not permitted to innovate anything new
       <podcast:season name="תמורה">14</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>35:01</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-temurah-2.mp3" type="audio/mpeg" length="36717636"/>
     </item>
 
@@ -1702,6 +1949,9 @@ Temurah 14b - Forty years after Bnai Yisrael had asked for a king
       <podcast:season name="תמורה">14</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>36:27</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-temurah-1.mp3" type="audio/mpeg" length="38220595"/>
     </item>
 
@@ -1728,6 +1978,9 @@ Arachin 32b - This teaches that Yirmiyahu brought the 10 tribes back from exile
       <podcast:season name="ערכין">13</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>39:34</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-8.mp3" type="audio/mpeg" length="41488657"/>
     </item>
 
@@ -1754,6 +2007,9 @@ Arachin 17a - One said the generation follows its leader, and one said the leade
       <podcast:season name="ערכין">13</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>39:55</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-7.mp3" type="audio/mpeg" length="41855659"/>
     </item>
 
@@ -1780,6 +2036,9 @@ Arachin 16b - How far must one go to rebuke his fellow?
       <podcast:season name="ערכין">13</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>37:10</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-6.mp3" type="audio/mpeg" length="38972075"/>
     </item>
 
@@ -1806,6 +2065,9 @@ Arachin 16a - Tzaarat afflicts people due to one of seven sins
       <podcast:season name="ערכין">13</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>30:04</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-5.mp3" type="audio/mpeg" length="31527185"/>
     </item>
 
@@ -1832,6 +2094,9 @@ Arachin 15b - Such as if one gossiped and said, there is a fire in the house of 
       <podcast:season name="ערכין">13</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>37:51</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-4.mp3" type="audio/mpeg" length="39688602"/>
     </item>
 
@@ -1858,6 +2123,9 @@ Arachin 15a - Our forefathers tested G-d ten times
       <podcast:season name="ערכין">13</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>47:03</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-3.mp3" type="audio/mpeg" length="49335501"/>
     </item>
 
@@ -1884,6 +2152,9 @@ Arachin 15a - Don't read it as 'than us' but rather 'than Him'
       <podcast:season name="ערכין">13</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>33:38</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-2.mp3" type="audio/mpeg" length="35267106"/>
     </item>
 
@@ -1910,6 +2181,9 @@ Arachin 10b - The king issued a command, and they widened the opening of the Shi
       <podcast:season name="ערכין">13</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>38:03</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-arachin-1.mp3" type="audio/mpeg" length="39898317"/>
     </item>
 
@@ -1936,6 +2210,9 @@ Horayot 14a - One said breadth of knowledge is better, and one said a sharp inte
       <podcast:season name="הוריות">8</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>37:01</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-horayot-5.mp3" type="audio/mpeg" length="38814788"/>
     </item>
 
@@ -1962,6 +2239,9 @@ Horayot 13a - Why does a dog recognize his master
       <podcast:season name="הוריות">8</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>35:03</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-horayot-4.mp3" type="audio/mpeg" length="36752589"/>
     </item>
 
@@ -1988,6 +2268,9 @@ Horayot 12a - David and Shlomo who were anointed with a horn had an everlasting 
       <podcast:season name="הוריות">8</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>31:18</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-horayot-3.mp3" type="audio/mpeg" length="32820429"/>
     </item>
 
@@ -2014,6 +2297,9 @@ Horayot 12a - Two droplets of oils like pearls dangled from Aharon's beard
       <podcast:season name="הוריות">8</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>40:25</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-horayot-2.mp3" type="audio/mpeg" length="42379947"/>
     </item>
 
@@ -2040,6 +2326,9 @@ Horayot 10a - Rabban Gamliel and Rabbi Yehoshua were traveling in a boat
       <podcast:season name="הוריות">8</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>46:20</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-horayot-1.mp3" type="audio/mpeg" length="48584021"/>
     </item>
 
@@ -2066,6 +2355,9 @@ Shevuot 38b - We are making you swear, but not based on your own understanding
       <podcast:season name="שבועות">6</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>36:44</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-shevuot-3.mp3" type="audio/mpeg" length="38517692"/>
     </item>
 
@@ -2092,6 +2384,9 @@ Shevuot 35a - Extending hospitality to guests is more important than receiving t
       <podcast:season name="שבועות">6</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>51:32</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-shevuot-2.mp3" type="audio/mpeg" length="54036617"/>
     </item>
 
@@ -2118,6 +2413,9 @@ Shevuot 9a - This goat shall be an atonement for My diminishing the Moon
       <podcast:season name="שבועות">6</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>41:52</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-shevuot-1.mp3" type="audio/mpeg" length="43900382"/>
     </item>
 
@@ -2144,6 +2442,9 @@ Makkot 24b - Uriyah was in the first Temple, while Zechariah was in the second T
       <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>47:47</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-8.mp3" type="audio/mpeg" length="50104457"/>
     </item>
 
@@ -2170,6 +2471,9 @@ Makkot 24a - Moshe said 'He visits the sins of parents on their children', Yehez
       <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>44:37</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-7.mp3" type="audio/mpeg" length="46783966"/>
     </item>
 
@@ -2196,6 +2500,9 @@ Makkot 23b - The holy spirit appears in three places
       <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>39:09</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-6.mp3" type="audio/mpeg" length="41051750"/>
     </item>
 
@@ -2222,6 +2529,9 @@ Makkot 22b - How foolish are all the other people
       <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>36:42</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-5.mp3" type="audio/mpeg" length="38482739"/>
     </item>
 
@@ -2248,6 +2558,9 @@ Makkot 12a - Yoav made two mistakes at that time
       <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>40:07</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-4.mp3" type="audio/mpeg" length="42065374"/>
     </item>
 
@@ -2274,6 +2587,9 @@ Makkot 11a - Misguided curses of the righteous also come true
       <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>37:08</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-3.mp3" type="audio/mpeg" length="38937122"/>
     </item>
 
@@ -2300,6 +2616,9 @@ Makkot 10a - I heard people saying, when will that old man David die?
       <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>35:52</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-2.mp3" type="audio/mpeg" length="37608926"/>
     </item>
 
@@ -2326,6 +2645,9 @@ Makkot 10a - Who should teach in public? He who has all the knowledge with him
       <podcast:season name="מכות">5</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>35:16</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-makkot-1.mp3" type="audio/mpeg" length="36979780"/>
     </item>
 
@@ -2352,6 +2674,9 @@ Bechorot 58b - Except for this bald man, Rabbi Akiva
       <podcast:season name="בכורות">12</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>39:45</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-bechorot-4.mp3" type="audio/mpeg" length="41680896"/>
     </item>
 
@@ -2378,6 +2703,9 @@ Bechorot 31b - Since someone said a teaching in his name, his lips move even in 
       <podcast:season name="בכורות">12</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>35:01</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-bechorot-3.mp3" type="audio/mpeg" length="36717636"/>
     </item>
 
@@ -2404,6 +2732,9 @@ Bechorot 7b - All species of animal mate face to back except for three
       <podcast:season name="בכורות">12</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>34:55</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-bechorot-2.mp3" type="audio/mpeg" length="36612779"/>
     </item>
 
@@ -2430,6 +2761,9 @@ Bechorot 5a - Your teacher Moshe was either a thief or a gambler
       <podcast:season name="בכורות">12</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>38:37</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-bechorot-1.mp3" type="audio/mpeg" length="40492510"/>
     </item>
 
@@ -2456,6 +2790,9 @@ Hullin 139b - Where is there a hint to Moshe in the Torah?
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>16</itunes:episode>
       <itunes:duration>35:30</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-16.mp3" type="audio/mpeg" length="37224448"/>
     </item>
 
@@ -2482,6 +2819,9 @@ Hullin 127a - You find great creations in the sea, and you find great creations 
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>15</itunes:episode>
       <itunes:duration>36:57</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-15.mp3" type="audio/mpeg" length="38744883"/>
     </item>
 
@@ -2508,6 +2848,9 @@ Hullin 110a - Positive mitzvot whose rewards are mentioned explicitly
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>14</itunes:episode>
       <itunes:duration>33:48</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-14.mp3" type="audio/mpeg" length="35441869"/>
     </item>
 
@@ -2534,6 +2877,9 @@ Hullin 94a - A person should not pressure someone to eat with him if that person
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>13</itunes:episode>
       <itunes:duration>41:01</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-13.mp3" type="audio/mpeg" length="43009092"/>
     </item>
 
@@ -2560,6 +2906,9 @@ Hullin 91b - Yaakov resolved to turn back to Eretz Yisrael and the land collapse
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>32:27</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-12.mp3" type="audio/mpeg" length="34026291"/>
     </item>
 
@@ -2586,6 +2935,9 @@ Hullin 91a - Yosef showed his brothers where the animals were slaughtered
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>34:59</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-11.mp3" type="audio/mpeg" length="36682684"/>
     </item>
 
@@ -2612,6 +2964,9 @@ Hullin 89a - The world exists only in the merit of he who restrains himself duri
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>30:00</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-10.mp3" type="audio/mpeg" length="31457280"/>
     </item>
 
@@ -2638,6 +2993,9 @@ Hullin 88b - Avraham's children merited two mitzvot, dust and ashes
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>31:19</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-9.mp3" type="audio/mpeg" length="32837905"/>
     </item>
 
@@ -2664,6 +3022,9 @@ Hullin 63b - A person should always teach his students using as few words as pos
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>37:24</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-8.mp3" type="audio/mpeg" length="39216742"/>
     </item>
 
@@ -2690,6 +3051,9 @@ Hullin 60a - The grasses deduced for themselves a kal vahomer
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>33:50</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-7.mp3" type="audio/mpeg" length="35476821"/>
     </item>
 
@@ -2716,6 +3080,9 @@ Hullin 57b - Rabbi Shimon Ben Halafta was an experimenter
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>36:44</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-6.mp3" type="audio/mpeg" length="38517692"/>
     </item>
 
@@ -2742,6 +3109,9 @@ Hullin 49b - Kohanim bless Yisrael and G-d agrees with them
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>34:44</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-5.mp3" type="audio/mpeg" length="36420540"/>
     </item>
 
@@ -2768,6 +3138,9 @@ Hullin 37b - Behold, Yehezkel's soul has not been defiled
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>36:52</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-4.mp3" type="audio/mpeg" length="38657502"/>
     </item>
 
@@ -2794,6 +3167,9 @@ Hullin 7a - The righteous are greater in their deaths than during their lives
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>38:10</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-3.mp3" type="audio/mpeg" length="40020651"/>
     </item>
 
@@ -2820,6 +3196,9 @@ Hullin 6b - My ancestors have left for me room to become great
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>34:54</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-2.mp3" type="audio/mpeg" length="36595302"/>
     </item>
 
@@ -2846,6 +3225,9 @@ Hullin 5a - Divine decree is different and no proof can be brought
       <podcast:season name="חולין">11</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>39:34</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-hullin-1.mp3" type="audio/mpeg" length="41488657"/>
     </item>
 
@@ -2872,6 +3254,9 @@ Menahot 109a - The image of an old man appeared to me
       <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>36:47</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-8.mp3" type="audio/mpeg" length="38570121"/>
     </item>
 
@@ -2898,6 +3283,9 @@ Menahot 99b - A time that is neither during the day nor the night
       <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>39:27</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-7.mp3" type="audio/mpeg" length="41366323"/>
     </item>
 
@@ -2924,6 +3312,9 @@ Menahot 99a - Good for you that you broke the tablets
       <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>46:21</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-6.mp3" type="audio/mpeg" length="48601498"/>
     </item>
 
@@ -2950,6 +3341,9 @@ Menahot 86b - The windows were narrow on the inside and broad on the outside to 
       <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>44:09</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-5.mp3" type="audio/mpeg" length="46294630"/>
     </item>
 
@@ -2976,6 +3370,9 @@ Menahot 64b - That's why it refers to him as Mordechai Bilshan
       <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>32:42</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-4.mp3" type="audio/mpeg" length="34288435"/>
     </item>
 
@@ -3002,6 +3399,9 @@ Menahot 43a - One mitzvah that is equal to the rest of the mitzvot combined
       <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>30:07</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-3.mp3" type="audio/mpeg" length="31579614"/>
     </item>
 
@@ -3028,6 +3428,9 @@ Menahot 37a - Somebody who has two heads but one body
       <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>35:22</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-2.mp3" type="audio/mpeg" length="37084638"/>
     </item>
 
@@ -3054,6 +3457,9 @@ Menahot 29a - Moshe had a difficult time understanding, so G-d showed him
       <podcast:season name="מנחות">10</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>30:26</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-menahot-1.mp3" type="audio/mpeg" length="31911663"/>
     </item>
 
@@ -3080,6 +3486,9 @@ Zevahim 116b - Ifra Hormizd, the mother of King Shapur
       <podcast:season name="זבחים">9</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>34:25</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-5.mp3" type="audio/mpeg" length="36088491"/>
     </item>
 
@@ -3106,6 +3515,9 @@ Zevahim 115b - There are times when a man is silent and receives reward for his 
       <podcast:season name="זבחים">9</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>25:35</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-4.mp3" type="audio/mpeg" length="26826069"/>
     </item>
 
@@ -3132,6 +3544,9 @@ Zevahim 113a - The flood of Noah did not descend into Eretz Yisrael
       <podcast:season name="זבחים">9</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>32:06</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-3.mp3" type="audio/mpeg" length="33659290"/>
     </item>
 
@@ -3158,6 +3573,9 @@ Zevahim 102a - Even this time a flaring of anger had lasting consequences
       <podcast:season name="זבחים">9</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>41:37</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-2.mp3" type="audio/mpeg" length="43638238"/>
     </item>
 
@@ -3184,6 +3602,9 @@ Zevahim 53b - A corner of the altar without a foundation
       <podcast:season name="זבחים">9</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>35:35</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_kodashim-zevahim-1.mp3" type="audio/mpeg" length="37311829"/>
     </item>
 
@@ -3210,6 +3631,9 @@ Avodah Zarah 25a - Just as the Sun's motion lasts a full day, so too its suspens
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>16</itunes:episode>
       <itunes:duration>51:52</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-16.mp3" type="audio/mpeg" length="54386142"/>
     </item>
 
@@ -3236,6 +3660,9 @@ Avodah Zarah 24b - They faced the Aron and sang G-d's praises
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>15</itunes:episode>
       <itunes:duration>33:56</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-15.mp3" type="audio/mpeg" length="35581679"/>
     </item>
 
@@ -3262,6 +3689,9 @@ Avodah Zarah 19b - Who wants to live, who wants to live
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>14</itunes:episode>
       <itunes:duration>37:05</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-14.mp3" type="audio/mpeg" length="38884693"/>
     </item>
 
@@ -3288,6 +3718,9 @@ Avodah Zarah 18b - Whoever is lazy causes destruction to the world
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>13</itunes:episode>
       <itunes:duration>26:15</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-13.mp3" type="audio/mpeg" length="27525120"/>
     </item>
 
@@ -3314,6 +3747,9 @@ Avodah Zarah 18a - When Rabbi Hanina Ben Teryadon, his wife and daughter were ta
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>33:20</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-12.mp3" type="audio/mpeg" length="34952533"/>
     </item>
 
@@ -3340,6 +3776,9 @@ Avodah Zarah 17b - Let us confront and overcome our evil inclination, and receiv
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>30:32</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-11.mp3" type="audio/mpeg" length="32016521"/>
     </item>
 
@@ -3366,6 +3805,9 @@ Avodah Zarah 11b - There is yet another festival in Rome
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>30:17</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-10.mp3" type="audio/mpeg" length="31754377"/>
     </item>
 
@@ -3392,6 +3834,9 @@ Avodah Zarah 10b - Every day the Roman emperor used to wait on Rabbi Yehuda HaNa
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>35:12</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-9.mp3" type="audio/mpeg" length="36909875"/>
     </item>
 
@@ -3418,6 +3863,9 @@ Avodah Zarah 8a - The ox sacrificed by Adam HaRishon
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>29:44</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-8.mp3" type="audio/mpeg" length="31177660"/>
     </item>
 
@@ -3444,6 +3892,9 @@ Avodah Zarah 5b - Their evil inclinations are handed over to them
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>42:14</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-7.mp3" type="audio/mpeg" length="44284860"/>
     </item>
 
@@ -3470,6 +3921,9 @@ Avodah Zarah 5a - Four are considered as dead
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>34:45</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-6.mp3" type="audio/mpeg" length="36438016"/>
     </item>
 
@@ -3496,6 +3950,9 @@ Avodah Zarah 4b - The golden calf was to provide an opening for ba'alei teshuvah
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>31:43</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-5.mp3" type="audio/mpeg" length="33257335"/>
     </item>
 
@@ -3522,6 +3979,9 @@ Avodah Zarah 4a - They had the opportunity to protest others but didn't
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>37:36</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-4.mp3" type="audio/mpeg" length="39426458"/>
     </item>
 
@@ -3548,6 +4008,9 @@ Avodah Zarah 3b - Those who learn Torah at night
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>45:33</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-3.mp3" type="audio/mpeg" length="47762637"/>
     </item>
 
@@ -3574,6 +4037,9 @@ Avodah Zarah 3a - But if not I will return the world to chaos
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>28:30</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-2.mp3" type="audio/mpeg" length="29884416"/>
     </item>
 
@@ -3600,6 +4066,9 @@ Avodah Zarah 2a - Everything that we did was for the sake of Yisrael
       <podcast:season name="עבודה זרה">7</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>38:10</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-avodah_zarah-1.mp3" type="audio/mpeg" length="40020651"/>
     </item>
 
@@ -3626,6 +4095,9 @@ Yevamot 121a - If wicked men attack a man, he should lower his head
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>24</itunes:episode>
       <itunes:duration>27:56</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-24.mp3" type="audio/mpeg" length="29290223"/>
     </item>
 
@@ -3652,6 +4124,9 @@ Yevamot 105b - Someone praying should look down, but direct his heart upwards to
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>23</itunes:episode>
       <itunes:duration>31:23</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-23.mp3" type="audio/mpeg" length="32907810"/>
     </item>
 
@@ -3678,6 +4153,9 @@ Yevamot 103a - Sisera was with Yael seven times on that day
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>22</itunes:episode>
       <itunes:duration>39:18</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-22.mp3" type="audio/mpeg" length="41209037"/>
     </item>
 
@@ -3704,6 +4182,9 @@ Yevamot 98a - The Shechinah spoke with Yonah the prophet twice, but not a third 
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>21</itunes:episode>
       <itunes:duration>27:03</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-21.mp3" type="audio/mpeg" length="28363981"/>
     </item>
 
@@ -3730,6 +4211,9 @@ Yevamot 96b - Why don't you know how to appease my honor like Rabbi Yaakov Ben I
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>20</itunes:episode>
       <itunes:duration>27:31</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-20.mp3" type="audio/mpeg" length="28853316"/>
     </item>
 
@@ -3756,6 +4240,9 @@ Yevamot 86a - Rabbi Akiva may have his shepherd's bag, but Rabbi Elazar lives on
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>19</itunes:episode>
       <itunes:duration>36:27</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-19.mp3" type="audio/mpeg" length="38220595"/>
     </item>
 
@@ -3782,6 +4269,9 @@ Yevamot 79a - Jews are merciful, modest and doers of good deeds
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>18</itunes:episode>
       <itunes:duration>25:16</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-18.mp3" type="audio/mpeg" length="26494020"/>
     </item>
 
@@ -3808,6 +4298,9 @@ Yevamot 77a - Rehavam used to sit in David HaMelech's lap
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>17</itunes:episode>
       <itunes:duration>37:29</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-17.mp3" type="audio/mpeg" length="39304124"/>
     </item>
 
@@ -3834,6 +4327,9 @@ Yevamot 76b - A king breaches a way for himself and nobody is able to stop him
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>16</itunes:episode>
       <itunes:duration>45:01</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-16.mp3" type="audio/mpeg" length="47203396"/>
     </item>
 
@@ -3860,6 +4356,9 @@ Yevamot 71b - Because the Northern wind did not blow for them
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>15</itunes:episode>
       <itunes:duration>33:28</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-15.mp3" type="audio/mpeg" length="35092343"/>
     </item>
 
@@ -3886,6 +4385,9 @@ Yevamot 65b - It is permitted to lie for the sake of peace
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>14</itunes:episode>
       <itunes:duration>34:09</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-14.mp3" type="audio/mpeg" length="35808870"/>
     </item>
 
@@ -3912,6 +4414,9 @@ Yevamot 64a - Why were our foreparents all barren
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>13</itunes:episode>
       <itunes:duration>27:19</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-13.mp3" type="audio/mpeg" length="28643601"/>
     </item>
 
@@ -3938,6 +4443,9 @@ Yevamot 63b - Is the bride a find or found
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>12</itunes:episode>
       <itunes:duration>31:35</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-12.mp3" type="audio/mpeg" length="33117525"/>
     </item>
 
@@ -3964,6 +4472,9 @@ Yevamot 63a - 100 coins in business yield meat and wine, while 100 coins in farm
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>11</itunes:episode>
       <itunes:duration>40:26</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-11.mp3" type="audio/mpeg" length="42397423"/>
     </item>
 
@@ -3990,6 +4501,9 @@ Yevamot 62b - Because they didnt treat each other with respect
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>10</itunes:episode>
       <itunes:duration>31:31</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-10.mp3" type="audio/mpeg" length="33047620"/>
     </item>
 
@@ -4016,6 +4530,9 @@ Yevamot 49b - Moshe acted of his own volition, and his will agreed with the Will
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>9</itunes:episode>
       <itunes:duration>30:47</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-9.mp3" type="audio/mpeg" length="32278665"/>
     </item>
 
@@ -4042,6 +4559,9 @@ Yevamot 49b - All the prophets saw G-d through a blurry looking glass
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>8</itunes:episode>
       <itunes:duration>33:32</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-8.mp3" type="audio/mpeg" length="35162249"/>
     </item>
 
@@ -4068,6 +4588,9 @@ Yevamot 48a - The beautiful captive's mother and father are her idols
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>34:36</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-7.mp3" type="audio/mpeg" length="36280730"/>
     </item>
 
@@ -4094,6 +4617,9 @@ Yevamot 34b - Er died the same death as his brother Onan
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>6</itunes:episode>
       <itunes:duration>42:48</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-6.mp3" type="audio/mpeg" length="44879053"/>
     </item>
 
@@ -4120,6 +4646,9 @@ Yevamot 21a - This is comparable to an orchard watchman, if he watches from the 
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>5</itunes:episode>
       <itunes:duration>26:17</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-5.mp3" type="audio/mpeg" length="27560073"/>
     </item>
 
@@ -4146,6 +4675,9 @@ Yevamot 20a - Sanctify yourself through that which is permitted
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>4</itunes:episode>
       <itunes:duration>27:06</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-4.mp3" type="audio/mpeg" length="28416410"/>
     </item>
 
@@ -4172,6 +4704,9 @@ Yevamot 16a - With heaven and earth as my witnesses, Hagai the prophet sat on th
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>29:39</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-3.mp3" type="audio/mpeg" length="31090278"/>
     </item>
 
@@ -4198,6 +4733,9 @@ Yevamot 14a - Beit Shammai were of sharper intellect than Beit Hillel
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>26:17</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-2.mp3" type="audio/mpeg" length="27560073"/>
     </item>
 
@@ -4224,6 +4762,9 @@ Yevamot 13a - Beit Hillel and Beit Shammai practiced love and friendship with on
       <podcast:season name="יבמות">1</podcast:season>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>25:16</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
       <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nashim-yevamot-1.mp3" type="audio/mpeg" length="26494020"/>
     </item>
   </channel>

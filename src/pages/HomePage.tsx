@@ -125,7 +125,7 @@ const HomePage: React.FC = () => {
         <div className="content-container">
           <div className="text-center mb-12">
             <h1 className="text-3xl md:text-5xl font-bold text-biblical-brown mb-4">
-              Midrash Aggadah
+              ״ברוכים הבאים למדרש אגדה״
             </h1>
             <p className="text-lg md:text-xl max-w-4xl mx-auto mb-6 text-biblical-brown animate-fade-in">
               Welcome to Midrash Aggadah, a website dedicated to spreading the timeless wisdom and profound teachings of חז״ל.

@@ -469,6 +469,9 @@ const renderRss = ({ feedTitle, feedDescription, feedUrl, items }) => {
     <title><![CDATA[${feedTitle}]]></title>
     <link>${SITE_URL}</link>
   </image>`;
+  const itemImageTag = `
+      <itunes:image href="${coverImage}"/>
+      <podcast:image href="${coverImage}"/>`;
   const categoryPrimary = escapeAttr(ITUNES_CATEGORY_PRIMARY);
   const categorySecondary = escapeAttr(ITUNES_CATEGORY_SECONDARY);
   
@@ -525,6 +528,7 @@ const renderRss = ({ feedTitle, feedDescription, feedUrl, items }) => {
       ${item.season && item.seasonName ? `<podcast:season name="${item.seasonName}">${item.season}</podcast:season>` : ''}
       ${item.episode ? `<itunes:episode>${item.episode}</itunes:episode>` : ''}
       ${item.duration ? `<itunes:duration>${item.duration}</itunes:duration>` : ''}
+      ${itemImageTag}
       <enclosure url="${item.enclosure.url}" type="${item.enclosure.type}" length="${item.enclosure.length}"/>
     </item>`
     )
@@ -824,6 +828,9 @@ const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
     <title><![CDATA[${title}]]></title>
     <link>${SITE_URL}</link>
   </image>`;
+  const itemImageTag = `
+      <itunes:image href="${coverImage}"/>
+      <podcast:image href="${coverImage}"/>`;
   const categoryPrimary = escapeAttr(category);
   const categorySecondary = escapeAttr(subcategory);
 
@@ -880,6 +887,7 @@ const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
       ${item.season && item.seasonName ? `<podcast:season name="${item.seasonName}">${item.season}</podcast:season>` : ''}
       ${item.episode ? `<itunes:episode>${item.episode}</itunes:episode>` : ''}
       ${item.duration ? `<itunes:duration>${item.duration}</itunes:duration>` : ''}
+      ${itemImageTag}
       <enclosure url="${item.enclosure.url}" type="${item.enclosure.type}" length="${item.enclosure.length}"/>
     </item>`
     )
