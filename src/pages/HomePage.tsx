@@ -270,39 +270,51 @@ const HomePage: React.FC = () => {
                 {
                   key: 'spotify',
                   name: 'Spotify',
+                  url: 'https://bit.ly/4pxpQKH',
                   qrSrc: '/images/qr_codes_for_podcasts/ein_yaakov_qr_codes/ein-yaakov-spotify.png',
                   Icon: Music,
                 },
                 {
                   key: 'apple',
                   name: 'Apple',
+                  url: 'https://apple.co/49vYVsJ',
                   qrSrc: '/images/qr_codes_for_podcasts/ein_yaakov_qr_codes/ein-yaakov-apple.png',
                   Icon: Apple,
                 },
                 {
                   key: 'youtube',
                   name: 'YouTube',
+                  url: 'https://bit.ly/4aKjO5B',
                   qrSrc: '/images/qr_codes_for_podcasts/ein_yaakov_qr_codes/ein-yaakov-youtube.png',
                   Icon: Youtube,
                 },
                 {
                   key: 'pocketcasts',
                   name: 'Pocket Casts',
+                  url: 'https://bit.ly/3YFCNXS',
                   qrSrc: '/images/qr_codes_for_podcasts/ein_yaakov_qr_codes/ein-yaakov-pocketcasts.png',
                   Icon: Podcast,
                 },
                 {
                   key: 'amazon',
                   name: 'Amazon',
+                  url: 'https://amzn.to/3YZ0ABZ',
                   qrSrc: '/images/qr_codes_for_podcasts/ein_yaakov_qr_codes/ein-yaakov-amazon.png',
                   Icon: ShoppingBag,
                 },
-              ].map(({ key, name, qrSrc, Icon }) => (
+              ].map(({ key, name, url, qrSrc, Icon }) => (
                 <div
                   key={key}
                   className="bg-white/85 rounded-xl border border-biblical-gold/20 shadow-sm p-4 flex flex-col items-center text-center flex-shrink-0 w-[12.35rem]"
                 >
-                  <div className="text-sm font-semibold text-biblical-brown mb-3">{name}</div>
+                  <a
+                    href={url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-sm font-semibold text-biblical-brown mb-3 underline hover:text-black transition-colors"
+                  >
+                    {name}
+                  </a>
                   <img
                     src={qrSrc}
                     alt={`${name} QR code for Ein Yaakov podcast`}
