@@ -56,6 +56,8 @@ npm run podcast:generate
 npm run build
 ```
 
+Vercel deploys are pinned to `npm run build` via `vercel.json` (`buildCommand`), so podcast feeds regenerate automatically on every deployment.
+
 ### Audio URL behavior
 
 - **Derived feeds**: audio is usually derived as `audio/<shiur.id>.mp3` on S3 unless `audio_recording_link` is already a direct HTTP URL.
