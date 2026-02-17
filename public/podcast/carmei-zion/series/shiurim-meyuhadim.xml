@@ -12,7 +12,7 @@ Miscellaneous shiurim from guest speakers and various members of the Shul.]]></d
     <lastBuildDate>Tue, 17 Feb 2026 10:25:02 GMT</lastBuildDate>
     <pubDate>Tue, 17 Feb 2026 10:25:02 GMT</pubDate>
     <ttl>1440</ttl>
-    <atom:link href="https://midrashaggadah.com/podcast/carmei-zion/series/shiurim_meyuhadim.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://midrashaggadah.com/podcast/carmei-zion/series/shiurim-meyuhadim.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
     <itunes:summary><![CDATA[שפה | Language: עברית | Hebrew
 
@@ -36,7 +36,7 @@ Miscellaneous shiurim from guest speakers and various members of the Shul.]]></i
     <link>https://midrashaggadah.com</link>
   </image>
     <podcast:locked>no</podcast:locked>
-    
+    <itunes:new-feed-url>https://midrashaggadah.com/podcast/carmei-zion/series/shiurim_meyuhadim.xml</itunes:new-feed-url>
 
     <item>
       <title><![CDATA[Shiur on Halacha and Loss with Rav Avraham Stav | שיעור על הלכה ואובדן עם הרב אברהם סתיו]]></title>

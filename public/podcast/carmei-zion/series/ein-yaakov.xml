@@ -11,8 +11,8 @@ In-depth shiurim on Ein Yaakov, the collected Aggadic passages of the Talmud.
 
 For more please visit <a href="https://midrashaggadah.com">midrashaggadah.com</a>]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 10 Feb 2026 08:52:48 GMT</lastBuildDate>
-    <pubDate>Tue, 10 Feb 2026 08:52:48 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Feb 2026 10:25:02 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Feb 2026 10:25:02 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://midrashaggadah.com/podcast/carmei-zion/series/ein-yaakov.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -40,6 +40,36 @@ For more please visit <a href="https://midrashaggadah.com">midrashaggadah.com</a
     <link>https://midrashaggadah.com</link>
   </image>
     <podcast:locked>no</podcast:locked>
+    
+
+    <item>
+      <title><![CDATA[בבא בתרא עד: - אלו שבע ימים וארבע נהרות שמקיפין את ארץ ישראל]]></title>
+      <link>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-22</link>
+      <guid isPermaLink="false">carmei-zion-ein-yaakov-ein-yaakov-seder_nezikin-bava_batra-22</guid>
+      <description><![CDATA[בבא בתרא עד: - אלו שבע ימים וארבע נהרות שמקיפין את ארץ ישראל
+
+Bava Batra 74b - These are the seven seas and four rivers which surround Eretz Yisrael
+
+מאת רון נחשון.
+
+
+דף מקורות: https://midrash-aggadah.s3.eu-north-1.amazonaws.com/source_sheets/ein-yaakov-seder_nezikin-bava_batra-22.pdf.]]></description>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[בבא בתרא]]></category>
+      <category><![CDATA[seder_nezikin]]></category>
+      <category><![CDATA[ein_yaakov]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>4</itunes:season>
+      <podcast:season name="בבא בתרא">4</podcast:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:duration>35:26</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/ein_yaakov.jpeg?v=2026-01-22"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/audio/ein-yaakov-seder_nezikin-bava_batra-22.mp3" type="audio/mpeg" length="37154543"/>
+    </item>
 
     <item>
       <title><![CDATA[בבא בתרא עד. - כל אבא חמרא וכל בר בר חנה סיכסא]]></title>

@@ -12,7 +12,7 @@ Daily Daf Yomi shiurim.]]></description>
     <lastBuildDate>Tue, 17 Feb 2026 10:25:02 GMT</lastBuildDate>
     <pubDate>Tue, 17 Feb 2026 10:25:02 GMT</pubDate>
     <ttl>1440</ttl>
-    <atom:link href="https://midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://midrashaggadah.com/podcast/carmei-zion/series/daf-yomi.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
     <itunes:summary><![CDATA[שפה | Language: אנגלית | English
 
@@ -36,7 +36,7 @@ Daily Daf Yomi shiurim.]]></itunes:summary>
     <link>https://midrashaggadah.com</link>
   </image>
     <podcast:locked>no</podcast:locked>
-    
+    <itunes:new-feed-url>https://midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml</itunes:new-feed-url>
 
     <item>
       <title><![CDATA[Menachos 37 | מנחות לז]]></title>

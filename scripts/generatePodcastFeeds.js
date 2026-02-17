@@ -189,6 +189,8 @@ const SERIES_SOURCE_SHEETS_PREFIX = {
   shiurim_harav_grossman: 'carmei_zion_shiurim_meyuhadim-sources/',
 };
 
+const uniq = (items) => [...new Set(items)];
+
 const getAdditionalSeriesSourceSheetPdfUrl = (seriesId, episodeId) => {
   const sid = String(seriesId || '').trim();
   let prefix = SERIES_SOURCE_SHEETS_PREFIX[sid];
@@ -210,7 +212,8 @@ const getAdditionalSeriesSourceSheetPdfUrl = (seriesId, episodeId) => {
 // for .m4a can cause Apple Podcasts to ignore the episode.
 const mimeTypeFromUrl = (value) => {
   const v = String(value || '').toLowerCase();
-  if (v.includes('.m4a')) return 'audio/x-m4a';
+  // S3 serves .m4a as audio/mp4; matching the served type improves compatibility.
+  if (v.includes('.m4a')) return 'audio/mp4';
   if (v.includes('.mp4')) return 'audio/mp4';
   if (v.includes('.mp3')) return 'audio/mpeg';
   if (v.includes('.aac')) return 'audio/aac';
@@ -807,7 +810,7 @@ const processDerivedPodcasts = (allShiurim) => {
 /**
  * Render RSS feed with custom series metadata (for additional series).
  */
-const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
+const renderRssForSeries = ({ seriesMetadata, feedUrl, items, newFeedUrl }) => {
   const {
     title,
     description,
@@ -866,6 +869,7 @@ const renderRssForSeries = ({ seriesMetadata, feedUrl, items }) => {
     ${podcastImageTag}
     ${rssImageTag}
     <podcast:locked>no</podcast:locked>
+    ${newFeedUrl ? `<itunes:new-feed-url>${newFeedUrl}</itunes:new-feed-url>` : ''}
 `;
 
   const itemsXml = items
@@ -1036,10 +1040,20 @@ const processOtherSeries = () => {
       const languageLabel = CONTENT_LANGUAGES[contentLanguage] || CONTENT_LANGUAGES.english;
       const fullDescription = `שפה | Language: ${languageLabel}\n\n${series_metadata.description}`;
 
-      // Generate feed file: public/podcast/carmei-zion/series/<series-id>.xml
-      const feedRelativePath = `carmei-zion/series/${seriesIdToFilename(seriesId)}.xml`;
-      const feedUrl = `${FEED_BASE_URL}/${feedRelativePath}`;
-      const outputPath = path.join(OUTPUT_DIR, feedRelativePath);
+      // Generate canonical feed file and optional legacy aliases.
+      // This avoids relying only on redirects for older feed URLs used by apps.
+      const canonicalFilename = seriesIdToFilename(seriesId);
+      const canonicalFeedRelativePath = `carmei-zion/series/${canonicalFilename}.xml`;
+      const canonicalFeedUrl = `${FEED_BASE_URL}/${canonicalFeedRelativePath}`;
+      const canonicalOutputPath = path.join(OUTPUT_DIR, canonicalFeedRelativePath);
+      const legacyFilenames = uniq([
+        series_metadata.legacy_feed_id,
+        series_metadata.legacy_id,
+        series_metadata.guid_id,
+      ]
+        .filter(Boolean)
+        .map(seriesIdToFilename)
+        .filter((name) => name && name !== canonicalFilename));
 
       const rss = renderRssForSeries({
         seriesMetadata: {
@@ -1048,13 +1062,33 @@ const processOtherSeries = () => {
           author: seriesAuthor,
           cover_image: resolvedCoverImage,
         },
-        feedUrl,
+        feedUrl: canonicalFeedUrl,
         items: feedItems,
       });
 
-      writeFeed(outputPath, rss);
+      writeFeed(canonicalOutputPath, rss);
+      for (const legacyFilename of legacyFilenames) {
+        const legacyFeedRelativePath = `carmei-zion/series/${legacyFilename}.xml`;
+        const legacyOutputPath = path.join(OUTPUT_DIR, legacyFeedRelativePath);
+        const legacyFeedUrl = `${FEED_BASE_URL}/${legacyFeedRelativePath}`;
+        const legacyRss = renderRssForSeries({
+          seriesMetadata: {
+            ...series_metadata,
+            description: fullDescription,
+            author: seriesAuthor,
+            cover_image: resolvedCoverImage,
+          },
+          feedUrl: legacyFeedUrl,
+          items: feedItems,
+          newFeedUrl: canonicalFeedUrl,
+        });
+        writeFeed(legacyOutputPath, legacyRss);
+      }
       written += 1;
-      console.log(`✅ Additional series: wrote ${feedItems.length} episodes -> ${outputPath}`);
+      console.log(`✅ Additional series: wrote ${feedItems.length} episodes -> ${canonicalOutputPath}`);
+      if (legacyFilenames.length) {
+        console.log(`↪️  Additional series aliases: ${legacyFilenames.join(', ')}`);
+      }
 
     } catch (err) {
       console.error(`❌ Error processing ${file}:`, err?.message);
