@@ -17,6 +17,19 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:02:25-Menachos_45",
+      "hebrew_title": "מנחות מה",
+      "english_title": "Menachos 45",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 45,
+      "length": "29:05",
+      "english_year": 2026,
+      "english_date": "2026-02-25",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:02:25-Menachos_45.m4a",
+      "speaker": "זכריה ביננפלד",
+      "source_sheet_link": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026:02:25-Menachos_45.jpg"
+    },
+    {
       "id": "carmei_zion_daf_yomi/recording_20260224_054532",
       "hebrew_title": "מנחות מד",
       "english_title": "Menachos 44",
