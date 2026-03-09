@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:03:09-Menachos_57",
+      "hebrew_title": "מנחות נז",
+      "english_title": "Menachos 57",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 57,
+      "length": "29:21",
+      "english_year": 2026,
+      "english_date": "2026-03-09",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:03:09-Menachos_57.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:03:08-Menachos_56",
       "hebrew_title": "מנחות נו",
       "english_title": "Menachos 56",
