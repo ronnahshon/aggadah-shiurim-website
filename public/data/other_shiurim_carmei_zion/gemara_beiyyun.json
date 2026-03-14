@@ -16,6 +16,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_gemara_beiyyun/סוכות בירושלים",
+      "hebrew_title": "סוכה מא: - מתנה על מנת להחזיר וסוכות בירושלים ",
+      "english_title": "Sukkah 41b",
+      "hebrew_sefer": "",
+      "shiur_num": 0,
+      "length": "30:34",
+      "english_year": 2026,
+      "english_date": "2026-03-14",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/סוכות בירושלים.m4a",
+      "speaker": "דוב גרסון"
+    },
+    {
       "id": "carmei_zion_gemara_beiyyun/דיני שביעית בלולב",
       "hebrew_title": "סוכה מ. - לולב בשביעית",
       "english_title": "Sukkah 40a",
