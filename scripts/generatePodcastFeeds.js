@@ -722,7 +722,7 @@ const processDerivedPodcasts = (allShiurim) => {
         //
         // English title
         //
-        // דף מקורות: <url>.
+        // דף מקורות: <url>
         //
         // Presented by <speaker>.
         const descriptionLines = [];
@@ -741,7 +741,7 @@ const processDerivedPodcasts = (allShiurim) => {
         const sourceSheetLine = shiur.source_sheet_link
           ? (() => {
               const pdfUrl = getEinYaakovSourceSheetPdfUrl(shiur.id);
-              return pdfUrl ? `דף מקורות: ${pdfUrl}.` : '';
+              return pdfUrl ? `דף מקורות: ${pdfUrl}` : '';
             })()
           : '';
         let episodeDescription = descriptionLines.filter(Boolean).join('\n\n').trim();
