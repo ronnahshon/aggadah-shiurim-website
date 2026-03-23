@@ -9,8 +9,8 @@
 
 In-depth shiurim on halachic discussions in the Talmud.]]></description>
     <language>he</language>
-    <lastBuildDate>Tue, 17 Feb 2026 10:25:02 GMT</lastBuildDate>
-    <pubDate>Tue, 17 Feb 2026 10:25:02 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 19:58:43 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 19:58:43 GMT</pubDate>
     <ttl>1440</ttl>
     <atom:link href="https://midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml" rel="self" type="application/rss+xml"/>
     <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
@@ -39,6 +39,28 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
     
 
     <item>
+      <title><![CDATA[Sukkah 41b | סוכה מא: - מתנה על מנת להחזיר וסוכות בירושלים]]></title>
+      <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun-sources/%D7%A1%D7%95%D7%9B%D7%95%D7%AA%20%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D.pdf</link>
+      <guid isPermaLink="false">carmei-zion-gemara-beiyyun-carmei_zion_gemara_beiyyun/סוכות בירושלים</guid>
+      <description><![CDATA[Sukkah 41b | סוכה מא: - מתנה על מנת להחזיר וסוכות בירושלים
+
+מאת דוב גרסון.]]></description>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 GMT</pubDate>
+            <category><![CDATA[gemara_beiyyun]]></category>
+      <itunes:author><![CDATA[כרמי ציון | Carmei Zion]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <podcast:season name="אחר">1</podcast:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:duration>30:34</itunes:duration>
+      
+      <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22"/>
+      <podcast:image href="https://midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22"/>
+      <enclosure url="https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/%D7%A1%D7%95%D7%9B%D7%95%D7%AA%20%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D.m4a" type="audio/mp4" length="32051473"/>
+    </item>
+
+    <item>
       <title><![CDATA[Sukkah 40a | סוכה מ. - לולב בשביעית]]></title>
       <link>https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun-sources/%D7%93%D7%99%D7%A0%D7%99%20%D7%A9%D7%91%D7%99%D7%A2%D7%99%D7%AA%20%D7%91%D7%9C%D7%95%D7%9C%D7%91.pdf</link>
       <guid isPermaLink="false">carmei-zion-gemara-beiyyun-carmei_zion_gemara_beiyyun/דיני שביעית בלולב</guid>
@@ -52,7 +74,7 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <podcast:season name="אחר">1</podcast:season>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>16</itunes:episode>
       <itunes:duration>51:32</itunes:duration>
       
       <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22"/>
@@ -74,7 +96,7 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <podcast:season name="אחר">1</podcast:season>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>15</itunes:episode>
       <itunes:duration>45:46</itunes:duration>
       
       <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22"/>
@@ -96,7 +118,7 @@ In-depth shiurim on halachic discussions in the Talmud.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <podcast:season name="אחר">1</podcast:season>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>14</itunes:episode>
       <itunes:duration>42:04</itunes:duration>
       
       <itunes:image href="https://midrashaggadah.com/images/artwork_for_podcasts/gemara_beiyyun.jpeg?v=2026-01-22"/>

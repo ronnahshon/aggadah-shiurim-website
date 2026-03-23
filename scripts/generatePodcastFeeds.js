@@ -733,9 +733,8 @@ const processDerivedPodcasts = (allShiurim) => {
           if (shiur.english_title) descriptionLines.push(shiur.english_title);
           if (shiur.hebrew_title) descriptionLines.push(shiur.hebrew_title);
         }
-        // Use speaker name if provided, otherwise fall back to author
-        const speakerName = speaker || author;
-        descriptionLines.push(`מאת ${speakerName}.`);
+        // Keep episode descriptions concise; avoid speaker byline text.
+        // (Spotify renders this line prominently and it is not desired.)
 
         // Put the source sheet at the very bottom, with an extra blank line
         // separating it from the "Presented by ..." line.

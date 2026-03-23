@@ -436,6 +436,31 @@
     <changefreq>yearly</changefreq>
   </url>
   <url>
+    <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-22</loc>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-23</loc>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-24</loc>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-25</loc>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-bava_batra-26</loc>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
     <loc>https://midrashaggadah.com/shiur/ein-yaakov-seder_nezikin-makkot-1</loc>
     <priority>0.8</priority>
     <changefreq>yearly</changefreq>
@@ -1341,6 +1366,11 @@
     <changefreq>yearly</changefreq>
   </url>
   <url>
+    <loc>https://midrashaggadah.com/podcast/carmei-zion/series/daf-yomi.xml</loc>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://midrashaggadah.com/podcast/carmei-zion/series/daf_yomi.xml</loc>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
@@ -1351,7 +1381,22 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://midrashaggadah.com/podcast/carmei-zion/series/gemara-beiyyun.xml</loc>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://midrashaggadah.com/podcast/carmei-zion/series/gemara_beiyyun.xml</loc>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/podcast/carmei-zion/series/shiurim-harav-grossman.xml</loc>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://midrashaggadah.com/podcast/carmei-zion/series/shiurim-meyuhadim.xml</loc>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
