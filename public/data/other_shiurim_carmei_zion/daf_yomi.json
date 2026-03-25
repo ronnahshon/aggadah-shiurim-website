@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/73",
+      "hebrew_title": "מנחות עג",
+      "english_title": "Menachos 73",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 73,
+      "length": "45:52",
+      "english_year": 2026,
+      "english_date": "2026-03-25",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/73.mp3",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:03:24-Menachos_72",
       "hebrew_title": "מנחות עב",
       "english_title": "Menachos 72",
