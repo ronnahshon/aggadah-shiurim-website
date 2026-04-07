@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:04:07-Menachos_86",
+      "hebrew_title": "מנחות פו",
+      "english_title": "Menachos 86",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 86,
+      "length": "31:32",
+      "english_year": 2026,
+      "english_date": "2026-04-07",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:04:07-Menachos_86.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:04:05-Menachos_84",
       "hebrew_title": "מנחות פד",
       "english_title": "Menachos 84",
