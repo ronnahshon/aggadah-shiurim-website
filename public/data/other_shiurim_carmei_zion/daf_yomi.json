@@ -17,6 +17,19 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:04:17-Menachos_96",
+      "hebrew_title": "מנחות צו",
+      "english_title": "Menachos 96",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 96,
+      "length": "28:32",
+      "english_year": 2026,
+      "english_date": "2026-04-17",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:04:17-Menachos_96.m4a",
+      "speaker": "זכריה ביננפלד",
+      "source_sheet_link": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026:04:17-Menachos_96.jpg"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:04:16-Menachos_95",
       "hebrew_title": "מנחות צה",
       "english_title": "Menachos 95",
