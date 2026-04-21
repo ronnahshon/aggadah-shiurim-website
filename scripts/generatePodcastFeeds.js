@@ -7,6 +7,9 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const stripUtf8Bom = (rawText) =>
+  typeof rawText === 'string' ? rawText.replace(/^\uFEFF/, '') : rawText;
+
 const ROOT_DIR = path.join(__dirname, '..');
 const DATA_PATH = path.join(ROOT_DIR, 'public/data/shiurim_data.json');
 const PODCAST_ONLY_DATA_PATH = path.join(ROOT_DIR, 'public/data/podcast_only.json'); // optional
@@ -601,13 +604,13 @@ const buildFeedDefinitions = (shiurim) => {
 
 const main = () => {
   const primaryRaw = fs.readFileSync(DATA_PATH, 'utf8');
-  const primaryShiurim = JSON.parse(primaryRaw);
+  const primaryShiurim = JSON.parse(stripUtf8Bom(primaryRaw));
 
   let podcastOnly = [];
   if (fs.existsSync(PODCAST_ONLY_DATA_PATH)) {
     try {
       const podcastOnlyRaw = fs.readFileSync(PODCAST_ONLY_DATA_PATH, 'utf8');
-      podcastOnly = JSON.parse(podcastOnlyRaw);
+      podcastOnly = JSON.parse(stripUtf8Bom(podcastOnlyRaw));
     } catch (err) {
       console.warn('⚠️  Could not read podcast_only.json, skipping:', err?.message);
     }
@@ -1006,7 +1009,7 @@ const processOtherSeries = () => {
     const filePath = path.join(OTHER_SERIES_DIR, file);
     try {
       const raw = fs.readFileSync(filePath, 'utf8');
-      const data = JSON.parse(raw);
+      const data = JSON.parse(stripUtf8Bom(raw));
 
       if (!data.series_metadata || !data.episodes) {
         console.warn(`⚠️  Skipping ${file}: missing series_metadata or episodes`);

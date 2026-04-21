@@ -7,9 +7,12 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const stripUtf8Bom = (rawText) =>
+  typeof rawText === 'string' ? rawText.replace(/^\uFEFF/, '') : rawText;
+
 // Import shiurim data
 const shiurimDataPath = path.join(__dirname, '../public/data/shiurim_data.json');
-const shiurimData = JSON.parse(fs.readFileSync(shiurimDataPath, 'utf8'));
+const shiurimData = JSON.parse(stripUtf8Bom(fs.readFileSync(shiurimDataPath, 'utf8')));
 
 // Base URL - you should update this to your actual domain
 const BASE_URL = 'https://midrashaggadah.com';
