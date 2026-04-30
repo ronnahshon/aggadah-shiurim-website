@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:04:30-Menachos_109",
+      "hebrew_title": "מנחות קט",
+      "english_title": "Menachos 109",
+      "hebrew_sefer": "מנחות",
+      "shiur_num": 109,
+      "length": "24:19",
+      "english_year": 2026,
+      "english_date": "2026-04-30",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:04:30-Menachos_109.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:04:29-Menachos_108",
       "hebrew_title": "מנחות קח",
       "english_title": "Menachos 108",
