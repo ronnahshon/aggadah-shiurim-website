@@ -17,6 +17,19 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:05:03-Chulin_3",
+      "hebrew_title": "חולין ג",
+      "english_title": "Chulin 3",
+      "hebrew_sefer": "חולין",
+      "shiur_num": 3,
+      "length": "31:06",
+      "english_year": 2026,
+      "english_date": "2026-05-03",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:05:03-Chulin_3.m4a",
+      "speaker": "זכריה ביננפלד",
+      "source_sheet_link": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026:05:03-Chulin_3.jpg"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:05:01-Menachos_110",
       "hebrew_title": "מנחות קי",
       "english_title": "Menachos 110",
