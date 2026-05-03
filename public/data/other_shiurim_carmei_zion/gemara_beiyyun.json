@@ -16,6 +16,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_gemara_beiyyun/מצות ערבה",
+      "hebrew_title": "מצוות ערבה",
+      "english_title": "Mitzvah Aravah",
+      "hebrew_sefer": "Sukka 43b",
+      "shiur_num": 0,
+      "length": "42:53",
+      "english_year": 2026,
+      "english_date": "2026-05-03",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/מצות ערבה.m4a",
+      "speaker": "דוב גרסון"
+    },
+    {
       "id": "carmei_zion_gemara_beiyyun/סוכה מא,ב- ניחום אבלים וביקור חולים, וסוגיית טעה בדבר מצווה",
       "hebrew_title": "סוכה מב.- טועה בדבר מצווה",
       "english_title": "Sukka 42a",
