@@ -1,5 +1,5 @@
 import { Category, Sefer, Shiur, SubCategory } from "@/types/shiurim";
-import { getAudioUrl } from "@/utils/s3Utils";
+import { getAudioUrl, getM4aFallbackUrl } from "@/utils/s3Utils";
 
 // Cache for audio durations to avoid refetching
 const audioDurationCache: Record<string, string> = {};
@@ -18,10 +18,9 @@ export const getAudioDuration = async (shiurId: string): Promise<string> => {
   try {
     // Return a promise that resolves when the audio metadata is loaded
     const duration = await new Promise<string>((resolve, reject) => {
-      audio.src = audioUrl;
-      
-      // Set up event listeners
-      audio.addEventListener('loadedmetadata', () => {
+      let triedFallback = false;
+
+      const handleLoadedMetadata = () => {
         const minutes = Math.floor(audio.duration / 60);
         const seconds = Math.floor(audio.duration % 60);
         const formattedDuration = `${minutes}:${seconds.toString().padStart(2, '0')}`;
@@ -29,11 +28,24 @@ export const getAudioDuration = async (shiurId: string): Promise<string> => {
         // Store in cache
         audioDurationCache[shiurId] = formattedDuration;
         resolve(formattedDuration);
-      });
-      
-      audio.addEventListener('error', () => {
+      };
+
+      const handleError = () => {
+        if (!triedFallback) {
+          const fallbackUrl = getM4aFallbackUrl(audio.src);
+          if (fallbackUrl) {
+            triedFallback = true;
+            audio.src = fallbackUrl;
+            return;
+          }
+        }
         reject(new Error('Failed to load audio metadata'));
-      });
+      };
+
+      // Set up event listeners
+      audio.addEventListener('loadedmetadata', handleLoadedMetadata);
+      audio.addEventListener('error', handleError);
+      audio.src = audioUrl;
     });
     
     return duration;

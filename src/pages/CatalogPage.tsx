@@ -7,7 +7,7 @@ import { organizeShiurimByHierarchy, getAudioDuration } from '@/utils/dataUtils'
 import { generateMetaDescription, generateKeywords } from '@/utils/seoUtils';
 import { generateEnhancedMetaDescription, generateContextualKeywords } from '@/utils/additionalSeoUtils';
 import SEOHead from '@/components/seo/SEOHead';
-import { getAudioUrl, getGoogleDriveDownloadUrl } from '@/utils/s3Utils';
+import { getAudioUrl, getGoogleDriveDownloadUrl, getM4aFallbackUrl } from '@/utils/s3Utils';
 
 const CatalogPage: React.FC = () => {
   const [categories, setCategories] = useState<Category[]>([]);
@@ -38,7 +38,7 @@ const CatalogPage: React.FC = () => {
 
       return new Promise<void>((resolve) => {
         const audioUrl = getAudioUrl(`${shiurId}.mp3`);
-        audioRef.current.src = audioUrl;
+        let triedFallback = false;
         
         const handleLoadedMetadata = () => {
           if (!audioRef.current) return;
@@ -57,6 +57,15 @@ const CatalogPage: React.FC = () => {
         };
         
         const handleError = () => {
+          if (!triedFallback && audioRef.current) {
+            const fallbackUrl = getM4aFallbackUrl(audioRef.current.src);
+            if (fallbackUrl) {
+              triedFallback = true;
+              audioRef.current.src = fallbackUrl;
+              return;
+            }
+          }
+
           setAudioDurations(prev => ({
             ...prev,
             [shiurId]: '--:--'
@@ -71,6 +80,7 @@ const CatalogPage: React.FC = () => {
         
         audioRef.current.addEventListener('loadedmetadata', handleLoadedMetadata);
         audioRef.current.addEventListener('error', handleError);
+        audioRef.current.src = audioUrl;
       });
     } catch (error) {
       console.error(`Error loading duration for ${shiurId}:`, error);

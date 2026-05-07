@@ -9,6 +9,12 @@ export const getAudioUrl = (audioPath: string): string => {
   return `${S3_BASE_URL}audio/${audioPath}`;
 };
 
+export const getM4aFallbackUrl = (audioUrl: string): string | null => {
+  if (!audioUrl) return null;
+  if (!audioUrl.toLowerCase().includes('.mp3')) return null;
+  return audioUrl.replace(/\.mp3(\?.*)?$/i, '.m4a$1');
+};
+
 export const getGoogleDriveDownloadUrl = (driveUrl: string): string => {
   if (!driveUrl || !driveUrl.includes('drive.google.com')) {
     return driveUrl;

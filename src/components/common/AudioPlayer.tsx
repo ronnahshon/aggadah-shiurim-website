@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Play, Pause, Volume2, Gauge } from 'lucide-react';
-import { getAudioUrl } from '@/utils/s3Utils';
+import { getAudioUrl, getM4aFallbackUrl } from '@/utils/s3Utils';
 
 interface AudioPlayerProps {
   audioSrc: string;
@@ -17,9 +17,16 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
   const [showVolumeSlider, setShowVolumeSlider] = useState(false);
   const [showSpeedSlider, setShowSpeedSlider] = useState(false);
   const audioRef = useRef<HTMLAudioElement>(null);
+  const [resolvedSrc, setResolvedSrc] = useState('');
+  const [triedM4aFallback, setTriedM4aFallback] = useState(false);
   
   const src = getAudioUrl(audioSrc);
   const download = downloadUrl || src;
+
+  useEffect(() => {
+    setResolvedSrc(src);
+    setTriedM4aFallback(false);
+  }, [src]);
 
   useEffect(() => {
     const audio = audioRef.current;
@@ -92,6 +99,16 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
     setIsPlaying(!isPlaying);
   };
 
+  const handleAudioError = () => {
+    if (triedM4aFallback) return;
+    const fallbackUrl = getM4aFallbackUrl(resolvedSrc);
+    if (!fallbackUrl) return;
+
+    setResolvedSrc(fallbackUrl);
+    setTriedM4aFallback(true);
+    setIsPlaying(false);
+  };
+
   const handleProgressChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const audio = audioRef.current;
     if (!audio) return;
@@ -133,7 +150,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ audioSrc, downloadUrl, fileNa
   return (
     <div className="audio-player bg-parchment rounded-lg p-3 sm:p-4 shadow-md flex flex-col relative">
       {/* Hidden audio element */}
-      <audio ref={audioRef} src={src} preload="metadata" />
+      <audio ref={audioRef} src={resolvedSrc} preload="metadata" onError={handleAudioError} />
 
       {/* Main audio controls */}
       <div className="flex items-center gap-2">
