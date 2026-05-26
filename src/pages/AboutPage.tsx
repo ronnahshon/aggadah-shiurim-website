@@ -45,7 +45,7 @@ const AboutPage: React.FC = () => {
             </p>
             
             <p className="text-biblical-brown mb-4 leading-relaxed">
-              Aggadic midrashim can be found throughout rabbinic literature, including the Talmud, dedicated midrashic collections like Midrash Rabbah, and medieval compilations. These texts have profoundly influenced Jewish thought, art, literature, and spirituality throughout the centuries.
+              Aggadic midrashim can be found throughout Rabbinic literature, including the Talmud, dedicated midrashic collections like Midrash Rabbah, and medieval compilations. These texts have profoundly influenced Jewish thought, art, literature, and spirituality throughout the centuries.
             </p>
             
             <p className="text-biblical-brown mb-4 leading-relaxed">
