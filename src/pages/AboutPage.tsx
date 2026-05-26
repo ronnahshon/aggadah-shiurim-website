@@ -41,7 +41,7 @@ const AboutPage: React.FC = () => {
             </h2>
             
             <p className="text-biblical-brown mb-4 leading-relaxed">
-              Midrash Aggadah refers to the non-legal exegetical texts in rablinic literature. While Midrash Halakha focuses on Jewish law, Midrash Aggadah explores ethical principles, theological concepts, and narrative expansions of biblical stories. These texts often fill in gaps in biblical narratives, explore character motivations, and draw moral lessons from the text.
+              Midrash Aggadah refers to the non-legal exegetical texts in Rabbinic literature. While Midrash Halakha focuses on Jewish law, Midrash Aggadah explores ethical principles, theological concepts, and narrative expansions of biblical stories. These texts often fill in gaps in biblical narratives, explore character motivations, and draw moral lessons from the text.
             </p>
             
             <p className="text-biblical-brown mb-4 leading-relaxed">
