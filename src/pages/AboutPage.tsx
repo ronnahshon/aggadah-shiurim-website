@@ -10,7 +10,7 @@ const AboutPage: React.FC = () => {
   return (
     <div className="min-h-screen py-8 pt-20 md:pt-8">
       <SEOHead
-        title="About Midrash Aggadah"
+        title="ומה אעשה ונפשי חשקה במדרש"
         description={generateEnhancedMetaDescription('about')}
         keywords={generateContextualKeywords('about')}
         structuredData={faqStructuredData}
