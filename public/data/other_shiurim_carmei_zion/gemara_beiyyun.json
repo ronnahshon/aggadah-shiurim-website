@@ -16,6 +16,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_gemara_beiyyun/לינה בשמיני עצרת",
+      "hebrew_title": "לינה בשמיני עצרת",
+      "english_title": "Sukkah 47 - Sleeping in Jerusalem on Shmini Atzeret",
+      "hebrew_sefer": "Sukka 47b",
+      "shiur_num": 0,
+      "length": "49:47",
+      "english_year": 2026,
+      "english_date": "2026-06-07",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/לינה בשמיני עצרת.m4a",
+      "speaker": "דוב גרסון"
+    },
+    {
       "id": "carmei_zion_gemara_beiyyun/דף מד. - ערבה מנהג נביאים או יסוד נביאים",
       "hebrew_title": "דף מד.- מד:- ערבה מנהג נביאים או יסוד נביאים",
       "english_title": "Sukkah 44- Arava yesud or minhag neviim",
