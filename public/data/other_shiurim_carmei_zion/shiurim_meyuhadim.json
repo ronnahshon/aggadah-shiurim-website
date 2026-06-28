@@ -16,6 +16,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_shiurim_meyuhadim/23-06-2026 20.32.m4a",
+      "hebrew_title": "השבר והשלימות לחי עולמים",
+      "english_title": "Broken and Complete Forever",
+      "hebrew_sefer": "נשיא ההסתדרות הציונית העולמית, ויו\"ר תנועת המזרחי העולמית",
+      "shiur_num": 0,
+      "length": "36:00",
+      "english_year": 2026,
+      "english_date": "2026-06-28",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/23-06-2026 20.32.m4a.mp4",
+      "speaker": "הרב דורון פרץ"
+    },
+    {
       "id": "carmei_zion_shiurim_meyuhadim/עדות_ליום_השואה_מניצול_שואה_גדליה_שטיין",
       "hebrew_title": "עדות ליום השואה מניצול שואה גדליה שטיין",
       "english_title": "Yom HaShoah Testimony from Holocaust Survivor Gedalia Stein",
@@ -41,5 +53,3 @@
     }
   ]
 }
-
-
