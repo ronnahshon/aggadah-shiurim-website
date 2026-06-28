@@ -16,6 +16,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_gemara_beiyyun/Standard recording 1",
+      "hebrew_title": "סוכה מט: - תורה לשמה",
+      "english_title": "Suklah 49b - Torah Lishma",
+      "hebrew_sefer": "",
+      "shiur_num": 0,
+      "length": "35:07",
+      "english_year": 2026,
+      "english_date": "2026-06-28",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/Standard recording 1.mp3",
+      "speaker": "Rav Grossman"
+    },
+    {
       "id": "carmei_zion_gemara_beiyyun/סוכה מח.-מח: ניסוך המים",
       "hebrew_title": "סוכה מח.-מח:- ניסוך המים",
       "english_title": "Succah 48a-48b- nisuch hamayim",
