@@ -159,7 +159,7 @@ export const getUniqueCategories = (shiurim: Shiur[]): string[] => {
   shiurim.forEach(shiur => categories.add(formatTitle(shiur.category)));
   
   // Define the specific order for categories
-  const categoryOrder = ['Ein Yaakov (Talmud)', 'Tanach', 'Midrash'];
+  const categoryOrder = ['Ein Yaakov (Talmud)', 'Midrash', 'Tanach'];
   const uniqueCategories = Array.from(categories).map(category => {
     // Add "(Talmud)" to "Ein Yaakov"
     return category === 'Ein Yaakov' ? 'Ein Yaakov (Talmud)' : category;
@@ -200,7 +200,7 @@ export const getUniqueSubCategories = (shiurim: Shiur[], selectedCategories: str
   });
   
   // Define the specific order for sub-categories
-  const subCategoryOrder = ['Seder Nashim', 'Seder Nezikin', 'Seder Kodashim', 'Seder Toharot', 'Torah', 'Tanna Devei Eliyahu'];
+  const subCategoryOrder = ['Seder Nashim', 'Seder Nezikin', 'Seder Kodashim', 'Seder Toharot', 'Midrash Rabbah', 'Tanna Devei Eliyahu', 'Torah'];
   const uniqueSubCategories = Array.from(subCategories);
   
   // Sort according to the specified order, with any additional sub-categories at the end
@@ -248,8 +248,8 @@ export const getUniqueSefarim = (
   const seferOrder = [
     'Yevamot', 'Bava Kamma', 'Bava Metzia', 'Bava Batra', 'Makkot', 'Shevuot', 'Avodah Zarah', 
     'Horayot', 'Zevahim', 'Menahot', 'Hullin', 'Bechorot', 'Arachin', 'Temurah', 
-    'Keritot', 'Meilah', 'Niddah', 'Bereshit', 'Shemot', 'Vayikra', 'Bamidbar', 
-    'Devarim', 'Tanna Devei Eliyahu Rabbah'
+    'Keritot', 'Meilah', 'Niddah', 'Kohelet Rabbah', 'Tanna Devei Eliyahu Rabbah',
+    'Bereshit', 'Shemot', 'Vayikra', 'Bamidbar', 'Devarim'
   ];
   
   const uniqueSefarim = Array.from(sefarim);
