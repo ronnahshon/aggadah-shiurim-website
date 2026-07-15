@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:07:15-Chulin_76",
+      "hebrew_title": "חולין עו",
+      "english_title": "Chulin 76",
+      "hebrew_sefer": "חולין",
+      "shiur_num": 76,
+      "length": "23:11",
+      "english_year": 2026,
+      "english_date": "2026-07-15",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:07:15-Chulin_76.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:07:14-Chulin_75",
       "hebrew_title": "חולין עה",
       "english_title": "Chulin 75",
