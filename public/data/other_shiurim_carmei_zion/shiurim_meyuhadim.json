@@ -16,6 +16,42 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_shiurim_meyuhadim/רב_עמונואל_מאיר_הושענא_רבה_פסיקה_צבאית_ומרא_דאתרא",
+      "hebrew_title": "רב עמונואל מאיר הושענא רבה פסיקה צבאית ומרא דאתרא",
+      "english_title": "Rabbi Immanuel Meyer Hoshanah Rabbah - Military Decisions and Rabbinic Authority",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 6,
+      "length": "28:15",
+      "english_year": 2026,
+      "english_date": "2026-10-01",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%A8%D7%91_%D7%A2%D7%9E%D7%95%D7%A0%D7%95%D7%90%D7%9C_%D7%9E%D7%90%D7%99%D7%A8_%D7%94%D7%95%D7%A9%D7%A2%D7%A0%D7%90_%D7%A8%D7%91%D7%94_%D7%A4%D7%A1%D7%99%D7%A7%D7%94_%D7%A6%D7%91%D7%90%D7%99%D7%AA_%D7%95%D7%9E%D7%A8%D7%90_%D7%93%D7%90%D7%AA%D7%A8%D7%90.m4a",
+      "speaker": "רב עמונואל מאיר"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/רב_עזרא_פרידמן_הושענא_רבה_מקום_קבורתו_של_משה_רבינו",
+      "hebrew_title": "רב עזרא פרידמן הושענא רבה מקום קבורתו של משה רבינו",
+      "english_title": "Rabbi Ezra Friedman Hoshanah Rabbah - Moshe Rabbeinu's Burial Place",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 5,
+      "length": "20:56",
+      "english_year": 2026,
+      "english_date": "2026-10-01",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%A8%D7%91_%D7%A2%D7%96%D7%A8%D7%90_%D7%A4%D7%A8%D7%99%D7%93%D7%9E%D7%9F_%D7%94%D7%95%D7%A9%D7%A2%D7%A0%D7%90_%D7%A8%D7%91%D7%94_%D7%9E%D7%A7%D7%95%D7%9D_%D7%A7%D7%91%D7%95%D7%A8%D7%AA%D7%95_%D7%A9%D7%9C_%D7%9E%D7%A9%D7%94_%D7%A8%D7%91%D7%99%D7%A0%D7%95.m4a",
+      "speaker": "רב עזרא פרידמן"
+    },
+    {
+      "id": "carmei_zion_shiurim_meyuhadim/רב_משלוף_הושענא_רבה_חינוך_ילדים",
+      "hebrew_title": "רב משלוף הושענא רבה חינוך ילדים",
+      "english_title": "Rabbi Mashluf Hoshanah Rabbah - Education for Children",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 4,
+      "length": "47:27",
+      "english_year": 2026,
+      "english_date": "2026-10-01",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/%D7%A8%D7%91_%D7%9E%D7%A9%D7%9C%D7%95%D7%A3_%D7%94%D7%95%D7%A9%D7%A2%D7%A0%D7%90_%D7%A8%D7%91%D7%94_%D7%97%D7%99%D7%A0%D7%95%D7%9A_%D7%99%D7%9C%D7%93%D7%99%D7%9D.m4a",
+      "speaker": "רב משלוף"
+    },
+    {
       "id": "carmei_zion_shiurim_meyuhadim/23-06-2026 20.32.m4a",
       "hebrew_title": "השבר והשלימות לחי עולמים",
       "english_title": "Broken and Complete Forever",
