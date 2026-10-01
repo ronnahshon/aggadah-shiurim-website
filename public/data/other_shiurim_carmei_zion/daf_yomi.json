@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/recording_20261001_062419",
+      "hebrew_title": "בכורות יג",
+      "english_title": "Bechoros 13",
+      "hebrew_sefer": "בכורות",
+      "shiur_num": 13,
+      "length": "35:17",
+      "english_year": 2026,
+      "english_date": "2026-10-01",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20261001_062419.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:09:30-Bechoros_12",
       "hebrew_title": "בכורות יב",
       "english_title": "Bechoros 12",
