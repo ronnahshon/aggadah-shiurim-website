@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/recording_20261006_054544",
+      "hebrew_title": "בכורות יח",
+      "english_title": "Bechoros 18",
+      "hebrew_sefer": "בכורות",
+      "shiur_num": 18,
+      "length": "33:53",
+      "english_year": 2026,
+      "english_date": "2026-10-06",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20261006_054544.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:10:05-Bechoros_17",
       "hebrew_title": "בכורות יז",
       "english_title": "Bechoros 17",
