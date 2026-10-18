@@ -16,6 +16,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_gemara_beiyyun/מצוות קריאת שמע",
+      "hebrew_title": "01 מצוות קריאת שמע (שיעור פתיחה)",
+      "english_title": "01The Mitzvah of Kriyat Shema(Opening Shiur)",
+      "hebrew_sefer": "מסכת ברכות ",
+      "shiur_num": 0,
+      "length": "42:15",
+      "english_year": 2026,
+      "english_date": "2026-10-18",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/מצוות קריאת שמע.m4a",
+      "speaker": "דוב גרסון"
+    },
+    {
       "id": "carmei_zion_gemara_beiyyun/Standard recording 1",
       "hebrew_title": "סוכה מט: - תורה לשמה",
       "english_title": "Sukkah 49b - Torah Lishma",
