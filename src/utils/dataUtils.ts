@@ -246,7 +246,7 @@ export const getUniqueSefarim = (
   
   // Define the order based on first appearance in shiurim_data.json
   const seferOrder = [
-    'Yevamot', 'Bava Kamma', 'Bava Metzia', 'Bava Batra', 'Makkot', 'Shevuot', 'Avodah Zarah', 
+    'Yevamot', 'Kiddushin', 'Bava Kamma', 'Bava Metzia', 'Bava Batra', 'Makkot', 'Shevuot', 'Avodah Zarah', 
     'Horayot', 'Zevahim', 'Menahot', 'Hullin', 'Bechorot', 'Arachin', 'Temurah', 
     'Keritot', 'Meilah', 'Niddah', 'Kohelet Rabbah', 'Tanna Devei Eliyahu Rabbah',
     'Bereshit', 'Shemot', 'Vayikra', 'Bamidbar', 'Devarim'
