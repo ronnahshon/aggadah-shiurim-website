@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:10:20-Bechoros_32",
+      "hebrew_title": "בכורות לב",
+      "english_title": "Bechoros 32",
+      "hebrew_sefer": "בכורות",
+      "shiur_num": 32,
+      "length": "32:15",
+      "english_year": 2026,
+      "english_date": "2026-10-20",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:10:20-Bechoros_32.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:10:19-Bechoros_31",
       "hebrew_title": "בכורות לא",
       "english_title": "Bechoros 31",
