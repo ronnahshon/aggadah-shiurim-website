@@ -16,6 +16,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_gemara_beiyyun/תחילת זמן קריאת שמע של ערבית",
+      "hebrew_title": "02 תחילת זמן קריאת שמע של ערבית",
+      "english_title": "02  Starting Time of Shema at Night",
+      "hebrew_sefer": "מסכת ברכות ",
+      "shiur_num": 0,
+      "length": "46:54",
+      "english_year": 2026,
+      "english_date": "2026-10-26",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/תחילת זמן קריאת שמע של ערבית.m4a",
+      "speaker": "דוב גרסון"
+    },
+    {
       "id": "carmei_zion_gemara_beiyyun/מצוות קריאת שמע",
       "hebrew_title": "01 מצוות קריאת שמע (שיעור פתיחה)",
       "english_title": "01The Mitzvah of Kriyat Shema(Opening Shiur)",
