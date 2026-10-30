@@ -17,10 +17,10 @@
   "episodes": [
     {
       "id": "carmei_zion_gemara_beiyyun/תחילת זמן קריאת שמע של ערבית",
-      "hebrew_title": "02 תחילת זמן קריאת שמע של ערבית",
-      "english_title": "02  Starting Time of Shema at Night",
+      "hebrew_title": "02 - תחילת זמן קריאת שמע של ערבית",
+      "english_title": "02 - Starting Time of Shema at Night",
       "hebrew_sefer": "מסכת ברכות ",
-      "shiur_num": 0,
+      "shiur_num": 25,
       "length": "46:54",
       "english_year": 2026,
       "english_date": "2026-10-26",
@@ -29,10 +29,10 @@
     },
     {
       "id": "carmei_zion_gemara_beiyyun/מצוות קריאת שמע",
-      "hebrew_title": "01 מצוות קריאת שמע (שיעור פתיחה)",
-      "english_title": "01The Mitzvah of Kriyat Shema(Opening Shiur)",
+      "hebrew_title": "01 - מצוות קריאת שמע (שיעור פתיחה)",
+      "english_title": "01 - The Mitzvah of Kriyat Shema (Opening Shiur)",
       "hebrew_sefer": "מסכת ברכות ",
-      "shiur_num": 0,
+      "shiur_num": 24,
       "length": "42:15",
       "english_year": 2026,
       "english_date": "2026-10-18",
