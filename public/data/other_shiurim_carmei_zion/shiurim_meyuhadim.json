@@ -17,19 +17,19 @@
   "episodes": [
     {
       "id": "carmei_zion_shiurim_meyuhadim/29-10-2026",
-      "hebrew_title": "עיון פסיכולוגי בדמויות חזל פרק ב - רבי אליעזר בן הורקנוס",
-      "english_title": "Psychological Analysis of Hazal Part 2 - Rabbi Eliezer Ben Hyrcanus",
+      "hebrew_title": "עיון פסיכולוגי בדמויות חז''ל פרק ב - ר' אליעזר בן הורקנוס",
+      "english_title": "Psychological Analysis of Hazal Part 2 - R' Eliezer Ben Hyrcanus",
       "hebrew_sefer": "מחשבה",
       "shiur_num": 9,
       "length": "51:02",
       "english_year": 2026,
       "english_date": "2026-10-30",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/29-10-2026.mp3",
-      "speaker": "דר ישי דיטשר"
+      "speaker": "ד''ר ישי דיטשר"
     },
     {
       "id": "carmei_zion_shiurim_meyuhadim/הלל הזקן",
-      "hebrew_title": "עיון פסיכולוגי בדמויות חזל פרק א - הלל הזקן",
+      "hebrew_title": "עיון פסיכולוגי בדמויות חז''ל פרק א - הלל הזקן",
       "english_title": "Psychological Analysis of Hazal Part 1 - Hillel the Elder",
       "hebrew_sefer": "מחשבה",
       "shiur_num": 8,
@@ -37,7 +37,7 @@
       "english_year": 2026,
       "english_date": "2026-10-23",
       "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/הלל הזקן.mp3",
-      "speaker": "דר ישי דיטשר"
+      "speaker": "ד''ר ישי דיטשר"
     },
     {
       "id": "carmei_zion_shiurim_meyuhadim/רב שרון שלום על סיפור עלייתו מאתיופיה Oct 23 at 09-41",
