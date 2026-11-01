@@ -1,28 +1,3 @@
-**ספר נדיב יעקב**  
- **עיונים והארות באגדות הש״ס ע"פ פירוש העין יעקב**  
-**לסדרים נזיקין קודשים וטהרות**  
-***רון שמואל בן נדב צבי הכהן, אלול תשפ״ו***
-
-**[קידושין](#bookmark=id.3s8man4xlcc6)**  
-**[בבא קמא](#bookmark=id.8tsyb2phacq3)**  
-**[בבא מציעא](#bookmark=id.knm1yyy6z7xf)**  
-**[בבא בתרא](#bookmark=id.5xkjp1y0sutv)**  
-**[מכות](#bookmark=id.y9bijnzhwcxt)**  
-**[שבועות](#bookmark=id.k0t1lk3mqh8h)**  
-**[עבודה זרה](#bookmark=id.d84ic57dijmw)**  
-**[הוריות](#bookmark=id.wxnpnrcedcbn)**  
-**[זבחים](#bookmark=id.suf8fogq2xll)**  
-**[מנחות](#bookmark=id.dmabul44l2iw)**  
-**[חולין](#bookmark=id.pq3jjr4yt0sj)**  
-**[בכורות](#bookmark=id.6hiyvwglcyvh)**  
-**[ערכין](#bookmark=id.i1o4fzb3wqp3)**  
-**[תמורה](#bookmark=id.ehe6auaisj0y)**  
-**[כריתות](#bookmark=id.mjpgytpikkug)**  
-**[מעילה](#bookmark=id.gj6p4aigh7ik)**  
-**[נדה](#bookmark=id.a7yhohdi8fph)**
-
-***[הוספות לסדרים אחרים](#bookmark=id.hutooqnoczgk)***
-
 **מסכת קידושין**
 
 **קידושין ב: ד"ה משל לאדם שאבדה לו אבידה.** הרבה מהמפרשים הלכו בעקבותיו של רש"י ז"ל שאותו משל באדם הראשון איירי. ואני הקטן לא ידענא לי אמאי נפקא להו כולי האי, אלא נראה לענ"ד דר' שמעון בסתם אדם פלוני מיירי, ונקט כדרך כל המדרשים להביא משל על אדם שאירע לו מקרה כדי לחזק את יסודו. ונאה מה שדרשו ע"ז אבל ע"פ פשוטו ותו לו צריכא:
