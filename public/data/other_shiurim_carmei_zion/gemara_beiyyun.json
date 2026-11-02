@@ -16,6 +16,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_gemara_beiyyun/משמרות הלילה",
+      "hebrew_title": "03 משמרות הלילה",
+      "english_title": "03 Night Watches",
+      "hebrew_sefer": "מסכת ברכות ",
+      "shiur_num": 0,
+      "length": "49:42",
+      "english_year": 2026,
+      "english_date": "2026-11-02",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/משמרות הלילה.m4a",
+      "speaker": "דני הימלשטיין"
+    },
+    {
       "id": "carmei_zion_gemara_beiyyun/תחילת זמן קריאת שמע של ערבית",
       "hebrew_title": "02 - תחילת זמן קריאת שמע של ערבית",
       "english_title": "02 - Starting Time of Shema at Night",
