@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/recording_20261103_054546",
+      "hebrew_title": "בכורות מו",
+      "english_title": "Bechoros 46",
+      "hebrew_sefer": "בכורות",
+      "shiur_num": 46,
+      "length": "34:43",
+      "english_year": 2026,
+      "english_date": "2026-11-04",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/recording_20261103_054546.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:11:02-Bechoros_45",
       "hebrew_title": "בכורות מה",
       "english_title": "Bechoros 45",
