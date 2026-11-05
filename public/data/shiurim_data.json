@@ -8409,8 +8409,44 @@
         "length": "12:59"
     },
     {
-        "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-1",
+        "id": "midrash-midrash_rabbah-kohelet_rabbah-055",
         "global_id": 236,
+        "shiur_num": 55,
+        "category": "midrash",
+        "sub_category": "midrash_rabbah",
+        "english_sefer": "kohelet_rabbah",
+        "english_title": "Kohelet Rabbah 055 3:1-2",
+        "hebrew_sefer": "קהלת רבה",
+        "hebrew_title": "קהלת רבה ג:א-ב 055",
+        "source_sheet_link": "",
+        "audio_recording_link": "https://drive.google.com/file/d/141LSqb04c2Lrlam3WXQ6z50dlUpwlNkp/view?usp=drive_link",
+        "tags": [],
+        "hebrew_year": "תשפ״ז",
+        "english_date": "2026-11-04",
+        "english_year": 2026,
+        "length": "17:26"
+    },
+    {
+        "id": "midrash-midrash_rabbah-kohelet_rabbah-056",
+        "global_id": 237,
+        "shiur_num": 56,
+        "category": "midrash",
+        "sub_category": "midrash_rabbah",
+        "english_sefer": "kohelet_rabbah",
+        "english_title": "Kohelet Rabbah 056 3:2",
+        "hebrew_sefer": "קהלת רבה",
+        "hebrew_title": "קהלת רבה ג:ב 056",
+        "source_sheet_link": "",
+        "audio_recording_link": "https://drive.google.com/file/d/1Gel6Ch_oVfQEnLTZ-ZBG4KNG38nfAovi/view?usp=drive_link",
+        "tags": [],
+        "hebrew_year": "תשפ״ז",
+        "english_date": "2026-11-05",
+        "english_year": 2026,
+        "length": "9:17"
+    },
+    {
+        "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-1",
+        "global_id": 238,
         "shiur_num": 1,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8437,7 +8473,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-2",
-        "global_id": 237,
+        "global_id": 239,
         "shiur_num": 2,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8465,7 +8501,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-3",
-        "global_id": 238,
+        "global_id": 240,
         "shiur_num": 3,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8493,7 +8529,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-4",
-        "global_id": 239,
+        "global_id": 241,
         "shiur_num": 4,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8521,7 +8557,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-5",
-        "global_id": 240,
+        "global_id": 242,
         "shiur_num": 5,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8549,7 +8585,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-6",
-        "global_id": 241,
+        "global_id": 243,
         "shiur_num": 6,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8578,7 +8614,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-7",
-        "global_id": 242,
+        "global_id": 244,
         "shiur_num": 7,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8607,7 +8643,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-8",
-        "global_id": 243,
+        "global_id": 245,
         "shiur_num": 8,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8636,7 +8672,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-9",
-        "global_id": 244,
+        "global_id": 246,
         "shiur_num": 9,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8665,7 +8701,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-10",
-        "global_id": 245,
+        "global_id": 247,
         "shiur_num": 10,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8693,7 +8729,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-11",
-        "global_id": 246,
+        "global_id": 248,
         "shiur_num": 11,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8721,7 +8757,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-12",
-        "global_id": 247,
+        "global_id": 249,
         "shiur_num": 12,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8749,7 +8785,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-13",
-        "global_id": 248,
+        "global_id": 250,
         "shiur_num": 13,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8777,7 +8813,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-14",
-        "global_id": 249,
+        "global_id": 251,
         "shiur_num": 14,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8805,7 +8841,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-15",
-        "global_id": 250,
+        "global_id": 252,
         "shiur_num": 15,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8833,7 +8869,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-16",
-        "global_id": 251,
+        "global_id": 253,
         "shiur_num": 16,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8861,7 +8897,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-17",
-        "global_id": 252,
+        "global_id": 254,
         "shiur_num": 17,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8889,7 +8925,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-18",
-        "global_id": 253,
+        "global_id": 255,
         "shiur_num": 18,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8917,7 +8953,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-19",
-        "global_id": 254,
+        "global_id": 256,
         "shiur_num": 19,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8945,7 +8981,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-20",
-        "global_id": 255,
+        "global_id": 257,
         "shiur_num": 20,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -8973,7 +9009,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-21",
-        "global_id": 256,
+        "global_id": 258,
         "shiur_num": 21,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9002,7 +9038,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-22",
-        "global_id": 257,
+        "global_id": 259,
         "shiur_num": 22,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9031,7 +9067,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-23",
-        "global_id": 258,
+        "global_id": 260,
         "shiur_num": 23,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9060,7 +9096,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-24",
-        "global_id": 259,
+        "global_id": 261,
         "shiur_num": 24,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9089,7 +9125,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-25",
-        "global_id": 260,
+        "global_id": 262,
         "shiur_num": 25,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9118,7 +9154,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-26",
-        "global_id": 261,
+        "global_id": 263,
         "shiur_num": 26,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9146,7 +9182,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-27",
-        "global_id": 262,
+        "global_id": 264,
         "shiur_num": 27,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9173,7 +9209,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-28",
-        "global_id": 263,
+        "global_id": 265,
         "shiur_num": 28,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9202,7 +9238,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-29",
-        "global_id": 264,
+        "global_id": 266,
         "shiur_num": 29,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9231,7 +9267,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-30",
-        "global_id": 265,
+        "global_id": 267,
         "shiur_num": 30,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9259,7 +9295,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-31",
-        "global_id": 266,
+        "global_id": 268,
         "shiur_num": 31,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9287,7 +9323,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-32",
-        "global_id": 267,
+        "global_id": 269,
         "shiur_num": 32,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9315,7 +9351,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-33",
-        "global_id": 268,
+        "global_id": 270,
         "shiur_num": 33,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9343,7 +9379,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-34",
-        "global_id": 269,
+        "global_id": 271,
         "shiur_num": 34,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9372,7 +9408,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-35",
-        "global_id": 270,
+        "global_id": 272,
         "shiur_num": 35,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9401,7 +9437,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-36",
-        "global_id": 271,
+        "global_id": 273,
         "shiur_num": 36,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9429,7 +9465,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-37",
-        "global_id": 272,
+        "global_id": 274,
         "shiur_num": 37,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9457,7 +9493,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-38",
-        "global_id": 273,
+        "global_id": 275,
         "shiur_num": 38,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9485,7 +9521,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-39",
-        "global_id": 274,
+        "global_id": 276,
         "shiur_num": 39,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9513,7 +9549,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-40",
-        "global_id": 275,
+        "global_id": 277,
         "shiur_num": 40,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9541,7 +9577,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-41",
-        "global_id": 276,
+        "global_id": 278,
         "shiur_num": 41,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9569,7 +9605,7 @@
     },
     {
         "id": "midrash-tanna_devei_eliyahu-tanna_devei_eliyahu_rabbah-42",
-        "global_id": 277,
+        "global_id": 279,
         "shiur_num": 42,
         "category": "midrash",
         "sub_category": "tanna_devei_eliyahu",
@@ -9597,7 +9633,7 @@
     },
     {
         "id": "tanach-torah-bereshit-1",
-        "global_id": 278,
+        "global_id": 280,
         "shiur_num": 1,
         "category": "tanach",
         "sub_category": "torah",
@@ -9628,7 +9664,7 @@
     },
     {
         "id": "tanach-torah-bereshit-2",
-        "global_id": 279,
+        "global_id": 281,
         "shiur_num": 2,
         "category": "tanach",
         "sub_category": "torah",
@@ -9660,7 +9696,7 @@
     },
     {
         "id": "tanach-torah-bereshit-3",
-        "global_id": 280,
+        "global_id": 282,
         "shiur_num": 3,
         "category": "tanach",
         "sub_category": "torah",
@@ -9693,7 +9729,7 @@
     },
     {
         "id": "tanach-torah-bereshit-4",
-        "global_id": 281,
+        "global_id": 283,
         "shiur_num": 4,
         "category": "tanach",
         "sub_category": "torah",
@@ -9726,7 +9762,7 @@
     },
     {
         "id": "tanach-torah-bereshit-5",
-        "global_id": 282,
+        "global_id": 284,
         "shiur_num": 5,
         "category": "tanach",
         "sub_category": "torah",
@@ -9759,7 +9795,7 @@
     },
     {
         "id": "tanach-torah-bereshit-6",
-        "global_id": 283,
+        "global_id": 285,
         "shiur_num": 6,
         "category": "tanach",
         "sub_category": "torah",
@@ -9793,7 +9829,7 @@
     },
     {
         "id": "tanach-torah-bereshit-7",
-        "global_id": 284,
+        "global_id": 286,
         "shiur_num": 7,
         "category": "tanach",
         "sub_category": "torah",
@@ -9824,7 +9860,7 @@
     },
     {
         "id": "tanach-torah-bereshit-8",
-        "global_id": 285,
+        "global_id": 287,
         "shiur_num": 8,
         "category": "tanach",
         "sub_category": "torah",
@@ -9855,7 +9891,7 @@
     },
     {
         "id": "tanach-torah-bereshit-9",
-        "global_id": 286,
+        "global_id": 288,
         "shiur_num": 9,
         "category": "tanach",
         "sub_category": "torah",
@@ -9887,7 +9923,7 @@
     },
     {
         "id": "tanach-torah-bereshit-10",
-        "global_id": 287,
+        "global_id": 289,
         "shiur_num": 10,
         "category": "tanach",
         "sub_category": "torah",
@@ -9919,7 +9955,7 @@
     },
     {
         "id": "tanach-torah-bereshit-11",
-        "global_id": 288,
+        "global_id": 290,
         "shiur_num": 11,
         "category": "tanach",
         "sub_category": "torah",
@@ -9951,7 +9987,7 @@
     },
     {
         "id": "tanach-torah-bereshit-12",
-        "global_id": 289,
+        "global_id": 291,
         "shiur_num": 12,
         "category": "tanach",
         "sub_category": "torah",
@@ -9986,7 +10022,7 @@
     },
     {
         "id": "tanach-torah-shemot-1",
-        "global_id": 290,
+        "global_id": 292,
         "shiur_num": 1,
         "category": "tanach",
         "sub_category": "torah",
@@ -10019,7 +10055,7 @@
     },
     {
         "id": "tanach-torah-shemot-2",
-        "global_id": 291,
+        "global_id": 293,
         "shiur_num": 2,
         "category": "tanach",
         "sub_category": "torah",
@@ -10050,7 +10086,7 @@
     },
     {
         "id": "tanach-torah-shemot-3",
-        "global_id": 292,
+        "global_id": 294,
         "shiur_num": 3,
         "category": "tanach",
         "sub_category": "torah",
@@ -10083,7 +10119,7 @@
     },
     {
         "id": "tanach-torah-shemot-4",
-        "global_id": 293,
+        "global_id": 295,
         "shiur_num": 4,
         "category": "tanach",
         "sub_category": "torah",
@@ -10115,7 +10151,7 @@
     },
     {
         "id": "tanach-torah-shemot-5",
-        "global_id": 294,
+        "global_id": 296,
         "shiur_num": 5,
         "category": "tanach",
         "sub_category": "torah",
@@ -10147,7 +10183,7 @@
     },
     {
         "id": "tanach-torah-shemot-6",
-        "global_id": 295,
+        "global_id": 297,
         "shiur_num": 6,
         "category": "tanach",
         "sub_category": "torah",
@@ -10178,7 +10214,7 @@
     },
     {
         "id": "tanach-torah-shemot-7",
-        "global_id": 296,
+        "global_id": 298,
         "shiur_num": 7,
         "category": "tanach",
         "sub_category": "torah",
@@ -10210,7 +10246,7 @@
     },
     {
         "id": "tanach-torah-shemot-8",
-        "global_id": 297,
+        "global_id": 299,
         "shiur_num": 8,
         "category": "tanach",
         "sub_category": "torah",
@@ -10243,7 +10279,7 @@
     },
     {
         "id": "tanach-torah-shemot-9",
-        "global_id": 298,
+        "global_id": 300,
         "shiur_num": 9,
         "category": "tanach",
         "sub_category": "torah",
@@ -10278,7 +10314,7 @@
     },
     {
         "id": "tanach-torah-shemot-10",
-        "global_id": 299,
+        "global_id": 301,
         "shiur_num": 10,
         "category": "tanach",
         "sub_category": "torah",
@@ -10309,7 +10345,7 @@
     },
     {
         "id": "tanach-torah-shemot-11",
-        "global_id": 300,
+        "global_id": 302,
         "shiur_num": 11,
         "category": "tanach",
         "sub_category": "torah",
@@ -10340,7 +10376,7 @@
     },
     {
         "id": "tanach-torah-vayikra-1",
-        "global_id": 301,
+        "global_id": 303,
         "shiur_num": 1,
         "category": "tanach",
         "sub_category": "torah",
@@ -10373,7 +10409,7 @@
     },
     {
         "id": "tanach-torah-vayikra-2",
-        "global_id": 302,
+        "global_id": 304,
         "shiur_num": 2,
         "category": "tanach",
         "sub_category": "torah",
@@ -10405,7 +10441,7 @@
     },
     {
         "id": "tanach-torah-vayikra-3",
-        "global_id": 303,
+        "global_id": 305,
         "shiur_num": 3,
         "category": "tanach",
         "sub_category": "torah",
@@ -10437,7 +10473,7 @@
     },
     {
         "id": "tanach-torah-vayikra-4",
-        "global_id": 304,
+        "global_id": 306,
         "shiur_num": 4,
         "category": "tanach",
         "sub_category": "torah",
@@ -10470,7 +10506,7 @@
     },
     {
         "id": "tanach-torah-vayikra-5",
-        "global_id": 305,
+        "global_id": 307,
         "shiur_num": 5,
         "category": "tanach",
         "sub_category": "torah",
@@ -10501,7 +10537,7 @@
     },
     {
         "id": "tanach-torah-vayikra-6",
-        "global_id": 306,
+        "global_id": 308,
         "shiur_num": 6,
         "category": "tanach",
         "sub_category": "torah",
@@ -10536,7 +10572,7 @@
     },
     {
         "id": "tanach-torah-vayikra-7",
-        "global_id": 307,
+        "global_id": 309,
         "shiur_num": 7,
         "category": "tanach",
         "sub_category": "torah",
@@ -10570,7 +10606,7 @@
     },
     {
         "id": "tanach-torah-vayikra-8",
-        "global_id": 308,
+        "global_id": 310,
         "shiur_num": 8,
         "category": "tanach",
         "sub_category": "torah",
@@ -10600,7 +10636,7 @@
     },
     {
         "id": "tanach-torah-vayikra-9",
-        "global_id": 309,
+        "global_id": 311,
         "shiur_num": 9,
         "category": "tanach",
         "sub_category": "torah",
@@ -10633,7 +10669,7 @@
     },
     {
         "id": "tanach-torah-vayikra-10",
-        "global_id": 310,
+        "global_id": 312,
         "shiur_num": 10,
         "category": "tanach",
         "sub_category": "torah",
@@ -10665,7 +10701,7 @@
     },
     {
         "id": "tanach-torah-bamidbar-1",
-        "global_id": 311,
+        "global_id": 313,
         "shiur_num": 1,
         "category": "tanach",
         "sub_category": "torah",
@@ -10697,7 +10733,7 @@
     },
     {
         "id": "tanach-torah-bamidbar-2",
-        "global_id": 312,
+        "global_id": 314,
         "shiur_num": 2,
         "category": "tanach",
         "sub_category": "torah",
@@ -10729,7 +10765,7 @@
     },
     {
         "id": "tanach-torah-bamidbar-3",
-        "global_id": 313,
+        "global_id": 315,
         "shiur_num": 3,
         "category": "tanach",
         "sub_category": "torah",
@@ -10760,7 +10796,7 @@
     },
     {
         "id": "tanach-torah-bamidbar-4",
-        "global_id": 314,
+        "global_id": 316,
         "shiur_num": 4,
         "category": "tanach",
         "sub_category": "torah",
@@ -10793,7 +10829,7 @@
     },
     {
         "id": "tanach-torah-bamidbar-5",
-        "global_id": 315,
+        "global_id": 317,
         "shiur_num": 5,
         "category": "tanach",
         "sub_category": "torah",
@@ -10824,7 +10860,7 @@
     },
     {
         "id": "tanach-torah-bamidbar-6",
-        "global_id": 316,
+        "global_id": 318,
         "shiur_num": 6,
         "category": "tanach",
         "sub_category": "torah",
@@ -10855,7 +10891,7 @@
     },
     {
         "id": "tanach-torah-bamidbar-7",
-        "global_id": 317,
+        "global_id": 319,
         "shiur_num": 7,
         "category": "tanach",
         "sub_category": "torah",
@@ -10887,7 +10923,7 @@
     },
     {
         "id": "tanach-torah-bamidbar-8",
-        "global_id": 318,
+        "global_id": 320,
         "shiur_num": 8,
         "category": "tanach",
         "sub_category": "torah",
@@ -10918,7 +10954,7 @@
     },
     {
         "id": "tanach-torah-bamidbar-9",
-        "global_id": 319,
+        "global_id": 321,
         "shiur_num": 9,
         "category": "tanach",
         "sub_category": "torah",
@@ -10951,7 +10987,7 @@
     },
     {
         "id": "tanach-torah-bamidbar-10",
-        "global_id": 320,
+        "global_id": 322,
         "shiur_num": 10,
         "category": "tanach",
         "sub_category": "torah",
@@ -10984,7 +11020,7 @@
     },
     {
         "id": "tanach-torah-devarim-1",
-        "global_id": 321,
+        "global_id": 323,
         "shiur_num": 1,
         "category": "tanach",
         "sub_category": "torah",
@@ -11016,7 +11052,7 @@
     },
     {
         "id": "tanach-torah-devarim-2",
-        "global_id": 322,
+        "global_id": 324,
         "shiur_num": 2,
         "category": "tanach",
         "sub_category": "torah",
@@ -11050,7 +11086,7 @@
     },
     {
         "id": "tanach-torah-devarim-3",
-        "global_id": 323,
+        "global_id": 325,
         "shiur_num": 3,
         "category": "tanach",
         "sub_category": "torah",
@@ -11085,7 +11121,7 @@
     },
     {
         "id": "tanach-torah-devarim-4",
-        "global_id": 324,
+        "global_id": 326,
         "shiur_num": 4,
         "category": "tanach",
         "sub_category": "torah",
@@ -11116,7 +11152,7 @@
     },
     {
         "id": "tanach-torah-devarim-5",
-        "global_id": 325,
+        "global_id": 327,
         "shiur_num": 5,
         "category": "tanach",
         "sub_category": "torah",
@@ -11149,7 +11185,7 @@
     },
     {
         "id": "tanach-torah-devarim-6",
-        "global_id": 326,
+        "global_id": 328,
         "shiur_num": 6,
         "category": "tanach",
         "sub_category": "torah",
@@ -11183,7 +11219,7 @@
     },
     {
         "id": "tanach-torah-devarim-7",
-        "global_id": 327,
+        "global_id": 329,
         "shiur_num": 7,
         "category": "tanach",
         "sub_category": "torah",
@@ -11216,7 +11252,7 @@
     },
     {
         "id": "tanach-torah-devarim-8",
-        "global_id": 328,
+        "global_id": 330,
         "shiur_num": 8,
         "category": "tanach",
         "sub_category": "torah",
@@ -11247,7 +11283,7 @@
     },
     {
         "id": "tanach-torah-devarim-9",
-        "global_id": 329,
+        "global_id": 331,
         "shiur_num": 9,
         "category": "tanach",
         "sub_category": "torah",
@@ -11279,7 +11315,7 @@
     },
     {
         "id": "tanach-torah-devarim-10",
-        "global_id": 330,
+        "global_id": 332,
         "shiur_num": 10,
         "category": "tanach",
         "sub_category": "torah",
@@ -11310,7 +11346,7 @@
     },
     {
         "id": "tanach-torah-devarim-11",
-        "global_id": 331,
+        "global_id": 333,
         "shiur_num": 11,
         "category": "tanach",
         "sub_category": "torah",
