@@ -16,6 +16,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_shiurim_meyuhadim/05-11-2026",
+      "hebrew_title": "עיון פסיכולוגי בדמויות חז''ל פרק ג - ר' עקיבא",
+      "english_title": "Psychological Analysis of Hazal Part 3 - R' Akiva",
+      "hebrew_sefer": "מחשבה",
+      "shiur_num": 0,
+      "length": "50:09",
+      "english_year": 2026,
+      "english_date": "2026-11-07",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_shiurim_meyuhadim/05-11-2026.mp3",
+      "speaker": "ד''ר ישי דיטשר"
+    },
+    {
       "id": "carmei_zion_shiurim_meyuhadim/29-10-2026",
       "hebrew_title": "עיון פסיכולוגי בדמויות חז''ל פרק ב - ר' אליעזר בן הורקנוס",
       "english_title": "Psychological Analysis of Hazal Part 2 - R' Eliezer Ben Hyrcanus",
