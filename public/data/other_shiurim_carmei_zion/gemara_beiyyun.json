@@ -16,6 +16,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_gemara_beiyyun/סמיכת גאולה לתפילה",
+      "hebrew_title": "04 - סמיכה גאולה לתפילה",
+      "english_title": "04 - Redemption adjacent to Prayer",
+      "hebrew_sefer": "מסכת ברכות ",
+      "shiur_num": 0,
+      "length": "47:33",
+      "english_year": 2026,
+      "english_date": "2026-11-10",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_gemara_beiyyun/סמיכת גאולה לתפילה.m4a",
+      "speaker": "דוב גרסון"
+    },
+    {
       "id": "carmei_zion_gemara_beiyyun/משמרות הלילה",
       "hebrew_title": "03 - משמרות הלילה",
       "english_title": "03 - Night Watches",
