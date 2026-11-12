@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:11:12-Bechoros_55",
+      "hebrew_title": "בכורות נה",
+      "english_title": "Bechoros 55",
+      "hebrew_sefer": "בכורות",
+      "shiur_num": 55,
+      "length": "25:27",
+      "english_year": 2026,
+      "english_date": "2026-11-12",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:11:12-Bechoros_55.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/recording_20261111_054622",
       "hebrew_title": "בכורות נד",
       "english_title": "Bechoros 54",
