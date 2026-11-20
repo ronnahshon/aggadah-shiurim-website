@@ -17,6 +17,18 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:11:20-Arachin_3",
+      "hebrew_title": "ערכין ג",
+      "english_title": "Arachin 3",
+      "hebrew_sefer": "ערכין",
+      "shiur_num": 3,
+      "length": "35:26",
+      "english_year": 2026,
+      "english_date": "2026-11-20",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:11:20-Arachin_3.m4a",
+      "speaker": "זכריה ביננפלד"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:11:19-Arachin_2",
       "hebrew_title": "ערכין ב",
       "english_title": "Arachin 2",
