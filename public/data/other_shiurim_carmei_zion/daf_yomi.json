@@ -17,6 +17,19 @@
   ],
   "episodes": [
     {
+      "id": "carmei_zion_daf_yomi/2026:11:27-Arachin_9",
+      "hebrew_title": "ערכין ט",
+      "english_title": "Arachin 9",
+      "hebrew_sefer": "ערכין",
+      "shiur_num": 9,
+      "length": "28:42",
+      "english_year": 2026,
+      "english_date": "2026-11-27",
+      "audio_url": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi/2026:11:27-Arachin_9.m4a",
+      "speaker": "זכריה ביננפלד",
+      "source_sheet_link": "https://midrash-aggadah.s3.eu-north-1.amazonaws.com/carmei_zion_daf_yomi-sources/2026:11:27-Arachin_9.jpg"
+    },
+    {
       "id": "carmei_zion_daf_yomi/2026:11:25-Arachin_8",
       "hebrew_title": "ערכין ח",
       "english_title": "Arachin 8",
